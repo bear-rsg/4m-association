@@ -162,7 +162,7 @@ body {
 
 nav {
     display: block;
-    background: #a6bba3;
+    background: #446f80;
     float: right
 }
 
@@ -191,7 +191,7 @@ nav {
 
 .menu li a:hover,.menu li:hover>a {
     color: #fff;
-    background: #81ad7f;
+    background: #4c8faa;
 }
 
 .menu ul {
@@ -240,7 +240,7 @@ nav {
 }
 
 .menu ul li a:hover,.menu ul li:hover>a {
-    background: #81ad7f;
+    background: #4c8faa;
     color: #fff;
 }
 
@@ -284,14 +284,14 @@ nav {
     display: none;
     width: 100%;
     padding: 20px 15px;
-    background: #a6bba3;
+    background: #446f80;
     color: #fff;
     text-transform: uppercase;
     font-weight: 600;
 }
 
 .responsive-menu:hover {
-    background: #a6bba3;
+    background: #446f80;
     color: #fff;
     text-decoration: none;
 }
@@ -310,7 +310,7 @@ nav {
     }
 
     a.homer {
-        background: #a6bba3;
+        background: #446f80;
     }
     #title h1 {
         top: 12px;
@@ -348,7 +348,7 @@ nav {
     }
 
     .menu li a:hover,.menu li:hover>a {
-        background: #81ad7f;
+        background: #4c8faa;
         color: #fff;
     }
 
@@ -520,7 +520,7 @@ $table-header-border: 1px solid #FFF;
   $header-border: $table-header-border);
 
 th {
-  background-color: #a6bba3;
+  background-color: #446f80;
   color: #fff;
   padding: 0.5em !important;
 }
