@@ -19,6 +19,10 @@ bear_logo_path           : "https://bear-apps.bham.ac.uk/static/core/images/bear
 bear_logo_url            : "https://intranet.birmingham.ac.uk/it/teams/infrastructure/research/bear/index.aspx"
 bear_logo_alt            : "Birmingham Environment for Academic Research (BEAR) Logo"
 
+4m_logo_path             : "/4m-association/assets/images/header.png"
+4m_logo_alt             : "4M Association logo"
+4m_logo_url             : "/4m-association/"
+
 uob_logo_path            : "https://bear-apps.bham.ac.uk/static/core/images/uob-logo.svg" # path of logo image to display in the masthead
 uob_logo_alt             : "University of Birmingham logo"
 uob_logo_url             : "https://www.birmingham.ac.uk/index.aspx"
