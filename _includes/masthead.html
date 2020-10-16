@@ -1,8 +1,8 @@
 <header id="header">
     <div class="masthead__logos">
         {% unless site.uob_logo_url == empty %}
-        <div id="uob-logo">
-            <a href="{{ site.uob_logo_url }}"><img src="{{ site.uob_logo_path }}" alt="{{ uob_logo_alt }}"></a>
+        <div id="4m-logo">
+            <a href="{{ site.4m_logo_url }}"><img src="{{ site.4m_logo_path }}" alt="{{ 4m_logo_alt }}"></a>
         </div>
         {% endunless %}
         <div id="title">
@@ -12,11 +12,6 @@
             <h1>{{ site.site_title }}</h1>
             {% endunless %}
         </div>
-        {% unless site.bear_logo_url == empty %}
-        <div id="bear-logo">
-            <a href="{{ site.bear_logo_url }}"><img src="{{ site.bear_logo_path }}" alt="{{ bear_logo_alt }}"></a>
-        </div>
-        {% endunless %}
     </div>
 
     <div class="masthead__menu">
