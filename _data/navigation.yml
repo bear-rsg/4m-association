@@ -1,70 +1,70 @@
 # main navigation links
 - title: "Home"
-  href: "/"
+  href: "/4m-association/"
   description: ""
   multilevel: false
 - title: "About 4M Association"
-  href: "/about/index.html"
+  href: "/4m-association/about/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Introduction"
-      subhref: "/about/introduction.html"
+      subhref: "/4m-association/about/introduction.html"
       subdescription:
     - subtitle: "FAQ"
-      subhref: "/about/faq.html"
+      subhref: "/4m-association/about/faq.html"
       subdescription:
     - subtitle: "Structure"
-      subhref: "/about/structure.html"
+      subhref: "/4m-association/about/structure.html"
       subdescription:
 - title: "Interest Groups"
-  href: "/interest/index.html"
+  href: "/4m-association/interest/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Polymer Processing"
-      subhref: "/interest/polymer_processing.html"
+      subhref: "/4m-association/interest/polymer_processing.html"
       subdescription:
     - subtitle: "Micro-Optics Interest Group"
-      subhref: "/interest/micro_optics.html"
+      subhref: "/4m-association/interest/micro_optics.html"
       subdescription:
     - subtitle: "Ceramics Interest Group"
-      subhref: "/interest/ceramics.html"
+      subhref: "/4m-association/interest/ceramics.html"
       subdescription:
     - subtitle: "Metrology Interest Group"
-      subhref: "/interest/metrology.html"
+      subhref: "/4m-association/interest/metrology.html"
       subdescription:
     - subtitle: "Micro-Fluidics Interest Group"
-      subhref: "/interest/micro_fluidics.html"
+      subhref: "/4m-association/interest/micro_fluidics.html"
       subdescription:
     - subtitle: "Metals Processing"
-      subhref: "/interest/metals_processing.html"
+      subhref: "/4m-association/interest/metals_processing.html"
       subdescription:
 - title: "Projects"
-  href: "/projects/index.html"
+  href: "/4m-association/projects/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "COTECH"
-      subhref: "/projects/cotech.html"
+      subhref: "/4m-association/projects/cotech.html"
       subdescription:
     - subtitle: "MULTILAYER"
-      subhref: "/projects/multilayer.html"
+      subhref: "/4m-association/projects/multilayer.html"
       subdescription:
     - subtitle: "EUMINAfab "
-      subhref: "/projects/euminafab.html"
+      subhref: "/4m-association/projects/euminafab.html"
       subdescription:
     - subtitle: "FlexPAET"
-      subhref: "/projects/flexpaet.html"
+      subhref: "/4m-association/projects/flexpaet.html"
       subdescription:
     - subtitle: "Integ-Micro"
-      subhref: "/projects/integ_micro.html"
+      subhref: "/4m-association/projects/integ_micro.html"
       subdescription:
 - title: "Join 4M Association"
-  href: "/join/index.html"
+  href: "/4m-association/join/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Membership"
-      subhref: "/join/members.html"
+      subhref: "/4m-association/join/members.html"
       subdescription:
