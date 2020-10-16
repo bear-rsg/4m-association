@@ -38,12 +38,11 @@ h1 a, h1 a:hover {
     font-size: 2.3em;
     top: 0;
     position: relative;
-    background: url("{{ "/assets/images/header.png" | relative_url }}");
+    background: url("/4m-association/assets/images/header.png");
 }
 
 #title h1 a, #title h1 a:hover {
     text-decoration: none;
-    display: none;
 }
 #4m-logo {
     display: block;
