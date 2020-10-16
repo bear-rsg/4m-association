@@ -22,9 +22,9 @@
   description: ""
   multilevel: true
   subcategories:
-    - subtitle: "Polymer Processing"
-      subhref: "/4m-association/interest/polymer_processing.html"
-      subdescription:
+#    - subtitle: "Polymer Processing"
+#      subhref: "/4m-association/interest/polymer_processing.html"
+#      subdescription:
     - subtitle: "Micro-Optics Interest Group"
       subhref: "/4m-association/interest/micro_optics.html"
       subdescription:
