@@ -14,8 +14,8 @@
 }
 
 #header {
-    overflow: visible    ;
-    background-color: #ec3a00;
+    overflow: visible;
+    background: #ddd url("/4m-association/assets/images/header.png");
     top: 0;
     left: 0;
 }
@@ -32,7 +32,6 @@ h1 a, h1 a:hover {
     float: left;
     position: relative;
     top: 0;
-    background: url("/4m-association/assets/images/header.png");
 }
 
 #title h1 {
