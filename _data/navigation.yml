@@ -68,3 +68,52 @@
     - subtitle: "Membership"
       subhref: "/4m-association/join/members.html"
       subdescription:
+- title: "Bulletin"
+  href: "/4m-association/bulletin/index.html"
+  description: ""
+  multilevel: true
+  subcategories:
+    - subtitle: "2009"
+      subhref: "/4m-association/bulletin/2009.html"
+      subdescription:
+    - subtitle: "2010"
+      subhref: "/4m-association/bulletin/2010.html"
+      subdescription:
+    - subtitle: "2011"
+      subhref: "/4m-association/bulletin/2011.html"
+      subdescription:
+    - subtitle: "2012"
+      subhref: "/4m-association/bulletin/2012.html"
+      subdescription:
+    - subtitle: "2013"
+      subhref: "/4m-association/bulletin/2013.html"
+      subdescription:
+    - subtitle: "2014"
+      subhref: "/4m-association/bulletin/2014.html"
+      subdescription:
+    - subtitle: "2015"
+      subhref: "/4m-association/bulletin/2015.html"
+      subdescription:
+    - subtitle: "2016"
+      subhref: "/4m-association/bulletin/2016.html"
+      subdescription:
+    - subtitle: "2017"
+      subhref: "/4m-association/bulletin/2017.html"
+      subdescription:
+    - subtitle: "2018"
+      subhref: "/4m-association/bulletin/2018.html"
+      subdescription:
+    - subtitle: "2019"
+      subhref: "/4m-association/bulletin/2019.html"
+      subdescription:
+    - subtitle: "2020"
+      subhref: "/4m-association/bulletin/2020.html"
+      subdescription:
+- title: "4M Conference Series"
+  href: "/4m-association/conference/index.html"
+  description: ""
+  multilevel: false
+- title: "Workshop FOCUS"
+  href: "/4m-association/conference/index.html"
+  description: ""
+  multilevel: false
