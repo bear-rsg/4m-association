@@ -1,119 +1,119 @@
 # main navigation links
 - title: "Home"
-  href: "{{ site.baseurl }}/"
+  href: "/4m-association/"
   description: ""
   multilevel: false
 - title: "About 4M Association"
-  href: "{{ site.baseurl }}/about/index.html"
+  href: "/4m-association/about/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Introduction"
-      subhref: "{{ site.baseurl }}/about/introduction.html"
+      subhref: "/4m-association/about/introduction.html"
       subdescription:
     - subtitle: "FAQ"
-      subhref: "{{ site.baseurl }}/about/faq.html"
+      subhref: "/4m-association/about/faq.html"
       subdescription:
     - subtitle: "Structure"
-      subhref: "{{ site.baseurl }}/about/structure.html"
+      subhref: "/4m-association/about/structure.html"
       subdescription:
 - title: "Interest Groups"
-  href: "{{ site.baseurl }}/interest/index.html"
+  href: "/4m-association/interest/index.html"
   description: ""
   multilevel: true
   subcategories:
 #    - subtitle: "Polymer Processing"
-#      subhref: "{{ site.baseurl }}/interest/polymer_processing.html"
+#      subhref: "/4m-association/interest/polymer_processing.html"
 #      subdescription:
     - subtitle: "Micro-Optics Interest Group"
-      subhref: "{{ site.baseurl }}/interest/micro_optics.html"
+      subhref: "/4m-association/interest/micro_optics.html"
       subdescription:
     - subtitle: "Ceramics Interest Group"
-      subhref: "{{ site.baseurl }}/interest/ceramics.html"
+      subhref: "/4m-association/interest/ceramics.html"
       subdescription:
     - subtitle: "Metrology Interest Group"
-      subhref: "{{ site.baseurl }}/interest/metrology.html"
+      subhref: "/4m-association/interest/metrology.html"
       subdescription:
     - subtitle: "Micro-Fluidics Interest Group"
-      subhref: "{{ site.baseurl }}/interest/micro_fluidics.html"
+      subhref: "/4m-association/interest/micro_fluidics.html"
       subdescription:
     - subtitle: "Metals Processing"
-      subhref: "{{ site.baseurl }}/interest/metals_processing.html"
+      subhref: "/4m-association/interest/metals_processing.html"
       subdescription:
 - title: "Projects"
-  href: "{{ site.baseurl }}/projects/index.html"
+  href: "/4m-association/projects/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "COTECH"
-      subhref: "{{ site.baseurl }}/projects/cotech.html"
+      subhref: "/4m-association/projects/cotech.html"
       subdescription:
     - subtitle: "MULTILAYER"
-      subhref: "{{ site.baseurl }}/projects/multilayer.html"
+      subhref: "/4m-association/projects/multilayer.html"
       subdescription:
     - subtitle: "EUMINAfab "
-      subhref: "{{ site.baseurl }}/projects/euminafab.html"
+      subhref: "/4m-association/projects/euminafab.html"
       subdescription:
     - subtitle: "FlexPAET"
-      subhref: "{{ site.baseurl }}/projects/flexpaet.html"
+      subhref: "/4m-association/projects/flexpaet.html"
       subdescription:
     - subtitle: "Integ-Micro"
-      subhref: "{{ site.baseurl }}/projects/integ_micro.html"
+      subhref: "/4m-association/projects/integ_micro.html"
       subdescription:
 - title: "Join 4M Association"
-  href: "{{ site.baseurl }}/join/index.html"
+  href: "/4m-association/join/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Membership"
-      subhref: "{{ site.baseurl }}/join/members.html"
+      subhref: "/4m-association/join/members.html"
       subdescription:
 - title: "Bulletin"
-  href: "{{ site.baseurl }}/bulletin/index.html"
+  href: "/4m-association/bulletin/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "2009"
-      subhref: "{{ site.baseurl }}/bulletin/2009.html"
+      subhref: "/4m-association/bulletin/2009.html"
       subdescription:
     - subtitle: "2010"
-      subhref: "{{ site.baseurl }}/bulletin/2010.html"
+      subhref: "/4m-association/bulletin/2010.html"
       subdescription:
     - subtitle: "2011"
-      subhref: "{{ site.baseurl }}/bulletin/2011.html"
+      subhref: "/4m-association/bulletin/2011.html"
       subdescription:
     - subtitle: "2012"
-      subhref: "{{ site.baseurl }}/bulletin/2012.html"
+      subhref: "/4m-association/bulletin/2012.html"
       subdescription:
     - subtitle: "2013"
-      subhref: "{{ site.baseurl }}/bulletin/2013.html"
+      subhref: "/4m-association/bulletin/2013.html"
       subdescription:
     - subtitle: "2014"
-      subhref: "{{ site.baseurl }}/bulletin/2014.html"
+      subhref: "/4m-association/bulletin/2014.html"
       subdescription:
     - subtitle: "2015"
-      subhref: "{{ site.baseurl }}/bulletin/2015.html"
+      subhref: "/4m-association/bulletin/2015.html"
       subdescription:
     - subtitle: "2016"
-      subhref: "{{ site.baseurl }}/bulletin/2016.html"
+      subhref: "/4m-association/bulletin/2016.html"
       subdescription:
     - subtitle: "2017"
-      subhref: "{{ site.baseurl }}/bulletin/2017.html"
+      subhref: "/4m-association/bulletin/2017.html"
       subdescription:
     - subtitle: "2018"
-      subhref: "{{ site.baseurl }}/bulletin/2018.html"
+      subhref: "/4m-association/bulletin/2018.html"
       subdescription:
     - subtitle: "2019"
-      subhref: "{{ site.baseurl }}/bulletin/2019.html"
+      subhref: "/4m-association/bulletin/2019.html"
       subdescription:
     - subtitle: "2020"
-      subhref: "{{ site.baseurl }}/bulletin/2020.html"
+      subhref: "/4m-association/bulletin/2020.html"
       subdescription:
 - title: "4M Conference Series"
-  href: "{{ site.baseurl }}/conference/index.html"
+  href: "/4m-association/conference/index.html"
   description: ""
   multilevel: false
 - title: "Expert Workshop FOCUS"
-  href: "{{ site.baseurl }}/conference/index.html"
+  href: "/4m-association/conference/index.html"
   description: ""
   multilevel: false
