@@ -8,5 +8,5 @@ jobs:
       - uses: actions/checkout@v1
       - uses: actions-hub/stylelint@master
         env:
-          PATTERN: "*.css"
+          PATTERN: "*.scss"
           INDENT_SPACES: 4
