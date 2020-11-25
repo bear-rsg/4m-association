@@ -1,5 +1,9 @@
+layout: year_bulletin
+
 ## October 2019
 
+<a href="/bulletin/2019/October/October-2019" title="October 2019" class="bulletin-teaser">October 2019</a>
+    
 ### WCMNM2020, Call for papers
 
 The 2020 World Congress on Micro and Nano Manufacturing will take place from **22th to 24th September 2020 at IIT Bombay, Mumbai, India**. It is jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM).
