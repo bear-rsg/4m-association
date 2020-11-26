@@ -6,7 +6,10 @@
     <a id="skip-to-content" href="#content" class="dd">Skip to the content.</a>
     {% include nav.html %}
     <main id="content" role="main">
+        {% include bulletin_right_pane.html %}
+        <div class="left-pane">
         {{ content }}
+        </div>
     </main>
     {% include footer.html %}
 </div>
