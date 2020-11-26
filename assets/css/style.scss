@@ -569,6 +569,7 @@ ul.menu {
 
 .left-area {
       position: relative;
+      width: calc(100% - 300px);
       vertical-align: top;
       float: left;
-  }
+}
