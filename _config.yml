@@ -86,3 +86,5 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
+collections_dir: collections
