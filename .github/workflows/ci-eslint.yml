@@ -6,6 +6,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install modules
-      run: yarn global add eslint --prefix /usr/local
+      run: yarn global add eslint --prefix ~/bin
     - name: Run ESLint
-      run: eslint . --ext .js,.jsx,.ts,.tsx
+      run: ~/bin/eslint . --ext .js,.jsx,.ts,.tsx
