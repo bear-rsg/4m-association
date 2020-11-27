@@ -10,3 +10,5 @@ jobs:
         env:
           PATTERN: "assets/css/*.scss"
           INDENT_SPACES: 4
+          PATTERN: "_sass/*.scss"
+          INDENT_SPACES: 4
