@@ -87,4 +87,17 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-collections_dir: all_collections
+collections:
+  short_bulletins:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _short_bulletins:
+  - scope:
+      path: ""
+      type: short_bulletins
+    values:
+      layout: single
+      author_profile: false
+      share: true
