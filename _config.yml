@@ -91,11 +91,10 @@ collections:
   short_bulletins:
     output: true
     permalink: /:collection/:path/
-
 defaults:
   # _short_bulletins:
   - scope:
-      path: ""
+      path: _short_bulletins
       type: short_bulletins
     values:
       layout: single
