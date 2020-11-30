@@ -89,8 +89,8 @@ footer:
 
 collections:
   short_bulletins:
-    output: true
     permalink: /:collection/:path/
+    output: true
 defaults:
   # _short_bulletins:
   - scope:
