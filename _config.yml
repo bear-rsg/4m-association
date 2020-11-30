@@ -87,10 +87,13 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+future: true
+
 collections:
   short_bulletins:
     permalink: /:collection/:path/
     output: true
+
 defaults:
   # _short_bulletins:
   - scope:
