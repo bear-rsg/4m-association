@@ -87,6 +87,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+collections_dir: site_collections
+
 collections:
   short_bulletins:
     permalink: /:collection/:path/
