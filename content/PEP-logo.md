@@ -1,0 +1,3 @@
+# PEP logo
+
+PEP logo
