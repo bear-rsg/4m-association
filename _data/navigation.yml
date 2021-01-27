@@ -1,27 +1,21 @@
 - title: "About"
   href: "/4m-association/about.html"
   description: ""
-
 - title: "Conference"
   href: "/4m-association/conference.html"
   description: ""
-
 - title: "Join4M"
   href: "/4m-association/join4m.html"
   description: ""
-
 - title: "Members"
   href: "/4m-association/Members.html"
   description: ""
-
 - title: "Terms"
   href: "/4m-association/Terms.html"
   description: ""
-
 - title: "Welcome"
   href: "/4m-association/welcome.html"
   description: ""
-
 - title: "Bulletin"
   href: "/4m-association/bulletin/index.html"
   description: ""
@@ -78,8 +72,7 @@
     - subtitle: "October2013"
     - subhref: "/4m-association/bulletin/October2013.html"
     - subdescription: ""
-
-    - subtitle: "2009"
+- subtitle: "2009"
       subhref: "/4m-association/bulletin/2009/index.html"
       subdescription: ""
       multilevel: true
@@ -146,8 +139,7 @@
           - subtitle: "October09 Bulletin"
           - subhref: "/4m-association/bulletin/2009/October/October09-Bulletin.html"
           - subdescription: ""
-
-    - subtitle: "2010"
+- subtitle: "2010"
       subhref: "/4m-association/bulletin/2010/index.html"
       subdescription: ""
       multilevel: true
@@ -369,8 +361,7 @@
           - subtitle: "November 12"
           - subhref: "/4m-association/bulletin/2012/November/November-12.html"
           - subdescription: ""
-
-      - subtitle: "2014"
+- subtitle: "2014"
         subhref: "/4m-association/bulletin/2014/index.html"
         subdescription: ""
         multilevel: true
@@ -408,8 +399,7 @@
           - subtitle: "September 2014"
           - subhref: "/4m-association/bulletin/2014/October/September-2014.html"
           - subdescription: ""
-
-      - subtitle: "2015"
+- subtitle: "2015"
         subhref: "/4m-association/bulletin/2015/index.html"
         subdescription: ""
         multilevel: true
@@ -452,8 +442,7 @@
               - subtitle: "January 2015"
               - subhref: "/4m-association/bulletin/2015/May/January-2015.html"
               - subdescription: ""
-
-      - subtitle: "2016"
+- subtitle: "2016"
         subhref: "/4m-association/bulletin/2016/index.html"
         subdescription: ""
         multilevel: true
@@ -485,8 +474,7 @@
               - subtitle: "May 2016"
               - subhref: "/4m-association/bulletin/2016/September/May-2016.html"
               - subdescription: ""
-
-      - subtitle: "2018"
+- subtitle: "2018"
         subhref: "/4m-association/bulletin/2018/index.html"
         subdescription: ""
         multilevel: true
@@ -515,8 +503,7 @@
               - subtitle: "October 2018"
               - subhref: "/4m-association/bulletin/2018/October/October-2018.html"
               - subdescription: ""
-
-      - subtitle: "2019"
+- subtitle: "2019"
         subhref: "/4m-association/bulletin/2019/index.html"
         subdescription: ""
         multilevel: true
@@ -537,7 +524,6 @@
               - subtitle: "October 2019"
               - subhref: "/4m-association/bulletin/2019/October/October-2019.html"
               - subdescription: ""
-
 - title: "Conference"
   href: "/4m-association/conference/index.html"
   description: ""
@@ -779,7 +765,6 @@
         - subtitle: "Sponsoring"
         - subhref: "/4m-association/conference/2012/Sponsoring.html"
         - subdescription: ""
-
 - title: "Content"
   href: "/4m-association/content/index.html"
   description: ""
@@ -2024,8 +2009,6 @@
     - subtitle: "Zinc Oxide Zno"
     - subhref: "/4m-association/content/Zinc-Oxide-ZnO.html"
     - subdescription: ""
-
-
 - title: "Event"
   href: "/4m-association/event/index.html"
   description: ""
@@ -2349,8 +2332,6 @@
     - subtitle: "Workshop Tape 3D Structuring"
     - subhref: "/4m-association/event/Workshop-Tape-3D-structuring.html"
     - subdescription: ""
-
-
 - title: "Interest-Group"
   href: "/4m-association/interest-group/index.html"
   description: ""
@@ -2362,8 +2343,6 @@
     - subtitle: "Micro Fluidics Interest Group"
     - subhref: "/4m-association/interest-group/Micro-Fluidics-Interest-Group.html"
     - subdescription: ""
-
-
 - title: "Project"
   href: "/4m-association/project/index.html"
   description: ""
