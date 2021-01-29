@@ -134,14 +134,6 @@
               - subtitle: "November09 Bulletin"
               - subhref: "/4m-association/bulletin/2009/November/November09-Bulletin.html"
               - subdescription: ""
-          - subtitle: "October"
-            subhref: "/4m-association/bulletin/2009/October/index.html"
-            description: ""
-            multilevel: true
-            subcategories:
-              - subtitle: "October09 Bulletin"
-              - subhref: "/4m-association/bulletin/2009/October/October09-Bulletin.html"
-              - subdescription: ""
     - subtitle: "2010"
       subhref: "/4m-association/bulletin/2010/index.html"
       subdescription: ""
