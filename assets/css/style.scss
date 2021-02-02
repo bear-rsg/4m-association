@@ -242,6 +242,27 @@ nav {
     color: #fff;
 }
 
+.menu ul li ul.submenu li {
+    display: block;
+    float: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul li ul.submenu li a {
+    font-size: 12px;
+    font-weight: normal;
+    display: block;
+    color: #797979;
+    background: #dceffc;
+}
+
+.menu ul li ul.submenu li a:hover,.menu ul li ul.submenu li:hover>a {
+    background: #4c8faa;
+    color: #fff;
+}
+
 .menu li:hover>ul {
     visibility: visible;
     opacity: 1;
