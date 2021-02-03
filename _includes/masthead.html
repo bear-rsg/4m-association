@@ -23,7 +23,7 @@
                 {% if category.subcategories %}
                     <ul class="sub-menu">
                     {% for subcategory in category.subcategories %}
-                        <li><a href="{{ subcategory.subhref }}" {% if subcategory.subdescription %}title="{{ subcategory.subdescription }}"{% endif %}>{{ subcategory.subtitle }}</a></li>
+                        <li>- <a href="{{ subcategory.subhref }}" {% if subcategory.subdescription %}title="{{ subcategory.subdescription }}"{% endif %}>{{ subcategory.subtitle }}</a></li>
                         {% for subsubcategory in category.subcategories.subcategories %}
                             <li><a href="{{ subsubcategory.subhref }}" {% if subsubcategory.subdescription %}title="{{ subsubcategory.subdescription }}"{% endif %}>{{ subsubcategory.subtitle }}</a></li>
                         {% endfor %}
