@@ -2,11 +2,15 @@
 
 The next and last divisional meeting (microfluidic division) will be held in Karlsruhe following the [4M GC meeting.](/event/4M-Governing-Council)
 <!--break-->
+
+
 **Time:**  
 1:30 - 3:30 pm
 
+
 **Location:**  
 FZK, room 0-441 or room 0-241 (depends on number of participants)
+
 
 **Proposed agenda:**
 
