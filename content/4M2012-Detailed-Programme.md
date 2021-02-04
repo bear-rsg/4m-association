@@ -1,4 +1,4 @@
-# 4M2012 Detailed Programme
+# 4M 2012 Detailed Programme
 
 The Detailed Programme(*) including the schedule for presentations is available to download at bottom of this webpage.
 

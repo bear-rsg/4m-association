@@ -1,13 +1,13 @@
 # February'12
 
 <!--break-->
-## 4M2012 - Vienna, Austria, 9-11th October
+## 4M 2012 - Vienna, Austria, 9-11th October
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2012_100.png class="thumbnail")
 The [First Call for Papers](/conference/2012/Call-Papers-4M2012) is published and the [submission site is now OPEN](/content/Submission-Guidelines). You are invited to submit papers that present original research and development in processes and process chains for multi-material micro and nano manufacture.  The **deadline for submission** of full 4-page papers is **9th March 2012**. Further information is available, and will be regularly updated, on the [4M2012 webpages](/conference/2012). 
   
-## 4M2009 Special Issue
+## 4M 2009 Special Issue
 
 We are pleased to announce that the [4M2009 Special Issue](/content/Special-Issue-4M2009) of the CIRP journal was published in December 2011.   
  

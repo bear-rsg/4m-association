@@ -1,13 +1,13 @@
 # June'12
 
 <!--break-->
-## 4M2012 - Vienna, Austria, 9-11th October
+## 4M 2012 - Vienna, Austria, 9-11th October
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2012_100.png class="thumbnail")
 The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](http://www.4m-association.org/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). 
 
-## 4M2009 Proceedings
+## 4M 2009 Proceedings
 
 Following an interruption, the [4M2009 proceedings](http://rpsonline.com.sg/proceedings/4M2009RP001/) are once again published electronically and available online, this time by RPS.  
   

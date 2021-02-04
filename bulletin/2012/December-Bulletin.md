@@ -12,7 +12,7 @@
 When the 4M NoE came to an end, Per was a great supporter of the idea of setting up the 4M Association and made sure that Swerea IVF was one of the first to join.
 </p>[Read more>>](http://www.4m-association.org/content/Johander)
 
-## 4M2020 CSA Proposal
+## 4M 2020 CSA Proposal
 
 As it was decided at the 4M Association meeting in Vienna, the 4M2020 CSA proposal was submitted on 4th December 2012. The summary for the 4M2020 CSA Proposal is now available to view [here](http://www.4m-association.org/sites/www.4m-association.org/files/4M2020_Summary.pdf).
 

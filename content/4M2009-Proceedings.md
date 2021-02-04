@@ -1,4 +1,4 @@
-# 4M2009 Proceedings
+# 4M 2009 Proceedings
 
 The Proceedings of the 4M2009 Conference are available again online.
 <!--break-->

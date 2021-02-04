@@ -1,3 +1,3 @@
-# 4M2012 Detailed Programme
+# 4M 2012 Detailed Programme
 
 text

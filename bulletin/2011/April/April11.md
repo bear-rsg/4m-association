@@ -1,7 +1,7 @@
 # April'11
 
 <!--break-->
-## 4M2011 - Stuttgart, Germany, 8-10th November
+## 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2011_web1.jpg class="thumbnail")

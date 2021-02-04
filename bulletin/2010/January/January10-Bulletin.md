@@ -1,13 +1,13 @@
 # January'10 Bulletin
 
 <!--break-->
-## 4M2010
+## 4M 2010
 
 
 ![4M2010](/sites/www.4m-association.org/files/4m-logotight_web.png class="thumbnail")
  Preparations for the conference in November are progressing well. Two invited speakers are already confirmed, and four projects -  [COTECH](http://www.fp7-cotech.eu/), [FlexPAET](http://www.e-squizoide.com/flexpaet/), [MultiLayer](http://multilayer.4m-association.org/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010). The first Call for Papers will be published soon.
 
-## 4M2007 - Special Issue
+## 4M 2007 - Special Issue
 
 
 ![4m 2007 cover](http://www.4m-association.org/sites/www.4m-association.org/files/Front_Cover_4M2007web4.jpg class="thumbnail")17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  

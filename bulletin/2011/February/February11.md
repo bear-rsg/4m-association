@@ -1,13 +1,13 @@
 # February'11
 
 <!--break-->
-## 4M2011 - Stuttgart, Germany, 8-10th November
+## 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2011_web1.jpg class="thumbnail")
 The first Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/conference/2011/Call_for_Papers) A provisional list of key dates is also ready, the most important at the moment being the **deadline for submission of full (4-page) papers** which is **8th April 2011.** Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
      
-## 4M2010 Special Issue
+## 4M 2010 Special Issue
 
 We are pleased to inform you that selected papers from the recent 4M2010 conference are to form the basis of a Special Issue of the [Micro and Nanosystems Journal](http://www.benthamscience.com/mns/Current%20Issue.htm), probably in September.  Authors of the selected papers will be contacted soon with instructions of how to proceed, but all members of the 4M Association may be called upon to assist in the Review process, so you cooperation will be appreciated.
 

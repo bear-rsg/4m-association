@@ -16,7 +16,7 @@ growing concern of indoor air quality (IAQ) in closed environments such as build
 vehicles. A consortium of 10 partners from 5 countries will tackle this issue with very
 ambitious objectives during a 3-year research program. The system will consist of nanotechnology-based sensors: spectrometer on chip, polar ionization detector, and molecule traces detector using piezo-cantilever based balance and integrated electronics for fast pattern recognition of a large variety of VOCs and hazardous compounds, clearly identified from each other. [Read more>>](http://www.iaqsense.eu/)
 
-## 4M2020 Exhibits at Industrial Technologies 2014
+## 4M 2020 Exhibits at Industrial Technologies 2014
 
 ![4mnews_it2014](/sites/www.4m-association.org/files/4mnews_it2014.jpg class="thumbnail")
 

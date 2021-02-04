@@ -28,7 +28,7 @@ The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her exce
 For the 9th consecutive year, DTU is organising the PhD Summer School on "Micro Mechanical Systems Design and Manufacturing". The Summer School, supported by 4M is scheduled to run for two weeks. 4M are offering six sponsored places for PhD students. [Read More](http://www.conferencemanager.dk/mppsummerschool2015)
 
 
-## 4M2020 Questionnaire
+## 4M 2020 Questionnaire
 
 ![questionnaire image] (http://www.4m-association.org/sites/www.4m-association.org/files/questionaire.jpg class="thumbnail")
 4M2020 will be supporting new collaborations to develop the supply chains for the products identified [Here](http://www.4m2020.eu/open-innovation-portal/high-priority-products)

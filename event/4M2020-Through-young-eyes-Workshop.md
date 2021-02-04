@@ -1,4 +1,4 @@
-# 4M2020 "Through young eyes" Workshop
+# 4M 2020 "Through young eyes" Workshop
 
 ## Objectives
 

@@ -1,4 +1,4 @@
-# 4M2013 Invited Speaker: Professor Dr.-Ing. Christian Hopmann
+# 4M 2013 Invited Speaker: Professor Dr.-Ing. Christian Hopmann
 
 Institut für Kunststoffverarbeitung (IKV) 
 in Industrie und Handwerk an der RWTH Aachen 

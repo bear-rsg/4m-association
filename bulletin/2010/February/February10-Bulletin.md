@@ -1,7 +1,7 @@
 # February'10 Bulletin
 
 <!--break-->
-## 4M2010
+## 4M 2010
 
 
 ![4M2010](/sites/www.4m-association.org/files/4m-logotight_web.png class="thumbnail")

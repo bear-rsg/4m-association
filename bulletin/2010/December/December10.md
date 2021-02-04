@@ -5,13 +5,13 @@
 
 Our 4M Association colleagues at SwereaIVF in Gothenburg are co-organisers of the 12th conference of the European Ceramics Society (ECerS), which takes place in Stockholm in 2011, from June 19th to 23rd. **The abstract deadline is 15th December.** [Further details on the ECerS2011 website.](http://www.ecers2011.se/)
   
-## 4M2010
+## 4M 2010
 
 
 ![4M2010](/sites/www.4m-association.org/files/4m-logotight_web.png class="thumbnail")
 4M2010, thanks to the excellent organisation by [Plastipolis](http://www.plastipolis.fr/index.php?lg=gb) and [PEP](http://www.poleplasturgie.net/), was considered a success by all those who attended. With over 110 attendees from 23 countries, 60 papers presented, 15 exhibiting sponsors and with four EC-funded projects hosting Special Sessions it was also a very effective form of knowledge exchange. The **Proceedings from 4M2010 can now be accessed online** at the [RPS website](http://rpsonline.com.sg/proceedings/9789810865559.html).    
   
-## 4M2011 - Dates and venue announced
+## 4M 2011 - Dates and venue announced
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2011_web1.jpg class="thumbnail")

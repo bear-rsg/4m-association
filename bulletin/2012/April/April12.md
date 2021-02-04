@@ -1,7 +1,7 @@
 # April'12
 
 <!--break-->
-## 4M2012 - Vienna, Austria, 9-11th October
+## 4M 2012 - Vienna, Austria, 9-11th October
 
 
 ![4M2011](/sites/www.4m-association.org/files/4m-2012_100.png class="thumbnail")
