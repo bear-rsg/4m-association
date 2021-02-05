@@ -15,4 +15,4 @@ The goals of the Association are to act on behalf of its members to:
 * promote knowledge transfer, including dissemination of 4M knowledge
 * provide direction and new ideas to the micro-manufacturing industry
 
-These webpages are here to allow you to learn **[about](node/1)** the Association, how to **[join](node/11)** it, its latest **[news](news)**, and to find out what its **[interest groups](interest_groups)** and its affiliated **[projects](projects)** are doing. Please browse them and if you have any comments contact the 4M Association offices.
+These webpages are here to allow you to learn **[about](/4m-association/about.html)** the Association, how to **[join](/4m-association/join4m.html)** it, its latest **[news](news)**, and to find out what its **[interest groups](interest_groups)** and its affiliated **[projects](projects)** are doing. Please browse them and if you have any comments contact the 4M Association offices.
