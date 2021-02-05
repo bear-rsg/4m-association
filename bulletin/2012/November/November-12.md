@@ -3,7 +3,7 @@
 <!--break-->
 ## 4M 2012 Association Annual Meeting - Presentations available
 
-Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, and also to those who attended the Annual Meeting. Natalie Withenshaw and Rob Bell of C-Tech Innovation Ltd were also there to introduce C-Tech as the new secretariat support for the 4M Association. Presentations from [Chris Matthews](http://www.4m-association.org/sites/www.4m-association.org/files/C.Matthews_4M-Presentation_081012.pptx), [Stefan Dimov](http://www.4m-association.org/sites/www.4m-association.org/files/S.Dimov_4M-Presentation_081012.pdf) and [C-Tech Innovation](http://www.4m-association.org/sites/www.4m-association.org/files/C-Tech_4M-Presentation_081012.pptx) are now available.  
+Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, and also to those who attended the Annual Meeting. Natalie Withenshaw and Rob Bell of C-Tech Innovation Ltd were also there to introduce C-Tech as the new secretariat support for the 4M Association. Presentations from [Chris Matthews](/4m-association/images/files/C.Matthews_4M-Presentation_081012.pptx), [Stefan Dimov](/4m-association/images/files/S.Dimov_4M-Presentation_081012.pdf) and [C-Tech Innovation](/4m-association/images/files/C-Tech_4M-Presentation_081012.pptx) are now available.  
 
 ## Save the Date for the next 4M Annual Conference - 4M2013
 

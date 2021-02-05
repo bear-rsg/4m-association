@@ -10,7 +10,7 @@
 ## 4M 2007 - Special Issue
 
 
-![4m 2007 cover](http://www.4m-association.org/sites/www.4m-association.org/files/Front_Cover_4M2007web4.jpg class="thumbnail")17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  
+![4m 2007 cover](/4m-association/images/files/Front_Cover_4M2007web4.jpg class="thumbnail")17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  
 The papers selected for publication are listed [here.](/content/Special-Issue-4M-IJAMT)  
 This will be the fourth Special Issue to be drawn from the [4M conference series](/conference). The previous Special Issues can be accessed [here.](http://www.4m-net.org/Publications) 
   

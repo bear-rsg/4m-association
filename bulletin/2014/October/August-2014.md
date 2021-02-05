@@ -7,7 +7,7 @@ Papers are invited that present original research and development in processes a
 
 ## Laser processing for micro and nano-scale manufacturing: technology and application advances
 
-![4M2020 Logo](http://www.4m-association.org/sites/www.4m-association.org/files/laser-processing_0.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/files/laser-processing_0.jpg class="thumbnail")
 For More Information use this LINK
 or
 Register Online Here
@@ -20,7 +20,7 @@ Register Online Here
 
 ## 4M Announcement - 4M2020 Foresight Forum
 
-![4M2020 Logo](http://www.4m-association.org/sites/www.4m-association.org/files/foresight-forum.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/files/foresight-forum.jpg class="thumbnail")
 The 4M2020 programme organised a successful Foresight Forum from the 9th to 11th September 2014 in Grenoble (F) to review the research needs in Micro and Nano Manufacturing and inform H2020 about future priorities in this field.  Details of the outcomes will follow in next months newsletter. This was an invitation only event - there will be more workshops happening this year. Please contact us if you are interested in attending a 4M2020 workshop.
 
 [Read more>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=2e632bbf8e&e=1434686575)
@@ -28,7 +28,7 @@ The 4M2020 programme organised a successful Foresight Forum from the 9th to 11th
 
 ## 49th International Workshop on Microfactories
 
-![4M2020 Logo] (http://www.4m-association.org/sites/www.4m-association.org/files/iwmf.jpg class="thumbnail")
+![4M2020 Logo] (/4m-association/images/files/iwmf.jpg class="thumbnail")
 October 5 – 8, 2014 | Venue: Honolulu, HI - USA
 There is incredible potential in reducing the physical scale of numerous processes related to the manufacture of many forms of future dense "mechatronic" products and the manipulation of microscopic and nanoscopic objects and materials for the benefit of mankind. Small systems capable of these operations can be referred to as "microfactories. 
 

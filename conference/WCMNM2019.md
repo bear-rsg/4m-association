@@ -4,7 +4,7 @@
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 
-<img src="http://www.4m-association.org/sites/www.4m-association.org/files/Raleigh NC, USA.jpg" width="450px">
+<img src="/4m-association/images/files/Raleigh NC, USA.jpg" width="450px">
 
 ## Congress Chair
 

@@ -4,7 +4,7 @@ Engineering Measurement Division | National Physical Laboratory | Teddington, Mi
 <!--break-->
 **Biography**
 
-![Professor Richard Leach](http://www.4m-association.org/sites/www.4m-association.org/files/profile_richard.JPG class="thumbnail")
+![Professor Richard Leach](/4m-association/images/files/profile_richard.JPG class="thumbnail")
 
 Professor Richard Leach is a Principal Research Scientist at the National Physical Laboratory in the UK and a visiting professor at Loughborough University and the Harbin Institute of Technology. 
 

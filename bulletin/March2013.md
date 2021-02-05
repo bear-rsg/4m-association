@@ -9,7 +9,7 @@ The [Second Call for Papers](http://www.4m-association.org/content/Call-Papers-4
 
 ##  4M2020 CSA Proposal
 
-The application for coordinated support action for 4M2020 was successful and negotiations are now in progress. The Commission anticipates that the programme will start on the 1st September 2013 with the project launched formally at this years 4M2013 Conference. The summary for the 4M2020 CSA Proposal is available to view [here](http://www.4m-association.org/sites/www.4m-association.org/files/4M2020_Summary.pdf).
+The application for coordinated support action for 4M2020 was successful and negotiations are now in progress. The Commission anticipates that the programme will start on the 1st September 2013 with the project launched formally at this years 4M2013 Conference. The summary for the 4M2020 CSA Proposal is available to view [here](/4m-association/images/files/4M2020_Summary.pdf).
  
 ##  BMG: Brittle Or Ductile 
 

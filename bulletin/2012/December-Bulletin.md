@@ -14,12 +14,12 @@ When the 4M NoE came to an end, Per was a great supporter of the idea of setting
 
 ## 4M 2020 CSA Proposal
 
-As it was decided at the 4M Association meeting in Vienna, the 4M2020 CSA proposal was submitted on 4th December 2012. The summary for the 4M2020 CSA Proposal is now available to view [here](http://www.4m-association.org/sites/www.4m-association.org/files/4M2020_Summary.pdf).
+As it was decided at the 4M Association meeting in Vienna, the 4M2020 CSA proposal was submitted on 4th December 2012. The summary for the 4M2020 CSA Proposal is now available to view [here](/4m-association/images/files/4M2020_Summary.pdf).
 
 ## New 4M Association Contract
 
 ![4Mlogo](/sites/www.4m-association.org/files/4Mlogo.jpg class="thumbnail")
-The contracts with Cardiff and C-Tech Innovation have now been signed and thus we have implemented the proposed and agreed way forward for the Association in Vienna during the 4M2012 Conference. From 1st November 2012, the 4M Office will be hosted by [C-Tech](http://www.ctechinnovation.com) and an outline description of the services that C-Tech will be providing to the 4M Association are available [here](http://www.4m-association.org/sites/www.4m-association.org/files/C-Tech_4M-Presentation_081012.pptx).
+The contracts with Cardiff and C-Tech Innovation have now been signed and thus we have implemented the proposed and agreed way forward for the Association in Vienna during the 4M2012 Conference. From 1st November 2012, the 4M Office will be hosted by [C-Tech](http://www.ctechinnovation.com) and an outline description of the services that C-Tech will be providing to the 4M Association are available [here](/4m-association/images/files/C-Tech_4M-Presentation_081012.pptx).
  
 ## University of Birmingham Job Vacancy: Research Associate/ Research Fellow in Laser Processing/Machining
 

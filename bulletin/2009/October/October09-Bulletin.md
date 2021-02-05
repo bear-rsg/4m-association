@@ -11,7 +11,7 @@ A meeting has been organised for 14th October 2009 to discuss the setting up of 
 
 ## MMLive
 
-![MMlive](http://www.4m-association.org/sites/www.4m-association.org/files/MM_Mag_thumb.jpg class="thumbnail")  
+![MMlive](/4m-association/images/files/MM_Mag_thumb.jpg class="thumbnail")  
 MM Live, which takes place 20-21st October, is a global showcase for everything to do with the mass manufacture of small to micro precision parts, whether a company can make them to order or supply the machinery to mill, cut or mould. Exhibits cover the full spectrum of micro manufacturing techniques from laser cutting, welding, and micro machining to injection moulding, inspection & measurement, photo etching, handling and assembly. [More](http://www.micromanu.com/x/exhibition.html)  
 
 ## Training Courses in Microsystems

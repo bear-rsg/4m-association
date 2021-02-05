@@ -1,6 +1,6 @@
 # Herman Schoo
 
-![Schoo](http://www.4m-association.org/sites/www.4m-association.org/files/Herman_Schoo.jpg class="thumbnail")Herman Schoo is the Program manager in the Holst Centre of the strategic program “Sensor Tags & Systems” where combinations of organic, large area electronic device technology is investigated.
+![Schoo](/4m-association/images/files/Herman_Schoo.jpg class="thumbnail")Herman Schoo is the Program manager in the Holst Centre of the strategic program “Sensor Tags & Systems” where combinations of organic, large area electronic device technology is investigated.
 He was recently appointed as Senior Research Fellow of TNO.  
 
 ## Areas of Expertise

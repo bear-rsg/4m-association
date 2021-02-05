@@ -3,7 +3,7 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="200px">
 
 
-<img src="http://www.4m-association.org/sites/www.4m-association.org/files/Micro Molding book Hanser com (2018).png" width="200px">
+<img src="/4m-association/images/files/Micro Molding book Hanser com (2018).png" width="200px">
 
 
 The 4M Association is delighted to announce the publication of the book **'Micro Injection Molding'** by fellow 4M member Guido Tosello. For more details, click on one of the links below:
