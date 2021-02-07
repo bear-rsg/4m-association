@@ -750,7 +750,7 @@
         - subtitle: "Sponsoring"
           subhref: "/4m-association/conference/2012/Sponsoring.html"
           subdescription: ""
-- title: "Event"
+- title: "Events"
   href: "/4m-association/event/index.html"
   description: ""
   multilevel: true
@@ -1073,7 +1073,7 @@
     - subtitle: "Workshop Tape 3D Structuring"
       subhref: "/4m-association/event/Workshop-Tape-3D-structuring.html"
       subdescription: ""
-- title: "Interest-Group"
+- title: "Interest Groups"
   href: "/4m-association/interest-group/index.html"
   description: ""
   multilevel: true
@@ -1084,7 +1084,7 @@
     - subtitle: "Micro Fluidics Interest Group"
       subhref: "/4m-association/interest-group/Micro-Fluidics-Interest-Group.html"
       subdescription: ""
-- title: "Project"
+- title: "Projects"
   href: "/4m-association/project/index.html"
   description: ""
   multilevel: true
