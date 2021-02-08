@@ -2,7 +2,7 @@
 
 This series of conferences on multi-material micro-manufacture is organised by the [4M Association](http://www.4m-association.org/node/1). 4M2013 was the tenth in the series.  
   
-![4M2006 attendees](/sites/www.4m-association.org/files/4m2013groupphoto.jpg)
+![4M2006 attendees](/4m-association/images/4m2013groupphoto.jpg)
 <!--break-->
 #Past 4M conferences#
 

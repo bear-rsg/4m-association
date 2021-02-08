@@ -2,7 +2,7 @@
 
 ## #Microsystems-UK#
 
-![Microsystems-UK](/sites/www.4m-association.org/files/logos/McrsystLogo-inline.png class="inline-img")
+![Microsystems-UK](/4m-association/images/images/logos/McrsystLogo-inline.png class="inline-img")
 
 [Microsystems](http://www.microsystems.uk.com/) has focussed on ultra-precision micro-machining and micro-moulding since the company was established in 2003. The majority of our customers are in the medical and pharmaceutical markets, although we also operate in other markets that require close tolerance polymer microparts, polymer optics, or ultra-precision machined components. We are committed to design innovation, R&D, and to working with partners and customers to deliver cutting edge micro & nano manufacturing solutions.
 
@@ -10,7 +10,7 @@
 
 ## #SARIX#
 
-![SARIX](/sites/www.4m-association.org/files/logos/SARIX-inline.jpg class="inline-img")
+![SARIX](/4m-association/images/images/logos/SARIX-inline.jpg class="inline-img")
 
 [SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/node/75). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities.
 
@@ -18,7 +18,7 @@
 
 ## #z-microsystems#
 
-![z-microsystems](/sites/www.4m-association.org/files/logos/z-microsystems-inline.png class="inline-img")
+![z-microsystems](/4m-association/images/images/logos/z-microsystems-inline.png class="inline-img")
 
 Microsystems technology
 
@@ -32,7 +32,7 @@ Competent - professional - inspiring.
 ## Media Partner
 
 
-![MM logo](/sites/www.4m-association.org/files/logos/MM_Mag-inline.png class="inline-img")
+![MM logo](/4m-association/images/images/logos/MM_Mag-inline.png class="inline-img")
 
 We are pleased to announce that [CMM Magazine](http://www.micromanu.com/x/default.html) will once again sponsor a "best paper" award at the 4M/ICOMM Conference again, following [last year's](http://www.4m-net.org/node/2775) inaugural award, which was awarded to a paper entitled "Machining of polystyrene by UV laser radiation for patch clamping device fabrication". 
 

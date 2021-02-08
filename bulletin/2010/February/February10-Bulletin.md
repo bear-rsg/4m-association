@@ -4,7 +4,7 @@
 ## 4M 2010
 
 
-![4M2010](/sites/www.4m-association.org/files/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
 Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](http://www.4m-association.org/content/Invited-Speakers).  
 
 * Eric Baer, Cleveland Case Reserve University, USA  
@@ -28,7 +28,7 @@ This course at the University of Lancaster will provide an introduction to [MEMS
  
 ## ICOMM/4M 2010
 
-![ICOMM/4M 2010](/sites/www.4m-association.org/files/icomm_thumb_0.jpg class="thumbnail") [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
+![ICOMM/4M 2010](/4m-association/images/icomm_thumb_0.jpg class="thumbnail") [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
 
 ## Micro-Nano-Bio-Convergence-Systems
 
@@ -44,5 +44,5 @@ MORGaN  is a project to develop materials, processes and packaging for devices b
  
 ## Training Courses in Microsystems
 
-![FSRM](/sites/www.4m-association.org/files/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

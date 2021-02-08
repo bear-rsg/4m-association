@@ -4,7 +4,7 @@
 ## 4M 2010
 
 
-![4M2010](/sites/www.4m-association.org/files/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
 The first stage Review began w/c 12th April. Reviewers are kindly requested to complete their allocated Reviews by 16th May 2010. Further conference information can be viewed on the [conference webpages.](http://www.4m-association.org/conference/2010) The three-day programme will be announced soon. We look forward to welcoming you in France from 17th - 19th November 2010.  
   
 ## 2nd Aachen Precision Days
@@ -34,5 +34,5 @@ Alicona Imaging GmbH have pioneered a new optical measurement technique that all
 
 ## Training Courses in Microsystems
 
-![FSRM](/sites/www.4m-association.org/files/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

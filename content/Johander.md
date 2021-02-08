@@ -1,7 +1,7 @@
 # Per Johander
 
 <!--break-->
-![Per Johander](/sites/www.4m-association.org/files/Per_obit.JPG class="thumbnail")It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.  
+![Per Johander](/4m-association/images/Per_obit.jpg class="thumbnail")It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.  
   
 Per was one of the original partners in the 4M Network of Excellence (NoE) and was joint leader of the Ceramics Processing Division. Always full of energy and ideas he was instrumental in the success of the ceramics group, their work culminating in the publication of a handbook on [Ceramics Processing in Microtechnology ]( http://www.4m-association.org/content/Ceramics-Processing-Microtechnology).  
   

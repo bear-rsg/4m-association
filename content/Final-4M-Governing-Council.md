@@ -6,7 +6,7 @@ During the first day the Partners were introduced to the [EUMINAfab Infrastructu
 
 In the evening our hosts at FZK/KIT had arranged a superb meal to which we were happy to welcome Prof. Wolfgang Menz who had served our network as Chairman. To show our thanks for his service Stefan Dimov made a presentation to Wolfgang of an engraved clock.  
 
-![4M Ceramics Workshop in Goteborg](/sites/www.4m-association.org/files/070web.jpg  class="stretch-img")   
+![4M Ceramics Workshop in Goteborg](/4m-association/images/070web.jpg  class="stretch-img")   
 
 On day two, the final Governing Council was held. The minutes for this are available to Partners [here]( http://www.4m-net.org/browser/46). Partners were also introduced to the FP7 projects that have emerged from the 4M network, namely [FlexPAET, COTECH and Multilayer.](/projects)  
 

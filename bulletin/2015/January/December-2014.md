@@ -3,7 +3,7 @@
 ## 4M/ICOMM 2015 – REGISTRATION NOW OPEN
 
 
-![4m2020logo](/sites/www.4m-association.org/files/4m2020logo.png class="thumbnail")
+![4m2020logo](/4m-association/images/4m2020logo.png class="thumbnail")
 
 Registration details available [here](http://www.4m-association.org/content/Conference-Registration)
 

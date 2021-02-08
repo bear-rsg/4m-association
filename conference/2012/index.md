@@ -1,6 +1,6 @@
 # 4M 2012 Conference
 
-![Vienna, Austria](/sites/www.4m-association.org/files/wien_stephansdom_karlskirche.jpg)
+![Vienna, Austria](/4m-association/images/wien_stephansdom_karlskirche.jpg)
 
 ## Venue
 

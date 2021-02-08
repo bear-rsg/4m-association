@@ -1,6 +1,6 @@
 # 4M 2010 Conference
 
-![PEP,Plastipolis, Oyonnax, France](/sites/www.4m-association.org/files/pep-for-web.jpg )
+![PEP,Plastipolis, Oyonnax, France](/4m-association/images/pep-for-web.jpg )
 
 ## Aim and Themes
 

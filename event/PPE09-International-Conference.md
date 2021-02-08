@@ -1,7 +1,7 @@
 # PPE'09 International Conference
 
 <!--break-->
-![polymer processing engineering conference 2009](/sites/www.4m-association.org/files/ppe_logo.jpg class="thumbnail")
+![polymer processing engineering conference 2009](/4m-association/images/ppe_logo.jpg class="thumbnail")
 
 [PPE'09](http://www.polyeng.com/ppe09/) aims to:  
 

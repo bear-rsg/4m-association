@@ -4,7 +4,7 @@
 ## 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
-![4M2011](/sites/www.4m-association.org/files/4m-2011_web1.jpg class="thumbnail")
+![4M2011](/4m-association/images/4m-2011_web1.jpg class="thumbnail")
 The 4M2011 submission site is now **closed**. The peer review process will commence soon. All authors will receive an e-mail informing them of the papers they have been allocated to review. Please respect the deadlines for the various stages of this process. We can also report that the first [invited speakers](/conference/2011/Invited-Speakers-0) have been confirmed and the first [sponsors](/conference/2011/Our-Sponsors) have been signed up.   
     
 ## Green Paper on the future of EU funding for Research and Innovation
@@ -21,5 +21,5 @@ A new book entitled [Optical Measurement of Surface Topography](http://www.amazo
   
 ## Training Courses in Microsystems
 
-![FSRM](/sites/www.4m-association.org/files/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

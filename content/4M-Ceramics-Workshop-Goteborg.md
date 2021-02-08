@@ -1,6 +1,6 @@
 # 4M Ceramics Workshop in Goteborg
 
-![4M Ceramics Workshop in Goteborg](/sites/www.4m-association.org/files/ceramics-workshop-goteborg.jpg class="stretch-img")  
+![4M Ceramics Workshop in Goteborg](/4m-association/images/ceramics-workshop-goteborg.jpg class="stretch-img")  
 The first of two seminars about ceramic processing and application was held in Goteborg the 11th of March.  
 
 In total 15 persons attended the workshop. The focus of the seminar was on applications for ceramics in Sensors & Actuators, but we also covered the Injection moulding of Ceramic Micro Components, Tape Casting and information about the [Multi Layer Project.](/node/19)

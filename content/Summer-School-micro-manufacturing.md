@@ -1,6 +1,6 @@
 # Summer School on micro-manufacturing 2010
 
-![2010 Attendees](/sites/www.4m-association.org/files/2010_finalday_web.jpg  class="stretch-img")The 2010 edition of DTU summerschool in “micro mechanical system design and manufacture” gathered twenty students from all over the world!
+![2010 Attendees](/4m-association/images/2010_finalday_web.jpg  class="stretch-img")The 2010 edition of DTU summerschool in “micro mechanical system design and manufacture” gathered twenty students from all over the world!
 <!--break-->
 Of course a great majority are affiliated with universities in Europe but some are pretty far from  Europe in terms of their country of birth. This year a student from the USA joined the course as well, thanks to the link provided by the 4M Association with the [ICOMM](/event/ICOMM-2011) group. As in [previous years](/event/4M-Summer-School) they were treated to two weeks of mainly lectures in the morning and practical work in the afternoons. The final goal had been shifted from the actual production of parts to fully justified design reporting: technical drawings with tolerances (both manufacturing-wise and from a functional point of view), process chain choice and description, and project management scheme.  
   

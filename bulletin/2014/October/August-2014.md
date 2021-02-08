@@ -2,7 +2,7 @@
 
 ## Update - 4M/ICOMM 2015
 
-![4M2020 Logo](/sites/www.4m-association.org/files/call-for-papers2_0.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/call-for-papers2_0.jpg class="thumbnail")
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture. All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP). [Call for Papers>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=7406f2bb20&e=1434686575)
 
 ## Laser processing for micro and nano-scale manufacturing: technology and application advances
@@ -37,7 +37,7 @@ There is incredible potential in reducing the physical scale of numerous process
 
 ## 4M 10% Discount on FSRM courses in micro-/nanotech
 
-![4M2020 Logo](/sites/www.4m-association.org/files/fsrm_0.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/fsrm_0.jpg class="thumbnail")
 To get the discount, members should mention “10% discount for 4M members” on the registration form
 
 [Read more>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=59e33a1c62&e=1434686575)
@@ -48,7 +48,7 @@ To get the discount, members should mention “10% discount for 4M members” on
 
 ## 4M Announcement - 4M2020 Open Innovation Portal
 
-![4M2020 Logo](/sites/www.4m-association.org/files/portal.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/portal.jpg class="thumbnail")
 The first phase of the open innovation portal is now available to all users. You are able to submit and view opportunities for collaboration as well as download case studies.
 
 New opportunities will be added weekly
@@ -58,7 +58,7 @@ New opportunities will be added weekly
 
 ## Special Interest Group Meeting
 
-![4M2020 Logo](/sites/www.4m-association.org/files/euspen-small.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/images/euspen-small.jpg class="thumbnail")
 Structured and Freeform Surfaces - 19th - 20th November 2014
 Palazzo Santo Stefano, Italy
 
