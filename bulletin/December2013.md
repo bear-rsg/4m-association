@@ -46,4 +46,4 @@ format) will be included in IEEE Xplore database and indexed by Ei Compendex. [R
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM.jpg class="thumbnail")
-FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/4m-association/content/fsrm-training-courses)
+FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/4m-association/content/fsrm-training-courses.html)

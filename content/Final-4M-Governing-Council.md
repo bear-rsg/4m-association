@@ -1,6 +1,6 @@
 # Final 4M Governing Council
 
-This final gathering of the consortium proceeded as per the [planned agenda.](/4m-association/event/4M-Governing-Council)
+This final gathering of the consortium proceeded as per the [planned agenda.](/4m-association/event/4M-Governing-Council.html)
 <!--break-->
 During the first day the Partners were introduced to the [EUMINAfab Infrastructure Project](http://www.euminafab.eu/) and the possibilities it presents for the 4M community to continue to work together.
 

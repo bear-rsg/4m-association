@@ -19,7 +19,7 @@ Technical University of Denmark or University of Ljubljana, Slovenia
 
 If you have preference please let us know! We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 
-[Read more](/4m-association/content/4MIWMF-2016-Proposals)
+[Read more](/4m-association/content/4MIWMF-2016-Proposals.html)
 
 ## Micro Manufacturing Event
 

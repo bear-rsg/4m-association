@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-The [submission site](/4m-association/conference/2010/Submission%20Guidelines) is **OPEN** and will remain so until the extended deadline of 6th April 2010. The [Call for Papers](/4m-association/content/1st-Call-Papers) can be accessed online. The first stage Review will begin w/c 12th April. Full conference information can be viewed on the [conference webpages.](/4m-association/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.  
+The [submission site](/4m-association/conference/2010/Submission%20Guidelines.html) is **OPEN** and will remain so until the extended deadline of 6th April 2010. The [Call for Papers](/4m-association/content/1st-Call-Papers.html) can be accessed online. The first stage Review will begin w/c 12th April. Full conference information can be viewed on the [conference webpages.](/4m-association/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.  
   
 ## 4M/ICOMM 2009
 
@@ -17,7 +17,7 @@ We are further pleased to announce that papers selected from our 4M2007 Conferen
   
 ## Nickel Standard Stamp with Microlens
 
-NIL Technology has announced the launch of a Nickel Standard Stamp with Microlens Structures. [Read more.](/4m-association/content/NILT-Announces-Launch-Nickel-Standard-Stamp-Microlens)
+NIL Technology has announced the launch of a Nickel Standard Stamp with Microlens Structures. [Read more.] /4m-association/content/NILT-Announces-Launch-Nickel-Standard-Stamp-Microlen.html
   
 ## Micro and nano moulding seminar
 
@@ -34,4 +34,4 @@ U.S. Researchers have used new microwaterjet technology to machine a magentic po
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)

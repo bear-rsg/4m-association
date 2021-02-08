@@ -34,12 +34,12 @@ This 2-day conference intends to stimulate networking and discussions on the the
   
 ## Launching NANOfutures
 
-An event to officialy launching the Integrating European Technology Innovation Platform (ETIP) "NANOfutures" will take place in Spain, in June 2010. High level representatives from the European Commission and the Spanish Ministry of Science and Innovation will explain the main objectives of this initiative. [Full details.](/4m-association/event/Launching-Nanofutures)
+An event to officialy launching the Integrating European Technology Innovation Platform (ETIP) "NANOfutures" will take place in Spain, in June 2010. High level representatives from the European Commission and the Spanish Ministry of Science and Innovation will explain the main objectives of this initiative. [Full details.](/4m-association/event/Launching-Nanofutures.html)
 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)
 
 ## ECERS
 

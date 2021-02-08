@@ -4,7 +4,7 @@ The [4M/ICOMM 2009](/4m-association/conference/2009) Full paper submission deadl
 <!--break-->
 Please [submit your paper(s)](http://conference.4m-association.org/author/submit.php) by 20th February 2009 
 
-[Guidelines for preparing and submitting paper(s)](/4m-association/conference/2009/Submission_Guidelines/Author_Guidelines) are available on the 4M/ICOMM 2009 Conference
+[Guidelines for preparing and submitting paper(s)](/4m-association/conference/2009/Submission_Guidelines/Author_Guidelines.html) are available on the 4M/ICOMM 2009 Conference
 website. 
 
 We look forward to receiving your paper and to seeing you at the conference!

@@ -17,4 +17,4 @@ This series of conferences on multi-material micro-manufacture is organised by t
  * [4M2012](/4m-association/conference/2012) - Vienna, Austria
  * [4M2013](/4m-association/conference/2013) - San Sebastián, Spain
 
-Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series)
+Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series.html)

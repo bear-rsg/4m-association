@@ -21,7 +21,7 @@ A company which combines unique expertise in micro engineering and design to mak
   
 ## EUMINA*fab*
 
-The second call for applications for work in EUMINAfab begins on Monday March 1st 2010. [Further information here.](/4m-association/content/EUMINAfab-second-Call-Opens)   
+The second call for applications for work in EUMINAfab begins on Monday March 1st 2010. [Further information here.](/4m-association/content/EUMINAfab-second-Call-Opens.html)   
   
 ## FP7 Information Day
 
@@ -33,9 +33,9 @@ A call for [potential metrology research topics on EMRP](/4m-association/content
  
 ## MINAM/Nanofutures
 
-NANOfutures is a European multi-sectorial, cross-ETP, integrating platform with the objective of connecting and establishing the cooperation and representation of all relevant Technology Platforms that require nanotechnologies in their industrial sector and products. Download the [MINAM newsletter](/4m-association/content/MINAMNanofutures) here.
+NANOfutures is a European multi-sectorial, cross-ETP, integrating platform with the objective of connecting and establishing the cooperation and representation of all relevant Technology Platforms that require nanotechnologies in their industrial sector and products. Download the [MINAM newsletter](/4m-association/content/MINAMNanofutures.html) here.
   
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)

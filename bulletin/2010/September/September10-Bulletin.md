@@ -13,7 +13,7 @@ Read about this summer's School [here.](/4m-association/content/Summer-School-mi
   
 ## 9th International Congress MID 2010
 
-Takes place on 29th and 30th September - [further details](/4m-association/event/9th-International-MID-Congress)  
+Takes place on 29th and 30th September - [further details](/4m-association/event/9th-International-MID-Congress.html)  
   
 ## Micromachining by waterjet
 
@@ -33,11 +33,11 @@ Dates for the next International Conference on Micro Manufacture (ICOMM), which 
   
 ## EUMINAfab workshop at E-MRS
 
-There will be a EUMINAfab workshop held on 14th September 2010 as a satellite event to the E-MRS 2010 Fall meeting in Warsaw. [Full details](/4m-association/event/EUMINAfab-E-MRS).  
+There will be a EUMINAfab workshop held on 14th September 2010 as a satellite event to the E-MRS 2010 Fall meeting in Warsaw. [Full details](/4m-association/event/EUMINAfab-E-MRS.html).  
   
 ## Advanced manufacturing with lasers
 
-[AILU workshop](/4m-association/event/Advanced-micro-manufacturing-lasers) being hosted in Wales, UK.  
+[AILU workshop](/4m-association/event/Advanced-micro-manufacturing-lasers.html) being hosted in Wales, UK.  
     
 ## Programmable nanolithography
 
@@ -54,4 +54,4 @@ Takes place from 5th April 2011 in Illinois, USA. [More details.](/4m-associatio
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)

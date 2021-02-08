@@ -21,4 +21,4 @@ This series of conferences on multi-material micro-manufacture is organised by t
  * [WCMNM2019](/4m-association/content/WCMNM-2019)- Raleigh, USA
 
 
-Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series)
+Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series.html)

@@ -12,4 +12,4 @@ This series of conferences on multi-material micro-manufacture is organised by t
  * [ICOMM/4M 2010](http://www.conferencing.uwex.edu/conferences/ICOMM10) - Madison, Wisconsin, USA  
  * [4M2010](/4m-association/conference/2010) - Bourg en Bresse and Oyonnax, France. 
 
-Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series)
+Links to the Proceedings from the above conferences can be found [here.](/4m-association/content/4M-conference-series.html)

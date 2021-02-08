@@ -13,7 +13,7 @@ An interesting article about the problems of bringing microneedles to the market
   
 ## Topical Meeting
 
-euspen and NPL ahve joined forces to bring you this [Topical Meeting on Structured and freeform surfaces](/4m-association/event/Topical-Meeting-Structured-and-Freeform-Surfaces). Abstracts by 6th July.   
+euspen and NPL ahve joined forces to bring you this [Topical Meeting on Structured and freeform surfaces](/4m-association/event/Topical-Meeting-Structured-and-Freeform-Surfaces.html). Abstracts by 6th July.   
   
 ## Integ-Micro Summer School announced
 
@@ -22,4 +22,4 @@ The Integ-Micro project has announced its [Summer School.](/4m-association/event
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)

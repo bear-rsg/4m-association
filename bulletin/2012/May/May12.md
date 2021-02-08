@@ -9,11 +9,11 @@ The **deadline for the first review** is Friday 4th May 2012. If you have been a
   
 ## European micro- and nanotechnology industry unfazed by debt crisis
 
-According to a [report produced by IVAM](/4m-association/content/European-micro-and-nanotechnology-industry-unfazed-debt-crisis), the Euro debt crisis has left the microtechnology, nanotechnology and advanced materials industries largely unfazed so far.     
+According to a [report produced by IVAM](/4m-association/content/European-micro-and-nanotechnology-industry-unfazed-debt-crisis.html), the Euro debt crisis has left the microtechnology, nanotechnology and advanced materials industries largely unfazed so far.     
   
 ## COTECH - training for Professionals
 
-The final months of the COTECH project sees the consortium focus on the transfer and dissemination of the lessons learnt in the project. In particular two training sessions are organised to coincide with major events, one alongside [EUSPEN in Stockholm](/4m-association/event/Training-Professionals-No2), the other on the [eve of the 4M2012](/4m-association/event/Training-Professionals) conference in Vienna.    
+The final months of the COTECH project sees the consortium focus on the transfer and dissemination of the lessons learnt in the project. In particular two training sessions are organised to coincide with major events, one alongside [EUSPEN in Stockholm](/4m-association/event/Training-Professionals-No2), the other on the [eve of the 4M2012](/4m-association/event/Training-Professionals.html) conference in Vienna.    
     
 ## ICOMM
 
@@ -32,4 +32,4 @@ With just over 600 days to go until Horizon 2020 begins, the [homepage](http://e
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)
