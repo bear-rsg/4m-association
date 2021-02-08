@@ -1,6 +1,6 @@
 # History
 
-#4M Conferences#
+# 4M Conferences
 
  * [4M2005](http://www.4m-net.org/4M_Conference "4M2005 Conference") - Forschungszentrum Karlsruhe, Germany  
  * [4M2006](http://www.4m-net.org/Conference/4M2006 "4M2006 Conference") - The European Centre for Micro and Nano Technology, Grenoble, France  
@@ -16,13 +16,13 @@ Papers and presentations from all past 4M Conferences, except 4M2006, can be fou
 
 The <a href="http://eco.pepublishing.com/content/g837w8">Proceedings of the 4M/ICOMM Conference, held in Karlsruhe, Germany, from 23rd - 25th September 2009</a>, are published by Engineering Conferences Online (ECO)
 
-#ICOMM conferences#
+# ICOMM conferences
 
  * [ICOMM2006](http://icomm.mie.uiuc.edu "1st International Conference on Micromanufacturing") - University of Illinois, Urbana-Champaign, USA
  * [ICOMM2007](http://manufacturing.northwestern.edu/ICOMM07/) - Clemson University, USA
  * [ICOMM2008](http://www.contrib.andrew.cmu.edu/~rlane/icomm/index.php "3rd International Conference on Micromanufacturing") - Carnegie Mellon, USA
 
-#Joint 4M/ICOMM conferences#
+# Joint 4M/ICOMM conferences
  * [4M/ICOMM2009](/4m-association/conference/2009/index.html "Joint 4M ICOMM Conference") - Karlsruhe, Germany
  * [4M/ICOMM2010](http://www.conferencing.uwex.edu/conferences/ICOMM10) - Madison, Wisconsin, USA **(April 5 - 10 2010)**
  * [4M/ICOMM2015](/4m-association/conference/2015.html "Joint 4M ICOMM Conference") - Milan, Italy
