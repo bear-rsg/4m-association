@@ -17,7 +17,7 @@ While another micro-lens moulding process is fetaured on the [Micro manufacturin
  
 ## Symposium on Micro- and Nano-manufacturing
 
-This symposium is being organised by ITIA-CNR, and forms part of the 35th ASME International Conference on  Micro- and Nano-systems. Full details on [event page](/event/CFP-Symposium-Micro-and-Nano-manufacturing).  
+This symposium is being organised by ITIA-CNR, and forms part of the 35th ASME International Conference on  Micro- and Nano-systems. Full details on [event page](/4m-association/event/CFP-Symposium-Micro-and-Nano-manufacturing).  
   
 ## News from MultiLayer
 
@@ -30,4 +30,4 @@ The latest newsletter from MORGaN is available [here](/4m-association/content/MO
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

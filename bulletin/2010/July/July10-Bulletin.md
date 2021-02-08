@@ -9,7 +9,7 @@ We are pleased to announce that [Rondol Technology Ltd.](http://www.rondol.com/)
 ## 4M 2010
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-Reviewers should complete their second reviews by **Friday 9th July at latest.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+Reviewers should complete their second reviews by **Friday 9th July at latest.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/4m-association/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 
 ## INTEG-MICRO
@@ -18,11 +18,11 @@ Integ-Micro is an FP7 research project looking at new production technologies fo
   
 ## Optics - Key technology for the future
 
-4M Association members Fraunhofer IPT are co-organisers of a [two-day colloquium](/event/Optics-Key-technology-future) on the topics of optics and photonics.   
+4M Association members Fraunhofer IPT are co-organisers of a [two-day colloquium](/4m-association/event/Optics-Key-technology-future) on the topics of optics and photonics.   
   
 ## iCAT
 
-This  3rd International Conference on Additive Technologies takes place in  Nova Gorica, Slovenia. Full details on [event page.](/event/iCAT-2010)  
+This  3rd International Conference on Additive Technologies takes place in  Nova Gorica, Slovenia. Full details on [event page.](/4m-association/event/iCAT-2010)  
 
 ## New post of Chief Scientist
 
@@ -34,9 +34,9 @@ The newly created role of chief scientist for Europe could result in mutually be
 
 ## MEMSCON
 
-The MEMSCON FP7 project is organising a [workshop](/event/MEMSCON-workshop) entitled *Structural monitoring and status dependent maintenance and repair of constructed facilities*.
+The MEMSCON FP7 project is organising a [workshop](/4m-association/event/MEMSCON-workshop) entitled *Structural monitoring and status dependent maintenance and repair of constructed facilities*.
   
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

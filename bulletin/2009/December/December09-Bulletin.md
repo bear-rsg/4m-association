@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-The 4M Association is pleased to announce that [4M2010](/conference/2010) will take place in Oyonnax, France from 17th to 19th November 2010. Papers are invited that present the latest advances in developing new processes and process chains for multi-material micro manufacture and their applications in microsystems-based products.  
+The 4M Association is pleased to announce that [4M2010](/4m-association/conference/2010) will take place in Oyonnax, France from 17th to 19th November 2010. Papers are invited that present the latest advances in developing new processes and process chains for multi-material micro manufacture and their applications in microsystems-based products.  
 
 ## New MD at Rondol
 
@@ -14,7 +14,7 @@ The Board of Rondol Technology Limited has announced that its Chairperson Victoi
 
 ## Job opportunity in Blue Chip Energy Company
 
-There is a [vacancy for a Dissertation Author](/content/Job-opportunity-Blue-Chip-Eergy) at Blue Chip Energy GmbH.
+There is a [vacancy for a Dissertation Author](/4m-association/content/Job-opportunity-Blue-Chip-Eergy) at Blue Chip Energy GmbH.
 
 ## ICOMM/4M 2010
 
@@ -23,12 +23,12 @@ There is a [vacancy for a Dissertation Author](/content/Job-opportunity-Blue-Chi
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)  
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)  
 
 ## FP7 Untold Stories
 
 ![FP7](/4m-association/assets/images/FP7-gen-RGB_web.jpg class="thumbnail")  This is not your typical, standard Info-Day about FP7. This is an in-depth examination of the root causes of success in the funding programme.   
-Visit the [event page](/content/FP7-Untold-Stories) for more information and an application form.  
+Visit the [event page](/4m-association/content/FP7-Untold-Stories) for more information and an application form.  
 
 ## Future RTD Activities for 2010 - 2015
 

@@ -7,4 +7,4 @@ The ERI is called [EUMINAfab](http://www.euminafab.eu) and is dedicated towards 
 
 Within the next few months the EUMINAfab consortium will develop its business processes and will launch the first call for proposals, hopefully in September 2009. The consortium comprises 36 infrastructures from partners like Cardiff University (United Kindom), CEA-Liten (France), FIAT Research Centre (Italy), IMS-Nanofabrication (Austria), Forschungszentrum Karlsruhe (Germany), National Physical Laboratory (United Kingdom), Philips Research Miplaza (The Netherlands) and TEKNIKER (Spain).  
 
-You are invited to either meet EUMINAfab at the forthcoming conferences in Prague at [EuroNanoForum](/node/68) or the joint conference of [4M and ICOMM](/conference/2009) in Karlsruhe, or to get in touch via [the website](http://www.euminafab.eu).
+You are invited to either meet EUMINAfab at the forthcoming conferences in Prague at [EuroNanoForum](/node/68) or the joint conference of [4M and ICOMM](/4m-association/conference/2009) in Karlsruhe, or to get in touch via [the website](http://www.euminafab.eu).

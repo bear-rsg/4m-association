@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
-The first Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/conference/2011/Call_for_Papers) A provisional list of key dates is also ready, the most important at the moment being the **deadline for submission of full (4-page) papers** which is **8th April 2011.** Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
+The first Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/4m-association/conference/2011/Call_for_Papers) A provisional list of key dates is also ready, the most important at the moment being the **deadline for submission of full (4-page) papers** which is **8th April 2011.** Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
      
 ## 4M 2010 Special Issue
 
@@ -23,22 +23,22 @@ A public workshop on “Tape assembly” will be held on 29th March 2011 in Stoc
    
 ## Met & Props, 12th - 15th April, 2011
 
-The [13th International Conference on Metrology and Properties of Engineering Surfaces](/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces) is a prestigious international conference, focusing on progress in surface metrology, surface characterisation instrumentation and properties of engineering surfaces. This year it is being held at the National Physical Laboratory.
+The [13th International Conference on Metrology and Properties of Engineering Surfaces](/4m-association/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces) is a prestigious international conference, focusing on progress in surface metrology, surface characterisation instrumentation and properties of engineering surfaces. This year it is being held at the National Physical Laboratory.
     
 ## EuroNanoForum
 
-EuroNanoForum is a biannual event organised by the European Commission. For the first time [EuroNanoForum](/event/EuroNanoForum) and Nanotech Europe will be joining forces to create the largest European nanotechnology event of 2011.  
+EuroNanoForum is a biannual event organised by the European Commission. For the first time [EuroNanoForum](/4m-association/event/EuroNanoForum) and Nanotech Europe will be joining forces to create the largest European nanotechnology event of 2011.  
    
 ## 3M-NANO
 
 This event will be held for the first time on 29 Aug - 2 Sept 2011 in Changchun, China.
-[3M-NANO](/event/3M-NANO) covers advanced technologies for handling on the nanoscale, including manipulation, measurement and manufacturing on the nanoscale.  
+[3M-NANO](/4m-association/event/3M-NANO) covers advanced technologies for handling on the nanoscale, including manipulation, measurement and manufacturing on the nanoscale.  
   
 ## COMS 2011
 
-COMS brings together leaders from all over the world and every sector of industry, all sharing, learning and creating partnerships in an open interactive setting. For more information visit the [event page](/event/COMS-2011).
+COMS brings together leaders from all over the world and every sector of industry, all sharing, learning and creating partnerships in an open interactive setting. For more information visit the [event page](/4m-association/event/COMS-2011).
 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

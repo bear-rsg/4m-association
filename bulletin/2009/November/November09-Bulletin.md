@@ -9,11 +9,11 @@ The Proceedings of the 4M/ICOMM Conference, held in Karlsruhe, Germany, from 23r
 
 ## Nanoimprinting could lower solar cell manufacturing costs
 
-[An interesting article](/content/Nanoimprinting-could-lower-solar-cell-manufacturing-costs) that describes a possible new route for the manufacture of flexible solar cells.
+[An interesting article](/4m-association/content/Nanoimprinting-could-lower-solar-cell-manufacturing-costs) that describes a possible new route for the manufacture of flexible solar cells.
 
 ## Labs-on-a-Chip that you can Shrink to Fit 
 
-[This report](/content/Labs-Chip-you-can-Shrink-Fit)  describes how chips are being made on an outsized scale and then shrunk to the required size.
+[This report](/4m-association/content/Labs-Chip-you-can-Shrink-Fit)  describes how chips are being made on an outsized scale and then shrunk to the required size.
  
 ## ICOMM/4M 2010
 
@@ -21,17 +21,17 @@ The Proceedings of the 4M/ICOMM Conference, held in Karlsruhe, Germany, from 23r
 
 ## Consortium Tests the Viability of Nanoimprint Lithography
 
-Nanoimprint lithography (NIL) holds promise for patterning the small features of tomorrow's microchips. [Read more.](/content/Consortium-Tests-Viability-Nanoimprint-Lithography)  
+Nanoimprint lithography (NIL) holds promise for patterning the small features of tomorrow's microchips. [Read more.](/4m-association/content/Consortium-Tests-Viability-Nanoimprint-Lithography)  
 
 ## Nanofutures
 
-A vision paper for the above is available (to 4M Association Members only) [here.](/content/Nanofutures-vision-paper)
+A vision paper for the above is available (to 4M Association Members only) [here.](/4m-association/content/Nanofutures-vision-paper)
 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)  
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)  
 
 ## IFMM'10
 
-Call for papers for this conference, which will take place in Nagoya, Japan from 21st to 23rd October 2010, is out now. More information on the [event page.](/event/IFMM10)
+Call for papers for this conference, which will take place in Nagoya, Japan from 21st to 23rd October 2010, is out now. More information on the [event page.](/4m-association/event/IFMM10)

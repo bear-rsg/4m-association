@@ -5,11 +5,11 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
-The first stage of the 4M2011 peer review is almost complete. All corresponding authors will soon receive an e-mail informing them if their papers have been accepted with changes, or rejected. There will then be a period allocated for the changes or amendments to be carried out.  Please respect the deadlines for this process. We can also report that the first [invited speakers](/conference/2011/Invited-Speakers-0) have been confirmed and the first [sponsors](/conference/2011/Our-Sponsors) have been signed up.   
+The first stage of the 4M2011 peer review is almost complete. All corresponding authors will soon receive an e-mail informing them if their papers have been accepted with changes, or rejected. There will then be a period allocated for the changes or amendments to be carried out.  Please respect the deadlines for this process. We can also report that the first [invited speakers](/4m-association/conference/2011/Invited-Speakers-0) have been confirmed and the first [sponsors](/4m-association/conference/2011/Our-Sponsors) have been signed up.   
     
 ## COMPOLIGHT
 
-COMPOLIGHT is an FP7 project that aims to improve the design and manufacture of lightweight metal components. [Read more](/content/FP7-Project-COMPOLIGHT)   
+COMPOLIGHT is an FP7 project that aims to improve the design and manufacture of lightweight metal components. [Read more](/4m-association/content/FP7-Project-COMPOLIGHT)   
    
 ## Laser-based Micro- and Nano-packaging and Assembly
 
@@ -22,4 +22,4 @@ A new website is available - see link from our [event page](/4m-association/even
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

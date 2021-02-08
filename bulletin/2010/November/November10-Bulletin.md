@@ -5,19 +5,19 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](/4m-association/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/4m-association/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](/4m-association/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
   
 ## MultiLayer workshop
 
-Don't forget the [workshop on 3D Tape Structuring](/event/Workshop-Tape-3D-structuring) which takes place in Turin on 8th November...........  
+Don't forget the [workshop on 3D Tape Structuring](/4m-association/event/Workshop-Tape-3D-structuring) which takes place in Turin on 8th November...........  
   
 ## Workshop on Microforming
 
-............nor the [5th Erlangen Workshop on Microforming](/event/Erlangen-workshop-microforming) which takes place in Erlangen on 23rd November.    
+............nor the [5th Erlangen Workshop on Microforming](/4m-association/event/Erlangen-workshop-microforming) which takes place in Erlangen on 23rd November.    
   
 ## ESAFORM
 
-The dates for next year's [ESAFORM conference](/event/ESAFORM) are announced and it will include a mini-symposium on "Nano-structured materials and microforming".  
+The dates for next year's [ESAFORM conference](/4m-association/event/ESAFORM) are announced and it will include a mini-symposium on "Nano-structured materials and microforming".  
   
 ## European Ceramics Society
 
@@ -30,4 +30,4 @@ The dates for the [11th euspen International Conference](http://www.como2011.eus
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

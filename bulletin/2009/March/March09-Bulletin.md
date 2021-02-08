@@ -13,20 +13,20 @@ Thank you to all those who have submitted papers for 4M/ICOMM 2009. We received 
 [Dr Sylvain Ballandras](/node/72) - <i>FEMTO-ST, CNRS, France</i> - Single-crystal based composite wafers for high quality passive RF microdevices  
 [Prof. Roland Zengerle](/node/71) - <i>IMTEK, University of Freiburg, Germany</i> - Microfluidic Platforms for Miniaturization, Integration and Automation of Biochemical Assays  
 [Prof. Shiv G. Kapoor](/node/73) - <i>University of Illinois, USA</i> - CNT- Composites for the Micro-World - Design for Functionality and Manufacturabilty  
-[Prof. Mustafizur Rahman](/conference/2009/Speakers/Mustafizur-Rahman) - <i>National University of Singapore</i> - Tool-based compound micro/nano machining  
-[Prof. Dave Blank](/conference/2009/Speakers/DaveBlank) - <i>MESA+, Institute for nanotechnology</i> - Perspectives in Micro and Nanofabrication of new functional materials  
+[Prof. Mustafizur Rahman](/4m-association/conference/2009/Speakers/Mustafizur-Rahman) - <i>National University of Singapore</i> - Tool-based compound micro/nano machining  
+[Prof. Dave Blank](/4m-association/conference/2009/Speakers/DaveBlank) - <i>MESA+, Institute for nanotechnology</i> - Perspectives in Micro and Nanofabrication of new functional materials  
 
 ## 4M Summer School
 
-The Summer School, once again hosted by DTU, takes place this year from **15th - 26th June 2009**. Please note these dates down and consider sending your students, attendance at this Summer School is eligible expenditure for your 4M monies. More information will be added to the [Summer School page](/event/4M-Summer-School) when programme is finalised and speakers are engaged.
+The Summer School, once again hosted by DTU, takes place this year from **15th - 26th June 2009**. Please note these dates down and consider sending your students, attendance at this Summer School is eligible expenditure for your 4M monies. More information will be added to the [Summer School page](/4m-association/event/4M-Summer-School) when programme is finalised and speakers are engaged.
 
 ## Vacancy for PhD at TU Vienna
 
-A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/content/PhD-position-ISAS-TU-Vienna) is available. 
+A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/4m-association/content/PhD-position-ISAS-TU-Vienna) is available. 
 
 ## Networks of Excellence - what did they achieve?
 
-The EC appointed an Expert Group to look at the achievements of NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’. The expert group discusses the special nature of the ‘intermediate collective research goods’ NoEs are producing as well as the structural aspect of NoEs originally supposed to form a new intra-European layer of durable virtual research organisations. Their full report can be [downloaded here.](/content/Expert-Group-future-Networks-Excellence-Final-Report)  
+The EC appointed an Expert Group to look at the achievements of NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’. The expert group discusses the special nature of the ‘intermediate collective research goods’ NoEs are producing as well as the structural aspect of NoEs originally supposed to form a new intra-European layer of durable virtual research organisations. Their full report can be [downloaded here.](/4m-association/content/Expert-Group-future-Networks-Excellence-Final-Report)  
 
 ## EuronanoForum (ENF'09)
 

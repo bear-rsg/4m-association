@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2012_100.png class="thumbnail")
-The [First Call for Papers](/conference/2012/Call-Papers-4M2012) is published,  and you are reminded that the **deadline for submission** of full 4-page papers is **9th March 2012**. The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. 
+The [First Call for Papers](/4m-association/conference/2012/Call-Papers-4M2012) is published,  and you are reminded that the **deadline for submission** of full 4-page papers is **9th March 2012**. The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/4m-association/conference/2012) which will be regularly updated. 
   
 ## ICOMM 2012
 
@@ -25,9 +25,9 @@ The 6th Call for projects, your chance to access the state of the art infrastruc
   
 ## IMPRESS
 
-The Impress project has just published its [Newsletter](/content/IMPRESS-Newsletter).  
+The Impress project has just published its [Newsletter](/4m-association/content/IMPRESS-Newsletter).  
 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

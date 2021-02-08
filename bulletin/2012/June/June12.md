@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2012_100.png class="thumbnail")
-The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). 
+The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/4m-association/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/4m-association/conference/2012). 
 
 ## 4M 2009 Proceedings
 
@@ -13,7 +13,7 @@ Following an interruption, the [4M2009 proceedings](http://rpsonline.com.sg/proc
   
 ## Integ-Micro opens new facility
 
-A facility that houses the manufacturing platforms developed by the Integ-Micro project consortium will be [officially opened](/event/Opening-ceremony-Integ-Micro-Precision-Factory) on 22nd June 2012.
+A facility that houses the manufacturing platforms developed by the Integ-Micro project consortium will be [officially opened](/4m-association/event/Opening-ceremony-Integ-Micro-Precision-Factory) on 22nd June 2012.
   
 ## MM LIVE UK 2012 – Call For Papers
 
@@ -26,4 +26,4 @@ The 17th International Symposium on Electromachining (ISEM XVII) will be held in
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

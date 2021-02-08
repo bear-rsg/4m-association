@@ -9,6 +9,6 @@
 
 <strong>FlexPAET</strong> will address limitations of state-of-the-art micro machining technologies and optical design calculation methods with respect to the production of optically functionalised elements on large surfaces. <a href="#">Read more</a> <a href="#">Project</a> <a href="#">FlexPAET</a>
 
-<strong>Integ-Micro:</strong> New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques. <a href="#">Read more</a> <a href="#">Project</a> <a href="#">Integ-Micro</a>
+<strong>Integ-Micro:</strong> New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques. <a href="./Integ-Micro.html">Read more</a> <a href="#">Project</a> <a href="#./Integ-Micro.html">Integ-Micro</a>
 
 

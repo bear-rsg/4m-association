@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2012_100.png class="thumbnail")
-The [First Call for Papers](/conference/2012/Call-Papers-4M2012) is published and invites  papers that present original research and development in processes and process chains for multi-material micro and nano manufacture. The submission site will open on 1st February, and the **deadline for submission** of full 4-page papers is **9th March 2012**. Further information is available, and will be regularly updated, on the [4M2012 webpages](/conference/2012). 
+The [First Call for Papers](/4m-association/conference/2012/Call-Papers-4M2012) is published and invites  papers that present original research and development in processes and process chains for multi-material micro and nano manufacture. The submission site will open on 1st February, and the **deadline for submission** of full 4-page papers is **9th March 2012**. Further information is available, and will be regularly updated, on the [4M2012 webpages](/4m-association/conference/2012). 
   
 ## 4M 2010 Special Issue
 
@@ -13,11 +13,11 @@ A Special Issue based on 13 papers drawn from the 4M2010 Conference has been pub
  
 ## PhD Opportunity at Cardiff University
 
-A fully funded [PhD studentship](/content/PhD-Opportunity-Cardiff-University) is available  at Cardiff University, UK entitled *“Adhesive contact interactions between nanorough biomedical and pharmaceutical nanomaterials”*. **Closing date 31st January 2012**.  
+A fully funded [PhD studentship](/4m-association/content/PhD-Opportunity-Cardiff-University) is available  at Cardiff University, UK entitled *“Adhesive contact interactions between nanorough biomedical and pharmaceutical nanomaterials”*. **Closing date 31st January 2012**.  
   
 ## New Journal
 
-The launch of a new archival journal is announced – [Trans. ASME Journal of Micro- and Nano-Manufacturing (JMNM)](/content/New-Journal-Trans-ASME-Journal-Micro-and-Nano-Manufacturing-JMNM) on January 1, 2012.  
+The launch of a new archival journal is announced – [Trans. ASME Journal of Micro- and Nano-Manufacturing (JMNM)](/4m-association/content/New-Journal-Trans-ASME-Journal-Micro-and-Nano-Manufacturing-JMNM) on January 1, 2012.  
  
 ## World's smallest steam engine
 
@@ -25,7 +25,7 @@ Researchers at the University of Stuttgart, Germany and the Stuttgart-based Max 
 
 ## MINAM 2.0
 
-The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. You are invited to complete the MINAM [Survey online](/content/MINAM-Survey).   
+The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. You are invited to complete the MINAM [Survey online](/4m-association/content/MINAM-Survey).   
   
 ## COMS comes....to Europe!
 
@@ -39,4 +39,4 @@ The MORGaN project has come to an end and the consortium has published a final b
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

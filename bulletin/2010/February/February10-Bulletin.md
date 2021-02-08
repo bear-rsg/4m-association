@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](/4m-association/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](/4m-association/content/Invited-Speakers).  
+Following the distribution of the [Call for Papers,](/4m-association/content/1st-Call-Papers) the [submission site](/4m-association/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/4m-association/conference/2010) that will feature the following [invited speakers](/4m-association/content/Invited-Speakers).  
 
 * Eric Baer, Cleveland Case Reserve University, USA  
 * Phil Coates, Bradford University, UK  
@@ -16,7 +16,7 @@ Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) t
 
 ## Aachen Precision Days
 
-This international conference which takes place 18th - 19th May 2010, with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research. [More info.](/event/2nd-Aachen-Precision-Days)  
+This international conference which takes place 18th - 19th May 2010, with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research. [More info.](/4m-association/event/2nd-Aachen-Precision-Days)  
   
 ## Erlangen Workshop on Microforming
 
@@ -24,7 +24,7 @@ The [event page](/4m-association/event/Erlangen-workshop-microforming) for this 
   
 ## MEMS/Microfluidics course
 
-This course at the University of Lancaster will provide an introduction to [MEMS and Micro-Fluidics](/event/MEMSMicrofluidics-Course) in the context of the imminent expansion of System-on-Chip and System-in-Package technologies.  
+This course at the University of Lancaster will provide an introduction to [MEMS and Micro-Fluidics](/4m-association/event/MEMSMicrofluidics-Course) in the context of the imminent expansion of System-on-Chip and System-in-Package technologies.  
  
 ## ICOMM/4M 2010
 
@@ -40,9 +40,9 @@ Yole Developpement has announced the launch issue of their all new [MEMS Trends 
   
 ## MORGaN
 
-MORGaN  is a project to develop materials, processes and packaging for devices based on gallium nitride (GaN). Latest news [here.](/content/MORGan-Newsletter-No2)
+MORGaN  is a project to develop materials, processes and packaging for devices based on gallium nitride (GaN). Latest news [here.](/4m-association/content/MORGan-Newsletter-No2)
  
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

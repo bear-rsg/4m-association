@@ -3,11 +3,11 @@
 <!--break-->
 ## Workshop on Microfluidics for Cells
 
-This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th October 2009. Full details are on the [event page.](/event/Workshop-Microfluidics-cells) 4M Association members can benefit from a <b>reduced fee.</b>  
+This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th October 2009. Full details are on the [event page.](/4m-association/event/Workshop-Microfluidics-cells) 4M Association members can benefit from a <b>reduced fee.</b>  
 
 ## Nanofutures preparatory meeting
 
-A meeting has been organised for 14th October 2009 to discuss the setting up of this new multi-disciplinary, multi-sectoral, cross-ETP European Platform. Details and agenda available on [event page.](/event/Nanofutures-meeting)  
+A meeting has been organised for 14th October 2009 to discuss the setting up of this new multi-disciplinary, multi-sectoral, cross-ETP European Platform. Details and agenda available on [event page.](/4m-association/event/Nanofutures-meeting)  
 
 ## MMLive
 
@@ -17,7 +17,7 @@ MM Live, which takes place 20-21st October, is a global showcase for everything 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)  
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)  
  
 ## 4M/ICOMM 2009
 
@@ -31,24 +31,24 @@ With some extremely well-received talks from the invited speakers, excellent loc
 
 ## Bio-inspired micro structures for micro robots
 
-Recent article on Micro manufacturing website about [super adhesive for microrobots.](/content/New-super-adhesive-microrobots)  
+Recent article on Micro manufacturing website about [super adhesive for microrobots.](/4m-association/content/New-super-adhesive-microrobots)  
 
 ## Management of Innovative Technologies
 
-The 10th conference on Management of Innovative Technologies was organised in Fiesa, Slovenia. The field of Technology Management is currently very broad as industry attempts to find a workable definition of "sustainability". [Read more.](/content/10th-conference-Management-Innovative-Technologies)  
+The 10th conference on Management of Innovative Technologies was organised in Fiesa, Slovenia. The field of Technology Management is currently very broad as industry attempts to find a workable definition of "sustainability". [Read more.](/4m-association/content/10th-conference-Management-Innovative-Technologies)  
 
 ## Microparts present unique measuring challenges
 
-[Interesting article](/content/Microparts-present-unique-measuring-challenges) from Micro manufacturing website. 
+[Interesting article](/4m-association/content/Microparts-present-unique-measuring-challenges) from Micro manufacturing website. 
 
 ## IFMM'10
 
-Call for papers for this conference, which will take place in Nagoya, Japan from 21st to 23rd October 2010, is out now. More information on the [event page.](/event/IFMM10)
+Call for papers for this conference, which will take place in Nagoya, Japan from 21st to 23rd October 2010, is out now. More information on the [event page.](/4m-association/event/IFMM10)
 
 ## EUMINA*fab*
 
 EUMINA*fab* is the first European Research Infrastructure on multimaterial micro and nanotechnology. It offers open and no-cost access to state of the art fabrication and characterisation technologies for a multitude of functional materials. Access is based on an online submission of proposals.
-The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/content/EUMINAfab-starts-operation) 
+The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/4m-association/content/EUMINAfab-starts-operation) 
 
 ## NMP Call opens
 

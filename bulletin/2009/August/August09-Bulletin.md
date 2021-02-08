@@ -5,21 +5,21 @@
 
 
 ![4M/ICOMM 2009](/4m-association/assets/images/conf2008-twin-thumb.png class="thumbnail")
-Thank you to all who have already registered for the 4M/ICOMM Conference. If you have not yet done so you can still [register here](/conference/2009/Registration_and_fees).
-If you are planning your trip some suggestions for [hotels](/conference/2009/Hotels-and-Accomodation) are given. Transport will be made available from these suggested hotels to the conference venue. The [Provisional programme](/conference/2009/Programme) is now available. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information.  
+Thank you to all who have already registered for the 4M/ICOMM Conference. If you have not yet done so you can still [register here](/4m-association/conference/2009/Registration_and_fees).
+If you are planning your trip some suggestions for [hotels](/4m-association/conference/2009/Hotels-and-Accomodation) are given. Transport will be made available from these suggested hotels to the conference venue. The [Provisional programme](/4m-association/conference/2009/Programme) is now available. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information.  
  
 ## Workshop on Microfluidics for Cells
 
-This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th October 2009. Full details are on the [event page.](/event/Workshop-Microfluidics-cells) 4M Association members can benefit from a <b>reduced fee.</b>  
+This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th October 2009. Full details are on the [event page.](/4m-association/event/Workshop-Microfluidics-cells) 4M Association members can benefit from a <b>reduced fee.</b>  
 
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses) 
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses) 
 
 ## Applications of Micro and Nano Technology in Biosensing & Diagnostics
 
-[This meeting,](/event/Applications-Micro-and-Nano-Technology-Biosensing-Diagnostics) jointly organised by the Sensors & Instrumentation KTN and the Nanotechnology KTN, takes place at Cranfield University on 17th September 2009.
+[This meeting,](/4m-association/event/Applications-Micro-and-Nano-Technology-Biosensing-Diagnostics) jointly organised by the Sensors & Instrumentation KTN and the Nanotechnology KTN, takes place at Cranfield University on 17th September 2009.
 
 ## Manufacturing opportunity
 
@@ -47,12 +47,12 @@ A new booklet that illustrates the exciting possibilities offered by laser manuf
   
 ## Nanoaccess@Cardiff
 
-The [Annual Meeting](/event/NanoaccessCardiff) of current and potential users of Nanoscience and Nanotechnology Equipment at Cardiff (Nanoaccess@Cardiff) takes place on 6th October 2009 at Manufacturing Engineering Centre (MEC), Cardiff University.
+The [Annual Meeting](/4m-association/event/NanoaccessCardiff) of current and potential users of Nanoscience and Nanotechnology Equipment at Cardiff (Nanoaccess@Cardiff) takes place on 6th October 2009 at Manufacturing Engineering Centre (MEC), Cardiff University.
 
 ## EUMINA*fab*
 
 EUMINA*fab* is the first European Research Infrastructure on multimaterial micro and nanotechnology. It offers open and no-cost access to state of the art fabrication and characterisation technologies for a multitude of functional materials. Access is based on an online submission of proposals.
-The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/content/EUMINAfab-starts-operation) 
+The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/4m-association/content/EUMINAfab-starts-operation) 
 
 ## CHARPAN
 

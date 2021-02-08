@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-With all papers now selected, authors attending the conference should register by **Friday 13th August.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+With all papers now selected, authors attending the conference should register by **Friday 13th August.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/4m-association/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
   
 ## Microconnect - update on emerging applications
 
@@ -17,7 +17,7 @@ The Eurekalert site reports on researchers at DTU who have developed a [fully op
   
 ## Conference on Smart Sensors, Actuators and MEMS in Prague
 
-Co-organised by 4M Assocaitoion members TU Wien, this conference is the fifth in the series and due to the interdisciplinary spirit of the event a wide range of topics is covered related to the design, fabrication, packaging and system integration of MEMS and NEMS-based sensors and actuators applying smart approaches. [Details on event page.](/event/Smart-Sensors-Actuators-and-MEMS)
+Co-organised by 4M Assocaitoion members TU Wien, this conference is the fifth in the series and due to the interdisciplinary spirit of the event a wide range of topics is covered related to the design, fabrication, packaging and system integration of MEMS and NEMS-based sensors and actuators applying smart approaches. [Details on event page.](/4m-association/event/Smart-Sensors-Actuators-and-MEMS)
   
 ## Understanding and controlling taper when laser machining
 
@@ -30,4 +30,4 @@ Overview article from the [MICROmanufacturing website](http://micromanufacturing
 ## Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)
