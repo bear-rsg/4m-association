@@ -1,6 +1,6 @@
 # Sponsors
 
-## #Microsystems-UK#
+## Microsystems-UK
 
 ![Microsystems-UK](/4m-association/assets/images/logos/McrsystLogo-inline.png class="inline-img")
 
@@ -8,7 +8,7 @@
 
 -------------------
 
-## #SARIX#
+## SARIX
 
 ![SARIX](/4m-association/assets/images/logos/SARIX-inline.jpg class="inline-img")
 
@@ -16,7 +16,7 @@
 
 -------------------
 
-## #z-microsystems#
+## z-microsystems
 
 ![z-microsystems](/4m-association/assets/images/logos/z-microsystems-inline.png class="inline-img")
 
