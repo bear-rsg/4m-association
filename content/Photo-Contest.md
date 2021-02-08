@@ -49,7 +49,7 @@ Please e-mail the documents to the contest coordinator, Prof. Giovanni Lucchetta
 ## Sponsor
 
 
-<img src="/4m-association/images/files/Sponsor logo photo contest.jpg" width="150px">
+<img src="/4m-association/assets/images/files/Sponsor logo photo contest.jpg" width="150px">
 
 ## Awards
 

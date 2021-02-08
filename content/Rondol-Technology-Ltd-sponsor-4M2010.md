@@ -6,11 +6,11 @@ The Micro and Nano technology revolution is well under way and Rondol Technology
 
 Mixing, feeding, twin screw compounding, extrusion and micro-moulding , at the micro manufacturing level, are the key areas of Rondol expertise.   
  
-  ![RONDOL twin screw](/4m-association/images/microlab_screws.jpg)  
+  ![RONDOL twin screw](/4m-association/assets/images/microlab_screws.jpg)  
 
 
 On confirming their sponsorship of 4M2010, Managing Director Victoire de Margerie said *"Rondol are pleased to be sponsoring this year's conference. Its focus on micro-manufacturing fits well with our business and we recognise it as a valuable means of staying alert to the latest developments in various aspects of cross-sectoral research. We look forward to meeting the 4M Members and delegates in November."*
 
 
   
-![RONDOL](/4m-association/images/logo_web_address_400.jpg)
+![RONDOL](/4m-association/assets/images/logo_web_address_400.jpg)

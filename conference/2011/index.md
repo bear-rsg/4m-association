@@ -1,6 +1,6 @@
 # 4M 2011 Conference
 
-![Haus der Wirtschaft, Germany](/4m-association/images/H_der_W.jpg )
+![Haus der Wirtschaft, Germany](/4m-association/assets/images/H_der_W.jpg )
 
 ## Venue
 

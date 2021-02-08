@@ -4,12 +4,12 @@
 ## 4M 2010 - Sponsor
 
 
-![SARIX](/4m-association/images/logos/Sarix.jpg class="thumbnail")
+![SARIX](/4m-association/assets/images/logos/Sarix.jpg class="thumbnail")
 We are pleased to announce that once again [SARIX](http://sarix.com/) have agreed to sponsor our 4M conference. If you require further information about sponsorship packages, please contact [Chris Matthews.](mailto:matthewscw@cf.ac.uk)  
   
 ## 4M 2010
 
-![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
 Authors should receive feedback about their papers from the Review process by 3rd June. Further general conference information can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 ## 4M/ICOMM2009 accepted and indexed by Thomson Reuters'
@@ -38,5 +38,5 @@ The registration deadline for [NANOfutures, 15-16th June 2010](http://www.nanofu
   
 ## Training Courses in Microsystems
 
-![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

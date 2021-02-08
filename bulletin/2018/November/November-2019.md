@@ -56,4 +56,4 @@ Submission deadline for full papers:  **15th of April 2019**
  
 Contact: <a href="mailto:gngaile@ncsu.edu">Dr. Gracious Ngaile, North Carolina State University, USA.</strong></a>
 
-<img src="/4m-association/images/files/CFP_logos_Ngaile.png" width="500px">
+<img src="/4m-association/assets/images/files/CFP_logos_Ngaile.png" width="500px">

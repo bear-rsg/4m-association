@@ -34,4 +34,4 @@ All papers must be technical in nature and include original work. Approximately 
 
 
 Click [here>>](https://www.me.iitb.ac.in/~wcmnm/Call_for_papers.pdf) for paper submission details.
-Before submitting a paper, please review the required [template>>](/4m-association/images/files/WCMNM_paper_template_1.docx).
+Before submitting a paper, please review the required [template>>](/4m-association/assets/images/files/WCMNM_paper_template_1.docx).

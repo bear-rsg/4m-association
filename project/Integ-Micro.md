@@ -1,7 +1,7 @@
 # Integ-Micro
 
 <!--break-->
-![Integ-Micro](/4m-association/images/Logo_IntegMicro_web2.jpg)  
+![Integ-Micro](/4m-association/assets/images/Logo_IntegMicro_web2.jpg)  
   
 ## Integ-Micro: New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques.
 

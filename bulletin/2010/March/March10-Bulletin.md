@@ -4,12 +4,12 @@
 ## 4M 2010
 
 
-![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
 The [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) is **OPEN** and will remain so until the deadline on 19th March 2010, so there is still plenty of time to submit your paper. The [Call for Papers](/content/1st-Call-Papers) can be accessed online. Full conference information can be viewed on the [conference webpages.](http://www.4m-association.org/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.
 
 ## ICOMM/4M 2010
 
-![ICOMM/4M 2010](/4m-association/images/icomm_thumb_0.jpg class="thumbnail") [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
+![ICOMM/4M 2010](/4m-association/assets/images/icomm_thumb_0.jpg class="thumbnail") [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
   
 ## Job Opportunity
 
@@ -25,7 +25,7 @@ The second call for applications for work in EUMINAfab begins on Monday March 1s
   
 ## FP7 Information Day
 
-![FP7](/4m-association/images/FP7-gen-RGB_web.jpg class="thumbnail")  The Enterprise Europe Network (EEN) at the Welsh Assembly Government is hosting an [FP7 Information Day,](/event/FP7-NMP-Day) specifically focussing on the forthcoming NMP call. It takes place at Cardiff University on Monday March 22nd 2010. Registration is required for this free event.  
+![FP7](/4m-association/assets/images/FP7-gen-RGB_web.jpg class="thumbnail")  The Enterprise Europe Network (EEN) at the Welsh Assembly Government is hosting an [FP7 Information Day,](/event/FP7-NMP-Day) specifically focussing on the forthcoming NMP call. It takes place at Cardiff University on Monday March 22nd 2010. Registration is required for this free event.  
 
 ## European Metrology Research Programme
 
@@ -37,5 +37,5 @@ NANOfutures is a European multi-sectorial, cross-ETP, integrating platform with 
   
 ## Training Courses in Microsystems
 
-![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

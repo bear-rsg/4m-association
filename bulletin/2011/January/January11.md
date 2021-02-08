@@ -4,7 +4,7 @@
 ## 4M 2011 - Dates and venue announced
 
 
-![4M2011](/4m-association/images/4m-2011_web1.jpg class="thumbnail")
+![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
 We were pleased that Prof. Heinz Kück of Stuttgart University and the HSG-IMAT Institute, was able to attend 4M2010 and to announce the dates and venue for **4M2011, which will take place from 8th - 10th November 2011 in Stuttgart, Germany**. The first Call for Papers will be made soon, with the submission site likely to open 1st March. Deadline for papers will be early April.   
  
 ## Hot Embossing Glass - to the nearest micrometer
@@ -29,5 +29,5 @@ The latest newsletter from MORGaN is available [here](/4m-association/content/MO
  
 ## Training Courses in Microsystems
 
-![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

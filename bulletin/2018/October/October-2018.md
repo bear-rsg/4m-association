@@ -1,6 +1,6 @@
 # October 2018
 
-<img src="/4m-association/images/files/Seminar MIM2.jpg" width="500px">
+<img src="/4m-association/assets/images/files/Seminar MIM2.jpg" width="500px">
 
 
 Working with injection molding? Tools production? Product development? This seminar will give you the

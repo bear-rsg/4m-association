@@ -2,7 +2,7 @@
 
 ## 4M/ICOMM 2015 – Call for Papers
 
-![4M2020 Logo](/4m-association/images/files/call-for-papers.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/call-for-papers.jpg class="thumbnail")
 
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture.
 All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP). Deadline for submission is the 1st of November 2014.
@@ -11,14 +11,14 @@ All papers must be technical in nature and include original work. Selected paper
 
 ## Micro Surface Structuring 
 
-![4M2020 Logo](/4m-association/images/files/micro-surface-structuring.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/micro-surface-structuring.jpg class="thumbnail")
 Wednesday 19 November 2014 - The EPSRC Centre for Innovative Manufacturing in Ultra Precision is holding this one day meeting at The OpTIC Centre, St Asaph, North Wales on Wednesday 19th November 2014.
 
 [Read more>>](http://www.ultraprecision.org/news/events/micro-surface-structuring/)
 
 ## Polymer Micro/Nano Replication: Micro Injection Moulding and Nano Imprinting
 
-![4M2020 Logo](/4m-association/images/files/nano-replication.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/nano-replication.jpg class="thumbnail")
 
 Free seminar at DTU on 23/10/2014 - The Manufacturing Engineering Section of the Department of Mechanical Engineering, Technical University of Denmark, in collaboration with with ATV-SEMAPP (Danish Academy of Technical Sciences – Society of Process and Production Engineering and the Polymer group of ATV-SEMAPP - organizes a free event Polymer Micro/Nano Replication: Micro Injection Moulding and Hot Embossing with two internationally recognized invited experts Dr. Ben Whiteside & Dr. Matthias Worgull.
   
@@ -26,7 +26,7 @@ Free seminar at DTU on 23/10/2014 - The Manufacturing Engineering Section of the
 
 ## SMARTLAM
 
-![4M2020 Logo](/4m-association/images/files/smartlam.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/smartlam.jpg class="thumbnail")
 SMARTLAM, an FP7 project Researchers develops new micro-production-technologies
 While other approaches still print components, SMARTLAM prints complete systems!
 
@@ -35,7 +35,7 @@ While other approaches still print components, SMARTLAM prints complete systems!
 
 ## 4M 10% Discount on brand-new course
 
-![4M2020 Logo](/4m-association/images/files/fsrm_1.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/fsrm_1.jpg class="thumbnail")
 There is a brand-new course “Wearable Sensing and Computing” which will be given by a highly renown specialist, Prof Adrian Ionescu, at Swiss Federal Institute of Lausanne, Switzerland.
 Date is November 5-6 and registration deadline is October 27 at the latest. 
 To get the discount, members should mention “10% discount for 4M members” on the registration form.
@@ -45,7 +45,7 @@ To get the discount, members should mention “10% discount for 4M members” on
 
 ## 4M Announcement - 4M2020 Open Innovation Portal
 
-![4M2020 Logo](/4m-association/images/files/portal.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/portal.jpg class="thumbnail")
 4M Announcement - 4M2020 Open Innovation Portal
 
 The first phase of the open innovation portal is now available to all users. You are able to submit and view opportunities for collaboration as well as download case studies. New opportunities will be added weekly.
@@ -55,7 +55,7 @@ The first phase of the open innovation portal is now available to all users. You
 
 ## Structured and Freeform Surfaces
 
-![4M2020 Logo](/4m-association/images/files/euspen_2.jpg class="thumbnail")
+![4M2020 Logo](/4m-association/assets/images/files/euspen_2.jpg class="thumbnail")
 
 Special Interest Group Meeting  - Structured and Freeform Surfaces - 19th - 20th November 2014, Palazzo Santo Stefano, Italy
  

@@ -17,7 +17,7 @@
   * fill in the form, ensuring all required information is present and correct
   * make sure you remember your password. Each paper has a paper id and password, which allows all authors to update the submission information or re-upload the paper
   * the submitted paper **must** be in **DOC** format
-  * Make sure you follow the template of the sample paper in [MS Word](/4m-association/images/files/Sample%20pages-%20full%20paper%20Instructions_1.doc) or [Open Office](/4m-association/images/files/Sample%20pages-%20full%20paper%20Instructions_0.odt) format
+  * Make sure you follow the template of the sample paper in [MS Word](/4m-association/assets/images/files/Sample%20pages-%20full%20paper%20Instructions_1.doc) or [Open Office](/4m-association/assets/images/files/Sample%20pages-%20full%20paper%20Instructions_0.odt) format
   * the total **number of pages** should not exceed four(4)
   * submit the paper by **Feb 13, 2009** deadline
 3. If required, update the submission information, like author details, by following the [Edit Submission](http://conference.4m-association.org/author/edit.php) link

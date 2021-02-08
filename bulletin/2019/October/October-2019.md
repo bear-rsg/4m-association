@@ -52,4 +52,4 @@ For more information on **WCMNM2020** please see  [here>>](https://www.me.iitb.a
  
 or contact: <a href="mailto:wcmnm@me.iitb.ac.in"> wcmnm@me.iitb.ac.in</strong></a>
 
-<img src=" /4m-association/images/files/IITB, Mumbai_1.jpg" width="450px">
+<img src=" /4m-association/assets/images/files/IITB, Mumbai_1.jpg" width="450px">

@@ -16,7 +16,7 @@ Prices per room per night
 
 Tax 10,0% (Tax included)
 
-![Barcelo1](/4m-association/images/barcelo1.jpg)   ![Barcelo2](/4m-association/images/barcelo2.jpg)   ![Barcelo3](/sites/www.4m-association.org/files/barcelo3.jpg)   ![Barcelo4](/sites/www.4m-association.org/files/barcelo4.jpg)
+![Barcelo1](/4m-association/assets/images/barcelo1.jpg)   ![Barcelo2](/4m-association/assets/images/barcelo2.jpg)   ![Barcelo3](/sites/www.4m-association.org/files/barcelo3.jpg)   ![Barcelo4](/sites/www.4m-association.org/files/barcelo4.jpg)
 
 To book rooms at these rates the 4M2013 attendees have to guarantee the booking with their credit cards by completing the attached form (at the bottom of this webpage) and provide some check-in information in the attached spread sheet. These two documents have to be sent to:  
 

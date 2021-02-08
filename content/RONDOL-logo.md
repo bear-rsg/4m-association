@@ -1,5 +1,5 @@
 # RONDOL logo
 
-![RONDOL](/4m-association/images/logo_web_address_3.jpg)   
+![RONDOL](/4m-association/assets/images/logo_web_address_3.jpg)   
   
  

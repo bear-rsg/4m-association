@@ -1,6 +1,6 @@
 # Ian Hutchings
 
-![Ian Hutchins](/4m-association/images/IanHutchings.jpg class="inline-img") 
+![Ian Hutchins](/4m-association/assets/images/IanHutchings.jpg class="inline-img") 
 ## #Name#
 
 ‭Ian Michael Hutchings

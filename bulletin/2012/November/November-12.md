@@ -3,7 +3,7 @@
 <!--break-->
 ## 4M 2012 Association Annual Meeting - Presentations available
 
-Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, and also to those who attended the Annual Meeting. Natalie Withenshaw and Rob Bell of C-Tech Innovation Ltd were also there to introduce C-Tech as the new secretariat support for the 4M Association. Presentations from [Chris Matthews](/4m-association/images/files/C.Matthews_4M-Presentation_081012.pptx), [Stefan Dimov](/4m-association/images/files/S.Dimov_4M-Presentation_081012.pdf) and [C-Tech Innovation](/4m-association/images/files/C-Tech_4M-Presentation_081012.pptx) are now available.  
+Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, and also to those who attended the Annual Meeting. Natalie Withenshaw and Rob Bell of C-Tech Innovation Ltd were also there to introduce C-Tech as the new secretariat support for the 4M Association. Presentations from [Chris Matthews](/4m-association/assets/images/files/C.Matthews_4M-Presentation_081012.pptx), [Stefan Dimov](/4m-association/assets/images/files/S.Dimov_4M-Presentation_081012.pdf) and [C-Tech Innovation](/4m-association/assets/images/files/C-Tech_4M-Presentation_081012.pptx) are now available.  
 
 ## Save the Date for the next 4M Annual Conference - 4M2013
 
@@ -15,7 +15,7 @@ Papers are sought to address theoretical and applied research issues related to 
   
 ## COTECH - Final meetings, workshop and results report
 
-![Cotech](/4m-association/images/IMG_5034_web.jpg class="thumbnail")
+![Cotech](/4m-association/assets/images/IMG_5034_web.jpg class="thumbnail")
 The final meeting, final workshop and a COTECH special session all took place in Vienna in October 2012. The third Training for Professionals workshop was attended by just over 60 people who were introduced to the final results of the COTECH project. Presentations by the various sub-project leaders supported an impressive display of the physical demonstrators produced by the COTECH consortium. These range from a 3.5mm diameter complex 8 pin connector for hearing aids to translucent self-ligating brackets for use in orthodontic care. To learn more about the results from the project visit [www.fp7-cotech.eu](http://www.fp7-cotech.eu/) where you can download a copy of the Cotech final brochure. 
   
 ## Public consultation on "European Metrology Research Programme under Horizon 2020"

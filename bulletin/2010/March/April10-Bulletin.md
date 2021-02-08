@@ -4,7 +4,7 @@
 ## 4M 2010
 
 
-![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
 The [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) is **OPEN** and will remain so until the extended deadline of 6th April 2010. The [Call for Papers](/content/1st-Call-Papers) can be accessed online. The first stage Review will begin w/c 12th April. Full conference information can be viewed on the [conference webpages.](http://www.4m-association.org/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.  
   
 ## 4M/ICOMM 2009
@@ -29,9 +29,9 @@ U.S. Researchers have used new microwaterjet technology to machine a magentic po
   
 ## Extending the process limits of laser polymer welding
 
-![Polybright](/4m-association/images/Polybright_web.jpg class="thumbnail-teaser")**POLYBRIGHT** is an FP7 Project on Extending the Process Limits of Laser Polymer Welding with High-Brilliance Beam Sources. [Read more](/content/Extending-process-limits-laser-polymer-welding)  
+![Polybright](/4m-association/assets/images/Polybright_web.jpg class="thumbnail-teaser")**POLYBRIGHT** is an FP7 Project on Extending the Process Limits of Laser Polymer Welding with High-Brilliance Beam Sources. [Read more](/content/Extending-process-limits-laser-polymer-welding)  
 
 ## Training Courses in Microsystems
 
-![FSRM](/4m-association/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses)

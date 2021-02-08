@@ -4,7 +4,7 @@
 ## 4M/ICOMM 2009
 
 
-![4M/ICOMM 2009](/4m-association/images/conf2008-twin-thumb.png class="thumbnail")
+![4M/ICOMM 2009](/4m-association/assets/images/conf2008-twin-thumb.png class="thumbnail")
 93 papers have been accepted for publication in the 4M/ICOMM Conference proceedings, which are now in production.  
 [Register](/conference/2009/Registration_and_fees) <b>before JULY 31st</b> to benefit from <b>reduced rates.</b>  
 The [Provisionsl programme](/conference/2009/Programme) is now available. Visit the [conference webpages](http://www.4m-association.org/conference/2009 "conference webpages") for further information.  
