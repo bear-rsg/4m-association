@@ -4,7 +4,7 @@ This series of conferences on multi-material micro-manufacture is organised by t
   
 ![4M2006 attendees](/4m-association/assets/images/4m2013groupphoto.jpg)
 <!--break-->
-#Past 4M conferences#
+# Past 4M conferences
 
  * [4M2005](http://www.4m-net.org/4M_Conference "4M2005 Conference") - Forschungszentrum Karlsruhe, Germany  
  * [4M2006](http://www.4m-net.org/Conference/4M2006 "4M2006 Conference") - The European Centre for Micro and Nano Technology, Grenoble, France  
