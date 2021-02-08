@@ -1,3 +1,3 @@
-# Alicona logo
+## Alicona logo
 
 Alicona logo attached.

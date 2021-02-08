@@ -1,10 +1,10 @@
-# Overview Programme
+## Overview Programme
 
 The **Detailed Programme(*)** including the schedule for presentations is **available to download at bottom of this webpage.**
 <!--break-->
-## Tuesday 8th November 2011
+### Tuesday 8th November 2011
 
-## Venue: Haus der Wirtschaft, Stuttgart, Germany.
+### Venue: Haus der Wirtschaft, Stuttgart, Germany.
 
 
 <table class="info">
@@ -80,7 +80,7 @@ The **Detailed Programme(*)** including the schedule for presentations is **avai
 </table>  
 <br />  
   
-## Wednesday 9th November 2011
+### Wednesday 9th November 2011
 
  
 <table class="info">
@@ -146,7 +146,7 @@ The **Detailed Programme(*)** including the schedule for presentations is **avai
 </table>  
 <br />
 
-## Thursday 10 November 2011
+### Thursday 10 November 2011
 
 
 <table class="info">

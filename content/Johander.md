@@ -1,4 +1,4 @@
-# Per Johander
+## Per Johander
 
 <!--break-->
 ![Per Johander](/4m-association/assets/images/Per_obit.jpg class="thumbnail")It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.  

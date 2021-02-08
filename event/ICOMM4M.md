@@ -1,4 +1,4 @@
-# ICOMM/4M
+## ICOMM/4M
 
 ![ICOMM/4M 2010](/4m-association/assets/images/logo%202010.jpg class="thumbnail-teaser")  
 The [5th International Conference on MicroManufacturing](http://www.conferencing.uwex.edu/conferences/ICOMM10)

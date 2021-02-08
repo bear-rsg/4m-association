@@ -1,6 +1,6 @@
-# Submission Guidelines
+## Submission Guidelines
 
-## Deadlines
+### Deadlines
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -9,7 +9,7 @@
 <tr><td>Submission of Final Paper</td><td>27th July 2013</td></tr> 
 </table>
 <!--break-->
-## Step by Step Guide
+### Step by Step Guide
 
 1. Go to the [conference submission website](http://conference.4m-association.org)
 2. To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link

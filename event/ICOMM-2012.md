@@ -1,4 +1,4 @@
-# ICOMM 2012
+## ICOMM 2012
 
 <!--break-->
 Join us at the 7th International Conference on Micromanufacturing, March 12-14, 2012, at Northwestern University, Evanston, IL. Featured keynote speakers are:   

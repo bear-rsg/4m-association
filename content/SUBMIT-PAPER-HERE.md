@@ -1,4 +1,4 @@
-# SUBMIT PAPER HERE
+## SUBMIT PAPER HERE
 
  To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link
 

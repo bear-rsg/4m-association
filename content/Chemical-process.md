@@ -1,4 +1,4 @@
-# Chemical process
+## Chemical process
 
 A surface can be modified by a chemical treatment. An example is removing native oxygen from the surface of a silicon wafer. In this case ammonium fluoride is put to the surface of the substrate and reacts with the oxygen.
 <!--break-->

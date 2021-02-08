@@ -1,4 +1,4 @@
-# Use microwaterjetting for a medical part 
+## Use microwaterjetting for a medical part 
 
 <!--break-->
 A group of US researchers needed to machine a magnetic pole structure with a thickness of 100μm to 150μm from Hiperco 50 sheet, an iron-cobalt-vanadium soft magnetic alloy that exhibits high magnetic saturation.   

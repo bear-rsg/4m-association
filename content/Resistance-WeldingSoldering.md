@@ -1,4 +1,4 @@
-# Resistance Welding/Soldering
+## Resistance Welding/Soldering
 
 Technology suitable for both serial and small quantity production
 

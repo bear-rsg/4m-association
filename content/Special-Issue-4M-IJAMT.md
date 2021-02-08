@@ -1,4 +1,4 @@
-# Special Issue on 4M in IJAMT
+## Special Issue on 4M in IJAMT
 
 The following papers from 4M2007 are accepted for publication in the Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT):
 <!--break-->

@@ -1,4 +1,4 @@
-# Sylgard 184 (Silicone)
+## Sylgard 184 (Silicone)
 
 __material properties:__  	
 thermal stability up to	200 °C    

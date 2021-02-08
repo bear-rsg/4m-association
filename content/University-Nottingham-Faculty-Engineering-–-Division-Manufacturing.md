@@ -1,4 +1,4 @@
-# University of Nottingham - Faculty of Engineering – Division of Manufacturing
+## University of Nottingham - Faculty of Engineering – Division of Manufacturing
 
 
 **PhD Research Studentship**

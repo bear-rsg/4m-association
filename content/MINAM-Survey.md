@@ -1,4 +1,4 @@
-# MINAM Survey 
+## MINAM Survey 
 
 <!--break-->
 As part of its task the MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA, and in so doing will provide valuable input to the "Horizon 2020" framework. To do so, it is assessing the current state of micro and nano manufacturing by means of a survey.

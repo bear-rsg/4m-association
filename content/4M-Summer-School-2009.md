@@ -1,4 +1,4 @@
-# 4M Summer School 2009
+## 4M Summer School 2009
 
 ![4M Ceramics Workshop in Goteborg](/4m-association/assets/images/Group_DTUSummerschool2009web1.jpg class="stretch-img")  
 The 2009 edition of DTU/4M summerschool in “micro mechanical system design and manufacture” gathered twenty students from all over Europe (as their institution would suggest, although some were from outside Europe in terms of country of birth!).

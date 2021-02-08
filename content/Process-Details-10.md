@@ -1,4 +1,4 @@
-# Process Details
+## Process Details
 
 __*used materials:* Copper (Cu), Steel, 42CrMo4__
 

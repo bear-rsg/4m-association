@@ -1,9 +1,9 @@
-# Registration & fees
+## Registration & fees
 
 Register for the 4M 2012 Conference via the dedicated [**4M2012 Registration Site**]( 
 http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&prodid=508&deptid=17&catid=3)
 <!--break-->
-## Important Dates
+### Important Dates
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -18,7 +18,7 @@ http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&prodid=508&deptid=
 In order for a paper to be included in the conference programme and appear in the proceedings at least one author **must** register for the conference. The Authors Final Registration deadline is fixed in relation to the production cycle of the proceedings and cannot be changed.  
   
 
-## Conference Fees
+### Conference Fees
 
 
 <table class="info" style="width:100%;">

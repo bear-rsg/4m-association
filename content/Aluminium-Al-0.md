@@ -1,4 +1,4 @@
-# Aluminium (Al)
+## Aluminium (Al)
 
 __material properties:__  	
 thermal stability up to	660 °C

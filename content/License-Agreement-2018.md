@@ -1,4 +1,4 @@
-# License Agreement 2018
+## License Agreement 2018
 
 <!--break-->##License agreement##
 
@@ -15,7 +15,7 @@ The licensor warrants that:
  * the Article contains no libelous or other unlawful statements and does not contain any materials that violate any personal or proprietary rights of any other person or entity. 
  * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted. 
 
-## Submission
+### Submission
 
 
 Please download the WCMNM2018 License Agreement by clicking on the attachment below. When you have completed it please scan, post or email it, by the specified deadline, to the 4M Association Officer at the address below. If posting, please also email a confirmation.

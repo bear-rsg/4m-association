@@ -1,19 +1,19 @@
-# Ian Hutchings
+## Ian Hutchings
 
 ![Ian Hutchins](/4m-association/assets/images/IanHutchings.jpg class="inline-img") 
-## Name
+### Name
 
 ‭Ian Michael Hutchings
 
-## Date of Birth
+### Date of Birth
 
 ‭6‭ ‬May‭ ‬1950,‭ ‬Barnet,‭ ‬England
 
-## Nationality
+### Nationality
 
 ‭‬British
 
-## Current positions
+### Current positions
 
 ‎University of‭ ‬Cambridge,‭ ‬Department of Engineering  
 GKN Professor of Manufacturing Engineering‭ (‬since‭ ‬2001‭)  
@@ -22,7 +22,7 @@ Fellow,‭ ‬St John‭’‬s‭ ‬College,‭ ‬Cambridge‭ (‬since‭ �
 Chairman,‎ ‏St John‭’‬s Innovation Centre Ltd.,‭ ‬Cambridge‭ (‬since‭ ‬1996‭)  
 Editor-in-Chief,‎ ‏Wear,‭ ‬Elsevier‭ (‬since‭ ‬1998‭)  
 
-## Previous employment‭
+### Previous employment‭
 
 University of‭ ‬Cambridge,‭ ‬Dept.‭ ‬of Materials Science and Metallurgy   
 ‏Reader in Tribology,‭ ‬1997-2000  
@@ -42,7 +42,7 @@ Visiting Research Scientist,‎ ‏Lawrence‭ ‬Berkeley Laboratory,‭ ‬Uni
 
 ‎ ‏Visiting Research Scientist,‭ ‬German Federal Materials Research‭ Establishment‭ (‬BAM‭)‬,‭ ‬Berlin,‭ June-August‭ 1992‭ 
 
-## Education‭
+### Education‭
 
  Trinity‎ ‏College,‭ ‬Cambridge,‭ ‬1968-1974  
 ‎ ‏Natural Sciences Tripos Part II‭ (‬Physics‭) ‬1971  
@@ -51,7 +51,7 @@ Visiting Research Scientist,‎ ‏Lawrence‭ ‬Berkeley Laboratory,‭ ‬Uni
  BA‭  ‬University of‭ ‬Cambridge‭ ‬1971  
 ‎ ‏MA,‭ ‬PhD‭ ‬University of‭ ‬Cambridge‭ ‬1975  
 
-## Awards and distinctions
+### Awards and distinctions
 
 ‎‏Institution of Mechanical Engineers,‭ ‬Tribology Silver Medal‭ ‬1994  
 ‎‏University of‭ ‬Cambridge,‭ ‬Pilkington Teaching Prize‭ ‬1996  
@@ -63,7 +63,7 @@ China‭ ‬University of Mining and Technology,‭ ‬Beijing,‭ ‬Honorary P
 ‏Xi‭’‬an‭ ‬Jiaotong University,‭ ‬China,‭ ‬Adjunct Professor‭ ‬2004 
 ‏ETH‭ ‬Zürich,‭ ‬Switzerland,‭ ‬Staudinger-Durrer Prize and Medal‭ 2007  
 
-## Membership of professional bodies
+### Membership of professional bodies
 
 Fellow of the‭ ‬Institute of‭ ‬Materials‭ (‬FIMMM‭) ‬since‭ ‬1993‭ (‬MIM‭ ‬1981-92‭)  
 Fellow of‎ ‏the‭ ‬Institute of‭ ‬Physics‭ (‬FInstP‭) ‬since‭ ‬1994‭ (‬MInst P‭ ‬1978-93‭) 
@@ -71,7 +71,7 @@ Chartered Engineer‎ (‏CEng‭)
 Chartered Physicist‎ (‏CPhys‭) 
 
 
-## Current and recent professional activities
+### Current and recent professional activities
 
 President,‭ ‬International Research Group on Wear of Engineering Materials‭ (‬IRG-OECD‭) ‬2007‭ ‬– present‭  (‬Vice-president‭ ‬1997-2007,‭ ‬UK National representative‭ ‬1993-97‭)  
 Member,‭ ‬Surface Engineering Divisional Board,‭ ‬Institute of‭ ‬Materials,‭ ‬2007-present‭ (‬member‭ ‬1999‭ ‬– present‭)  
@@ -100,6 +100,6 @@ Member,‭ ‬Editorial Board of‭ ‬Journal of Materials Processing Technolog
 Member,‭ ‬Advisory Board,‭ ‬Elsevier Tribology and Interface Engineering Book Series,‭ ‬2003-‭ ‬present 
 Chairman,‭ ‬St John's Innovation Centre Ltd.,‭ ‬Cambridge,‭ ‬since‭ ‬1996‭ (‬Member of Board of Directors since‭ ‬1993‭) 
 
-## Publications
+### Publications
 
 List of‭  ‬more than‭ ‬280‭ ‬journal papers,‭ ‬book chapters etc.‭ ‬on tribology,‭ ‬surface engineering,‭ ‬aspects of materials and manufacturing engineering and inkjet printing available

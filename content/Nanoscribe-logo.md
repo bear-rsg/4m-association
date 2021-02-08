@@ -1,3 +1,3 @@
-# Nanoscribe logo
+## Nanoscribe logo
 
 attached.

@@ -1,4 +1,4 @@
-# Christine Neuy joins MST BW 
+## Christine Neuy joins MST BW 
 
 <!--break-->
 ![Christine Neuy](/4m-association/assets/images/files/Christine_Neuy_4c.jpg class="thumbnail")   

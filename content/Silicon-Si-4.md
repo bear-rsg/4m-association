@@ -1,4 +1,4 @@
-# Silicon (Si)
+## Silicon (Si)
 
 __dimensions:__  	
 min. hole diameter:	200 nm- 500 nm

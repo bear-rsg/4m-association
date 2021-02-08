@@ -1,4 +1,4 @@
-# Congress Programme
+## Congress Programme
 
 **A cocktail reception is available on the evening of the 17th at the congress venue.**
 

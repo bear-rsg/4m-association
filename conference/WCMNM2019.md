@@ -1,15 +1,15 @@
-# WCMNM 2019
+## WCMNM 2019
 
-## World Congress on Micro and Nano Manufacturing
+### World Congress on Micro and Nano Manufacturing
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 
 <img src="/4m-association/assets/images/files/Raleigh NC, USA.jpg" width="450px">
 
-## Congress Chair
+### Congress Chair
 
 Gracious Ngaile, NC State University, USA
-## Congress Co-Chairs
+### Congress Co-Chairs
 
 Paul Cohen, North Carolina State University, USA
 
@@ -19,7 +19,7 @@ Stefan Dimov, University of Birmingham, UK
 
 Kuniaki Dohda, Northwestern University, USA 
 
-## Venue
+### Venue
 
 
 Raleigh, the capital city of North Carolina, also known as the City of Oaks is more than a blossoming Southern metropolis- you’ll feel enriched and energized the instant you’re warmly welcomed by its smart, savvy locals, its artists create a bevy of cultural and culinary touchstones and its storytellers proudly carry on the collective heritage of a rich, historic capital city. Raleigh is also one of the fastest-growing cities in the country, part  of North Carolina's Research Triangle- one of the country's largest and most successful research parks, and a major center in the United States for high-tech research. 
@@ -27,7 +27,7 @@ Raleigh, the capital city of North Carolina, also known as the City of Oaks is m
 The congress will be held at the <strong>The Sheraton Raleigh Hotel</strong> in Raleigh.
 
 
-## Important Dates
+### Important Dates
 
 
 The main congress programme takes place from **10th to 12th of September 2019**
@@ -39,7 +39,7 @@ Submission Deadline:  **15th of April 2019**
 
 
 
-## Congress Theme
+### Congress Theme
 
 <li>Micro fabrication technologies, process chains and process characterization
 
@@ -65,7 +65,7 @@ Submission Deadline:  **15th of April 2019**
 
 <li>Applications of both current and emerging micromanufacturing methods and equipment, including those that bridge the nano- and macro- worlds
 
-## Contact Us
+### Contact Us
 
 
 For further information on:

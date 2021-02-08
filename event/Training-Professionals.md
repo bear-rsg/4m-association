@@ -1,4 +1,4 @@
-# Training for Professionals No.3 - Vienna
+## Training for Professionals No.3 - Vienna
 
 The Workshop will present the latest technologies and applications within the field of micro and nano moulding, with presentations by speakers from industrial partners, research centers and universities.
 <!--break-->

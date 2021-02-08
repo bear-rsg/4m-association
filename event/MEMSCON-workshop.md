@@ -1,7 +1,7 @@
-# MEMSCON workshop
+## MEMSCON workshop
 
 <!--break-->
-## Venue
+### Venue
 
 Bucharest World Trade Centre  
   

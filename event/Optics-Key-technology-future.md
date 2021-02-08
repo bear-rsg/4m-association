@@ -1,4 +1,4 @@
-# Optics - Key technology for the future
+## Optics - Key technology for the future
 
 <!--break-->
 **Venue:**  

@@ -1,4 +1,4 @@
-# Gold (Au), Nickel (Ni)
+## Gold (Au), Nickel (Ni)
 
 __dimensions:__  	
 layer thickness:	Ni: a few hundred µm; gold: µm

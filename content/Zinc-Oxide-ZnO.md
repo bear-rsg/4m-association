@@ -1,4 +1,4 @@
-# Zinc Oxide (ZnO)
+## Zinc Oxide (ZnO)
 
 __material properties:__  	
 thermal stability up to	1969 °C  

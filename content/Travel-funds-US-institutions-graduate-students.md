@@ -1,4 +1,4 @@
-# Travel funds for U.S. institutions' graduate students 
+## Travel funds for U.S. institutions' graduate students 
 
 The National Science Foundation (NSF) is providing travel funds for graduate students studying in U.S. institutions to participate in the 4M/ICOMM 2015 International Conference on Micromanufacturing. The provided partial support will cover ~ 50-70% of travel, registration, and lodging expense incurred for attendance of the 4M/ICOMM 2015. However, to compete for the travel funds the graduate student must be an author or co-author of a paper accepted for the 4M/ICOMM 2015. Selection will be on a competitive basis, limited by the available funds. 
 

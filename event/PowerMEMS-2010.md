@@ -1,4 +1,4 @@
-# PowerMEMS 2010
+## PowerMEMS 2010
 
 The 10th International Workshop on Micro and Nanotechnology for Power Generation and Energy Conversion Applications
 <!--break-->

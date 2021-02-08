@@ -1,4 +1,4 @@
-# Special Issues
+## Special Issues
 
 Since the inception of the 4M Conference series in 2005, a number of Special Issues in learned journals, arising from papers first presented in the 4M Conference Proceedings, have been published.
 

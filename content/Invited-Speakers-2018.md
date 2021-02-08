@@ -1,4 +1,4 @@
-# Invited Speakers 2018
+## Invited Speakers 2018
 
 <img src="http://nserc-hi-am.ca/wp-content/uploads/2017/09/11.jpg" width="100px">
 

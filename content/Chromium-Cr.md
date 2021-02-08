@@ -1,4 +1,4 @@
-# Chromium (Cr)
+## Chromium (Cr)
 
 __material properties:__  	
 thermal stability up to	500 °C  

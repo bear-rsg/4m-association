@@ -1,4 +1,4 @@
-# POLYNET uses YouTube platform for dissemination
+## POLYNET uses YouTube platform for dissemination
 
 The Polynet project, which finished at the end of 2010, has published a video demonstrating the results of its research collaboration on [Youtube]( http://www.youtube.com/watch?v=kJhzZkzaNCw).
 <!--break-->

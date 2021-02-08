@@ -1,4 +1,4 @@
-# Different Standard Photoresists
+## Different Standard Photoresists
 
 __material properties:__  
 most relevant chemical non-resistance:	acetone, KOH  

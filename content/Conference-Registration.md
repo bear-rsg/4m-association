@@ -1,6 +1,6 @@
-# Conference Registration
+## Conference Registration
 
-## Conference Registration Now Open
+### Conference Registration Now Open
 
 
 **REGISTER NOW** [here>>](http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90&prodid=1000)
@@ -29,7 +29,7 @@ Please note that the tickets for the *"The Last Supper"* visit are included in t
 
 
 
-## Conference Fees
+### Conference Fees
 
 (after 1st of February 2015)
 
@@ -49,7 +49,7 @@ The conference fees (in GBP) include printed proceedings, lunches, refreshments,
 ................................................................................................
 
 
-## One Day Conference Fee and Social Events
+### One Day Conference Fee and Social Events
 
 One day conference fee (Lunch and CB included): **£167**
 

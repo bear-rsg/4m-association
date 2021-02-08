@@ -1,4 +1,4 @@
-# Polymer actuator could be artificial muscle
+## Polymer actuator could be artificial muscle
 
 French scientists have designed an electronic conducting polymer actuator that can extend and contract linearly rather than bending. The fibres could eventually be used to develop artificial  muscles.
 <!--break-->

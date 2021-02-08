@@ -1,3 +1,3 @@
-# FOTEC logo
+## FOTEC logo
 
 FOTEC logo

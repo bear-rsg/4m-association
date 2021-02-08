@@ -1,4 +1,4 @@
-# Summer School in Microrobotics and Self-Assembly for Hybrid MEMS
+## Summer School in Microrobotics and Self-Assembly for Hybrid MEMS
 
 This Summer School is a real opportunity to go into the microworld and discover innovative approaches and tools.
 <!--break-->

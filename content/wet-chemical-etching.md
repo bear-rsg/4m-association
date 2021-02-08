@@ -1,4 +1,4 @@
-# wet chemical etching
+## wet chemical etching
 
 Etching is used to chemically remove layers from the surface of a wafer during manufacturing. 
 For many etch steps, part of the wafer is protected from the etchant by a "masking" material which resists etching. In some cases, the masking material is photoresist which has been patterned using photolithography. Other situations require a more durable mask, such as silicon nitride.

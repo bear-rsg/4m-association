@@ -1,4 +1,4 @@
-# Small Quantity Production
+## Small Quantity Production
 
 <!--break--><table class="info fade">
   <tbody>

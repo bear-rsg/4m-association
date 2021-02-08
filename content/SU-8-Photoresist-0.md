@@ -1,4 +1,4 @@
-# SU-8 Photoresist
+## SU-8 Photoresist
 
 __material properties:__  	
 thermal stability up to	~200 °C chemically (but stress condition may change)  

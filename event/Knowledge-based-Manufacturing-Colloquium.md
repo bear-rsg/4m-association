@@ -1,4 +1,4 @@
-# Knowledge-based Manufacturing Colloquium
+## Knowledge-based Manufacturing Colloquium
 
 Are you interested in new concepts of manufacturing automation and their feasibility in the automotive, aeronautics and electrical areas?   
 Would you like to discover the potential of a task oriented production approach?   

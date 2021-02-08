@@ -1,11 +1,11 @@
-# August 2014
+## August 2014
 
-## Update - 4M/ICOMM 2015
+### Update - 4M/ICOMM 2015
 
 ![4M2020 Logo](/4m-association/assets/images/call-for-papers2_0.jpg class="thumbnail")
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture. All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP). [Call for Papers>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=7406f2bb20&e=1434686575)
 
-## Laser processing for micro and nano-scale manufacturing: technology and application advances
+### Laser processing for micro and nano-scale manufacturing: technology and application advances
 
 ![4M2020 Logo](/4m-association/assets/images/files/laser-processing_0.jpg class="thumbnail")
 For More Information use this LINK
@@ -18,7 +18,7 @@ Register Online Here
 [Read more>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=68a640ae20&e=1434686575)
 
 
-## 4M Announcement - 4M2020 Foresight Forum
+### 4M Announcement - 4M2020 Foresight Forum
 
 ![4M2020 Logo](/4m-association/assets/images/files/foresight-forum.jpg class="thumbnail")
 The 4M2020 programme organised a successful Foresight Forum from the 9th to 11th September 2014 in Grenoble (F) to review the research needs in Micro and Nano Manufacturing and inform H2020 about future priorities in this field.  Details of the outcomes will follow in next months newsletter. This was an invitation only event - there will be more workshops happening this year. Please contact us if you are interested in attending a 4M2020 workshop.
@@ -26,7 +26,7 @@ The 4M2020 programme organised a successful Foresight Forum from the 9th to 11th
 [Read more>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=2e632bbf8e&e=1434686575)
 
 
-## 49th International Workshop on Microfactories
+### 49th International Workshop on Microfactories
 
 ![4M2020 Logo] (/4m-association/assets/images/files/iwmf.jpg class="thumbnail")
 October 5 – 8, 2014 | Venue: Honolulu, HI - USA
@@ -35,7 +35,7 @@ There is incredible potential in reducing the physical scale of numerous process
 [Read more>>](http://4m-association.us1.list-manage1.com/track/click?u=4a3e2307c8444f1ffd4221249&id=329b425450&e=1434686575)
 
 
-## 4M 10% Discount on FSRM courses in micro-/nanotech
+### 4M 10% Discount on FSRM courses in micro-/nanotech
 
 ![4M2020 Logo](/4m-association/assets/images/fsrm_0.jpg class="thumbnail")
 To get the discount, members should mention “10% discount for 4M members” on the registration form
@@ -46,7 +46,7 @@ To get the discount, members should mention “10% discount for 4M members” on
 
 
 
-## 4M Announcement - 4M2020 Open Innovation Portal
+### 4M Announcement - 4M2020 Open Innovation Portal
 
 ![4M2020 Logo](/4m-association/assets/images/portal.jpg class="thumbnail")
 The first phase of the open innovation portal is now available to all users. You are able to submit and view opportunities for collaboration as well as download case studies.
@@ -56,7 +56,7 @@ New opportunities will be added weekly
 [To view the portal click here>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=83ee5302bf&e=1434686575) 
 
 
-## Special Interest Group Meeting
+### Special Interest Group Meeting
 
 ![4M2020 Logo](/4m-association/assets/images/euspen-small.jpg class="thumbnail")
 Structured and Freeform Surfaces - 19th - 20th November 2014

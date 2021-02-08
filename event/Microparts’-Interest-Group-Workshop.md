@@ -1,4 +1,4 @@
-# 'Microparts’ Interest Group Workshop
+## 'Microparts’ Interest Group Workshop
 
 Recent advances in modern manufacturing techniques has made it possible to manufacture small and complex components to extremely high accuracies. In direct response to the extreme demands of quality assurance for the measurement of size, form and position of microsystem parts, extensive research is being carried out in the area of geometrical measurement on the micro-scale.
 <!--break-->

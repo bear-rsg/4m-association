@@ -1,4 +1,4 @@
-# Process Details
+## Process Details
 
 __*used materials:*	Silverpalladium (AgPd), Silver (Ag), Gold (Au)__
 	

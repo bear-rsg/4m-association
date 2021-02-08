@@ -1,4 +1,4 @@
-# Chrome (Cr)
+## Chrome (Cr)
 
 __material properties:__  	
 thermal stability up to	1907 °C

@@ -1,4 +1,4 @@
-# Polystyrene
+## Polystyrene
 
 __material properties:__  	
 thermal stability up to	90 °C  

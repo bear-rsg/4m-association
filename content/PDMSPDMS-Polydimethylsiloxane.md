@@ -1,4 +1,4 @@
-# PDMS/PDMS (Polydimethylsiloxane)
+## PDMS/PDMS (Polydimethylsiloxane)
 
 __process parameters:__  	
 temperature:	room temperature  

@@ -1,4 +1,4 @@
-# Labs-on-a-Chip that you can Shrink to Fit 
+## Labs-on-a-Chip that you can Shrink to Fit 
 
 ![Sensor 4M(WP11)](/4m-association/assets/images/files/WP11%20-%20sensor.jpg class="thumbnail-teaser") 
 

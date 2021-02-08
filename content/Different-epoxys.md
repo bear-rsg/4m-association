@@ -1,4 +1,4 @@
-# Different epoxys
+## Different epoxys
 
 __process parameters:__  	
 temperature:	roomtemperature - 150 °C  

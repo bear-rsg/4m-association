@@ -1,4 +1,4 @@
-# 4M Polymer Processing division
+## 4M Polymer Processing division
 
 This final meeting of the Polymer Processing Divison will be hosted by CEA at the Cadarache chateau in France.
 

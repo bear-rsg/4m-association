@@ -1,4 +1,4 @@
-# Silicone (Si), TPE
+## Silicone (Si), TPE
 
 __material properties:__  	
 optical transparency:	yes

@@ -1,6 +1,6 @@
-# Registration & fees
+## Registration & fees
 
-## Important Dates (provisional)
+### Important Dates (provisional)
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -14,7 +14,7 @@
 <!--break-->
 In order for a paper to be included in the conference programme and appear in the proceedings at least one author **must** register for the conference. The Authors Final Registration deadline is fixed in relation to the production cycle of the proceedings and cannot be changed.
 
-## Conference Fees
+### Conference Fees
 
 
 <table class="info" style="width:100%;">
@@ -27,7 +27,7 @@ In order for a paper to be included in the conference programme and appear in th
 
 The conference fees include printed proceedings, lunches, refreshments, and conference dinner.  
  
-## Registration
+### Registration
 
 
 When registration opens, please complete the [**Registration Form**](/4m-association/files/Registration_form_4M2011.doc) and mail, fax or e-mail it to:  

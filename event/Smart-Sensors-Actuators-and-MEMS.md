@@ -1,4 +1,4 @@
-# Smart Sensors, Actuators and MEMS
+## Smart Sensors, Actuators and MEMS
 
 This biannual conference is the fifth in the series following its successful launch in 2003.
 <!--break-->

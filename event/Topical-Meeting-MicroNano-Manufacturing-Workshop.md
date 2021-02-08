@@ -1,4 +1,4 @@
-# Topical Meeting: Micro/Nano Manufacturing Workshop
+## Topical Meeting: Micro/Nano Manufacturing Workshop
 
 **27th- 28th November 2013 at Karlsruhe Institute of Technology (KIT), Germany**
 

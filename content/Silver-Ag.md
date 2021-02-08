@@ -1,4 +1,4 @@
-# Silver (Ag)
+## Silver (Ag)
 
 __material properties:__  	
 thermal stability up to	962 °C  

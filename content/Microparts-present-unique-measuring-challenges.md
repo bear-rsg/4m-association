@@ -1,4 +1,4 @@
-# Microparts present unique measuring challenges 
+## Microparts present unique measuring challenges 
 
 There are several challenges that can arise when you start the process of measuring micro- and meso-scale parts. Some important factors to consider—before you begin measuring parts—are part handling, cleaning and fixturing.
 <!--break-->

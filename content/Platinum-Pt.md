@@ -1,4 +1,4 @@
-# Platinum (Pt)
+## Platinum (Pt)
 
 __material properties:__  	
 thermal stability up to	1768 °C  

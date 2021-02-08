@@ -1,4 +1,4 @@
-# Nickel-Cobalt  (NiCo)
+## Nickel-Cobalt  (NiCo)
 
 __material properties:__  	
 thermal stability up to	400°C  

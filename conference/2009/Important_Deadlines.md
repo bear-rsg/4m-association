@@ -1,4 +1,4 @@
-# Important Deadlines
+## Important Deadlines
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

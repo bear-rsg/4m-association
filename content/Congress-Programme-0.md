@@ -1,4 +1,4 @@
-# Congress Programme
+## Congress Programme
 
 **A reception is available on the evening of the 9th September at the congress venue.**
 

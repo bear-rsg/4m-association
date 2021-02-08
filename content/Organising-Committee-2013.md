@@ -1,4 +1,4 @@
-# Organising Committee 2013
+## Organising Committee 2013
 
 **Conference Chairman**
 Sabino Azcárate	        IK4-TEKNIKER, Spain

@@ -1,6 +1,6 @@
-# Review Guidelines
+## Review Guidelines
 
-## Deadlines (provisional)
+### Deadlines (provisional)
 
 
 <table class="info" style="width:100%;">
@@ -9,7 +9,7 @@
 <tr class="dark"><td>End of second review</td><td>29th June 2012</td></tr> 
 </table>
 <!--break-->
-## Step by Step Guide
+### Step by Step Guide
 
 
 We have a two phase review process. 
@@ -24,7 +24,7 @@ We have a two phase review process.
 6. During the second review make sure that the authors have made the changes you've recommended to your satisfaction, if not make a recommendation, change your comments, etc...
 7. Complete the second reviews by **29th June, 2012**
 
-## Things to pay attention to
+### Things to pay attention to
 
 
 When carrying out this task you should consider the:

@@ -1,4 +1,4 @@
-# MEMS/Microfluidics Course
+## MEMS/Microfluidics Course
 
 Aimed at engineers, biologists and chemists, this course will provide an introduction to MEMS and Micro-Fluidics in the context of the imminent expansion of System-on-Chip and System-in-Package technologies which enable the creation of miniature devices that integrate transducers electronic signal processing.
 <!--break-->

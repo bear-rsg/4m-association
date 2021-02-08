@@ -1,4 +1,4 @@
-# LIGA
+## LIGA
 
 Technology suitable for small quantity production
 

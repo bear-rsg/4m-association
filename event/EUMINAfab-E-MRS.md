@@ -1,4 +1,4 @@
-# EUMINAfab at E-MRS
+## EUMINAfab at E-MRS
 
 There will be a EUMINAfab workshop held on 14th September 2010 as a satellite event to the E-MRS 2010 Fall meeting in Warsaw.
 <!--break-->
@@ -10,7 +10,7 @@ The series of talks will give an across introduction to the technologies availab
 
 For venue and local information, please visit the [E-MRS Fall Meeting web page](http://www.emrs-strasbourg.com/index.php?option=com_content&task=view&id=335&Itemid=127).  
   
-## Venue
+### Venue
 
 Central Campus of the Warsaw University of Technology, Plac Politechniki 1, 00-661, Warsaw, Poland.  
   

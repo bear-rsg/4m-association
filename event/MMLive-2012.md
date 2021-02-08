@@ -1,3 +1,3 @@
-# MMLive 2012
+## MMLive 2012
 
 All the latest news about this event can be found on the [MMLive webpages](http://www.micromanu.com/x/mm-live/mmlive.html)

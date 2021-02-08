@@ -1,4 +1,4 @@
-# MED 10-60xx Silicone (70% Xylene, Silica)
+## MED 10-60xx Silicone (70% Xylene, Silica)
 
 __material properties:__  	
 thermal stability up to	80 °C  

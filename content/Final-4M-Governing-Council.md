@@ -1,4 +1,4 @@
-# Final 4M Governing Council
+## Final 4M Governing Council
 
 This final gathering of the consortium proceeded as per the [planned agenda.](/4m-association/event/4M-Governing-Council.html)
 <!--break-->

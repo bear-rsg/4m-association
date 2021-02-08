@@ -1,4 +1,4 @@
-# 2nd NRW Nano-Conference
+## 2nd NRW Nano-Conference
 
 NRW Nano-Conference shows trends and highlights in 2009 - research and industry meet in Dortmund.
 <!--break-->

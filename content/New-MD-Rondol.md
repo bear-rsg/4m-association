@@ -1,4 +1,4 @@
-# New MD at Rondol
+## New MD at Rondol
 
 <!--break-->
 The Board of Rondol Technology Limited  has decided that its Chairperson Victoire de Margerie will also act as its Managing Director following Quentin Jones decision to leave the company for personal reasons.

@@ -1,4 +1,4 @@
-# Nanochallenge and Polymerchallenge 2011
+## Nanochallenge and Polymerchallenge 2011
 
 **Do you have a business idea in nanotechnology or polymer-based materials?** If so then Nanochallenge and Polymerchallenge 2011 just might be of interest to you.
 <!--break-->

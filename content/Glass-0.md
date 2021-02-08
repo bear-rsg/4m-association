@@ -1,4 +1,4 @@
-# Glass
+## Glass
 
 __material properties:__  
 thermal stability up to:	misc. <500 °C  

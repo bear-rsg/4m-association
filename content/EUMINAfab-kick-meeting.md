@@ -1,4 +1,4 @@
-# EUMINAfab kick-off meeting
+## EUMINAfab kick-off meeting
 
 March 18th, a new European Research Infrastructure (ERI) celebrated its operation with a kick-off meeting at the coordinating Karlsruhe Nano Micro Facility (KNMF) of the Forschungszentrum Karlsruhe in Germany.
 <!--break-->

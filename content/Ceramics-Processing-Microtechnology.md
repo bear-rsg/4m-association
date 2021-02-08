@@ -1,6 +1,6 @@
-# Ceramics Processing in Microtechnology
+## Ceramics Processing in Microtechnology
 
-## Dr. H.-J. Ritzhaupt-Kleissl and Assoc. Professor Per Johander
+### Dr. H.-J. Ritzhaupt-Kleissl and Assoc. Professor Per Johander
 
 
 ![4M Ceramics Division](/4m-association/assets/images/CeramicBook.jpg class="thumbnail")Ceramics Processing in Microtechnology presents an overview of the current status and future prospects for the processing of ceramic materials in microtechnology. It encompasses the complete process from requirements of the design process, through material development, microforming and thermal processing, and metrology. Also included are the vitally important aspects of quality control, dimensional stability, reproducibility and final properties.  

@@ -1,4 +1,4 @@
-# Electro Discharge Machining
+## Electro Discharge Machining
 
 Technology suitable for both serial and small quantity production
 

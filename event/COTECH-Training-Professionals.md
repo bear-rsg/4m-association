@@ -1,4 +1,4 @@
-# COTECH - Training for Professionals
+## COTECH - Training for Professionals
 
 <!--break-->
 **VENUE**

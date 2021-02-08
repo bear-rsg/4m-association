@@ -1,4 +1,4 @@
-# Applied Sciences Micro/Nano Manufacturing Issue
+## Applied Sciences Micro/Nano Manufacturing Issue
 
 <img src="http://www.mdpi.com/img/journals/applsci-logo.png?1693b1ae19024e2e" width="450px">
 

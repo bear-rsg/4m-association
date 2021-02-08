@@ -1,6 +1,6 @@
-# Congress Registration
+## Congress Registration
 
-## Congress Registration Now Open
+### Congress Registration Now Open
 
 
 **REGISTER NOW** [HERE>>](https://reporter.ncsu.edu/index.html)
@@ -8,7 +8,7 @@
 
 
 
-## Conference Fees
+### Conference Fees
 
 **Before 25th of July 2019**
 

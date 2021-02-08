@@ -1,4 +1,4 @@
-# Solid-State Sensors, Actuators and Microsystems Workshop
+## Solid-State Sensors, Actuators and Microsystems Workshop
 
 ![Transducer Research Foundation](/4m-association/assets/images/trflogo.gif class="thumbnail-teaser")  
 

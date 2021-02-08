@@ -1,4 +1,4 @@
-# Expert Group on the future of Networks of Excellence - Final Report
+## Expert Group on the future of Networks of Excellence - Final Report
 
 In this Final Report, achievements of NoEs are reviewed without aspiring to perform a full and detailed assessment of individual NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’.
 <!--break-->

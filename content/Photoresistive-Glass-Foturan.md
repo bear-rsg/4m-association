@@ -1,4 +1,4 @@
-# Photoresistive Glass (Foturan)
+## Photoresistive Glass (Foturan)
 
 __material properties:__	  
 optical transparency:	yes

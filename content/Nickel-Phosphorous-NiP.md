@@ -1,4 +1,4 @@
-# Nickel-Phosphorous (NiP)
+## Nickel-Phosphorous (NiP)
 
 __material properties:__  	
 thermal stability up to	600°C  

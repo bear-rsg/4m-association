@@ -1,4 +1,4 @@
-# Nickel (Ni)
+## Nickel (Ni)
 
 __material properties:__  	
 thermal stability up to	250  

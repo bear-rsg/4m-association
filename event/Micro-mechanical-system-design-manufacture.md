@@ -1,4 +1,4 @@
-# Summer School in micro mechanical system design & manufacture
+## Summer School in micro mechanical system design & manufacture
 
 Micromechanical components play an increasing role in micro systems. The use of metals, polymers and ceramics for miniature components requires new product development methods as well as manufacturing technologies, where product dimensions may range from micrometre to millimetre.
 <!--break-->

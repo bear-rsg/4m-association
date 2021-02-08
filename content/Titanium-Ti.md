@@ -1,4 +1,4 @@
-# Titanium (Ti)
+## Titanium (Ti)
 
 __material properties:__  	
 thermal stability up to	1668 °C  

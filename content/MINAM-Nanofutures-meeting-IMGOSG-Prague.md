@@ -1,4 +1,4 @@
-# MINAM-Nanofutures meeting of IMG/OSG, Prague
+## MINAM-Nanofutures meeting of IMG/OSG, Prague
 
 A meeting of the Industrial Management Group(IMG) and the Operational Support Group(OSG) of MINAM took place in Prague during the [ENF'09]( http://www.euronanoforum2009.eu/programme).
 

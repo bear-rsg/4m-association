@@ -1,4 +1,4 @@
-# Charpan Project
+## Charpan Project
 
 The CHARPAN (CHARged PArticle Nanotech) integrated FP6-NMP project ended on March 31st 2009, after 48 project months.
 <!--break-->

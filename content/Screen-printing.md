@@ -1,4 +1,4 @@
-# Screen printing
+## Screen printing
 
 Screen printing is a method to deposit a metal layer of defined shape on a surface. The shape of the layer can be designed as desired.  A paste containing metal particles is the printed on the surface as in classical screen printing. Further thermal processes are applied for removing binders and for sintering the metal particles.
 <!--break-->

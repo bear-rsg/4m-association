@@ -1,6 +1,6 @@
-# Submission Guidelines 2016
+## Submission Guidelines 2016
 
-## Deadlines
+### Deadlines
 
 
 The Paper Submission will be open on the 1st of January 2016. 
@@ -16,7 +16,7 @@ Feedback for Authors will be available from the 16th of May
 <tr><td>Submission of Final Paper</td><td>13th of June</td></tr> 
 </table>
 <!--break-->
-## Step by Step Guide
+### Step by Step Guide
 
 1. Go to the [conference submission website](http://conference.4m-association.org) 
 2. To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link

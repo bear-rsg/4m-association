@@ -1,3 +1,3 @@
-# Courbis Logo
+## Courbis Logo
 
 Courbis Logo

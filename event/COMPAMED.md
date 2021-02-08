@@ -1,4 +1,4 @@
-# COMPAMED
+## COMPAMED
 
 High-tech solutions for medical technology international trade fair in Düsseldorf,
 <!--break-->

@@ -1,4 +1,4 @@
-# IWMF
+## IWMF
 
 <!--break-->
 ![IWMF2010](/4m-association/assets/images/files/org_banner_iwmf2010.gif class="thumbnail") 

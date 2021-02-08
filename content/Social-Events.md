@@ -1,4 +1,4 @@
-# Social Events
+## Social Events
 
 **Monday, March 30th 2015 (18:00-21:00)**
 

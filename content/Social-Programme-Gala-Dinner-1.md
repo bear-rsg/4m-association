@@ -1,4 +1,4 @@
-# The Social Programme & Gala Dinner
+## The Social Programme & Gala Dinner
 
 <h2>Cocktail Reception</h2>
 

@@ -1,4 +1,4 @@
-# Silicon Nitride (Si3N4)
+## Silicon Nitride (Si3N4)
 
 __material properties:__  	
 thermal stability up to	1750 – 1900 °C  

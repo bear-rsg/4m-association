@@ -1,4 +1,4 @@
-# 1st European Microfluidics Consortium
+## 1st European Microfluidics Consortium
 
 This European Microfluidics Consortium brings together stakeholders in Microfluidics from UK and the rest of Europe to air their questions and learn about state-of-the-art, recent applications, market dynamics as well as key issues which are constraining growth and scale-up.
 

@@ -1,4 +1,4 @@
-# Serial micro-manufacturing
+## Serial micro-manufacturing
 
 <!--break--><table class="info fade">
   <tbody>

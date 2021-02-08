@@ -1,4 +1,4 @@
-# Product Manager in Micro-machining
+## Product Manager in Micro-machining
 
 <!--break-->
 SPI’s portfolio of OEM laser beam sources sell to machine builders world-wide across the macro (kW), micro (medium power) and marking applications. SPI manufactures fibre lasers and is an independent UK based company within the TRUMPF Group.  SPI is seeking a product manager in the micro-machining sector where the fibre lasers are used to cut, weld, drill and scribe small components.   
@@ -20,7 +20,7 @@ The Product Manager will work within the Product Marketing group and with manage
 • Marketing/Lead Generation  
 • Field Sales & Channel   
 
-## Key Responsibilities Of The Role
+### Key Responsibilities Of The Role
 
   
 *A. Product portfolio*  
@@ -37,7 +37,7 @@ The Product Manager will work within the Product Marketing group and with manage
 • Ownership of the business cases for NPI’s and product variants, and ROI analysis to optimize portfolio management.  
 • Identify lead customers and beta test sites to ensure the product definition and performance meet industry requirements.  
   
-## Qualifications
+### Qualifications
 
   
 • Qualified to graduate or PhD level, preferably in an optical or laser engineering discipline  
@@ -46,7 +46,7 @@ The Product Manager will work within the Product Marketing group and with manage
 • Preferably experience of optical/optoelectronic or material processing systems, preferably within the laser industry. Alternatively, candidates with Product Management experience within Welding and /or Cutting industry using lasers will be considered.  
 • In addition to the commercial aspects, the role requires technical strengths so the preferred candidate would have a background in a related field including optics /physics/electronics/materials.   
   
-## Personal Profile
+### Personal Profile
 
 • Excellent communication skills both orally and in writing with the ability to communicate with external customers, suppliers and staff at all levels.  
 • First class interpersonal skills, capable of discussing complex issues with customers and engineers at all levels.  

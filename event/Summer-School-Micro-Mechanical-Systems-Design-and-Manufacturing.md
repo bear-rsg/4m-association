@@ -1,4 +1,4 @@
-# Summer School on Micro Mechanical Systems Design and Manufacturing
+## Summer School on Micro Mechanical Systems Design and Manufacturing
 
 For the 6th consecutive year, DTU is organizing the PhD Summer School on "Micro Mechanical Systems Design and Manufacturing".
 <!--break-->

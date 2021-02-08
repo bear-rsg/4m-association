@@ -1,4 +1,4 @@
-# misc. Silicone Material
+## misc. Silicone Material
 
 __material properties:__  	
 thermal stability up to:	<80 °C  

@@ -1,4 +1,4 @@
-# Glass/Glass, Silicon/Glass, Silicon/Silicon
+## Glass/Glass, Silicon/Glass, Silicon/Silicon
 
 __material properties:__  	
 thermal stability up to	400 °C  

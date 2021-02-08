@@ -1,4 +1,4 @@
-# Electroplating
+## Electroplating
 
 Technology suitable for small quantity production
 

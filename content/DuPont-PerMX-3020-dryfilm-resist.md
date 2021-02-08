@@ -1,4 +1,4 @@
-# DuPont PerMX 3020 dryfilm resist
+## DuPont PerMX 3020 dryfilm resist
 
 __material properties:__  	
 thermal stability up to	220 °C  

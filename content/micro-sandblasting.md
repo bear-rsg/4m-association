@@ -1,4 +1,4 @@
-# micro-sandblasting
+## micro-sandblasting
 
 Sandblasting is a generic term for the process of smoothing, shaping and cleaning a hard surface by forcing solid particles across that surface at high speeds. Micro sandblasting uses air to create structures on a micrometric scale.
 <!--break-->

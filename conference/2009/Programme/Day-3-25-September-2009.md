@@ -1,7 +1,7 @@
-# Day 3 - 25 September 2009
+## Day 3 - 25 September 2009
 
 <!--break-->
-## Friday 25 September 2009
+### Friday 25 September 2009
 
 
 <table class="full-program">

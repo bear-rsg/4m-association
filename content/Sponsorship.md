@@ -1,4 +1,4 @@
-# Sponsoring 4M/IWMF 2016
+## Sponsoring 4M/IWMF 2016
 
 Lyngby, Denmark, 13th-15th September 2016
 
@@ -8,7 +8,7 @@ dimensions.
 
 Stand out from the rest in front of more than 100 micro-manufacturing experts from around the world. As a sponsor, you can promote your company’s mission even more effectively to the assembled individuals and organisations attending 4M/IWMF 2016 while learning about the latest advances in micro-manufacturing research.
 <!--break-->
-## Platinum Sponsorship Package
+### Platinum Sponsorship Package
 
 **€2000**
 
@@ -20,7 +20,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * Entrance to conference, including all meals and refreshments, for 3 people
 * 3 copies of Conference Proceedings
 
-## Gold Package
+### Gold Package
 
 **€1500**
 
@@ -33,7 +33,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * 2 copies of Conference Proceedings
 
 
-## Silver Package
+### Silver Package
 
 **€1000**
 
@@ -44,7 +44,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * Entrance to conference, including all meals and refreshments, for 1 person
 * 1 copy of Conference Proceedings  
   
-## Bronze Package
+### Bronze Package
 
 **€750**
 

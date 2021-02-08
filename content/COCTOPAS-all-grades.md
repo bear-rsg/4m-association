@@ -1,4 +1,4 @@
-# COC/TOPAS (all grades)
+## COC/TOPAS (all grades)
 
 __material properties:__  	
 thermal stability:	good  

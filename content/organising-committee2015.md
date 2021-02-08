@@ -1,4 +1,4 @@
-# Organising Committee
+## Organising Committee
 
 **Conference Chairman**
 

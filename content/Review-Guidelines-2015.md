@@ -1,6 +1,6 @@
-# Review Guidelines 2015
+## Review Guidelines 2015
 
-## Deadlines
+### Deadlines
 
 
 
@@ -9,7 +9,7 @@ Paper reviews will be available for authors to see from the 30th of December.
      
 8th of December 2014
 
-## Step by Step Guide
+### Step by Step Guide
 
 
 

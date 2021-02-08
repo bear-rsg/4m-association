@@ -1,4 +1,4 @@
-# New work on areal surface topography at NPL
+## New work on areal surface topography at NPL
 
 ![NPL](/4m-association/assets/images/npl-logo.jpg class="thumbnail")  
 NPL has recently completed a project to allow industry to benefit from the use of areal surface topography measurement to enhance a range of high-value products. The surface topography of a component part can have a profound effect on the function of the part. In tribology, it is the surface that influences such quantities as friction, wear and the lifetime of a component. In fluid dynamics, it is the surface that determines how fluids flow over a surface and affects such properties as aerodynamic lift, therefore, influencing efficiency and fuel consumption. And the list goes on – examples of surface-function relationships can be found in almost every manufacturing sector, both traditional and high-tech. To control surface topography, and hence the function of a component, it must be measured and useful parameters extracted from the measurement data.   

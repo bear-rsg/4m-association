@@ -1,4 +1,4 @@
-# FP7 Project - COMPOLIGHT
+## FP7 Project - COMPOLIGHT
 
 <!--break-->
 **COMPOLIGHT = "Rapid manufacturing of lightweight metal components:"**  

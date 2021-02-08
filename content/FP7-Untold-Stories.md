@@ -1,4 +1,4 @@
-# FP7 Untold Stories
+## FP7 Untold Stories
 
 <!--break-->
 ![FP7](/4m-association/assets/images/files/FP7-gen-RGB_web_0.jpg class="thumbnail")This is not your typical, standard Info-Day about FP7. This is an in-depth examination of the root causes of success in the funding programme. Rather than simple facts and figures, this course investigates and explains the EC’s expectations, audits, evaluations, technical reviews, communication and all the hints you should know about FP7.

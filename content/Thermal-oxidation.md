@@ -1,4 +1,4 @@
-# Thermal oxidation
+## Thermal oxidation
 
 In microfabrication, thermal oxidation is a way to produce a thin layer of oxide on the surface of a wafer. The technique forces an oxidizing agent to diffuse into the wafer at high temperature and react with it. The rate of oxide growth is often predicted by the Deal-Grove model. Thermal oxidation may be applied to different materials.
 <!--break-->

@@ -1,4 +1,4 @@
-# Gold (Au)
+## Gold (Au)
 
 __material properties:__  
 thermal stability up to 1064 °C  

@@ -1,4 +1,4 @@
-# casting
+## casting
 
 Casting is a manufacturing process by which a liquid material is poured into a mold, which contains a hollow cavity of the desired shape, and then allowed to solidify. The solidified part is also known as a casting, which is ejected or broken out of the mold to complete the process. A typical casting material used in microfluidics is PDMS.
 <!--break-->

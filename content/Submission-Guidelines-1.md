@@ -1,6 +1,6 @@
-# Submission Guidelines
+## Submission Guidelines
 
-## Deadlines
+### Deadlines
 
 
 The Paper Submission is Closed. 
@@ -16,7 +16,7 @@ Feedback for Authors will be available from the 30th of December
 <tr><td>Submission of Final Paper</td><td>12th of January 2015</td></tr> 
 </table>
 <!--break-->
-## Step by Step Guide
+### Step by Step Guide
 
 1. Go to the [conference submission website](http://conference.4m-association.org) NOW CLOSED
 2. To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link

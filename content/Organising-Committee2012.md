@@ -1,4 +1,4 @@
-# Organising Committee
+## Organising Committee
 
 Humbert Noll, FOTEC and University of Applied Sciences Wiener Neustadt, Austria **(Chairman)**  
   

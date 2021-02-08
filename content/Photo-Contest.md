@@ -1,13 +1,13 @@
-# AITeM Photo Contest 2018
+## AITeM Photo Contest 2018
 
-## WCMNM2018 AITeM Photo Contest
+### WCMNM2018 AITeM Photo Contest
 
 
 A typical side effect when working in the micro domain is represented by some really interesting pictures of novel creations. The WCMNM2018 Photo Contest, sponsored by the AITeM Group of Interest on Micro Manufacturing Engineering, is a forum to display these pictures for recognition and evaluation by leading researchers in the field. 
 
 The winning picture will be announced during the WCMNM2018 conference. 
 
-## Official Rules
+### Official Rules
 
 
 **Important Dates**
@@ -34,24 +34,24 @@ The Final Entry Documents should include one Photo Page document as a single pdf
 <li>Photo
 <li>1 – 2 paragraph (100-200 words) description of the photo describing it and what makes it interesting and/or novel.
 
-## Submission Procedure
+### Submission Procedure
 
 
 Please e-mail the documents to the contest coordinator, Prof. Giovanni Lucchetta: giovanni.lucchetta@unipd.it
 
-## Judging and Scoring
+### Judging and Scoring
 
 
 <li>The Final Entry documents will be evaluated by members of the AITeM GoI MME
 <li>All conference attendees are eligible to vote to determine the winner(s)
 <li>Winners will be announced at the conference gala dinner
 
-## Sponsor
+### Sponsor
 
 
 <img src="/4m-association/assets/images/files/Sponsor logo photo contest.jpg" width="150px">
 
-## Awards
+### Awards
 
 
 The AITeM medal award will be assigned to the author/s of the best picture during the conference gala dinner. 

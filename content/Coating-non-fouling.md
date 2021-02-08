@@ -1,4 +1,4 @@
-# Coating for non-fouling
+## Coating for non-fouling
 
 <!--break-->__Contact:__
 

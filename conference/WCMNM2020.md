@@ -1,10 +1,10 @@
-# WCMNM2020
+## WCMNM2020
 
-## As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.
+### As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.
 
 
 
-## The paper submission deadlines will be extended accordingly. We are closely monitoring the situation and will keep you posted of the new paper submission deadlines. Thank you for understanding and please stay safe.
+### The paper submission deadlines will be extended accordingly. We are closely monitoring the situation and will keep you posted of the new paper submission deadlines. Thank you for understanding and please stay safe.
 
 
 The 2020 World Congress on Micro and Nano Manufacturing will take place from **21 to 23 September 2021** at IIT Bombay, Mumbai, India.
@@ -17,10 +17,10 @@ The Congress will take place in the **Victor Menezes Convention Centre (VMCC), I
 
 The Victor Menezes Convention Center (VMCC) hosts a well-equipped auditorium, seminar rooms, lounges, etc that can hold several parallel sessions and poster sessions.
 
-## Conference Chair
+### Conference Chair
 
 Ramesh Singh, IIT Bombay, INDIA
-## Conference Co-Chairs
+### Conference Co-Chairs
 
 Suhas Joshi, IIT Bombay, INDIA
 
@@ -32,17 +32,17 @@ Kuniaki Dohda, Northwestern University, USA
 
 Massimiliano Annoni, Politecnico di Milano, ITALY
 
-## Hosts Committee Chair
+### Hosts Committee Chair
 
 Deepak Marla
 
-## Hosts Committee Co-Chair
+### Hosts Committee Co-Chair
 
 Soham Mujumdar
 
 
 
-## Topics of Interest for Call for Papers
+### Topics of Interest for Call for Papers
 
 
  <li> Micro fabrication technologies, process chains and process characterization
@@ -74,7 +74,7 @@ Soham Mujumdar
 Papers are sought to address theoretical and applied research issues related to manufacture, assembly and metrology for components and systems with nano/micro/meso-scale features and dimensions.
 
 All papers must be technical in nature and include original work. Approximately 100 papers will be presented in technical sessions and published in conference proceedings. Conference papers will be peer reviewed.
-## Important information:
+### Important information:
 
 
 **Registration**

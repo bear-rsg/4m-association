@@ -1,4 +1,4 @@
-# Hotels & Accommodation
+## Hotels & Accommodation
 
 The Conference Venue also has accommodation:
 

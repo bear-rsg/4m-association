@@ -1,3 +1,3 @@
-# hotels
+## hotels
 
 tba

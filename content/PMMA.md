@@ -1,4 +1,4 @@
-# Polymethylmethacrylate (PMMA)
+## Polymethylmethacrylate (PMMA)
 
 __material properties:__  
 optical transparency:	yes

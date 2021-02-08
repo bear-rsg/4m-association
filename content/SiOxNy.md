@@ -1,4 +1,4 @@
-# SiOxNy
+## SiOxNy
 
 __material properties:__  	
 thermal stability up to	~1000 °C  

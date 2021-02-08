@@ -1,4 +1,4 @@
-# PolyBright - update
+## PolyBright - update
 
 In March 2010 we informed you about the launch of the [PolyBright project](/4m-association/content/Extending-process-limits-laser-polymer-welding).  
   

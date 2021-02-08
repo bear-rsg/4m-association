@@ -1,3 +1,3 @@
-# ERCE
+## ERCE
 
 Erce's logo.

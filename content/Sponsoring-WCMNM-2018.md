@@ -1,4 +1,4 @@
-# Sponsoring WCMNM 2018
+## Sponsoring WCMNM 2018
 
 The 2nd World Congress on Micro and Nano Manufacturing, WCMNM 2018, organised jointly by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)  will be held from 18th to 20th September 2018 in Portorož, Slovenia, bringing together the worldwide
 community of micromanufacturing experts. The Congress focuses on processes, equipment and systems for fabricating miniature parts with nano/micro/meso scale features and
@@ -6,7 +6,7 @@ dimensions.
 
 Stand out from the rest in front of more than 100 micro-manufacturing experts from around the world. As a sponsor, you can promote your company’s mission even more effectively to the assembled individuals and organisations attending WCMNM 2018 while learning about the latest advances in micro-manufacturing research.
 <!--break-->
-## Platinum Sponsorship Package
+### Platinum Sponsorship Package
 
 **€2000**
 
@@ -18,7 +18,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * Entrance to conference, including all meals and refreshments, for 3 people
 * 3 copies of Conference Proceedings
 
-## Gold Package
+### Gold Package
 
 **€1500**
 
@@ -31,7 +31,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * 2 copies of Conference Proceedings
 
 
-## Silver Package
+### Silver Package
 
 **€1000**
 
@@ -42,7 +42,7 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 * Entrance to conference, including all meals and refreshments, for 1 person
 * 1 copy of Conference Proceedings  
   
-## Bronze Package
+### Bronze Package
 
 **€750**
 

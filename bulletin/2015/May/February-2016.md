@@ -1,6 +1,6 @@
-# February 2015
+## February 2015
 
-## 4M/ICOMM15 2015
+### 4M/ICOMM15 2015
 
 ![4M2020 Logo](/4m-association/assets/images/files/conference.jpg class="thumbnail")
 
@@ -24,7 +24,7 @@ We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 [Read More](/4m-association/content/4MIWMF-2016-Proposals)
 
 
-## Industrial Workshop - (by invitation only)
+### Industrial Workshop - (by invitation only)
 
 ![4M2020 Logo](/4m-association/assets/images/files/ind-workshop.jpg class="thumbnail")
 

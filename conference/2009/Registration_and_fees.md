@@ -1,6 +1,6 @@
-# Registration and fees
+## Registration and fees
 
-## Important Dates
+### Important Dates
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -14,7 +14,7 @@
 
 In order for a paper to be included in the conference programme and appear in the proceedings at least one author **must** register for the conference. The deadline, June 19, is fixed with relation to the production cycle of the proceedings and can't be changed.
 
-## Conference Fees
+### Conference Fees
 
 
 <table class="info" style="width:100%;">
@@ -32,7 +32,7 @@ The conference fees include printed proceedings, lunches, conference dinner, bus
  *<i>Official proof of student status from University Registry required with Registration Form. A valid Student ID with photo on arrival at the Conference.</i>
 
 
-## Registration
+### Registration
 
 
 Please email, fax or post completed [form](/4m-association/files/Registration%20form.pdf) with payment to:  

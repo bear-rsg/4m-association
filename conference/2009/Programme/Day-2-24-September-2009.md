@@ -1,4 +1,4 @@
-# Day 2 - 24 September 2009
+## Day 2 - 24 September 2009
 
 <!--break-->
 <table class="full-program">

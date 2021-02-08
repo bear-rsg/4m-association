@@ -1,4 +1,4 @@
-# SU-8 Resist
+## SU-8 Resist
 
 __material properties:__  	
 most relevant chemical non-resistance:	acetone

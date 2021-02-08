@@ -1,4 +1,4 @@
-# LAMOM XVII
+## LAMOM XVII
 
 <!--break-->
 Photonics West, being held next year in San Francisco, USA, is one of the biggest laser related conferences. In the frame of Photonic West 2012 a conference entitled:  

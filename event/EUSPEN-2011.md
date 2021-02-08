@@ -1,4 +1,4 @@
-# EUSPEN 2011
+## EUSPEN 2011
 
 **Venue**  
 Lake Como, Italy  

@@ -1,4 +1,4 @@
-# Hotels & Accommodation
+## Hotels & Accommodation
 
 The local organizers of the 4M2012 Conference recommend the following hotels:
 

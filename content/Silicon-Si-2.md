@@ -1,4 +1,4 @@
-# Silicon (Si)
+## Silicon (Si)
 
 __material properties:__  		
 most relevant chemical non-resistance:	KOH  

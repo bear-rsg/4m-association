@@ -1,4 +1,4 @@
-# Phil Coates
+## Phil Coates
 
 Professor Phil Coates BSc ARCS MSc PhD FREng FIMechE FIMMM CEng
 

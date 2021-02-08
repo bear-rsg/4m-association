@@ -1,4 +1,4 @@
-# 4M/ICOMM2009 Conference
+## 4M/ICOMM2009 Conference
 
 **23-25 September 2009** 
 
@@ -7,7 +7,7 @@
 
 This conference is jointly organised by the International Conference on Multi-Material Micro-Manufacture(4M) and the International Conference on Micro-Manufacture [(ICOMM)](http://manufacturing.northwestern.edu/ICOMM09/), bringing together for the first time the worldwide community of micro-manufacturing experts.  
 
-## Aim and Themes
+### Aim and Themes
 
 
 The main goal of the Conference is to provide a forum for experts from industry
@@ -18,18 +18,18 @@ Papers are invited to present the latest advances in developing new processes
 and process chains for multi-material micro manufacture and their applications
 in microsystems-based products.
 
-## Conference Chair
+### Conference Chair
 
 Volker Saile,  FZK, KIT, Germany
-## Conference Co-Chairs
+### Conference Co-Chairs
 
 Kornel Ehmann, Northwestern University, Illinois, USA  
 Stefan Dimov, Cardiff University, UK
-## Location
+### Location
 
 Forschungszentrum Karlsruhe, Germany
 
-## Important Dates
+### Important Dates
 
 <table class="info" style="width:100%;">
 <tr><th>&nbsp;</th><th>date</th></tr>
@@ -42,7 +42,7 @@ Forschungszentrum Karlsruhe, Germany
 <tr class="main-event"><td>4M/ICOMM Conference</td><td>23-25 September 2009</td></tr> 
 </table>
 
-## Supported by
+### Supported by
 
 <div style="width:100%">
 <img src="/4m-association/assets/images/logos/sme-namri.gif" title="North American Manufacturing Research Institution 

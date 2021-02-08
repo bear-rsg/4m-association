@@ -1,4 +1,4 @@
-# Wire bonding
+## Wire bonding
 
 <blockquote>
 Wire bonding is the primary method of making interconnections between a microchip, such as an

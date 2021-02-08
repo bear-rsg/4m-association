@@ -1,6 +1,6 @@
-# Congress Registration 
+## Congress Registration 
 
-## Conference Registration Now Open
+### Conference Registration Now Open
 
 
 **REGISTER NOW** [HERE>>](https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-mechanical-engineering/wcmnm-2018)
@@ -32,7 +32,7 @@ Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discoun
 
 
 
-## Conference Fees
+### Conference Fees
 
 **Before 1st of August 2018**
 
@@ -63,7 +63,7 @@ The conference fees (in GBP) include printed proceedings, lunches, refreshments,
 ................................................................................................
 
 
-## One Day Conference Fee
+### One Day Conference Fee
 
 One day conference fee: **£250**
 

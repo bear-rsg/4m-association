@@ -1,4 +1,4 @@
-# Gold (Au) ball-wedge bonding
+## Gold (Au) ball-wedge bonding
 
 __material properties:__  
 thermal stability up to	150 °C  

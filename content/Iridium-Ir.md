@@ -1,4 +1,4 @@
-# Iridium (Ir)
+## Iridium (Ir)
 
 __material properties:__ 	
 thermal stability up to	2466 °C  

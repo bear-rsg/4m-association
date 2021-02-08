@@ -1,4 +1,4 @@
-# 2nd Aachen Precision Days
+## 2nd Aachen Precision Days
 
 This international conference with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research.
 <!--break-->

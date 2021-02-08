@@ -1,4 +1,4 @@
-# European micro- and nanotechnology industry unfazed by debt crisis
+## European micro- and nanotechnology industry unfazed by debt crisis
 
 According to a report produced by IVAM, the Euro debt crisis has left the microtechnology, nanotechnology and advanced materials industries largely unfazed so far.
 <!--break-->

@@ -1,4 +1,3 @@
-
 ## Projects
 
 <strong>CO</strong>NVERGING <strong>TECH</strong>NOLOGIES for micro systems manufacturing What does COTECH, converging technologies, mean? <a href="#">Read more</a> <a href="#">Project</a>

@@ -1,4 +1,4 @@
-# COTECH at K2010
+## COTECH at K2010
 
 The [COTECH project](/4m-association/node/18) will be presented at the K2010 fair in Dusseldorf.
 <!--break-->

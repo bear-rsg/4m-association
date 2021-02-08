@@ -1,4 +1,4 @@
-# Organising Committee
+## Organising Committee
 
 **Conference Chairman**
 Sabino Azcárate	        IK4-TEKNIKER, **Spain**

@@ -1,4 +1,4 @@
-# Polymethylmethacrylate (PMMA) Fraunhofer IBMT
+## Polymethylmethacrylate (PMMA) Fraunhofer IBMT
 
 __material properties:__  	
 thermal stability up to	100 °C  

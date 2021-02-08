@@ -1,4 +1,4 @@
-# 3M-NANO
+## 3M-NANO
 
 This new International Conference on Manipulation,
 Manufacturing and Measurement on the Nanoscale (3M-NANO), which will be held for the first time on 29 Aug - 2 Sept 2011 in Changchun, China.

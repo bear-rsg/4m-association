@@ -1,4 +1,4 @@
-# Call For Papers
+## Call For Papers
 
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture, in particular but not limited to:
 • Components: fabrication technologies and process chains
@@ -23,7 +23,7 @@ The Conference also features invited special sessions focused on the latest tech
 Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano-Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP) and International Journal of Nanonamufacturing (IJNM).
 
 
-## IMPORTANT DATES:
+### IMPORTANT DATES:
 
 
 [PAPER SUBMISSION NOW CLOSED](http://conference.4m-association.org)

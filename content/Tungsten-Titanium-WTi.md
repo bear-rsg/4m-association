@@ -1,4 +1,4 @@
-# Tungsten-Titanium (WTi)
+## Tungsten-Titanium (WTi)
 
 __material properties:__  	
 thermal stability up to:	different, depends on ratio  

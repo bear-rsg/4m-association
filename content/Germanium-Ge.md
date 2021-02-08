@@ -1,4 +1,4 @@
-# Germanium (Ge)
+## Germanium (Ge)
 
 __material properties:__	  
 most relevant chemical non-resistance:	H2O2  

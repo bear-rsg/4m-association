@@ -1,4 +1,4 @@
-# Parylene C
+## Parylene C
 
 __material properties:__  	
 thermal stability up to	120 °C  

@@ -1,4 +1,4 @@
-# Copper (Cu)
+## Copper (Cu)
 
 __material properties:__  	
 thermal stability up to	1083 °C  

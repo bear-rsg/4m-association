@@ -1,4 +1,4 @@
-# Erlangen workshop on microforming
+## Erlangen workshop on microforming
 
 <!--break-->
 ![Microforming](/4m-association/assets/images/Logo_5th_MF_web.jpg class="thumbnail")On November 23rd, 2010 the Chair of Manufacturing Technology will host the workshop on microforming in Erlangen/Germany.   

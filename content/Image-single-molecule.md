@@ -1,4 +1,4 @@
-# Image of a single molecule!
+## Image of a single molecule!
 
 The detailed chemical structure of a single molecule has been imaged for the first time, say researchers.
 <!--break-->

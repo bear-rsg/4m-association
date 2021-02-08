@@ -1,4 +1,4 @@
-# Cyclo-Olefin-Copolymer
+## Cyclo-Olefin-Copolymer
 
 __material properties:__  	
 thermal stability up to	136 - 140 °C  

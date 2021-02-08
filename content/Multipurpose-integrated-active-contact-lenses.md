@@ -1,4 +1,4 @@
-# Multipurpose integrated active contact lenses
+## Multipurpose integrated active contact lenses
 
 Electronics, sensors, and communication capabilities will all be embedded in future contact lenses, presenting new opportunities in applications ranging from medicine to virtual reality.
 <!--break-->

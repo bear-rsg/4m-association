@@ -1,4 +1,4 @@
-# Elena Ulieru
+## Elena Ulieru
 
 We regret to inform you of the passing of our colleague  Elena Ulieru.
 <!--break-->

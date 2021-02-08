@@ -1,16 +1,16 @@
-# November 2018
+## November 2018
 
-## WCMNM2019, Call for papers
+### WCMNM2019, Call for papers
 
 
 The 2019 World Congress on Micro and Nano Manufacturing will take place from 10th to 12th September 2019 in Raleigh NC, USA.
 It is jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM).
 
-## Conference Chair
+### Conference Chair
 
 Gracious Ngaile, North Carolina State University, USA
 
-## Conference Co-Chairs
+### Conference Co-Chairs
 
 Paul Cohen, North Carolina State University, USA
 
@@ -20,7 +20,7 @@ Stefan Dimov, University of Birmingham, UK
 
 Kuniaki Dohda, Northwestern University, USA 
 
-## Scientific Committee Chairs
+### Scientific Committee Chairs
 
 
 Lawrence Kulinky, University of california, USA
@@ -29,7 +29,7 @@ Steffen G. Scholz, Karlsruhe Institute of Technology, Germany
 
 Tohru Sasaki, University of Toyama, Japan
 
-## Topics of Interest for Call for Papers (but not limited to)
+### Topics of Interest for Call for Papers (but not limited to)
 
  <li>Micro fabrication technologies, process chains and process characterisation
  <li>Miniaturization of machines and equipment as well as associated issues such as tooling, fixturing, positioning, motion generation, sensors systems, and control
@@ -44,7 +44,7 @@ Tohru Sasaki, University of Toyama, Japan
  <li>Applications of micro and nano technologies: microreactor technologies, microsensors and actuators
  <li>Applications of both current and emerging micromanufacturing methods and equipment, including those that bridge the nano- and macro- worlds
 
-## Important Dates
+### Important Dates
 
 The main congress programme takes place from **10th to the 12th of September 2019**
 

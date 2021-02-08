@@ -1,4 +1,4 @@
-# Hotels and Accommodation
+## Hotels and Accommodation
 
 Rooms have been reserved at the following hotels. Buses to transport you to the conference location(s) will collect each morning from these hotels. These reservations will only be held until 31 October 2010:
 
