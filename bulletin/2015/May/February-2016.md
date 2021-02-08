@@ -21,7 +21,7 @@ If you have preference please let us know!
  
 We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 
-[Read More](http://www.4m-association.org/content/4MIWMF-2016-Proposals)
+[Read More](/4m-association/content/4MIWMF-2016-Proposals)
 
 
 ## Industrial Workshop - (by invitation only)

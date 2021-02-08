@@ -3,7 +3,7 @@
 <!--break-->
 ![Per Johander](/4m-association/images/Per_obit.jpg class="thumbnail")It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.  
   
-Per was one of the original partners in the 4M Network of Excellence (NoE) and was joint leader of the Ceramics Processing Division. Always full of energy and ideas he was instrumental in the success of the ceramics group, their work culminating in the publication of a handbook on [Ceramics Processing in Microtechnology ]( http://www.4m-association.org/content/Ceramics-Processing-Microtechnology).  
+Per was one of the original partners in the 4M Network of Excellence (NoE) and was joint leader of the Ceramics Processing Division. Always full of energy and ideas he was instrumental in the success of the ceramics group, their work culminating in the publication of a handbook on [Ceramics Processing in Microtechnology ]( /4m-association/content/Ceramics-Processing-Microtechnology).  
   
 When the 4M NoE came to an end, Per was a great supporter of the idea of setting up the 4M Association and made sure that Swerea IVF was one of the first to join.  He contributed to its operation with suggestions and advice, and was always willing to Chair a session at the annual 4M Conference. Anyone who shared a meal with him will also know he was great company.  
 

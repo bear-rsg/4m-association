@@ -52,4 +52,4 @@ The First Call for proposals to access the portfolio of technologies and experti
 
 ## NMP Call opens
 
-As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](http://www.4m-association.org/content/NMP-Call-opened-31st-July-2009)
+As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/4m-association/content/NMP-Call-opened-31st-July-2009)

@@ -11,6 +11,6 @@ All information is posted on the [Summer School website.](http://www.microsummer
 [Registration and accommodation]( 
 http://indico.conferences.dtu.dk/conferenceDisplay.py?confId=112)  
   
-You can read about last year's summer school [here.](http://www.4m-association.org/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture)  
+You can read about last year's summer school [here.](/4m-association/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture)  
   
 A flyer for the 2012 Summer School can be downloaded below:

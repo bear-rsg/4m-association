@@ -25,7 +25,7 @@ The latest newsletter from MultiLayer is available on the [MultiLayer news pages
   
 ## News from MORGaN
 
-The latest newsletter from MORGaN is available [here](http://www.4m-association.org/content/MORGan-Newsletter-4).
+The latest newsletter from MORGaN is available [here](/4m-association/content/MORGan-Newsletter-4).
  
 ## Training Courses in Microsystems
 

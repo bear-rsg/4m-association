@@ -5,7 +5,7 @@
 ## 4M 2013 Conference, San Sebastián, Spain - Presentations now available!
 
 ![barcelopic](/4m-association/images/barcelopic.jpg class="thumbnail")
-Thank you to everyone who attended the 4M 2013 Conference in San Sebastián, with a special thank you to our Sponsors [Sarix](http://www.sarix.com), Supporters [ONR](http://www.onr.navil.mil), [Invited Speakers](http://www.4m-association.org/content/Invited-Speakers-4M2013), and [ICOMM](http://icomm2014.northwestern.edu/), Opening Speakers, and Co-organisers [IK4-Tekniker](http://www.tekniker.es/en). Photographs from the conference will be available shortly, however presentations from both days of the conference are now available to download on our site. [Read more>>](http://www.4m-association.org/content/Presentations)
+Thank you to everyone who attended the 4M 2013 Conference in San Sebastián, with a special thank you to our Sponsors [Sarix](http://www.sarix.com), Supporters [ONR](http://www.onr.navil.mil), [Invited Speakers](/4m-association/content/Invited-Speakers-4M2013), and [ICOMM](http://icomm2014.northwestern.edu/), Opening Speakers, and Co-organisers [IK4-Tekniker](http://www.tekniker.es/en). Photographs from the conference will be available shortly, however presentations from both days of the conference are now available to download on our site. [Read more>>](/4m-association/content/Presentations)
 
 ## Take Part in a Feedback Survey
 

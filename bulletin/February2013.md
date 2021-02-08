@@ -15,7 +15,7 @@ The 9th International Conference on Multi-Material Micro Manufacture, 4M 2012, t
 ## In Memory of Elena Ulieru
 
 ![Elena](/4m-association/images/elena.jpg class="thumbnail")
-In memory of Elena Ulieru, SITEX, in cooperation with the 4M Association will offer a prize at 4M 2013, for the best paper by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers in the 4M Conferences. [Read more>>](http://www.4m-association.org/content/Elena-Ulieru)
+In memory of Elena Ulieru, SITEX, in cooperation with the 4M Association will offer a prize at 4M 2013, for the best paper by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers in the 4M Conferences. [Read more>>](/4m-association/content/Elena-Ulieru)
 
 ## Nanostructures with Living Cells
 

@@ -33,7 +33,7 @@
       <li><a href="/content/Cold-Forging">Cold Forging</a></li>
       </ul>
       </td>
-      <td><a href="http://www.4m-association.org/content/Ultrasonic-Welding">Ultrasonic Welding</a>
+      <td><a href="/4m-association/content/Ultrasonic-Welding">Ultrasonic Welding</a>
       </td>
     </tr>
     <tr>

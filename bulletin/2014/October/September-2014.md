@@ -7,7 +7,7 @@
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture.
 All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP). Deadline for submission is the 1st of November 2014.
 
-[Read more>>](http://www.4m-association.org/content/Submission-Guidelines-1)
+[Read more>>](/4m-association/content/Submission-Guidelines-1)
 
 ## Micro Surface Structuring 
 

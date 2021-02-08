@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/images/4m-2012_100.png class="thumbnail")
-The deadline for papers has passed and the submission site is now closed. The first review is underway. The first [Invited Speakers have been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](http://www.4m-association.org/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. 
+The deadline for papers has passed and the submission site is now closed. The first review is underway. The first [Invited Speakers have been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. 
   
 ## World's first lens-less microscope
 
@@ -19,11 +19,11 @@ limits of polymer welding.
   
 ## Diving into the world of the very small
 
-An [ERC funded project](http://www.4m-association.org/content/Diving-world-very-small) has built microscopic moving parts on to the ends of optical fibres, leading to better instruments for observing and measuring at the nanoscale.  
+An [ERC funded project](/4m-association/content/Diving-world-very-small) has built microscopic moving parts on to the ends of optical fibres, leading to better instruments for observing and measuring at the nanoscale.  
   
 ## Rapid, low-cost, point of care flu detection from a microfluidic chip
 
-[A four-year study](http://www.4m-association.org/content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip) at Boston University has validated a prototype rapid, low-cost, accurate, point-of-care device that promises a better standard of care.
+[A four-year study](/4m-association/content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip) at Boston University has validated a prototype rapid, low-cost, accurate, point-of-care device that promises a better standard of care.
   
 ## Training Courses in Microsystems
 

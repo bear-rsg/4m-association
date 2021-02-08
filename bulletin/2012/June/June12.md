@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/images/4m-2012_100.png class="thumbnail")
-The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](http://www.4m-association.org/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). 
+The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). 
 
 ## 4M 2009 Proceedings
 
@@ -17,7 +17,7 @@ A facility that houses the manufacturing platforms developed by the Integ-Micro 
   
 ## MM LIVE UK 2012 – Call For Papers
 
-Contributions are invited for the conference area at this high-precision engineering and manufacturing event, which this year takes place at the National Exhibition Centre in Birmingham, UK, on 25–26 September 2012. [Download the call document.](http://www.4m-association.org/content/MM-LIVE-UK-2012-%E2%80%93-Innovations-Micro-Manufacturing)  
+Contributions are invited for the conference area at this high-precision engineering and manufacturing event, which this year takes place at the National Exhibition Centre in Birmingham, UK, on 25–26 September 2012. [Download the call document.](/4m-association/content/MM-LIVE-UK-2012-%E2%80%93-Innovations-Micro-Manufacturing)  
   
 ## International Symposium on Electromachining
 

@@ -31,7 +31,7 @@ An organisation is seeking someone with the capability to produce a nanocomposit
 
 ## Microactuators for Fluidic Applications
 
-A Special Issue on “Microactuators for Fluidic Applications” is being prepared by JMEP. If you are interested in submitting a paper click [here.](http://www.4m-association.org/content/Special-Issue-Microactuators-Fluidic-Applications)  
+A Special Issue on “Microactuators for Fluidic Applications” is being prepared by JMEP. If you are interested in submitting a paper click [here.](/4m-association/content/Special-Issue-Microactuators-Fluidic-Applications)  
 
 ## Microalliance
 
@@ -43,7 +43,7 @@ A new booklet that illustrates the exciting possibilities offered by laser manuf
 
 ## 4M Summer School 2009
 
-![Summ Sch](/4m-association/images/Group_DTUSummerschool2009thumb.jpg class="thumbnail")This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](http://www.4m-association.org/content/4M-Summer-School-2009)    
+![Summ Sch](/4m-association/images/Group_DTUSummerschool2009thumb.jpg class="thumbnail")This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/4m-association/content/4M-Summer-School-2009)    
   
 ## Nanoaccess@Cardiff
 
@@ -56,8 +56,8 @@ The First Call for proposals to access the portfolio of technologies and experti
 
 ## CHARPAN
 
-The latest newsletter from this project is [available here.](http://www.4m-association.org/content/CHARPAN)  
+The latest newsletter from this project is [available here.](/4m-association/content/CHARPAN)  
 
 ## NMP Call opens
 
-As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](http://www.4m-association.org/content/NMP-Call-opened-31st-July-2009)
+As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/4m-association/content/NMP-Call-opened-31st-July-2009)

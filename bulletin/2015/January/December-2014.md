@@ -5,7 +5,7 @@
 
 ![4m2020logo](/4m-association/images/4m2020logo.png class="thumbnail")
 
-Registration details available [here](http://www.4m-association.org/content/Conference-Registration)
+Registration details available [here](/4m-association/content/Conference-Registration)
 
 Author registration deadline: 1st February 2015. In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 1st of February 2015.
 
@@ -51,7 +51,7 @@ In 2015, IDETC/CIE 2015 will co-locate with the new 2015 ASME Additive Manufactu
 PhD Research Studentship
 Development of optical coordinate metrology techniques for precision and additive manufactured components
 Applications are invited from suitably qualified graduates for a fully funded PhD studentship within the Manufacturing Metrology Group. This studentship is an excellent opportunity to become involved at the forefront of research in a rapidly developing area.
-More Information available [Here>>](http://www.4m-association.org/content/University-Nottingham-Faculty-Engineering-%E2%80%93-Division-Manufacturing)
+More Information available [Here>>](/4m-association/content/University-Nottingham-Faculty-Engineering-%E2%80%93-Division-Manufacturing)
 
 
 

@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/images/4m-2012_100.png class="thumbnail")
-The **deadline for the first review** is Friday 4th May 2012. If you have been allocated papers to review please complete them by this date. The first [Invited Speakers have been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](http://www.4m-association.org/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. 
+The **deadline for the first review** is Friday 4th May 2012. If you have been allocated papers to review please complete them by this date. The first [Invited Speakers have been announced](/content/Invited-Speakers-4M2012). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/4m-association/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. 
   
 ## European micro- and nanotechnology industry unfazed by debt crisis
 

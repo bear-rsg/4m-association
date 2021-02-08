@@ -4,7 +4,7 @@
 
 ![4M2020 Logo](/4m-association/images/files/conference.jpg class="thumbnail")
 
-Registration details available [here](http://www.4m-association.org/content/Conference-Registration)
+Registration details available [here](/4m-association/content/Conference-Registration)
 
 Author registration deadline: 1st February 2015. In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 1st of February 2015.
 
@@ -19,7 +19,7 @@ Technical University of Denmark or University of Ljubljana, Slovenia
 
 If you have preference please let us know! We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 
-[Read more](http://www.4m-association.org/content/4MIWMF-2016-Proposals)
+[Read more](/4m-association/content/4MIWMF-2016-Proposals)
 
 ## Micro Manufacturing Event
 

@@ -16,7 +16,7 @@
       <th>Mechanical force</th>
       <td>
       <ul class="flat">
-      <li><a href="http://www.4m-association.org/content/Ultrasonic-Machining">Ultrasonic Machining</a></li>
+      <li><a href="/4m-association/content/Ultrasonic-Machining">Ultrasonic Machining</a></li>
       <li class="darker"><a href="/content/ECF">ECF</a></li>
       </ul>
       </td>

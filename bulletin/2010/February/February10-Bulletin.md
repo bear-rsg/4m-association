@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/images/4m-logotight_web.png class="thumbnail")
-Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](http://www.4m-association.org/content/Invited-Speakers).  
+Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](/4m-association/content/Invited-Speakers).  
 
 * Eric Baer, Cleveland Case Reserve University, USA  
 * Phil Coates, Bradford University, UK  

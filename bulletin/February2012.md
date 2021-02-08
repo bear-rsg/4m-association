@@ -13,7 +13,7 @@ We are pleased to announce that the [4M2009 Special Issue](/content/Special-Issu
  
 ## PolyBright project
 
-Latest news from the [PolyBright Project](http://www.4m-association.org/content/PolyBright-update) which aims to extend the process limits of laser polymer welding with high-brilliance beam sources.  
+Latest news from the [PolyBright Project](/4m-association/content/PolyBright-update) which aims to extend the process limits of laser polymer welding with high-brilliance beam sources.  
 
 ## MINAM 2.0
 

@@ -18,7 +18,7 @@ This series of conferences on multi-material micro-manufacture is organised by t
  * [4M/ICOMM2015](http://www.4m-association.org/conference/2015)- Milan, Italy 
  * [4M/IWMF2016](http://www.4m-association.org/conference/2016)- Lyngby, Denmark
  * [WCMNM2018](http://www.4m-association.org/conference/2018)- Portorož, Slovenia
- * [WCMNM2019](http://www.4m-association.org/content/WCMNM-2019)- Raleigh, USA
+ * [WCMNM2019](/4m-association/content/WCMNM-2019)- Raleigh, USA
 
 
 Links to the Proceedings from the above conferences can be found [here.](/content/4M-conference-series)

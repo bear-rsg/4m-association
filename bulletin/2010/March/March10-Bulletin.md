@@ -17,7 +17,7 @@ A leading international company in the field of microstructures and micro-lithog
   
 ## Scitech Precision - new company
 
-A company which combines unique expertise in micro engineering and design to make ultra-precise parts for laser experiments [has been launched.](http://www.4m-association.org/content/Scitech-Precision-Ltd)   
+A company which combines unique expertise in micro engineering and design to make ultra-precise parts for laser experiments [has been launched.](/4m-association/content/Scitech-Precision-Ltd)   
   
 ## EUMINA*fab*
 

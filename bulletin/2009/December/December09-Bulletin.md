@@ -10,7 +10,7 @@ The 4M Association is pleased to announce that [4M2010](/conference/2010) will t
 ## New MD at Rondol
 
 ![Victoire de Margerie](/4m-association/images/Photo-Victoire_web.jpg class="thumbnail")  
-The Board of Rondol Technology Limited has announced that its Chairperson Victoire de Margerie will now also act as its Managing Director. Rondol Technology specialises in producing polymer processing equipment for the micro and nanotechnology sectors, primarily in the healthcare industry. [Full press release.](http://www.4m-association.org/content/New-MD-Rondol)  
+The Board of Rondol Technology Limited has announced that its Chairperson Victoire de Margerie will now also act as its Managing Director. Rondol Technology specialises in producing polymer processing equipment for the micro and nanotechnology sectors, primarily in the healthcare industry. [Full press release.](/4m-association/content/New-MD-Rondol)  
 
 ## Job opportunity in Blue Chip Energy Company
 

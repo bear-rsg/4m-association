@@ -22,7 +22,7 @@ The latest information is now available on the [Summer School website](http://ww
 
 
 ![4M workshops on Ceramics](/4m-association/images/ceramics-workshop-goteborg-thumb.jpg class="thumbnail")
-The first of two seminars about ceramic processing and application [was held in Goteborg](http://www.4m-association.org/content/4M-Ceramics-Workshop-Goteborg) on the 11th of March. A [second seminar](/node/56) will be held in Hannover Fair on the 21st April 2009.
+The first of two seminars about ceramic processing and application [was held in Goteborg](/4m-association/content/4M-Ceramics-Workshop-Goteborg) on the 11th of March. A [second seminar](/node/56) will be held in Hannover Fair on the 21st April 2009.
 
 ## Vacancy for a researcher in Microtechnologies
 
