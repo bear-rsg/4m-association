@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-The first stage Review began w/c 12th April. Reviewers are kindly requested to complete their allocated Reviews by 16th May 2010. Further conference information can be viewed on the [conference webpages.](http://www.4m-association.org/conference/2010) The three-day programme will be announced soon. We look forward to welcoming you in France from 17th - 19th November 2010.  
+The first stage Review began w/c 12th April. Reviewers are kindly requested to complete their allocated Reviews by 16th May 2010. Further conference information can be viewed on the [conference webpages.](/4m-association/conference/2010) The three-day programme will be announced soon. We look forward to welcoming you in France from 17th - 19th November 2010.  
   
 ## 2nd Aachen Precision Days
 

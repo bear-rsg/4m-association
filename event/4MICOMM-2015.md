@@ -10,7 +10,7 @@ Dr. Irene Fassi, CNR-ITIA
 Prof. Gloria Wiens, University of Florida
 Prof. Stefan Dimov, Birmingham University 
 
-[LINK](http://www.4m-association.org/conference/2015) to conference website
+[LINK](/4m-association/conference/2015) to conference website
 
 Co-organised by: 
 

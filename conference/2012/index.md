@@ -12,4 +12,4 @@ The main conference programme takes place from 9th - 11th October 2012
   
 ## COTECH Training for Professionals
 
-On the 8th October, the COTECH project will be holding its final [training event](http://www.4m-association.org/event/Training-Professionals) at the same venue, for which you can [**REGISTER HERE**.](http://www.inscription-facile.com/events/register/pIwLKBz0jhP3wBSnZIqc)
+On the 8th October, the COTECH project will be holding its final [training event](/4m-association/event/Training-Professionals) at the same venue, for which you can [**REGISTER HERE**.](http://www.inscription-facile.com/events/register/pIwLKBz0jhP3wBSnZIqc)

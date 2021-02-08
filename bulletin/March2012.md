@@ -9,7 +9,7 @@ The [First Call for Papers](/conference/2012/Call-Papers-4M2012) is published,  
   
 ## ICOMM 2012
 
-Takes place [next week at Northwestern University](http://www.4m-association.org/event/ICOMM-2012), Evanston, IL, USA.  
+Takes place [next week at Northwestern University](/4m-association/event/ICOMM-2012), Evanston, IL, USA.  
   
 ## New work on Areal Surface Topography at NPL
 

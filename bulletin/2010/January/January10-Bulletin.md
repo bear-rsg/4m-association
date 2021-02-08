@@ -34,7 +34,7 @@ This 2-day conference intends to stimulate networking and discussions on the the
   
 ## Launching NANOfutures
 
-An event to officialy launching the Integrating European Technology Innovation Platform (ETIP) "NANOfutures" will take place in Spain, in June 2010. High level representatives from the European Commission and the Spanish Ministry of Science and Innovation will explain the main objectives of this initiative. [Full details.](http://www.4m-association.org/event/Launching-Nanofutures)
+An event to officialy launching the Integrating European Technology Innovation Platform (ETIP) "NANOfutures" will take place in Spain, in June 2010. High level representatives from the European Commission and the Spanish Ministry of Science and Innovation will explain the main objectives of this initiative. [Full details.](/4m-association/event/Launching-Nanofutures)
 
 ## Training Courses in Microsystems
 
@@ -43,4 +43,4 @@ fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensi
 
 ## ECERS
 
-The European Ceramic Society have announced the dates of their [2011 conference](http://www.4m-association.org/event/ECERS-2011) in Stockholm.
+The European Ceramic Society have announced the dates of their [2011 conference](/4m-association/event/ECERS-2011) in Stockholm.

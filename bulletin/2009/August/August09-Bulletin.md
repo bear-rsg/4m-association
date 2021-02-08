@@ -6,7 +6,7 @@
 
 ![4M/ICOMM 2009](/4m-association/assets/images/conf2008-twin-thumb.png class="thumbnail")
 Thank you to all who have already registered for the 4M/ICOMM Conference. If you have not yet done so you can still [register here](/conference/2009/Registration_and_fees).
-If you are planning your trip some suggestions for [hotels](/conference/2009/Hotels-and-Accomodation) are given. Transport will be made available from these suggested hotels to the conference venue. The [Provisional programme](/conference/2009/Programme) is now available. Visit the [conference webpages](http://www.4m-association.org/conference/2009 "conference webpages") for further information.  
+If you are planning your trip some suggestions for [hotels](/conference/2009/Hotels-and-Accomodation) are given. Transport will be made available from these suggested hotels to the conference venue. The [Provisional programme](/conference/2009/Programme) is now available. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information.  
  
 ## Workshop on Microfluidics for Cells
 

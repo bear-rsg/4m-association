@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](/4m-association/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
   
 ## MultiLayer workshop
 

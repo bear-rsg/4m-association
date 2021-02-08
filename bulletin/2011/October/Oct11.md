@@ -5,7 +5,7 @@
 
 
 ![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
-Sixty-seven papers have been accepted for publication in the 4M2011 Proceedings, which are now in press. All those who wish to attend should [Register](http://www.4m-association.org/conference/2011/Registration-fees) as soon as possible. Six [invited speakers](/conference/2011/Invited-Speakers-0) have now been confirmed and twelve [sponsors](/conference/2011/Our-Sponsors) have signed up. We look forward to meeting you all in Stuttgart.
+Sixty-seven papers have been accepted for publication in the 4M2011 Proceedings, which are now in press. All those who wish to attend should [Register](/4m-association/conference/2011/Registration-fees) as soon as possible. Six [invited speakers](/conference/2011/Invited-Speakers-0) have now been confirmed and twelve [sponsors](/conference/2011/Our-Sponsors) have signed up. We look forward to meeting you all in Stuttgart.
   
 ## COTECH - Training for Professionals
 

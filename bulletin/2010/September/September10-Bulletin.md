@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-All those wishing to attend the 4M2010 Conference should **register by Friday 17th September** to benefit from the reduced rates.  General conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+All those wishing to attend the 4M2010 Conference should **register by Friday 17th September** to benefit from the reduced rates.  General conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 ## DTU Summer School on micromanufacturing
 
@@ -49,7 +49,7 @@ There will be a EUMINAfab workshop held on 14th September 2010 as a satellite ev
   
 ## SME Micromanufacturing Conference
 
-Takes place from 5th April 2011 in Illinois, USA. [More details.](http://www.4m-association.org/event/SME-Micromanufacturing-Conference)  
+Takes place from 5th April 2011 in Illinois, USA. [More details.](/4m-association/event/SME-Micromanufacturing-Conference)  
 
 ## Training Courses in Microsystems
 

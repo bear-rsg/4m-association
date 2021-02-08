@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](/4m-association/content/Invited-Speakers).  
+Following the distribution of the [Call for Papers,](/content/1st-Call-Papers) the [submission site](/4m-association/conference/2010/Submission%20Guidelines) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010) that will feature the following [invited speakers](/4m-association/content/Invited-Speakers).  
 
 * Eric Baer, Cleveland Case Reserve University, USA  
 * Phil Coates, Bradford University, UK  
@@ -20,7 +20,7 @@ This international conference which takes place 18th - 19th May 2010, with a the
   
 ## Erlangen Workshop on Microforming
 
-The [event page](http://www.4m-association.org/event/Erlangen-workshop-microforming) for this workshop on 23rd November 2010, has been updated.  
+The [event page](/4m-association/event/Erlangen-workshop-microforming) for this workshop on 23rd November 2010, has been updated.  
   
 ## MEMS/Microfluidics course
 
@@ -32,7 +32,7 @@ This course at the University of Lancaster will provide an introduction to [MEMS
 
 ## Micro-Nano-Bio-Convergence-Systems
 
-[This workshop](http://www.4m-association.org/event/Micro-Nano-Bio-Convergence-Systems)  takes place on 14th-15th February 2010.  
+[This workshop](/4m-association/event/Micro-Nano-Bio-Convergence-Systems)  takes place on 14th-15th February 2010.  
  
 ## MEMS Trends magazine
 

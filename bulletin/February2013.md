@@ -5,7 +5,7 @@
 ##  First Call for Papers - Now Open 
 
 ![4M2013](/4m-association/assets/images/4m2013_logo.jpg class="thumbnail")
-The First Call for Papers is published and invites papers that present original research and development in processes and process chains for multi-material micro and nano manufacture. The submission site is now open, and the deadline for submission of papers is the 27th March 2013. Further information is available, and will be regularly updated, on the [4M2013 webpages.](http://www.4m-association.org/conference/2013)
+The First Call for Papers is published and invites papers that present original research and development in processes and process chains for multi-material micro and nano manufacture. The submission site is now open, and the deadline for submission of papers is the 27th March 2013. Further information is available, and will be regularly updated, on the [4M2013 webpages.](/4m-association/conference/2013)
 
 ## Proceedings from 4M2012 Conference now available to view online
 

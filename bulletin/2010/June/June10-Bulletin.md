@@ -10,7 +10,7 @@ We are pleased to announce that once again [SARIX](http://sarix.com/) have agree
 ## 4M 2010
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-Authors should receive feedback about their papers from the Review process by 3rd June. Further general conference information can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+Authors should receive feedback about their papers from the Review process by 3rd June. Further general conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 ## 4M/ICOMM2009 accepted and indexed by Thomson Reuters'
 

@@ -55,7 +55,7 @@ Late payers for I2M2 members: **£580**
 Late payers for non-members: **£650**
 
 Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount.
-Check the following link for information on 4M membership. [Joining 4M](http://www.4m-association.org/join4m)
+Check the following link for information on 4M membership. [Joining 4M](/4m-association/join4m)
 
 
 The conference fees (in GBP) include printed proceedings, lunches, refreshments, and conference dinner.

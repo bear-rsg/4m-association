@@ -5,7 +5,7 @@ Join 4M!, IT2014, Precision Engineering Conference, Nanomanufacturing Conference
 ## REMINDER: Renew your 4M Membership for 2014
 
 ![joinus](/4m-association/assets/images/joinus.jpg class="thumbnail")
-If you would like to renew your annual membership, or join the 4M Association as a new member, please contact the [Secretariat](mailto:natalie.withenshaw@ctechinnovation.com) for more information. Benefits of membership include reduced conference fees, networking opportunities, access to 4M research infrastructure and knowledge and much more. Membership is annual and runs from January to December. [Join us today!>>](http://www.4m-association.org/join4m)
+If you would like to renew your annual membership, or join the 4M Association as a new member, please contact the [Secretariat](mailto:natalie.withenshaw@ctechinnovation.com) for more information. Benefits of membership include reduced conference fees, networking opportunities, access to 4M research infrastructure and knowledge and much more. Membership is annual and runs from January to December. [Join us today!>>](/4m-association/join4m)
 
 ## Industrial Technologies 2014
 

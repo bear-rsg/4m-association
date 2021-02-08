@@ -13,11 +13,11 @@ COMPOLIGHT is an FP7 project that aims to improve the design and manufacture of 
    
 ## Laser-based Micro- and Nano-packaging and Assembly
 
-Held in San Francisco, California, Photonics West is one of the biggest laser related conferences. In the frame of Photonic West 2012 a conference is being organised  entitled "Laser-based Micro- and Nanopackaging and Assembly (LBMP-VI)" which is concentrated on application-oriented laser process developments. More info on [event page.](http://www.4m-association.org/event/LBMP-VI) **Abstracts due July 11th 2011.**  
+Held in San Francisco, California, Photonics West is one of the biggest laser related conferences. In the frame of Photonic West 2012 a conference is being organised  entitled "Laser-based Micro- and Nanopackaging and Assembly (LBMP-VI)" which is concentrated on application-oriented laser process developments. More info on [event page.](/4m-association/event/LBMP-VI) **Abstracts due July 11th 2011.**  
  
 ## IPAS 2012
 
-A new website is available - see link from our [event page](http://www.4m-association.org/event/IPAS2012). Also a reminder that **abstracts are due 4th July**.   
+A new website is available - see link from our [event page](/4m-association/event/IPAS2012). Also a reminder that **abstracts are due 4th July**.   
     
 ## Training Courses in Microsystems
 

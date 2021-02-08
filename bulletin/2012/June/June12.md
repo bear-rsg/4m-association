@@ -21,7 +21,7 @@ Contributions are invited for the conference area at this high-precision enginee
   
 ## International Symposium on Electromachining
 
-The 17th International Symposium on Electromachining (ISEM XVII) will be held in Leuven, Belgium, from 9th to 12th April 2013. Abstracts should be **submitted by July 2nd 2012**. [More information.](http://www.4m-association.org/event/ISEM-XVI) 
+The 17th International Symposium on Electromachining (ISEM XVII) will be held in Leuven, Belgium, from 9th to 12th April 2013. Abstracts should be **submitted by July 2nd 2012**. [More information.](/4m-association/event/ISEM-XVI) 
   
 ## Training Courses in Microsystems
 

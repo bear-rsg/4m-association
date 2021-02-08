@@ -9,7 +9,7 @@ The second stage of the 4M2011 peer review is complete. All successful authors w
 
 ## ICOMM 2012
 
-Our colleagues in the USA, the International Institution of Micro Manufacturing (I2M2), have announced the dates for their next conference, [ICOMM 2012](http://www.4m-association.org/event/ICOMM-2012). It takes place from 12-14 March 2012. **Deadline for abstracts is 1st October 2011.**  
+Our colleagues in the USA, the International Institution of Micro Manufacturing (I2M2), have announced the dates for their next conference, [ICOMM 2012](/4m-association/event/ICOMM-2012). It takes place from 12-14 March 2012. **Deadline for abstracts is 1st October 2011.**  
     
 ## PhD Scholarship available at K.U.Leuven
 

@@ -5,7 +5,7 @@
 ##  Second Call for Papers - Reminder 
 
 ![4M2013](/4m-association/assets/images/4m2013_logo.jpg class="thumbnail")
-The [Second Call for Papers](/4m-association/content/Call-Papers-4M2013) is published. The deadline for submission of papers is the **27th March 2013**. Four [Invited Speakers](/4m-association/content/Invited-Speakers-4M2013) have already been confirmed aswell as three projects: [IMPRESS](http://www.impress-fp7.eu/), [SMARTFRAME](http://www.smart-frame.eu/site/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. Further information is available, and will be regularly updated, on the [4M2013 webpages.](http://www.4m-association.org/conference/2013)
+The [Second Call for Papers](/4m-association/content/Call-Papers-4M2013) is published. The deadline for submission of papers is the **27th March 2013**. Four [Invited Speakers](/4m-association/content/Invited-Speakers-4M2013) have already been confirmed aswell as three projects: [IMPRESS](http://www.impress-fp7.eu/), [SMARTFRAME](http://www.smart-frame.eu/site/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. Further information is available, and will be regularly updated, on the [4M2013 webpages.](/4m-association/conference/2013)
 
 ##  4M2020 CSA Proposal
 

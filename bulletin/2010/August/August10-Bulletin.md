@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-With all papers now selected, authors attending the conference should register by **Friday 13th August.**  General conference information can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+With all papers now selected, authors attending the conference should register by **Friday 13th August.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
   
 ## Microconnect - update on emerging applications
 

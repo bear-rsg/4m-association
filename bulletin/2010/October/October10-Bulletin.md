@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](http://www.4m-association.org/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/node/18), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
+For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation) can be viewed on the [conference webpages](/4m-association/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/node/18), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 ## 5th Erlangen Workshop on Microforming
 

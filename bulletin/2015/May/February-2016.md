@@ -8,7 +8,7 @@ REGISTER BEFORE THE 20th OF MARCH 2015
 
 Discounts available for 4M & I2M2 members. Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount.
 
-[Register here](http://www.4m-association.org/conference/2015)
+[Register here](/4m-association/conference/2015)
 
 
 4M/IWMF 2016 Conference 
@@ -32,4 +32,4 @@ As you might know, a joint Industrial Workshop on “Higher Value Production Tec
  
 The workshop promises to be a great day for all involved
 
-[Read More](http://www.4m-association.org/bulletin/2015/March/INDUSTRIAL-WORKSHOP)
+[Read More](/4m-association/bulletin/2015/March/INDUSTRIAL-WORKSHOP)

@@ -5,7 +5,7 @@
 
 
 ![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
-The [submission site](http://www.4m-association.org/conference/2010/Submission%20Guidelines) is **OPEN** and will remain so until the deadline on 19th March 2010, so there is still plenty of time to submit your paper. The [Call for Papers](/content/1st-Call-Papers) can be accessed online. Full conference information can be viewed on the [conference webpages.](http://www.4m-association.org/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.
+The [submission site](/4m-association/conference/2010/Submission%20Guidelines) is **OPEN** and will remain so until the deadline on 19th March 2010, so there is still plenty of time to submit your paper. The [Call for Papers](/content/1st-Call-Papers) can be accessed online. Full conference information can be viewed on the [conference webpages.](/4m-association/conference/2010) We look forward to welcoming you in Oyonnax, France from 17th - 19th November 2010.
 
 ## ICOMM/4M 2010
 

@@ -7,7 +7,7 @@ Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, an
 
 ## Save the Date for the next 4M Annual Conference - 4M2013
 
-The next 4M Annual Conference will be in San Sebastian, Spain on the 8th to the 10th October 2013 and hosted by Tekniker. Please add the dates to your calendars and more information will be available soon on the [4M2013 pages.](http://www.4m-association.org/conference/2013) Membership Fees for 2013 are as follows: €500 for corporate members and €200 for individual members. Benefits of membership include reduced fees for the conference, website access, and for corporate members, the option to include an advert in the conference proceedings. To join the 4M Association and for more information, [click here>>](http://www.4m-association.org/node/11)  
+The next 4M Annual Conference will be in San Sebastian, Spain on the 8th to the 10th October 2013 and hosted by Tekniker. Please add the dates to your calendars and more information will be available soon on the [4M2013 pages.](/4m-association/conference/2013) Membership Fees for 2013 are as follows: €500 for corporate members and €200 for individual members. Benefits of membership include reduced fees for the conference, website access, and for corporate members, the option to include an advert in the conference proceedings. To join the 4M Association and for more information, [click here>>](/4m-association/node/11)  
 
 ## REMINDER Call for Papers - The 8th International Conference on MicroManufacturing (ICOMM2013)
 

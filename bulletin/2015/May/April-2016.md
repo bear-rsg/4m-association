@@ -17,7 +17,7 @@ On behalf of the 4M Association, we are pleased to announce that the next 4M Con
 ## 4M/ICOMM2015 Awards
 
 ![4M2020 Logo](/4m-association/assets/images/files/best-paper.jpg class="thumbnail") 
-Best Paper Award: “Experimental Investigation of the Effect of Dielectric Conductivity on Characteristics of Micro-EDM Process” Soham S. Mujumdar, Shiv G. Kapoor and Davide Curreli (University of Illinois at Urbana Champaign, USA) [READ MORE](http://www.4m-association.org/conference/2015)
+Best Paper Award: “Experimental Investigation of the Effect of Dielectric Conductivity on Characteristics of Micro-EDM Process” Soham S. Mujumdar, Shiv G. Kapoor and Davide Curreli (University of Illinois at Urbana Champaign, USA) [READ MORE](/4m-association/conference/2015)
 
 The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her excellent presentation at conference of the paper entitled :  "Design and fabrication of a polymeric micro-filter" [READ MORE](/4m-association/content/Elena-Ulieru-Innovation-Award)
 

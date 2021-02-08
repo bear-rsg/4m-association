@@ -7,7 +7,7 @@ A joint workshop between 4M Ceramic and Sensor & Actuators divisions will be hel
 
 ## 4M/ICOMM 2009
 
-Thank you to all those who have submitted papers for 4M/ICOMM 2009. We received almost 100 papers and the review process starts today. Visit the [conference webpages](http://www.4m-association.org/conference/2009 "conference webpages") for further information. We are pleased to announce that our list of invited speakers is now complete:  
+Thank you to all those who have submitted papers for 4M/ICOMM 2009. We received almost 100 papers and the review process starts today. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information. We are pleased to announce that our list of invited speakers is now complete:  
 
 [Prof. Ian Hutchings](/node/76) - <i>Cambridge University, UK</i> -  Opportunities and limitations of inkjet printing in micro-manufacturing    
 [Dr Sylvain Ballandras](/node/72) - <i>FEMTO-ST, CNRS, France</i> - Single-crystal based composite wafers for high quality passive RF microdevices  

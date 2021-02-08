@@ -13,7 +13,7 @@ This Green Paper seeks to launch a debate on how the aims of attracting more app
    
 ## Summer School in Micro Mechanical System Design & Manufacturing
 
-The dates for this year's [Summer School at DTU](/event/Summer-School-Micro-Manufacturing) are announced. It commences on 20th June 2011, for two weeks. A limited number of bursaries are available to 4M member organisations. **Deadline for Registration is May 19th.** You can read about previous summer schools [here.](http://www.4m-association.org/category/Tags/Summer-school)     
+The dates for this year's [Summer School at DTU](/event/Summer-School-Micro-Manufacturing) are announced. It commences on 20th June 2011, for two weeks. A limited number of bursaries are available to 4M member organisations. **Deadline for Registration is May 19th.** You can read about previous summer schools [here.](/4m-association/category/Tags/Summer-school)     
   
 ## New Book on Optical Techniques
 
