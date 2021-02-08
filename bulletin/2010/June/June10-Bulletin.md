@@ -4,7 +4,7 @@
 ## 4M 2010 - Sponsor
 
 
-![SARIX](/4m-association/images/images/logos/Sarix.jpg class="thumbnail")
+![SARIX](/4m-association/images/logos/Sarix.jpg class="thumbnail")
 We are pleased to announce that once again [SARIX](http://sarix.com/) have agreed to sponsor our 4M conference. If you require further information about sponsorship packages, please contact [Chris Matthews.](mailto:matthewscw@cf.ac.uk)  
   
 ## 4M 2010

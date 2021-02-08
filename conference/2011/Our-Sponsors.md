@@ -37,7 +37,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
   
 ## #SARIX#
 
-![SARIX](/4m-association/images/images/logos/SARIX-inline.jpg class="inline-img")
+![SARIX](/4m-association/images/logos/SARIX-inline.jpg class="inline-img")
 
 [SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/node/75). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities. 
 

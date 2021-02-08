@@ -45,7 +45,7 @@ Forschungszentrum Karlsruhe, Germany
 ## Supported by
 
 <div style="width:100%">
-<img src="/4m-association/images/images/logos/sme-namri.gif" title="North American Manufacturing Research Institution 
-of the Society of Manufacturing Engineers (NAMRI/SME)" /> <img src="/4m-association/images/images/logos/ASME_Logo.jpg" title="Manufacturing Engineering Division of the American Society of 
-Mechanical Engineers (MED/ASME)" />  <img src="/4m-association/images/images/logos/cotech-logo-75.png" /> <img src="/4m-association/images/images/logos/flexpaet-logo-75.png" /> <img src="/4m-association/images/images/logos/multilayer-logo-75.png" /> <img src="/4m-association/images/images/logos/EUMINAfab.png" title="EUMINAfab" /> <img src="/4m-association/images/images/logos/FZKLogo.jpg" /> <a href="http://www.kit.edu/" title="Karlsruhe Institute of Technology"><img src="/4m-association/images/images/logos/kit_logo.gif" title="Karlsruhe Institute of Technology" /></a> <img src="/4m-association/images/images/logos/minam.jpg" /> 
+<img src="/4m-association/images/logos/sme-namri.gif" title="North American Manufacturing Research Institution 
+of the Society of Manufacturing Engineers (NAMRI/SME)" /> <img src="/4m-association/images/logos/ASME_Logo.jpg" title="Manufacturing Engineering Division of the American Society of 
+Mechanical Engineers (MED/ASME)" />  <img src="/4m-association/images/logos/cotech-logo-75.png" /> <img src="/4m-association/images/logos/flexpaet-logo-75.png" /> <img src="/4m-association/images/logos/multilayer-logo-75.png" /> <img src="/4m-association/images/logos/EUMINAfab.png" title="EUMINAfab" /> <img src="/4m-association/images/logos/FZKLogo.jpg" /> <a href="http://www.kit.edu/" title="Karlsruhe Institute of Technology"><img src="/4m-association/images/logos/kit_logo.gif" title="Karlsruhe Institute of Technology" /></a> <img src="/4m-association/images/logos/minam.jpg" /> 
 </div>
