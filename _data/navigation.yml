@@ -1078,12 +1078,22 @@
   description: ""
   multilevel: true
   subcategories:
+    - subtitle: "Micro-optics Processing"
+      subhref: "/4m-association/interest-group/micro_optics.html"
+      subdescription: ""
+    - subtitle: "Ceramics"
+      subhref: "/4m-association/interest-group/ceramics_processing.html"
+      subdescription: ""
+    - subtitle: "Metrology"
+      subhref: "/4m-association/interest-group/metrology.html"
+      subdescription: ""
     - subtitle: "Metals Processing"
       subhref: "/4m-association/interest-group/Metals-Processing.html"
       subdescription: ""
-    - subtitle: "Micro Fluidics Interest Group"
+    - subtitle: "Micro Fluidics"
       subhref: "/4m-association/interest-group/Micro-Fluidics-Interest-Group.html"
       subdescription: ""
+
 - title: "Projects"
   href: "/4m-association/project/index.html"
   description: ""
