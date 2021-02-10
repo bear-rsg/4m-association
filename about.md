@@ -6,3 +6,7 @@
 The aim of the 4M Association is to try and maintain the existing 4M Network’s community beyond the end of FP6 funding, by maintaining the links and contacts established amongst the members of the network, and widening the community by opening up membership to all.  
 
 The 4M Association now has an [established membership](/4m-association/members.html) and has successfully continued the [4M Conference Series](/4m-association/content/History), linking up with the USA-based ICOMM Conference to become truly global.  
+
+* [Introduction](/4m-association/node/2)
+* [FAQ](/4m-association/node/3) 
+* [Structure](/4m-association/node/4)
