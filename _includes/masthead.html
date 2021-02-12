@@ -1,10 +1,10 @@
 {% for entry in site.data.navigation %}
-    {% capture currenturl %}{{ entry.href }}{% endcapture %}
-    {% if fullurl == page.url %}
-        {% assign current_page = currenturl %}
+    {% capture curr_url %}{{ entry.href }}{% endcapture %}
+    {% if curr_url == page.url %}
+        {% assign current_page = curr_url %}
         {% break %}
-    {% elsif page.href contains currenturl %}
-        {% assign current_page = currenturl %}
+    {% elsif page.href contains curr_url %}
+        {% assign current_page = curr_url %}
     {% endif %}
 {% endfor %}
 
@@ -30,11 +30,11 @@
             <ul class="menu">
                 {{ current_page }}
                 {% for category in site.data.navigation %}
-                {% if category.href == current_page %}
-                    {% assign current = ' class="selected"' %}
-                {% else %}
-                    {% assign current = null %}
-                {% endif %}
+                    {% if category.href == current_page %}
+                        {% assign current = ' class="selected"' %}
+                    {% else %}
+                        {% assign current = null %}
+                    {% endif %}
 
                 <li{{ current }}>
                     <a href="{{ category.href }}" {% if category.description %}title="{{ category.description }}"{% endif %}>{{ category.title }}</a>
