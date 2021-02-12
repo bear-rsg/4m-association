@@ -667,8 +667,8 @@
     - subtitle: "2010"
       subhref: "/4m-association/conference/2010/"
       subdescription: ""
-    - subtitle: 2011"
-      subhref: "/4m-association/conference/2011/index.html"
+    - subtitle: "2011"
+      subhref: "/4m-association/conference/2011/"
       subdescription: ""
       multilevel: true
       subcategories:
@@ -740,10 +740,10 @@
     - subtitle: "2018"
       subhref: "/4m-association/conference/2018/"
       subdescription: ""
-    - subtitle: "Wcmnm2019"
+    - subtitle: "WCMNM 2019"
       subhref: "/4m-association/conference/WCMNM2019/"
       subdescription: ""
-    - subtitle: "Wcmnm2020"
+    - subtitle: "WCMNM 2020"
       subhref: "/4m-association/conference/WCMNM2020/"
       subdescription: ""
 
