@@ -1,10 +1,10 @@
 {% for entry in site.data.navigation %}
-    {% capture fullurl %}{{ entry.url }}{% endcapture %}
+    {% capture currenturl %}{{ entry.href }}{% endcapture %}
     {% if fullurl == page.url %}
-        {% assign current_page = fullurl %}
+        {% assign current_page = currenturl %}
         {% break %}
-    {% elsif page.url contains fullurl %}
-        {% assign current_page = fullurl %}
+    {% elsif page.href contains currenturl %}
+        {% assign current_page = currenturl %}
     {% endif %}
 {% endfor %}
 
