@@ -1,11 +1,11 @@
-# Join the 4M Association
+## Join the 4M Association
 
-## MEMBERSHIP LEVELS
+### MEMBERSHIP LEVELS
 
 
 Please Note: 2019/2020 membership includes discount to 4M2020  
 
-## Sponsorship - €5000
+### Sponsorship - €5000
 
 
  * Advert on 4M Association website
@@ -14,13 +14,13 @@ Please Note: 2019/2020 membership includes discount to 4M2020
  * Reduced fees to conference for 10 people 
 
 
-## SME/Research Organisation - €500
+### SME/Research Organisation - €500
 
 
  * Reduced fees to conference for 4 people 
  
 
-## Individual - €200
+### Individual - €200
 
 
  * Reduced fees to conference for 1 person 
