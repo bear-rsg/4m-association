@@ -16,8 +16,7 @@
       if(w > 767) {
 
           var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-          alert(min + " | " + ($("#content").height()*0.94));
-          if(($("#content").height()*0.94) < min) {
+          if(($("#content").height()*0.94) < min) {  // padding
               $("#footer").addClass("shortpage");
           }
       }
