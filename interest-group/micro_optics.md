@@ -4,20 +4,20 @@ The aim of this group is to bring together commercial and non-commercial/academi
 
 To find out more information about the latest developments in this area visit the webpages of the group at: <a href="www.opticsmanufacturing.net">www.opticsmanufacturing.net</a>
 
-### Hot embossing <a href="#">Micro-Optics Interest Group</a> 
+### Hot embossing <a href="/4m-association/node/16">Micro-Optics Interest Group</a> 
 
 #### Hot embossing glass – to the nearest micrometer
 
 The lens is what matters: if lens arrays could be made of glass, it would be possible to make more conveniently sized projectors. <a href="#">Read more</a>
 
-### Training <a href="#">Micro-Optics Interest Group</a>     
+### Training <a href="/4m-association/node/16">Micro-Optics Interest Group</a>     
    
 #### Optics - Key technology for the future
 Start: 19/10/2010  End: 20/10/2010
 
 With this two-day colloquium centred around the topics of optics and photonics the Fraunhofer Institutes for Productions Technology (IPT) and Laser Technology (ILT) offer a forum of information about current perspectives, technological innovations and new applications from industry and research. <a href="#">Read more</a>
 
-### Conferences Training <a href="#">Micro-Optics Interest Group</a> 
+### Conferences Training <a href="/4m-association/node/16">Micro-Optics Interest Group</a> 
 
 #### 2nd Aachen Precision Days
 Start: 18/05/2010  End: 19/05/2010
