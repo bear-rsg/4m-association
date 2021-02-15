@@ -16,7 +16,7 @@
       if(w > 767) {
 
           var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-          alert($( window ).height());
+          alert(min + " | " + $("#content").height());
           if($("#content").height() < min) {
               $("#footer").addClass("shortpage");
           }
