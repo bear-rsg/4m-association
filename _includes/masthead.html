@@ -36,7 +36,7 @@
                         {% assign current = null %}
                     {% endif %}
 
-                <li{{ current }}>
+                <li {{ current }}>
                     <a href="{{ category.href }}" {% if category.description %}title="{{ category.description }}"{% endif %}>{{ category.title }}</a>
                 {% if category.subcategories %}
                     <ul class="sub-menu">
