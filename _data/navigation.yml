@@ -15,7 +15,7 @@
       subhref: "/4m-association/interest-group/micro_optics.html"
       subdescription: ""
     - subtitle: "Ceramics"
-      subhref: "/4m-association/interest-group/ceramics_processing.html"
+      subhref: "/4m-association/interest-group/ceramic_processing.html"
       subdescription: ""
     - subtitle: "Metrology"
       subhref: "/4m-association/interest-group/metrology.html"
@@ -28,12 +28,12 @@
       subdescription: ""
 
 - title: "Projects"
-  href: "/4m-association/project/index.html"
+  href: "/4m-association/projects/index.html"
   description: ""
   multilevel: true
   subcategories:
     - subtitle: "Integ Micro"
-      subhref: "/4m-association/project/Integ-Micro.html"
+      subhref: "/4m-association/projects/Integ-Micro.html"
       subdescription: ""
 - title: "Join4M"
   href: "/4m-association/join4m.html"
