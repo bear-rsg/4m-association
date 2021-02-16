@@ -20,38 +20,39 @@
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789811127281/)
 
 <h3 id="2016">4M/IWMF2016 Conference Proceedings</h3>
-![4M2016 cover](/4m-association/assets/images/cover-2016.jpg class="thumbnail" width="150px")
+
+![4M2016 cover](/4m-association/assets/images/cover-2016.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789811107504/index.html)
 
 <h3 id="2015">4M/ICOMM2015 Conference Proceedings</h3>
-![4M2015 cover](/4m-association/assets/images/cover-2015_0.jpg class="thumbnail" width="150px")
+![4M2015 cover](/4m-association/assets/images/cover-2015_0.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789810946098/index.html)
 
 You can purchase a copy of the proceedings from the [RPS website.](http://rpsonline.com.sg/rpsweb/9789810946098.html)
 
 <h3 id="2013">4M2013 Conference Proceedings</h3>
-![4M2013 cover](/4m-association/assets/images/cover-4M2013.jpg class="thumbnail")
+![4M2013 cover](/4m-association/assets/images/cover-4M2013.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789810772475/)
 
 You can purchase a copy of the proceedings from the [RPS website.](http://rpsonline.com.sg/rpsweb/9789810772475.html)
 
 
 <h3 id="2012">4M2012 Conference Proceedings</h3>
-![4M2012 cover](/4m-association/assets/images/cover-4M2012.jpg class="thumbnail")
+![4M2012 cover](/4m-association/assets/images/cover-4M2012.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789810733544/)
 
 You can purchase a copy of the proceedings from the [RPS website.](http://rpsonline.com.sg/rpsweb/9789810733537.html) 
 
 
 <h3 id="2011">4M2011 Conference Proceedings</h3>
-![4M2011 cover](/4m-association/assets/images/cover-4M2011.jpg class="thumbnail")
+![4M2011 cover](/4m-association/assets/images/cover-4M2011.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789810703196/index.html)
 
 You can purchase a copy of the proceedings from the [RPS website.](http://rpsonline.com.sg/rpsweb/8th-international-conference-on-multi-material-micro-manufacture.html)    
 
   
 <h3 id="2010">4M2010 Conference Proceedings</h3>
-![4M2010 cover](/4m-association/assets/images/cover-4M2010.jpg class="thumbnail")
+![4M2010 cover](/4m-association/assets/images/cover-4M2010.jpg)
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789810865559/index.html)
 
 You can purchase a copy of the proceedings from the [RPS website.](http://rpsonline.com.sg/proceedings/9789810865559.html)  
@@ -65,25 +66,25 @@ You can purchase a hard copy of the proceedings for 	€100 + p&p by contacting 
 
 
 <h3 id="2008">4M 2008 Conference Proceedings</h3>
-![4m 2008 cover](/4m-association/assets/images/cover-4M2008.jpg class="thumbnail")
+![4m 2008 cover](/4m-association/assets/images/cover-4M2008.jpg)
 You can [view the papers here](http://www.4m-net.org/KnowledgeBase)
 
 You can purchase a copy of the proceedings from [Whittles Publishing](http://moo.whittlespublishing.com/whittles/item/5106)
 
 
 <h3 id="2007">4M 2007 Conference Proceedings</h3>
-![4m 2007 cover](/4m-association/assets/images/wcmnm2018 proceedings cover.jpg class="thumbnail")
+![4m 2007 cover](/4m-association/assets/images/wcmnm2018 proceedings cover.jpg)
 You can [view the papers here](http://www.4m-net.org/KnowledgeBase)
 
 You can purchase a copy of the proceedings from [Whittles Publishing](http://moo.whittlespublishing.com/whittles/item/3779).
 
 <h3 id="2006">4M 2006 Conference Proceedings</h3>
-![4m 2006 cover](/4m-association/assets/images/cover-4M2006.jpg class="thumbnail")
+![4m 2006 cover](/4m-association/assets/images/cover-4M2006.jpg)
 
 You can purchase a copy of the proceedings from [Elsevier](http://elsevier.com/wps/find/bookdescription.cws_home/710258/description).
 
 <h3 id="2005">4M 2005 Conference Proceedings</h3>
-![4m 2005 cover](/4m-association/assets/images/cover-4M2005.jpg class="thumbnail")
+![4m 2005 cover](/4m-association/assets/images/cover-4M2005.jpg)
 You can [view the papers here](http://www.4m-net.org/KnowledgeBase)
 
 You can purchase a copy of the proceedings €100 + p&p by contacting Chris Matthews.

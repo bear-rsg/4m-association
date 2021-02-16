@@ -97,6 +97,7 @@ table {
     color: #5a5a5a;
     display: block;
 }
+
 #content h2, #content h3, #content h4, #content h5, #content p {
     line-height: 1.8;
 }
@@ -190,6 +191,11 @@ nav {
 .menu li a:hover,.menu li:hover>a {
     color: #fff;
     background: #4c8faa;
+}
+
+.menu li.selected,.menu li.selected:hover>a {
+    color: #fff;
+    background: #396b80;
 }
 
 .menu ul {
