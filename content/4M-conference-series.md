@@ -18,7 +18,7 @@
 
 <h3 id="2018">WCMNM2018 Conference Proceedings</h3>
 
-![WCMNM2018 cover](/4m-association/assets/images/cover_4M2018.jpg width="150px")
+![WCMNM2018 cover](/4m-association/assets/images/cover_4M2018.jpg)
 
 You can [view the papers here](http://rpsonline.com.sg/proceedings/9789811127281/)
 
@@ -107,6 +107,7 @@ You can purchase a copy of the proceedings from [Elsevier](http://elsevier.com/w
 <h3 id="2005">4M 2005 Conference Proceedings</h3>
 
 ![4m 2005 cover](/4m-association/assets/images/cover-4M2005.jpg)
+
 You can [view the papers here](http://www.4m-net.org/KnowledgeBase)
 
 You can purchase a copy of the proceedings €100 + p&p by contacting Chris Matthews.
