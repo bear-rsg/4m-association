@@ -4,7 +4,7 @@
 ### 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
-![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
+![4M2011](/4m-association/assets/images/4m-2011_web1.jpg)
 The 4M2011 [submission site](/4m-association/conference/2011/Submission_Guidelines) is now **OPEN**. The **deadline for submission of full (4-page) papers** is **8th April 2011.** The Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/4m-association/conference/2011/Call_for_Papers) Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
      
 ### Michaeli's successor at IKV named
@@ -42,5 +42,5 @@ EUMINAfab’s roadmapping team has identified two “Hot Topics”. They have la
   
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

@@ -4,13 +4,13 @@
 ### 4M 2010
 
 
-![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/assets/images/4m-logotight_web.png)
  Preparations for the conference in November are progressing well. Two invited speakers are already confirmed, and four projects -  [COTECH](http://www.fp7-cotech.eu/), [FlexPAET](http://www.e-squizoide.com/flexpaet/), [MultiLayer](http://multilayer.4m-association.org/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/4m-association/conference/2010). The first Call for Papers will be published soon.
 
 ### 4M 2007 - Special Issue
 
 
-![4m 2007 cover](/4m-association/assets/images/files/Front_Cover_4M2007web4.jpg class="thumbnail")17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  
+![4m 2007 cover](/4m-association/assets/images/files/Front_Cover_4M2007web4.jpg)17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  
 The papers selected for publication are listed [here.](/4m-association/content/Special-Issue-4M-IJAMT)  
 This will be the fourth Special Issue to be drawn from the [4M conference series](/conference). The previous Special Issues can be accessed [here.](http://www.4m-net.org/Publications) 
   
@@ -26,7 +26,7 @@ This 2-day conference intends to stimulate networking and discussions on the the
 
 ### ICOMM/4M 2010
 
-![ICOMM/4M 2010](/4m-association/assets/images/icomm_thumb_0.jpg class="thumbnail") [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
+![ICOMM/4M 2010](/4m-association/assets/images/icomm_thumb_0.jpg) [This conference](http://www.conferencing.uwex.edu/conferences/ICOMM10/) which takes place in Madison, Wisconsin, USA from 5th to 8th April 2010, focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.  
 
 ### EUSPEN 2010
 
@@ -38,7 +38,7 @@ An event to officialy launching the Integrating European Technology Innovation P
 
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)
 
 ### ECERS

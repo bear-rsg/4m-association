@@ -8,7 +8,7 @@ We are pleased to announce that [Rondol Technology Ltd.](http://www.rondol.com/)
   
 ### 4M 2010
 
-![4M2010](/4m-association/assets/images/4m-logotight_web.png class="thumbnail")
+![4M2010](/4m-association/assets/images/4m-logotight_web.png)
 Reviewers should complete their second reviews by **Friday 9th July at latest.**  General conference information can be viewed on the [conference webpages](/4m-association/conference/2010).  The [provisional programme](/4m-association/content/Provisional-Programme) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  
     
 
@@ -38,5 +38,5 @@ The MEMSCON FP7 project is organising a [workshop](/4m-association/event/MEMSCON
   
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

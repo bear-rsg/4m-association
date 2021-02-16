@@ -4,7 +4,7 @@
 ### 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
-![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
+![4M2011](/4m-association/assets/images/4m-2011_web1.jpg)
 Sixty-seven papers have been accepted for publication in the 4M2011 Proceedings, which are now in press. All those who wish to attend should [Register](/4m-association/conference/2011/Registration-fees) as soon as possible. Six [invited speakers](/4m-association/conference/2011/Invited-Speakers-0) have now been confirmed and twelve [sponsors](/4m-association/conference/2011/Our-Sponsors) have signed up. We look forward to meeting you all in Stuttgart.
   
 ### COTECH - Training for Professionals
@@ -33,5 +33,5 @@ Following its debut in Ohio, 2012 will see MM Live USA and new co-locating featu
 
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

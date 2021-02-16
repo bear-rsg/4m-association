@@ -1,7 +1,7 @@
 ## Extending the process limits of laser polymer welding
 
 <!--break-->
-![Polybright](/4m-association/assets/images/Polybright_web.jpg class="thumbnail")  
+![Polybright](/4m-association/assets/images/Polybright_web.jpg)  
 **POLYBRIGHT** is an FP7 Project on Extending the Process Limits of Laser Polymer Welding with High-Brilliance Beam Sources.  
   
 Since October 2009, 18 partners from 9 countries have been working together in POLYBRIGHT with the aim of developing high power, high brilliance lasers with new wavelengths between 1500 and 1900 nm, adapted to the absorption properties of polymers.  

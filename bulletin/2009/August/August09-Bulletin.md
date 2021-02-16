@@ -4,7 +4,7 @@
 ### 4M/ICOMM 2009
 
 
-![4M/ICOMM 2009](/4m-association/assets/images/conf2008-twin-thumb.png class="thumbnail")
+![4M/ICOMM 2009](/4m-association/assets/images/conf2008-twin-thumb.png)
 Thank you to all who have already registered for the 4M/ICOMM Conference. If you have not yet done so you can still [register here](/4m-association/conference/2009/Registration_and_fees).
 If you are planning your trip some suggestions for [hotels](/4m-association/conference/2009/Hotels-and-Accomodation) are given. Transport will be made available from these suggested hotels to the conference venue. The [Provisional programme](/4m-association/conference/2009/Programme) is now available. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information.  
  
@@ -14,7 +14,7 @@ This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th Octob
 
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses) 
 
 ### Applications of Micro and Nano Technology in Biosensing & Diagnostics
@@ -43,7 +43,7 @@ A new booklet that illustrates the exciting possibilities offered by laser manuf
 
 ### 4M Summer School 2009
 
-![Summ Sch](/4m-association/assets/images/Group_DTUSummerschool2009thumb.jpg class="thumbnail")This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/4m-association/content/4M-Summer-School-2009)    
+![Summ Sch](/4m-association/assets/images/Group_DTUSummerschool2009thumb.jpg)This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/4m-association/content/4M-Summer-School-2009)    
   
 ### Nanoaccess@Cardiff
 

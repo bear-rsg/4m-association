@@ -6,7 +6,7 @@
 
 ### Per Johander
 
-![Per](/4m-association/assets/images/Per.jpg class="thumbnail")
+![Per](/4m-association/assets/images/Per.jpg)
 <p>It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.</p>  
 <p>Per was one of the original partners in the 4M Network of Excellence (NoE) and was joint leader of the Ceramics Processing Division. Always full of energy and ideas he was instrumental in the success of the ceramics group, their work culminating in the publication of a handbook on Ceramics Processing in Microtechnology.  
 When the 4M NoE came to an end, Per was a great supporter of the idea of setting up the 4M Association and made sure that Swerea IVF was one of the first to join.
@@ -18,25 +18,25 @@ As it was decided at the 4M Association meeting in Vienna, the 4M2020 CSA propos
 
 ### New 4M Association Contract
 
-![4Mlogo](/4m-association/assets/images/4Mlogo.jpg class="thumbnail")
+![4Mlogo](/4m-association/assets/images/4Mlogo.jpg)
 The contracts with Cardiff and C-Tech Innovation have now been signed and thus we have implemented the proposed and agreed way forward for the Association in Vienna during the 4M2012 Conference. From 1st November 2012, the 4M Office will be hosted by [C-Tech](http://www.ctechinnovation.com) and an outline description of the services that C-Tech will be providing to the 4M Association are available [here](/4m-association/assets/images/files/C-Tech_4M-Presentation_081012.pptx).
  
 ### University of Birmingham Job Vacancy: Research Associate/ Research Fellow in Laser Processing/Machining
 
-![Birmingham](/4m-association/assets/images/Birmingham.jpg class="thumbnail")
+![Birmingham](/4m-association/assets/images/Birmingham.jpg)
 <p>This post is available immediately for a period of 30 months. The post holder will work on tasks associated with two projects funded by the EC, in particular the FP7 project “High performance Production Line for Small Series Metal Parts” (Hyproline) and the INTERREG NWE project “Eco-efficient Laser Technology for Factories of the future” (ECO-LASERFACT).</p> 
 [Read more>>](http://www.jobs.ac.uk/job/AFR497/research-associate-research-fellow/)
 
 ### SPIE Photonics West 2013
 
-![Photonics](/4m-association/assets/images/Photonics.jpg class="thumbnail")
+![Photonics](/4m-association/assets/images/Photonics.jpg)
 **Date: 2nd to 7th February 2013 | Venue: San Francisco, California**
 <p>Attend the most influential conference for biophotonics and biomedical optics, high-power laser manufacturing, optoelectronics, microfabrication, and green photonics.</p> 
 [Read more>>](http://spie.org/x2584.xml)
 
 ### 3M Nano Conference
 
-![3MNano](/4m-association/assets/images/3MNano.jpg class="thumbnail")
+![3MNano](/4m-association/assets/images/3MNano.jpg)
 **Date: 26th to 30th August 2013 | Venue: Suzhou, China**
 <p>3M-NANO is the annual International Conference on Manipulation, Manufacturing and
 Measurement on the Nanoscale, which will be held for the third time in Suzhou, China.
@@ -47,36 +47,36 @@ opportunities.</p>
 
 ### New Manufacturing Method Could Reduce Semiconductor Costs
 
-![Lund](/4m-association/assets/images/Lund.jpg class="thumbnail")
+![Lund](/4m-association/assets/images/Lund.jpg)
 <p>A new method of manufacturing small structures in electronics could lead to less expensive semiconductors, according to Lund University in Sweden. The Lund researchers are working on their innovative method for manufacturing nanowires on semiconductor wafers, known as epitaxy.</p>
 [Read more>>](http://www.micromanufacturing.com/content/new-manufacturing-method-could-reduce-semiconductor-costs)
 
 ### Samsung to Launch First Flexible Screen Devices in 2013
 
-![Samsung](/4m-association/assets/images/Samsung.jpg class="thumbnail")
+![Samsung](/4m-association/assets/images/Samsung.jpg)
 <p>Samsung is ready to showcase its innovation capability by launching its YOUM flexible screens next year, according to the BBC, Samsung is ready to ship the first devices to the market in the first half of 2013. Samsung wants to take the lead with flexible screens and will use their own OLED technology.</p>  
 [Read more>>](http://www.androidnova.org/samsung-first-flexible-screen-devices-in-2013/)
 
 ### Polybright Project Results
 
-![Polybright](/4m-association/assets/images/Polybright.jpg class="thumbnail")
+![Polybright](/4m-association/assets/images/Polybright.jpg)
 <p>The latest results of the European Project Polybright (Extending the process limits of laser polymer welding with high-brilliance beam sources) are now available on their website. The results concern the correlation between crystallinity degree and spatial seam homogeneity for laser overlap welding of polymers applying the TWIST® method.</p>
 [Read more>>](http://www.polybright.eu/142673.html)
 
 ### How Butterfly Wings Can Inspire New High-Tech Surfaces
 
-![Butterfly](/4m-association/assets/images/Butterfly.jpg class="thumbnail")
+![Butterfly](/4m-association/assets/images/Butterfly.jpg)
 <p>A South American butterfly flapped its wings, and caused a flurry of nanotechnology research to happen in Ohio. Researchers have taken a new look at butterfly wings and rice leaves, and learned things about their microscopic texture that could improve a variety of products. Researchers were able to clean up to 85 percent of dust off a coated plastic surface that mimicked the texture of a butterfly wing.</p>
 [Read more>>](http://researchnews.osu.edu/archive/butterflynano.htm)
 
 ### A Wide Variety of Nanostructures on Glass Surfaces
 
-![Glass](/4m-association/assets/images/Glass.jpg class="thumbnail")
+![Glass](/4m-association/assets/images/Glass.jpg)
 <p>The SCHOTT technology group has developed a nanostructuring technique for surfaces that already ranks among the important emerging technologies: so-called nanoimprint lithography. This technological platform should provide the basis for a wide range of innovative applications including decorative stainless steel appearances for glass, OLED applications and even photonic crystals.</p>
 [Read more>>](http://www.glassonweb.com/news/index/17783/)
 
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM.jpg class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM.jpg)
 <p>FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.**</p>
 [Read more>>](/4m-association/content/fsrm-training-courses.html)

@@ -4,7 +4,7 @@
 ### 4M 2011 - Stuttgart, Germany, 8-10th November
 
 
-![4M2011](/4m-association/assets/images/4m-2011_web1.jpg class="thumbnail")
+![4M2011](/4m-association/assets/images/4m-2011_web1.jpg)
 The second stage of the 4M2011 peer review is complete. All successful authors will hear from organisers by Monday 5th September 2011. Authors have a final chance to re-upload their final papers as a Word document until 16th September 2011. Please respect the deadline for this process. Five [invited speakers](/4m-association/conference/2011/Invited-Speakers-0) have now been confirmed and seven [sponsors](/4m-association/conference/2011/Our-Sponsors) have signed up. 
 
 ### ICOMM 2012
@@ -41,5 +41,5 @@ Do you have a business idea in nanotechnology or polymer-based materials? If so 
  
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)

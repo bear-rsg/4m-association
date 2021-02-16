@@ -4,7 +4,7 @@
 ### 4M 2012 - Vienna, Austria, 9-11th October
 
 
-![4M2011](/4m-association/assets/images/4m-2012_100.png class="thumbnail")
+![4M2011](/4m-association/assets/images/4m-2012_100.png)
 The [First Call for Papers](/4m-association/conference/2012/Call-Papers-4M2012) is published and invites  papers that present original research and development in processes and process chains for multi-material micro and nano manufacture. The submission site will open on 1st February, and the **deadline for submission** of full 4-page papers is **9th March 2012**. Further information is available, and will be regularly updated, on the [4M2012 webpages](/4m-association/conference/2012). 
   
 ### 4M 2010 Special Issue
@@ -38,5 +38,5 @@ The MORGaN project has come to an end and the consortium has published a final b
 
 ### Training Courses in Microsystems
 
-![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif class="thumbnail")
+![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses.html)
