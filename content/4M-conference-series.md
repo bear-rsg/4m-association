@@ -1,10 +1,10 @@
 ## 4M Conference Proceedings
 
 <ul class="links in-links">
-<li><a href="/content/4M-conference-series#2018">WCMNM2018</a><li>
-<li><a href="/content/4M-conference-series#2016">4M/IWMF2016</a><li>
-<li><a href="/content/4M-conference-series#2015">4M/ICOMM2015</a><li>
-<li><a href="/content/4M-conference-series#2013">4M2013</a><li>
+<li><a href="/content/4M-conference-series#2018">WCMNM2018</a></li>
+<li><a href="/content/4M-conference-series#2016">4M/IWMF2016</a></li>
+<li><a href="/content/4M-conference-series#2015">4M/ICOMM2015</a></li>
+<li><a href="/content/4M-conference-series#2013">4M2013</a></li>
 <li><a href="/content/4M-conference-series#2012">4M2012</a></li>
 <li><a href="/content/4M-conference-series#2011">4M2011</a></li>  
 <li><a href="/content/4M-conference-series#2010">4M2010</a></li>
