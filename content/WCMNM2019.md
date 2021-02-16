@@ -28,12 +28,15 @@ Late payers for non-members: **$760**
 Late registration for students: **$530**
 
 **Discount Codes:**
+<ul>
+    <li>I2M2, 4M, IFMM members can receive discount codes from the chair of their institution.</li>
+</ul>    
 
-<li> I2M2, 4M, IFMM members can receive discount codes from the chair of their institution.
 _Note: For a 4M discount please see the following link with information on 4M membership. [Joining 4M](/4m-association/join4m)_
-
-<li> Students can use the discount code WCMNMSTUDENT.
-
+<ul>
+    <li>Students can use the discount code WCMNMSTUDENT.</li>
+</ul>
+    
 _Note: Student prices are for those pursuing a Bachelor, Masters, or PhD degree. Student ID is required and your name badge will show “STUDENT.”_
 
 
@@ -42,18 +45,14 @@ _Note: Student prices are for those pursuing a Bachelor, Masters, or PhD degree.
 
 **Price includes:**
 
-<li> Continental Breakfast
-
-<li> Lunch
-
-<li> Refreshments/Beverages
-
-<li> Electronic Proceedings with ISBN
-
-<li> Reception
-
-<li> Transport for Lab Tours
-
+<ul>
+    <li>Continental Breakfast</li>
+    <li>Lunch</li>
+    <li>Refreshments/Beverages</li>
+    <li>Electronic Proceedings with ISBN</li>
+    <li>Reception</li>
+    <li>Transport for Lab Tours</li>
+</ul>
 
 
 

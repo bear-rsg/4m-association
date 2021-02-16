@@ -6,7 +6,7 @@ The annual conference provides a forum for experts from industry and academia to
 <div class=" terms title-terms">
     <ul class="links inline in-links">
         <li><a href="./2012/History_4M_Conference_Series2012.html">History</a></li>
-        <li><a href="../content/4M-conference-series.html">Proceedings</a></li>  
+        <li><a href="../content/4M-conference-series.html">Proceedings</a></li> </li>
         <li><a href="../content/Special-Issues.html">Special Issues</a></li>
         <li><a href="./2009.html">4M/ICOMM2009</a></li>
         <li><a href="./2010.html">4M2010</a></li>

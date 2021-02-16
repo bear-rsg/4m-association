@@ -30,20 +30,21 @@ Steffen G. Scholz, Karlsruhe Institute of Technology, Germany
 Tohru Sasaki, University of Toyama, Japan
 
 ### Topics of Interest for Call for Papers (but not limited to)
-
- <li>Micro fabrication technologies, process chains and process characterisation
- <li>Miniaturization of machines and equipment as well as associated issues such as tooling, fixturing, positioning, motion generation, sensors systems, and control
- <li>Novel product designs, micro-assembly technologies and micro-handling
- <li>Surface engineering and interface nanotechnology
- <li>Process modelling and simulation
- <li>Processing and characterisation of smart materials, multifunctional materials, nanomaterials and material related issues in micro and nano scale
- <li>Micro and nano additive manufacturing technologies
- <li>Micro and desktop factory concepts, systems, components and modules
- <li>On-line monitoring and inspection systems/methods
- <li>Standardization in micro manufacturing and micro factories
- <li>Applications of micro and nano technologies: microreactor technologies, microsensors and actuators
- <li>Applications of both current and emerging micromanufacturing methods and equipment, including those that bridge the nano- and macro- worlds
-
+<ul>
+    <li>Micro fabrication technologies, process chains and process characterisatio</li>
+    <li>Miniaturization of machines and equipment as well as associated issues such as tooling, fixturing, positioning, motion generation, sensors systems, and control
+    <li>Novel product designs, micro-assembly technologies and micro-handlin</li>
+    <li>Surface engineering and interface nanotechnolog</li>
+    <li>Process modelling and simulatio</li>
+    <li>Processing and characterisation of smart materials, multifunctional materials, nanomaterials and material related issues in micro and nano scal</li>
+    <li>Micro and nano additive manufacturing technologie</li>
+    <li>Micro and desktop factory concepts, systems, components and module</li>
+    <li>On-line monitoring and inspection systems/method</li>
+    <li>Standardization in micro manufacturing and micro factorie</li>
+    <li>Applications of micro and nano technologies: microreactor technologies, microsensors and actuator</li>
+    <li>Applications of both current and emerging micromanufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
+</ul>
+    
 ### Important Dates
 
 The main congress programme takes place from **10th to the 12th of September 2019**

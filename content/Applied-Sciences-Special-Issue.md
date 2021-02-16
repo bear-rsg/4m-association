@@ -3,20 +3,18 @@
 <img src="http://www.mdpi.com/img/journals/applsci-logo.png?1693b1ae19024e2e" width="450px">
 
 Selected contributions to WCMNM 2018, will be considered for publication in a special issue of **Applied Sciences**. The **Micro/Nano Manufacturing** issue intends to cover, but is not limited to, the following topics: 
-
-<li> Micro fabrication technologies, process chains and process characterisation;
-<li> Novel product designs, micro-assembly technologies and micro-handling;
-<li> Surface engineering and interface nanotechnology;
-<li> Process modelling and simulation;
-<li> Processing and characterisation of smart materials, multifunctional materials, nanomaterials and material related issues in micro and nano scale;
-<li> Micro and nano additive manufacturing technologies;
-<li> Micro and desktop factory concepts, systems, components and modules;
-<li> On-line monitoring and inspection systems/methods;
-<li> Standardization in micro manufacturing and micro factories;
-<li> Applications of micro and nano technologies: microreactor technologies, microsensors and actuators
-
-
-
+<ul>
+    <li>Micro fabrication technologies, process chains and process characterisation;</li>
+    <li>Novel product designs, micro-assembly technologies and micro-handling;</li>
+    <li>Surface engineering and interface nanotechnology;</li>
+    <li>Process modelling and simulation;</li>
+    <li>Processing and characterisation of smart materials, multifunctional materials, nanomaterials and material related issues in micro and nano scale;</li>
+    <li>Micro and nano additive manufacturing technologies;</li>
+    <li>Micro and desktop factory concepts, systems, components and modules;</li>
+    <li>On-line monitoring and inspection systems/methods;</li>
+    <li>Standardization in micro manufacturing and micro factories;</li>
+    <li>Applications of micro and nano technologies: microreactor technologies, microsensors and actuators</li>
+</ul>
 
 
 Prof. Dr. André Zimmermann

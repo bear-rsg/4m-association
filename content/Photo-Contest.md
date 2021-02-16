@@ -27,13 +27,15 @@ Contact the contest coordinator if you have any questions about whether your pho
 
 The Final Entry Documents should include one Photo Page document as a single pdf file. Participants may format the photo page in any way they like to maximize the readability and presentation of the content. Please contact the contest coordinator if you have any questions in this regard. The Photo Page document should include the following information:
 
-<li>The WCMNM 2018 Conference heading at the top of the page.  Instead of a paper number, use the following: PHOTO-CONTEST 
-<li>Photo title
-<li>Name(s) of the participant(s)
-<li>Affiliation
-<li>Photo
-<li>1 – 2 paragraph (100-200 words) description of the photo describing it and what makes it interesting and/or novel.
-
+<ul>
+    <li>The WCMNM 2018 Conference heading at the top of the page.  Instead of a paper number, use the following: PHOTO-CONTEST</li>
+    <li>Photo titl</li>
+    <li>Name(s) of the participant(s</li>
+    <li>Affiliatio</li>
+    <li>Phot</li>
+    <li>1 – 2 paragraph (100-200 words) description of the photo describing it and what makes it interesting and/or novel.</li>
+</ul>    
+    
 ### Submission Procedure
 
 
@@ -41,11 +43,11 @@ Please e-mail the documents to the contest coordinator, Prof. Giovanni Lucchetta
 
 ### Judging and Scoring
 
-
-<li>The Final Entry documents will be evaluated by members of the AITeM GoI MME
-<li>All conference attendees are eligible to vote to determine the winner(s)
-<li>Winners will be announced at the conference gala dinner
-
+<ul>
+    <li>The Final Entry documents will be evaluated by members of the AITeM GoI MM</li>
+    <li>All conference attendees are eligible to vote to determine the winner(s</li>
+    <li>Winners will be announced at the conference gala dinner</li>
+</ul>    
 ### Sponsor
 
 

@@ -6,7 +6,7 @@
 <li><a href="/content/4M-conference-series#2015">4M/ICOMM2015</a></li>
 <li><a href="/content/4M-conference-series#2013">4M2013</a></li>
 <li><a href="/content/4M-conference-series#2012">4M2012</a></li>
-<li><a href="/content/4M-conference-series#2011">4M2011</a></li>  
+<li><a href="/content/4M-conference-series#2011">4M2011</a></li> </li>
 <li><a href="/content/4M-conference-series#2010">4M2010</a></li>
 <li><a href="/content/4M-conference-series#2009">4M/ICOMM 2009</a></li>
 <li><a href="/content/4M-conference-series#2008">4M2008</a></li>
