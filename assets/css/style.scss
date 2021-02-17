@@ -608,6 +608,21 @@ ul.menu {
       vertical-align: top;
       float: left;
 }
+.right-area {
+    position: relative;
+    background: #d2d2d2 url(/4m-association/assets/images/background-right.png) repeat;
+    margin: 0 5px 5px 38.2em;
+    margin: 0;
+    padding: 0;
+    width: 300px;
+    vertical-align: top;
+    background: #555 url(/4m-association/assets/images/background-dark.png) repeat;
+}
+
+.right-area div.block {
+    margin: 0;
+    padding: 0;
+}
 
 .right-area div.block h3 {
 
@@ -615,6 +630,6 @@ ul.menu {
     background: #333;
     color: #eee;
     margin: 0;
-    padding: 0.5em 0;
+    padding: 0.5em 1em;
 
 }
