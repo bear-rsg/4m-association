@@ -87,7 +87,7 @@ table {
     margin: 0.5em;
 }
 
-#content {
+main#content {
     width: 100%;
     position: relative;
     top: 0;
@@ -98,7 +98,7 @@ table {
     display: block;
 }
 
-#content h2, #content h3, #content h4, #content h5, #content p {
+main#content h2, main#content h3, main#content h4, main#content h5, main#content p {
     line-height: 1.8;
 }
 
