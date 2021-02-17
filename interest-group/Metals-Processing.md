@@ -1,3 +1,5 @@
+layout: year_bulletin
+
 ## Metals Processing
 
 <!--break-->

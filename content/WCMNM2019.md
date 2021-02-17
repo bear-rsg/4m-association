@@ -28,6 +28,7 @@ Late payers for non-members: **$760**
 Late registration for students: **$530**
 
 **Discount Codes:**
+
 <ul>
     <li>I2M2, 4M, IFMM members can receive discount codes from the chair of their institution.</li>
 </ul>    
