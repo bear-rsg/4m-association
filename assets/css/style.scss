@@ -600,6 +600,8 @@ ul.menu {
     width: 300px;
     vertical-align: top;
     float: right;
+    margin: 0;
+    padding: 0;
 }
 
 .left-area {
@@ -608,11 +610,11 @@ ul.menu {
       vertical-align: top;
       float: left;
 }
+
 .right-area {
     position: relative;
     background: #d2d2d2 url(/4m-association/assets/images/background-right.png) repeat;
     margin: 0 5px 5px 38.2em;
-    margin: 0;
     padding: 0;
     width: 300px;
     vertical-align: top;
