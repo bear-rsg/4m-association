@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## December 2016
 
 ### WCMNM 2017

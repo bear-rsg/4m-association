@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## January '14
 
 Join 4M!, Surface Topography, FoodMicrosystems Roadmaps, Nanomanufacturing Conference, Electronics System Integration Conference, Microfactories Workshop, Microfluidic Handling Systems Conference, SENSGLASS Project Success Story, FSRM Training

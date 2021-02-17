@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## October '13
 
 4M 2013 Presentations available, 4M 2013 Feedback Survey, 4M 2013 Proceedings, Elena Ulieru Innovation Award, 4M 2020 Kick Off Meeting Presentations available, 4M/ICOMM 2015 Announced, ATV-SEMAPP Seminar, ASME 2014, Make-it-yourself, FRSM Training

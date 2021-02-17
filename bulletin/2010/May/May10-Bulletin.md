@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## May'10 Bulletin
 
 <!--break-->

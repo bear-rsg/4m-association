@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## April'11
 
 <!--break-->

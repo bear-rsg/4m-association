@@ -1,4 +1,12 @@
+---
+layout: year_bulletin
+---
+
 ## April 2015
+
+---
+layout: year_bulletin
+---
 
 ## 4M/ICOMM2015 Feedback Survey
 ![4M2020 Logo](/4m-association/assets/images/files/feedback.jpg)

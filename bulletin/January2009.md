@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## January'09 Bulletin
 
 4M/ICOMM2009, Ceramic Processing Handbook, Changes to Project Officer, Micropumps Workshop, PhD Award, Vacancies, Flexible Organice Electronics Conference

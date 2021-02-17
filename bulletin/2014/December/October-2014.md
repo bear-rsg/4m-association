@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## October 2014
 
 ### 4M/ICOMM 2015 – Call for Papers

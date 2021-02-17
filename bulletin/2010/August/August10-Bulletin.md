@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## August'10 Bulletin
 
 <!--break-->

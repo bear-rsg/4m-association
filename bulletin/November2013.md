@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## November '13
 
 Eurotraining, EUSPEN 2013, Microsystems on Plastic parts 2013, ICOMM 2014, ASME 2014, Bulk Metal, FRSM Training

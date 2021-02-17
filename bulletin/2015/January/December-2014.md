@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## December 2014
 
 ### 4M/ICOMM 2015 – REGISTRATION NOW OPEN

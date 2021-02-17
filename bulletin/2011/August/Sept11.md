@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## Sept'11
 
 <!--break-->

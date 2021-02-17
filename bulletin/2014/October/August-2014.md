@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## August 2014
 
 ### Update - 4M/ICOMM 2015

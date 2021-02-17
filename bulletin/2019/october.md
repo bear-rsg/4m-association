@@ -1,4 +1,6 @@
+---
 layout: year_bulletin
+---
 
 ### October 2019
 

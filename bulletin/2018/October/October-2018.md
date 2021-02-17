@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## October 2018
 
 <img src="/4m-association/assets/images/files/Seminar MIM2.jpg" width="500px">

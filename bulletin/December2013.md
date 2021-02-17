@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## December '13
 
 Seasons Greetings, Become a 4M Member!, 4M2020 New Website, ICOMM 2014, ASME 2014, Call for Papers: 3M Nano 2014, FRSM Training

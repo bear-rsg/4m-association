@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## November 2018
 
 ### WCMNM2019, Call for papers

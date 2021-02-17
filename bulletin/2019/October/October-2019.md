@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## October 2019
 
 ### WCMNM2020, Call for papers

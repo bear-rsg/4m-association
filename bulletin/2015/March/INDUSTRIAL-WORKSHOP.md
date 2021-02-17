@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## INDUSTRIAL WORKSHOP  30. March 2015    (Milano, Italy)
 
 **INDUSTRIAL WORKSHOP Higher Value production technologies and KET enabled applications**

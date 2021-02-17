@@ -1,3 +1,7 @@
+---
+layout: year_bulletin
+---
+
 ## December '12 
 
 <!--break-->
