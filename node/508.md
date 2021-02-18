@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 3M-NANO
 
 This new International Conference on Manipulation,

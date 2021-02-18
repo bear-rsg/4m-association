@@ -1,10 +1,6 @@
----
-layout: sidebar_page
----
-
 ## September 2014
 
-### 4M/ICOMM 2015 – Call for Papers
+##  4M/ICOMM 2015 – Call for Papers
 
 ![4M2020 Logo](/4m-association/assets/images/files/call-for-papers.jpg)
 
@@ -13,14 +9,14 @@ All papers must be technical in nature and include original work. Selected paper
 
 [Read more>>](/4m-association/content/Submission-Guidelines-1)
 
-### Micro Surface Structuring 
+##  Micro Surface Structuring 
 
 ![4M2020 Logo](/4m-association/assets/images/files/micro-surface-structuring.jpg)
 Wednesday 19 November 2014 - The EPSRC Centre for Innovative Manufacturing in Ultra Precision is holding this one day meeting at The OpTIC Centre, St Asaph, North Wales on Wednesday 19th November 2014.
 
 [Read more>>](http://www.ultraprecision.org/news/events/micro-surface-structuring/)
 
-### Polymer Micro/Nano Replication: Micro Injection Moulding and Nano Imprinting
+##  Polymer Micro/Nano Replication: Micro Injection Moulding and Nano Imprinting
 
 ![4M2020 Logo](/4m-association/assets/images/files/nano-replication.jpg)
 
@@ -28,7 +24,7 @@ Free seminar at DTU on 23/10/2014 - The Manufacturing Engineering Section of the
   
 [Read more>>](http://www.atv-semapp.dk/atvs_info_english.php)
 
-### SMARTLAM
+##  SMARTLAM
 
 ![4M2020 Logo](/4m-association/assets/images/files/smartlam.jpg)
 SMARTLAM, an FP7 project Researchers develops new micro-production-technologies
@@ -37,7 +33,7 @@ While other approaches still print components, SMARTLAM prints complete systems!
 [Read more>>](http://www.smartlam.eu/)
 
 
-### 4M 10% Discount on brand-new course
+##  4M 10% Discount on brand-new course
 
 ![4M2020 Logo](/4m-association/assets/images/files/fsrm_1.jpg)
 There is a brand-new course “Wearable Sensing and Computing” which will be given by a highly renown specialist, Prof Adrian Ionescu, at Swiss Federal Institute of Lausanne, Switzerland.
@@ -47,7 +43,7 @@ To get the discount, members should mention “10% discount for 4M members” on
 [Read more>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=eda13db0ad&e=1434686575)
 
 
-### 4M Announcement - 4M2020 Open Innovation Portal
+##  4M Announcement - 4M2020 Open Innovation Portal
 
 ![4M2020 Logo](/4m-association/assets/images/files/portal.jpg)
 4M Announcement - 4M2020 Open Innovation Portal
@@ -57,7 +53,7 @@ The first phase of the open innovation portal is now available to all users. You
 [To view the portal click HERE>>](http://4m-association.us1.list-manage1.com/track/click?u=4a3e2307c8444f1ffd4221249&id=a12d80b6f2&e=1434686575)
 
 
-### Structured and Freeform Surfaces
+##  Structured and Freeform Surfaces
 
 ![4M2020 Logo](/4m-association/assets/images/files/euspen_2.jpg)
 

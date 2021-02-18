@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silica on thin layers (SiO2)
 
 __material properties:__  	

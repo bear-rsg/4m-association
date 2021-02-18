@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Invited Speakers 4M2015
 
 **Prof. Fengzhou Fang**

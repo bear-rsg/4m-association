@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Micro-Fluidics Interest Group 
 
 <!--break-->

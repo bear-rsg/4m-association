@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Photoresists
 
 __material properties:__  	

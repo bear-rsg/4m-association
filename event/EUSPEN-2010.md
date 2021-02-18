@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## EUSPEN 2010
 
 <!--break-->

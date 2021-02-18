@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Visiting Karlsruhe
 
 <!--break-->![Karlsrhue](/4m-association/assets/images/karlsrhue-pyramid.jpg)  

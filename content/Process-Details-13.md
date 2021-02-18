@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Process Details
 
 __*used material:*	2-hydroxyethyl methacrylate__

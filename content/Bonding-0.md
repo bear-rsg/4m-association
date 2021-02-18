@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Bonding
 
 Technology suitable small quantity production

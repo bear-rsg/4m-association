@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Devices for harsh environments
 
 TU Wien are organising this **4M Workshop** on the topic of:  

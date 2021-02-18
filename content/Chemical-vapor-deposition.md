@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Chemical vapor deposition
 
 Technology suitable small quantity production

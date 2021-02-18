@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 13th International Conference on Metrology and Properties of Engineering Surfaces
 
 <!--break-->

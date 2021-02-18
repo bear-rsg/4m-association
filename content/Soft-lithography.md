@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Soft lithography
 
 In technology, soft lithography refers to a family of techniques for fabricating or replicating structures using elastomeric stamps, molds, and conformable photo masks. It is called "soft" because it uses elastomeric materials most notably PDMS. Soft lithography is generally used to construct features measured on the micrometer to nanometer scale.

@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## License agreement 
 
-### Important dates
+##  Important dates
 
 
 <table class="info" style="width:100%;">
@@ -10,7 +14,7 @@
 <tr class="main-event"><td>4M2010 Conference</td><td>17-19 November 2010</td></tr> 
 </table>
 
-### License agreement
+##  License agreement
 
 
 
@@ -27,7 +31,7 @@ The licensor warrants that:
  * the Article contains no libellous or other unlawful statements and does not contain any materials that violate any personal or proprietary rights of any other person or entity. 
  * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted. 
 
-### Submission
+##  Submission
 
 
 Please **download the form by clicking on the icon at bottom of this page**, complete it and fax, post, or scan and e-mail to Chris Matthews by the specified deadline. We would appreciate it if you send us an email notification of sending the form.

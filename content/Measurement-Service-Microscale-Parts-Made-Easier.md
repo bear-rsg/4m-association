@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Measurement Service for Microscale Parts Made Easier
 
 A revolutionary microscale measurement service based on patented standing wave technology is available from InsituTec, a Charlotte, NC-based precision metrology firm.  The proprietary service provides true 3-D surface profilometry and surface finish measurement capability in one data set.

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Fly Cutting
 
 Technology suitable for both serial and small quantity production

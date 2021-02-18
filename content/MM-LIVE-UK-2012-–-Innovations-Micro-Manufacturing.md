@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## MM LIVE UK 2012 – Call For Papers
 
 Contributions are invited for the conference area at this high-precision engineering and manufacturing event, which this year takes place at the National Exhibition Centre in Birmingham, UK, on 25–26 September 2012.

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Process Details
 
 __process parameters:__  	

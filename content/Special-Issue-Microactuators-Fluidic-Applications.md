@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Microactuators for Fluidic Applications
 
 A Special Issue of JMEP entitled “Microactuators for

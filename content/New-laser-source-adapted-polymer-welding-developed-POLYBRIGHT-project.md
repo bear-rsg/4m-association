@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## New laser source adapted for polymer welding developed in POLYBRIGHT project
 
 High power fiber 500W laser source with adapted wavelength for polymer welding developed in the frame of the European project POLYBRIGHT.

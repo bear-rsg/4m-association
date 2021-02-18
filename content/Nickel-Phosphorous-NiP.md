@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Nickel-Phosphorous (NiP)
 
 __material properties:__  	

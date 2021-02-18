@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## MMLive 2009
 
 Following the highly successful first edition of MM Live 2008, the UK Micro Manufacturing Exhibition, the organisers have great pleasure in announcing the dates for 2009 as 20-21st October at the Ricoh Arena, Coventry, UK.

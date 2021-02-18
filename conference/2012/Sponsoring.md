@@ -1,8 +1,12 @@
+---
+layout: sidebar_page
+---
+
 ## Sponsoring 4M2012
 
 Stand out from the rest in front of more than 100 micro-manufacturing experts from around the world. As a sponsor, you can promote your company’s mission even more effectively to the assembled individuals and organisations attending 4M2012 while learning about the latest advances in micro-manufacturing research.
 <!--break-->
-### What our Sponsors say:
+##  What our Sponsors say:
 
   
 ![Victoire de Margerie](/4m-association/assets/images/Photo-Victoire_web.jpg)   *"Rondol are pleased to be sponsoring this year's conference. Its focus on micro-manufacturing fits well with our business and we recognise it as a valuable means of staying alert to the latest developments in various aspects of cross-sectoral research. We look forward to meeting the 4M Members and delegates in Austria."*    
@@ -18,6 +22,10 @@ Angelo Quadroni, CEO, [SARIX SA.](http://sarix.com/)
 
 
   
+---
+layout: sidebar_page
+---
+
 ## Platinum Sponsorship Package
 
 **€2000**
@@ -30,6 +38,10 @@ Angelo Quadroni, CEO, [SARIX SA.](http://sarix.com/)
 * Colour logo on outer cover of proceedings
 * Entrance to conference, including all meals and refreshments, for 3 people
 * 3 copies of Conference Proceedings
+
+---
+layout: sidebar_page
+---
 
 ## Gold Package
 
@@ -44,6 +56,10 @@ Angelo Quadroni, CEO, [SARIX SA.](http://sarix.com/)
 * 2 copies of Conference Proceedings
 
 
+---
+layout: sidebar_page
+---
+
 ## Silver Package
 
 **€1000**
@@ -55,6 +71,10 @@ Angelo Quadroni, CEO, [SARIX SA.](http://sarix.com/)
 * Entrance to conference, including all meals and refreshments, for 1 person
 * 1 copy of Conference Proceedings  
   
+---
+layout: sidebar_page
+---
+
 ## Bronze Package
 
 **€750**

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Micro-nano moulding seminar
 
 <!--break-->

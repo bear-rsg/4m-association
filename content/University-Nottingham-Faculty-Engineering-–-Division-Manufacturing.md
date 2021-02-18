@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## University of Nottingham - Faculty of Engineering – Division of Manufacturing
 
 

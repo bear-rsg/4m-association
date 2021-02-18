@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## LIGA
 
 Technology suitable for small quantity production

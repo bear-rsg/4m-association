@@ -1,8 +1,12 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2010 Conference
 
 ![PEP,Plastipolis, Oyonnax, France](/4m-association/assets/images/pep-for-web.jpg )
 
-### Aim and Themes
+##  Aim and Themes
 
 
 The main goal of the Conference is to provide a forum for experts from industry
@@ -13,19 +17,19 @@ Papers are invited to present the latest advances in developing new processes
 and process chains for multi-material micro manufacture and their applications
 in microsystems-based products.
 <!--break-->
-### Conference Chair
+##  Conference Chair
 
 Bertrand Fillon, [CEA-Liten,](http://www-liten.cea.fr/index_uk.htm) France
-### Conference Co-Chairs
+##  Conference Co-Chairs
 
 Chantal Khan-Malek, [FEMTO-ST, CNRS,](http://www.femto-st.fr/) France  
 Stefan Dimov, [MEC, Cardiff University,](http://www.mec.cf.ac.uk/) UK
 
-### Location
+##  Location
 
 Bourg en Bresse and,  
 [Plastipolis](http://www.plastipolis.fr/), PEP, Oyonnax, France.
-### Important Dates (provisional)
+##  Important Dates (provisional)
 
 <table class="info" style="width:100%;">
 <tr><th>&nbsp;</th><th>date</th></tr>

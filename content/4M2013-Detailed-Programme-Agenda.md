@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2013 Detailed Programme
 
 The Detailed Programme* is available to download via the link below.

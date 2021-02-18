@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Nanocharacterization techniques & tools 
 
 This first EUMINAfab winter school at [Minatec, Grenoble](http://www.minatec.com/en) is aimed at Ph.D students, post-docs and engineers involved in micro and nanotechnologies and who wish to acquire a global and general overview of some of the most widespread nanocharacterisation techniques, such as SEM, TEM and XPS.

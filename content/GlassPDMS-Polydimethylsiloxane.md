@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Glass/PDMS (Polydimethylsiloxane)
 
 __process parameters:__  	

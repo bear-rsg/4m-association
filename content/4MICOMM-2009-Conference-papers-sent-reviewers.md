@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M/ICOMM 2009 Conference papers sent to reviewers
 
 This years conference papers have been sent for reviewer.

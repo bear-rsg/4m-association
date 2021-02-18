@@ -1,19 +1,15 @@
----
-layout: sidebar_page
----
-
 ## October 2019
 
-### WCMNM2020, Call for papers
+##  WCMNM2020, Call for papers
 
 
 The 2020 World Congress on Micro and Nano Manufacturing will take place from **22th to 24th September 2020 at IIT Bombay, Mumbai, India**
 It is jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM).
 
-### Conference Chair
+##  Conference Chair
 
 Ramesh Singh, IIT Bombay, INDIA
-### Conference Co-Chairs
+##  Conference Co-Chairs
 
 Suhas Joshi, IIT Bombay, INDIA
 
@@ -25,15 +21,15 @@ Kuniaki Dohda, Northwestern University, USA
 
 Massimiliano Annoni, Politecnico di Milano, ITALY
 
-### Hosts Committee Chair
+##  Hosts Committee Chair
 
 Deepak Marla
 
-### Hosts Committee Co-Chair
+##  Hosts Committee Co-Chair
 
 Soham Mujumdar
 
-### Topics of Interest for Call for Papers
+##  Topics of Interest for Call for Papers
 
 <ul>
     <li>Fabrication technologies and process chains</li>

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Deep drawing 
 
 Technology suitable for both serial and small quantity production

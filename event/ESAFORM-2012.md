@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## ESAFORM 2012
 
 <!--break-->

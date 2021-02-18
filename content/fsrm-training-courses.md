@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## fsrm training courses
 
 ![fsrm](/4m-association/assets/images/FSRM_LOGO_web.gif)

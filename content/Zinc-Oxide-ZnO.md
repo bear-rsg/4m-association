@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Zinc Oxide (ZnO)
 
 __material properties:__  	

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Extending the process limits of laser polymer welding
 
 <!--break-->

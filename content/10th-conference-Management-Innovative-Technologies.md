@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Management of Innovative Technologies
 
 The 10th conference on Management of Innovative Technologies was organised in Fiesa, Slovenia.  The field of Technology Management is currently very broad as industry attempts to find a workable definition of "sustainability".

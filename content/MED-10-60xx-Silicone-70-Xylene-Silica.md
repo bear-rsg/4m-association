@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## MED 10-60xx Silicone (70% Xylene, Silica)
 
 __material properties:__  	

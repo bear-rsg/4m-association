@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Topical Meeting - Structured and Freeform Surfaces
 
 euspen is delighted to partner with the National Physical Laboratory UK to bring you this meeting. NPL is the UK's National Measurement Institute and a world-leading centre of excellence in developing and applying the most accurate measurement standards, science and technology available.

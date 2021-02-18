@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Optics - Key technology for the future
 
 <!--break-->

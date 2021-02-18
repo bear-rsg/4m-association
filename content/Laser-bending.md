@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Laser bending
 
 Technology suitable for small quantity production

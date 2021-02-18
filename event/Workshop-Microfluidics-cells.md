@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Workshop on Microfluidics for cells
 
 <i>“Tools for tissue engineering”</i> at the Fraunhofer Institute for Reliability and Microintegration IZM, Munich branch.

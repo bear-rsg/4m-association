@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Classification
 
 <!--break--><table class="info fade">

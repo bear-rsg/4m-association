@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Sponsors
 
-### Microsystems-UK
+##  Microsystems-UK
 
 ![Microsystems-UK](/4m-association/assets/images/logos/McrsystLogo-inline.png class="inline-img")
 
@@ -8,7 +12,7 @@
 
 -------------------
 
-### SARIX
+##  SARIX
 
 ![SARIX](/4m-association/assets/images/logos/SARIX-inline.jpg class="inline-img")
 
@@ -16,7 +20,7 @@
 
 -------------------
 
-### z-microsystems
+##  z-microsystems
 
 ![z-microsystems](/4m-association/assets/images/logos/z-microsystems-inline.png class="inline-img")
 
@@ -29,7 +33,7 @@ Competent - professional - inspiring.
 
 -------------------
 
-### Media Partner
+##  Media Partner
 
 
 ![MM logo](/4m-association/assets/images/logos/MM_Mag-inline.png class="inline-img")

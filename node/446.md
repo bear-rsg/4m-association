@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Laser interference lithography 
 
 Two important breakthroughs by European researchers have brought an emerging nano-scale fabrication technology out of the lab and into the real world. The technique promises lower cost production of nano-devices at higher resolutions.

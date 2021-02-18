@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## SPIE Photonics West 2013
 
 Venue: The Moscone Center, San Francisco, California, United States

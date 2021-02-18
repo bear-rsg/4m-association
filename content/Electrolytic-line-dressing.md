@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Electrolytic in-line dressing
 
 Technology suitable for both serial and small quantity production

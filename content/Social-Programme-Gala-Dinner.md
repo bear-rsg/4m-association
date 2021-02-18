@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Social Programme & Gala Dinner
 
 <img src="http://langelinie3-9.dk/wp-content/uploads/2015/06/langelinie-pavillonen-Koglen.jpg" width="300px">

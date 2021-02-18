@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Any Material
 
 __process parameters:__  

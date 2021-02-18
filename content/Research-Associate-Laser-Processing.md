@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Research Associate in Laser Processing
 
 The Manufacturing Engineering Centre (MEC) at the School of Engineering, Cardiff University is looking to recruit a Research Associate (RA) in the area of laser processing.

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## COTECH - Training for Professionals
 
 <!--break-->

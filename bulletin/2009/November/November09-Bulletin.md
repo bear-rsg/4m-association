@@ -31,11 +31,11 @@ Nanoimprint lithography (NIL) holds promise for patterning the small features of
 
 A vision paper for the above is available (to 4M Association Members only) [here.](/4m-association/content/Nanofutures-vision-paper)
 
-### Training Courses in Microsystems
+##  Training Courses in Microsystems
 
 ![FSRM](/4m-association/assets/images/FSRM_LOGO_web.gif)
 fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses)  
 
-### IFMM'10
+##  IFMM'10
 
 Call for papers for this conference, which will take place in Nagoya, Japan from 21st to 23rd October 2010, is out now. More information on the [event page.](/4m-association/event/IFMM10)

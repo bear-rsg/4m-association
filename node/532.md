@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Invited Speakers
 
 The following speakers have already agreed to address the 4M2011 Conference:  

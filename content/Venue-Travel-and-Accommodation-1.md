@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Venue, Travel and Accommodation 
 
-### Preferred Accommodation
+##  Preferred Accommodation
 
 
 REMISENS are offering reduced prices at their range of hotels in Portorož for participants in WCMNM 2018:
@@ -47,7 +51,7 @@ To make your bookings please follow one of the below links accordingly:
 
 **NOTE:** Offer expires 45 days before the start of the congress.
 
-### Venue
+##  Venue
 
 
 [**Remisens Premium Hotel Metropol**](https://www.remisens.com/en/hotel-metropol)
@@ -60,7 +64,7 @@ Slovenia
 
 Tel - +385 51 710 444
 
-### Travel
+##  Travel
 
 
 Transfers from all three nearby airports to Portorož can

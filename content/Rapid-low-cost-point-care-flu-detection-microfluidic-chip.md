@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Rapid, low-cost, point of care flu detection from microfluidic chip
 
 <!--break-->

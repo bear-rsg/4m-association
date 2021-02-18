@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Nickel-Cobalt  (NiCo)
 
 __material properties:__  	

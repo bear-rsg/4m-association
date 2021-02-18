@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## PhD position  in ISAS, TU Vienna
 
 <!--break-->

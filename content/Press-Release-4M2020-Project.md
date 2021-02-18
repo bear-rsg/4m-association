@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Press Release: European Funded Project - 4M2020
 
 ![4m2020logo](/4m-association/assets/images/4m2020logo.png)

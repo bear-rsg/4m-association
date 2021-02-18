@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Day 2 - 24 September 2009
 
 <!--break-->

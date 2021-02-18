@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## About the 4M Association
 
 ### Background

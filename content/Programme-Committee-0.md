@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Scientific Committee
 
-### Scientific Chairs
+##  Scientific Chairs
 
 
 Irene Fassi (ITIA-CNR, Italy)
@@ -9,7 +13,7 @@ Samuel Bigott (Cardiff University, UK)
 
 Tohru Sasaki (University of Toyama, Japan)
 
-### Committee Members
+##  Committee Members
 
 
 Annoni, Massimiliano

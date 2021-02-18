@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Polymethylmethacrylate (PMMA) Fraunhofer IBMT
 
 __material properties:__  	

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Per Johander
 
 <!--break-->

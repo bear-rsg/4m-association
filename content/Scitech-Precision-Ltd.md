@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Scitech Precision Ltd.
 
 A company which combines unique expertise in micro engineering and design to make ultra-precise parts for laser experiments has been launched.

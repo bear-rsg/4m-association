@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Knowledge-based Manufacturing Colloquium
 
 Are you interested in new concepts of manufacturing automation and their feasibility in the automotive, aeronautics and electrical areas?   

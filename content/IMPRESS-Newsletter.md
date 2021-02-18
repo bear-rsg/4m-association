@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## IMPRESS Newsletter
 
 The [IMPRESS](http://www.impress-fp7.eu/) project has just published a Newsletter giving its mid-term results.

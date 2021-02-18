@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Elena Ulieru
 
 We regret to inform you of the passing of our colleague  Elena Ulieru.

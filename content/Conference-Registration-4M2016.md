@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Conference Registration 4M2016
 
-### Conference Registration Now Open
+##  Conference Registration Now Open
 
 
 **REGISTER NOW** [HERE>>](http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90&prodid=1206)
@@ -28,7 +32,7 @@ Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discoun
 
 
 
-### Conference Fees
+##  Conference Fees
 
 **Before 15th of July 2016**
 
@@ -59,7 +63,7 @@ The conference fees (in GBP) include printed proceedings, lunches, refreshments,
 ................................................................................................
 
 
-### One Day Conference Fee
+##  One Day Conference Fee
 
 One day conference fee: **£217**
 

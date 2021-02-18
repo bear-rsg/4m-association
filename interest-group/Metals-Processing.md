@@ -1,7 +1,3 @@
----
-layout: sidebar_page
----
-
 ## Metals Processing
 
 <!--break-->

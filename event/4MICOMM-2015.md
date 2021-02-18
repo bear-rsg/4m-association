@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## SAVE THE DATE for the 4M/ICOMM 2015 Conference!
 
-### 31 March – 2 April 2015, Milan, Italy
+##  31 March – 2 April 2015, Milan, Italy
 
 
 Co-Chairs: 

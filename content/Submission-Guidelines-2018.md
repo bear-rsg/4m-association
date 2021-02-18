@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4 Page Paper Submission & Guidelines 2018
 
 Submission **OPEN**

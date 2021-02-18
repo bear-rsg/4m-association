@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Serial micro-manufacturing
 
 <!--break--><table class="info fade">

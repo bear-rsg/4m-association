@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Workshop on "Tape 3D structuring"
 
 <!--break-->

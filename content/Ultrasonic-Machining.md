@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Ultrasonic Machining 
 
 Technology suitable for small quantity production

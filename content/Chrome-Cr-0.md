@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Chrome (Cr)
 
 __material properties:__  	

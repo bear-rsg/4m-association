@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 1st Call for Papers
 
 The first Call for Papers for 4M2010 is published and can be viewed by clicking on the icon below.  

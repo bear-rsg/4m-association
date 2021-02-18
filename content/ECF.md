@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## ECF 
 
 Technology suitable for small quantity production

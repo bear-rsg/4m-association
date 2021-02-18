@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## PhD Opportunity at Cardiff University
 
 A fully funded PhD studentship is available  at Cardiff University, UK entitled *“Adhesive contact interactions between nanorough biomedical and pharmaceutical nanomaterials”*. Closing date 31st January 2012.

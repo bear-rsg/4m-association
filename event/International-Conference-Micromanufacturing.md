@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## International Conference on Micromanufacturing
 
 Venue: University of Victoria

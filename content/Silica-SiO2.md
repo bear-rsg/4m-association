@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silica (SiO2)
 
 __material properties:__	

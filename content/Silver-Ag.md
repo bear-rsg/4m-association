@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silver (Ag)
 
 __material properties:__  	

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M Conference Proceedings
 
 <ul class="links in-links">

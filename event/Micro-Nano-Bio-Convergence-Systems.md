@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Micro-Nano-Bio Convergence Systems
 
 The 4th MNBS Concertation and Consultation Workshop in Neuchatel/Switzerland is co-organized by the European Commission and CSEM. For the first time, this event will be open to external participants of the MNBS cluster:

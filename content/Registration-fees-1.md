@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Registration & fees
 
 **The Online shop for registering for the 4M2013 Conference is now open!**
@@ -5,7 +9,7 @@
 Click here to visit the [**4M2013 Registration Site**]( 
 http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90&prodid=673)
 <!--break-->
-### Important Dates
+##  Important Dates
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -14,7 +18,7 @@ http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90
 
 In order for a paper to be included in the conference programme and appear in the proceedings at least one author **must** register for the conference. The Authors Final Registration deadline is fixed in relation to the production cycle of the proceedings and cannot be changed.  
 
-### Conference Fees - Early Bird rates, until 15th September
+##  Conference Fees - Early Bird rates, until 15th September
 
 <table border="1">
 <tr>
@@ -31,7 +35,7 @@ In order for a paper to be included in the conference programme and appear in th
 </tr>
 </table> 
 
-### Conference Fees - Standard rates, after 15th September
+##  Conference Fees - Standard rates, after 15th September
 
 
 <table border="1">

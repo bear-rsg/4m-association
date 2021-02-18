@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Erlangen workshop on microforming
 
 <!--break-->

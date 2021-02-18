@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Hotels and Acommodation
 
 Rooms have been reserved at the following hotels. These reservations will only be held until 1st September 2009:

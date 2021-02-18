@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## PPE'09 International Conference
 
 <!--break-->
@@ -11,12 +15,12 @@
 
 
 
-### Venue:
+##  Venue:
 
 University of Bradford
 
 Further details on the [PPE'09 website.](http://www.polyeng.com/ppe09/)
 
-### Programme
+##  Programme
 
 The draft programme on the attached flyer and available to download below.

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Rondol Technology Ltd to sponsor 4M2010
 
 4M Association members [Rondol Technology Ltd](http://www.rondol.com/) have signed up as Platinum sponsors of the [4M2010 conference](/4m-association/conference/2010) in November 2010, which this year takes place in France.

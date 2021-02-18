@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Travel Directions
 
 <!--break-->

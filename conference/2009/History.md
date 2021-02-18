@@ -1,7 +1,15 @@
+---
+layout: sidebar_page
+---
+
 ## History
 
 This conference is jointly organised by the International Conference on Multi-Material Micro-Manufacture(<acronym title="Multi-Material Micro-Manufacture">4M</acronym>) and the International Conference on Micro-Manufacture (<acronym title="International Conference on Micro-Manufacture">ICOMM</acronym>), bringing together for the first time the worldwide community of micro-manufacturing experts.
 <!--break-->
+---
+layout: sidebar_page
+---
+
 ## Past 4M conferences
 
  * [4M2005](http://www.4m-net.org/4M_Conference "4M2005 Conference") - Forschungszentrum Karlsruhe, Germany  
@@ -10,6 +18,10 @@ This conference is jointly organised by the International Conference on Multi-Ma
  * [4M2008](http://www.4m-net.org/Conference/4M2008 "4M2008 Conference") - Cardiff University, United Kingdom
 
 Papers and presentations from all past 4M Conferences, except 4M2006, can be found in the [4M knowledgebase](http://www.4m-net.org/KnowledgeBase "4M Knowledge base - a directory of papers and publications on multi-material micro-manufacturing")
+
+---
+layout: sidebar_page
+---
 
 ## Past ICOMM conferences
 

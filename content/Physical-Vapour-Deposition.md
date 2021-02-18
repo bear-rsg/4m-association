@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Physical Vapour Deposition
 
 Technology suitable small quantity production

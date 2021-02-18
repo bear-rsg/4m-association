@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Hotel & Accommodation 2015
 
-### Accommodation
+##  Accommodation
 
 
 The Local Organizing Committee of the 4M/ICOMM2015 Conference suggests the following hotels:

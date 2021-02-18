@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Organising Committee
 
 Heinz Kück, HSG-IMAT, Germany **(Chairman)**  

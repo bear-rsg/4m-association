@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Gold (Au)
 
 __material properties:__  	

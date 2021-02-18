@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Sputtering
 
 Sputtering is a physical vapor deposition (PVD) method of depositing thin films by ejecting, material from a "target," which then deposits onto a "substrate".

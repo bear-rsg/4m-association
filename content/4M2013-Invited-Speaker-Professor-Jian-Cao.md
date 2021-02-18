@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2013 Invited Speaker: Professor Jian Cao
 
 Department of Mechanical Engineering | Department of Civil and Environmental Engineering | Northwestern University| U.S.A

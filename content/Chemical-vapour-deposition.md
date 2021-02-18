@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Chemical vapour deposition
 
 Chemical vapor deposition (CVD) is a chemical process used to produce high-purity, high-performance solid materials. In a typical CVD process, the substrate (e.g. a wafer) is exposed to one or more volatile precursors, which react and/or decompose on the substrate surface to produce the desired deposit. Frequently, volatile by-products are also produced, which are removed by gas flow through the reaction chamber.

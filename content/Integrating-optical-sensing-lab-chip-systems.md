@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Integrating optical sensing into lab-on-a-chip systems
 
 A combination of waveguides and microfluidics is easily achieved through femtosecond-laser micromachining.

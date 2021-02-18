@@ -1,12 +1,16 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2011 Conference
 
 ![Haus der Wirtschaft, Germany](/4m-association/assets/images/H_der_W.jpg )
 
-### Venue
+##  Venue
 
 Haus der Wirtschaft, Stuttgart, Germany (above)
 <!--break-->
-### Aim and Themes
+##  Aim and Themes
 
 
 The main goal of the Conference is to provide a forum for experts from industry
@@ -15,16 +19,16 @@ and academia to share the results of their investigations in an open, friendly a
 Papers are invited that present the latest advances in developing new processes
 and process chains for multi-material micro manufacture and their application to the production of microsystems-based products.  
   
-### Conference Chair
+##  Conference Chair
 
 Heinz Kück, [HSG-IMAT,](http://www.imat.hsg-imit.de/en/the-institute/) Germany.  
 
-### Conference Co-Chairs
+##  Conference Co-Chairs
 
 Holger Reinecke, [HSG-IMIT](http://www.hsg-imit.de/en/home/), Stuttgart and [IMTEK](http://www.imtek.de/prozesst/), University of Freiburg, Germany.   
 Stefan Dimov, [MEC, Cardiff University,](http://www.mec.cf.ac.uk/) UK.  
   
-### Important Dates (provisional)
+##  Important Dates (provisional)
 
 <table class="info" style="width:100%;">
 <tr><th>&nbsp;</th><th>date</th></tr>

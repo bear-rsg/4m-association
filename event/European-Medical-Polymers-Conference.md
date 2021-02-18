@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## European Medical Polymers Conference
 
 Being held in Belfast at the Polymer Processing Research Centre of Queen's University.

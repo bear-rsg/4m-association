@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## PMMA, PC, PU
 
 __process parameters:__  	

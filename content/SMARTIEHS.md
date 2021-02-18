@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## SMARTIEHS
 
 SMARTIEHS is an FP7-CP STREP which is developing a smart, high-speed, cost effective and flexible inspection system for production of Micro(Opto)ElectroMechanicalSystems (M(O)EMS).

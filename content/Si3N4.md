@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silicon Nitride (Si3N4)
 
 __material properties:__  	

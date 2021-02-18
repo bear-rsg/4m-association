@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Process Details
 
 __*used material:*	PDMS stamp to deposit locally nanoparticules__

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Hard Metals, Steel, Tungsten, ...
 
 __dimensions:__  	

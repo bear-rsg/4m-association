@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2015 Detailed Programme
 
 **Download the full schedule at the bottom of this page!**

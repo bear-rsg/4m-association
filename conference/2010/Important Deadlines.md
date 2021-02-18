@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Important Deadlines (provisional)
 
 <table class="info" style="width:100%;">

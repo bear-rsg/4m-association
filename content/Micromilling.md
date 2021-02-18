@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Micromilling
 
 Technology suitable for both serial and small quantity production

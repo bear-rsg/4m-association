@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Job Opportunity - Development Engineer
 
 <!--break-->
@@ -5,7 +9,7 @@
   
 To strengthen their team IMT Masken und Teilungen AG are looking in the immediate future for a **Development Engineer.**  
   
-### Profile
+##  Profile
 
 
 * A degree in physics (or equivalent)  
@@ -16,7 +20,7 @@ To strengthen their team IMT Masken und Teilungen AG are looking in the immediat
 * Good language skills in German and English (spoken and written)  
 * Ability to make things happen, and to work reliably under pressure  
   
-### Activities
+##  Activities
 
 
 * Further development of our technology portfolio (in micro-fluidics, amongst other fields  
@@ -25,7 +29,7 @@ To strengthen their team IMT Masken und Teilungen AG are looking in the immediat
 optimisation)  
 * Management and support of customer projects  
   
-### In return IMT offer you
+##  In return IMT offer you
 
   
 * Interesting and varied activities  

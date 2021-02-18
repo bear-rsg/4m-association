@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Glass and Fused Silica
 
 __process parameters:__  	

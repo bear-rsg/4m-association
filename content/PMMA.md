@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Polymethylmethacrylate (PMMA)
 
 __material properties:__  

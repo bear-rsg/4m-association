@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silicone (Si), TPE
 
 __material properties:__  	

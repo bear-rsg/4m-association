@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Our Sponsors
 
-### The State of Baden-Württemberg
+##  The State of Baden-Württemberg
 
 ![Baden-Württemberg](/4m-association/assets/images/BW100_GR_4C_Ministerien_MFW_280i.jpg class="inline-img")  
 
@@ -9,7 +13,7 @@
  
 -------------------------------------------------------------------
  
-### Karlsruhe Institute of Technology
+##  Karlsruhe Institute of Technology
 
 ![KIT](/4m-association/assets/images/kit_logo_en_farbe_280.jpg class="inline-img")
 
@@ -17,7 +21,7 @@
 
 ------------------------------------------------
 
-### RONDOL Technology Ltd.
+##  RONDOL Technology Ltd.
 
 ![RONDOL](/4m-association/assets/images/logo_web_address_3.jpg class="inline-img")
 
@@ -26,7 +30,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
 
 ------------------------------------------------
 
-### MicroTEC Südwest.
+##  MicroTEC Südwest.
 
 ![MicroTEC](/4m-association/assets/images/microTEC-Logo_4c.jpg class="inline-img")
 
@@ -35,7 +39,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
  
 -----------------------------------------------  
   
-### SARIX
+##  SARIX
 
 ![SARIX](/4m-association/assets/images/logos/SARIX-inline.jpg class="inline-img")
 
@@ -43,7 +47,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
 
 -------------------
   
-### 2E mechatronic GmbH & Co. KG
+##  2E mechatronic GmbH & Co. KG
 
 ![2E mechatronic](/4m-association/assets/images/2E_Logo_RGB2009_(280).jpg class="inline-img")
 
@@ -52,7 +56,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
 
 -------------------
 
-### Feinmetall GmbH
+##  Feinmetall GmbH
 
 ![Feinmetall GmbH](/4m-association/assets/images/FM-Comany-Logo_280.jpg class="inline-img")
 

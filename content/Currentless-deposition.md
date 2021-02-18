@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Currentless deposition
 
 <!--break-->__Contact:__

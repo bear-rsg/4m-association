@@ -1,9 +1,13 @@
+---
+layout: sidebar_page
+---
+
 ## Integ-Micro
 
 <!--break-->
 ![Integ-Micro](/4m-association/assets/images/Logo_IntegMicro_web2.jpg)  
   
-### Integ-Micro: New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques.
+##  Integ-Micro: New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques.
  
 <strong>Integ-Micro</strong> is a research project funded under the 7th Framework Programme of the European Commission. The four-year project was launched in October 2008 with the objective of developing new high precision micro-manufacturing technologies. The results will enable the eco-efficient and eco-friendly production of 3D complex shape micro-components made of various materials. The beneficiary sectors of these radical innovations in micro-machining technologies will cover a wide range of industries such as medical, bio-medical, automotive, environmental monitoring, aerospace, watch manufacturing and others. 
 
@@ -23,12 +27,12 @@ The last goal of the project is the realization of an Integ-Micro factory throug
 
 The Integ-Micro project is coordinated by [Scuola Superiore Sant'Anna – CRIM Lab (Centre for applied research in micro-engineering)](http://www-crim.sssup.it/tiki-index.php), specialized in applied research on micro-mechatronics mainly in the biomedical field, and the scientific coordinator is Prof. Paolo Dario. The project involves 20 partners from different countries, Italy, UK, Spain, Germany, Belgium and Switzerland including universities, research institutes, companies and industry associations.  
   
-### Website
+##  Website
 
   
 [www.integ-micro.eu/](http://www.integ-micro.eu/)  
   
-### Consortium
+##  Consortium
 
   
 (1) Scuola Superiore Sant'Anna (Italy)  

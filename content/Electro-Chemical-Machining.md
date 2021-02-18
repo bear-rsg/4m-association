@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Electro Chemical Machining
 
 Technology suitable small quantity production 

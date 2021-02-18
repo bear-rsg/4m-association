@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## RAL
 
 __process parameters:__    		

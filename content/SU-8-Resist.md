@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## SU-8 Resist
 
 __material properties:__	  

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Nanoimprinting could lower solar cell manufacturing costs 
 
 <!--break-->

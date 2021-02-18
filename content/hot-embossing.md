@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## hot embossing
 
 Hot embossing is a technique to produce microstructures in thermoplastic polymers. During the process the substrate is heated slightly above the glass transition point. Then a structuring tool is pressed on the polymer. This tool is a stamp that has the microstructure that will be transferred on the substrate. After the polymer has cooled down, the tool is removed and the structure stays in the substrate. 

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 3M Nano Conference
 
 Venue: Suzhou, China

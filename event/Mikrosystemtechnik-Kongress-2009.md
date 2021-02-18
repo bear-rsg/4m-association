@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Mikrosystemtechnik-Kongress 2009
 
 Estrel Convention Center, Berlin

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## ICOMM 2012
 
 <!--break-->

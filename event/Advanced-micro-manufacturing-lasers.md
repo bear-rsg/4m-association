@@ -1,18 +1,22 @@
+---
+layout: sidebar_page
+---
+
 ## Advanced micro-manufacturing with lasers
 
 The Association of Industrial Laser Users (AILU) is to hold a workshop on ‘Advanced micro-manufacturing with lasers’.
 <!--break-->
 The applications of laser micro-processing, a key technology in 21st Century manufacturing, span micro-electronics, solar energy, medical instrumentation and transportation; and this timely event includes wide ranging reviews from international speakers and live demonstrations of a number of precision laser micro-machining tools. It also provides a unique networking and technology transfer opportunity for industrial users, laser equipment suppliers and researchers.  
     
-### Programme
+##  Programme
 
 Can be seen at the [AILU website](http://www.ailu.org.uk/laser_technology/events/2010-10-06/101006advancedmicromanufacturing.html)  
   
-### Venue
+##  Venue
 
 Technium OpTIC, St Asaph, Wales, United Kingdom.
 
-### Register
+##  Register
 
 You can e-mail [Mike Green](mailto:mike@ailu.org.uk)  
 

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## License agreement
 
 <!--break-->##Important dates##
@@ -9,7 +13,7 @@
 <tr class="main-event"><td>4M/ICOMM Conference</td><td>23-25 September 2009</td></tr> 
 </table>
 
-### License agreement
+##  License agreement
 
 
 To publish your paper in the proceedings Cardiff University requests a formal written License agreement from the copyright owners for each article published. To avoid any delay in the publication of your article, please read the terms of the agreement, sign and return the completed form to us at the address below by the specified deadline.
@@ -25,7 +29,7 @@ The licensor warrants that:
  * the Article contains no libellous or other unlawful statements and does not contain any materials that violate any personal or proprietary rights of any other person or entity. 
  * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted. 
 
-### Submission
+##  Submission
 
 
 Please fax or post completed form (when available) by the specified deadline. We would appreciate it if you send us an email notification of sending the form.

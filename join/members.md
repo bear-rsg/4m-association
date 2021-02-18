@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 4M Conference Series Association 
 
 ## 4M Members - January 2018 - April 2019

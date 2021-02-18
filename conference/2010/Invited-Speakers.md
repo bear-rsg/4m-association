@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M 2010 Invited Speakers
 
 <!--break-->

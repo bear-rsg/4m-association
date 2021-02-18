@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Glass
 
 __material properties:__  

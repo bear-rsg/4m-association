@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Silicon (Si)
 
 __material properties:__  

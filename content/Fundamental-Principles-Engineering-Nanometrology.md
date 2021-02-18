@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Fundamental Principles of Engineering Nanometrology 
 
 <!--break-->

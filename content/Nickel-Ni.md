@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Nickel (Ni)
 
 __material properties:__  	

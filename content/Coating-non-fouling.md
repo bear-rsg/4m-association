@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Coating for non-fouling
 
 <!--break-->__Contact:__

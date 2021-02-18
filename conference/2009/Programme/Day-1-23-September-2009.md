@@ -1,7 +1,11 @@
+---
+layout: sidebar_page
+---
+
 ## Day 1 - 23 September 2009
 
 <!--break-->
-### Wednesday 23 September 2009
+##  Wednesday 23 September 2009
 
 
 <table class="full-program">

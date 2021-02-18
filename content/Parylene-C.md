@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Parylene C
 
 __material properties:__  	

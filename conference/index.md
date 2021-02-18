@@ -1,4 +1,8 @@
-# 4M Conference Series
+---
+layout: sidebar_page
+---
+
+##  4M Conference Series
 
 The annual conference provides a forum for experts from industry and academia to share the results of their in-depth investigations and engage in interdisciplinary discussions about the creation of micro-manufacturing capabilities.
 

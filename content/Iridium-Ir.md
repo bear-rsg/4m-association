@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Iridium (Ir)
 
 __material properties:__ 	

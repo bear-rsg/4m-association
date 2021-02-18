@@ -1,7 +1,3 @@
----
-layout: sidebar_page
----
-
 ## September 2018
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="200px">
@@ -16,7 +12,7 @@ The 4M Association is delighted to announce the publication of the book **'Micro
 
 [Sample Pages](http://files.hanser.de/Files/Article/ARTK_LPR_9781569906538_0001.pdf)
 
-### Preface
+##  Preface
 
 
 

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Lithography and Etching 
 
 Technology suitable for small quantity production

@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## Industrial Technologies 2014
 
-### April 9 - 11 2014, Athens, Greece
+##  April 9 - 11 2014, Athens, Greece
 
 
 The Industrial Technologies 2014 conference integrates nanotechnology, biotechnology, advanced materials and new production technologies. The event offers opportunities for developing valuable research and industry collaborations, and showcases cutting-edge research, latest innovations and rising companies from all around Europe.

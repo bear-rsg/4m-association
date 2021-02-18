@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## FEMTO-ST
 
 __process parameters:__  		

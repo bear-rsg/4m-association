@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## ICOMM 2011
 
 The 6th International Conference on 

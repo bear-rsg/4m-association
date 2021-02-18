@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## SU-8 commercial foils
 
 __Contact:__

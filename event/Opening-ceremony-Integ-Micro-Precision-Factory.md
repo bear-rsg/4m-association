@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Opening ceremony of Integ-Micro Precision Factory
 
 The Facility that houses the manufacturing platforms developed by the Integ-Micro project consortium will open its doors on 22nd June 2012.

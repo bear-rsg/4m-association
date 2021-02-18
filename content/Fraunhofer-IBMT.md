@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Fraunhofer IBMT
 
 __process parameters:__  	

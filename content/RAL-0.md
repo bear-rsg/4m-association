@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## RAL
 
 __*used material:*	Metals (Cr, Al)__

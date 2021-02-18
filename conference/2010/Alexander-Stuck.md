@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Alexander Stuck
 
 ![Stuck](/4m-association/assets/images/files/Presentation1_0.jpg)Dr. Alexander Stuck is currently head of CSEM BASEL. He is an expert in nano-optics and replication technologies. He has a track record of successful collaboration with industry leaders in brand protection and optical microsystems.  

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## 4M Ceramics Workshop in Goteborg
 
 ![4M Ceramics Workshop in Goteborg](/4m-association/assets/images/ceramics-workshop-goteborg.jpg class="stretch-img")  

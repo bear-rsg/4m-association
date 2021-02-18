@@ -1,7 +1,15 @@
+---
+layout: sidebar_page
+---
+
 ## History of the 4M Conference
 
 This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/4m-association/node/1). 4M2011 will be the eighth in the series.
 <!--break-->
+---
+layout: sidebar_page
+---
+
 ## Past 4M conferences
 
  * [4M2005](http://www.4m-net.org/4M_Conference "4M2005 Conference") - Forschungszentrum Karlsruhe, Germany  

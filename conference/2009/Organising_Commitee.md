@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Programme Committee
 
 <!--break-->

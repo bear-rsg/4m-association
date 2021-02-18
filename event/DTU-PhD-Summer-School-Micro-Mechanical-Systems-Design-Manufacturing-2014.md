@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## DTU PhD Summer School - Micro Mechanical Systems Design & Manufacturing 2014
 
-### June 16th - 27th 2014, Technical University of Denmark
+##  June 16th - 27th 2014, Technical University of Denmark
 
 
 This course, supported by the 4M Association, is situated in the context of emerging micro/nano technologies. Micromechanical components play an increasing role in micro systems. The use of metals, polymers and ceramics for miniature components requires product development methods as well as manufacturing technologies.

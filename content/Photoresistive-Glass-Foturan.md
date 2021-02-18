@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Photoresistive Glass (Foturan)
 
 __material properties:__	  

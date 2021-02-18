@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Gold (Au) wedge-wedge bonding
 
 __material properties:__  	

@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Electroplating
 
 Technology suitable for small quantity production

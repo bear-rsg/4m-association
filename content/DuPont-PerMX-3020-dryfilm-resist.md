@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## DuPont PerMX 3020 dryfilm resist
 
 __material properties:__  	

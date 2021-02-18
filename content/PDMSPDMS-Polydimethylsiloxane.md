@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## PDMS/PDMS (Polydimethylsiloxane)
 
 __process parameters:__  	

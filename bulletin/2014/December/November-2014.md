@@ -1,10 +1,6 @@
----
-layout: sidebar_page
----
-
 ## November 2014
 
-### 4M/ICOMM 2015
+##  4M/ICOMM 2015
 
 ![4M2020 Logo](/4m-association/assets/images/files/conference.jpg)
 
@@ -13,7 +9,7 @@ Two Invited Speakers have already been confirmed aswell as two projects: Hyproli
 
 
 
-### Chair in Modelling and Simulation of Complex Manufacturing Processes
+##  Chair in Modelling and Simulation of Complex Manufacturing Processes
 
 ![4M2020 Logo](/4m-association/assets/images/files/uob.jpg)
 
@@ -23,7 +19,7 @@ Ranked amongst the world’s top 100 institutions, the University of Birmingham 
 [Read more>>](http://4m-association.us1.list-manage2.com/track/click?u=4a3e2307c8444f1ffd4221249&id=e0fafc3812&e=c9b7331d9b)
 
 
-### 15th International Conference & Exhibition, 1 - 5 June 2015, Leuven, Belgium
+##  15th International Conference & Exhibition, 1 - 5 June 2015, Leuven, Belgium
 
 ![4M2020 Logo](/4m-association/assets/images/files/euspen.jpg)
 This event will once again showcase the best international advances in precision engineering fields such as additive manufacturing, medical products, micro-biology, nano &micro manufacturing, metrology, mechatronic systems & control, renewable energy technologies and ultra precision machines.
@@ -33,7 +29,7 @@ Extended abstract submission deadline 21 Jan 2015
 [Read More>>](http://www.euspen.eu/OurEvents/Leuven2015.aspx)
 
 
-### Micro Surface Structuring
+##  Micro Surface Structuring
 
 ![4M2020 Logo](/4m-association/assets/images/files/micro-surface-structuring.jpg)
 Wednesday 19 November 2014 
@@ -41,7 +37,7 @@ The EPSRC Centre for Innovative Manufacturing in Ultra Precision is holding this
 For further information and to register for this meeting, please visit the [website>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=50a516accf&e=c9b7331d9b)
 
 
-### The Elena Ulieru Innovation Award
+##  The Elena Ulieru Innovation Award
 
 ![4M2020 Logo](/4m-association/assets/images/files/eu-award.jpg)
 In memory of Elena Ulieru, SITEX, in cooperation with the 4M Association will offer a prize at 4M/ICOMM15, for the best paper by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers in the 4M Conferences.
@@ -57,7 +53,7 @@ This course shows the theoretical background of micro-optical elements and an ov
 To get the discount, members should mention “10% discount for 4M members” on the registration form.
 
 
-### 2nd edition 3D Printing Materials Conference
+##  2nd edition 3D Printing Materials Conference
 
 ![4M2020 Logo](/4m-association/assets/images/files/3d-printing.jpg)
 27 January 2015 at MECC in Maastricht, The Netherlands
@@ -78,7 +74,7 @@ Metals
 [Read More](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=4405f1bfb2&e=c9b7331d9b)
 
 
-### News from Laboratory of Microsensor Structures and Electronics
+##  News from Laboratory of Microsensor Structures and Electronics
 
 ![4M2020 Logo](/4m-association/assets/images/files/LMSE.jpg)
 In the field of microfluidics, LMSE is focusing on development of vari-ous mems structures and devices by integrating materials such as sili-con, glass, PDMS, PZT, SU8, etc., for applications in medicine and bio-chemical engineering. With years of experience in the field of 3d fully coupled numerical modeling, we established rapid virtual prototyping and numerical optimization of newly proposed micropump prototypes
