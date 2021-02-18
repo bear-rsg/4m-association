@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Micro-Optics Interest Group
 
 The aim of this group is to bring together commercial and non-commercial/academic parties interested in the technologies applied in micro optical manufacturing.

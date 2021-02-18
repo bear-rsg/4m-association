@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Interest Groups
 
 ### [Polymer Processing](/4m-association/node/15)
