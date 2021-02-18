@@ -1,5 +1,5 @@
 ---
-layout: year_bulletin
+layout: sidebar_page
 ---
 
 ## January'11

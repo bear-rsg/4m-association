@@ -1,11 +1,11 @@
 ---
-layout: year_bulletin
+layout: sidebar_page
 ---
 
 ## April 2015
 
 ---
-layout: year_bulletin
+layout: sidebar_page
 ---
 
 ## 4M/ICOMM2015 Feedback Survey

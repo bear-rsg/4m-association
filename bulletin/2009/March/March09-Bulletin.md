@@ -1,5 +1,5 @@
 ---
-layout: year_bulletin
+layout: sidebar_page
 ---
 
 ## March'09 Bulletin

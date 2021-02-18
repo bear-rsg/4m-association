@@ -1,5 +1,5 @@
 ---
-layout: year_bulletin
+layout: sidebar_page
 ---
 
 ## INDUSTRIAL WORKSHOP  30. March 2015    (Milano, Italy)
