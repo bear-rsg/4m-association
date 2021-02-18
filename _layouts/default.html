@@ -17,7 +17,7 @@
       var w = $(window).width();
       if(w > 767) {
           var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-          if(($("#content").height()*0.94) < min) and ($("#right-area").height()) < min)){  // note: includes padding
+          if ( $("main").height() < min) {
               $("#footer").addClass("shortpage");
           }
       }
