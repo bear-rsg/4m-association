@@ -2,7 +2,7 @@
 layout: sidebar_page
 ---
 
-## August'09 Bulletin
+### August'09 Bulletin
 
 <!--break-->
 ### 4M/ICOMM 2009

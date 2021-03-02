@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## September 2018
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="200px">
@@ -12,9 +16,7 @@ The 4M Association is delighted to announce the publication of the book **'Micro
 
 [Sample Pages](http://files.hanser.de/Files/Article/ARTK_LPR_9781569906538_0001.pdf)
 
-##  Preface
-
-
+###  Preface
 
 Micro injection molding is the preferred process technology for the mass production of polymer micro components. Micro molded parts are characterized by dimensional tolerances in the micrometer range, high surface finish in the sub-µm down to optical range, and high geometrical complexity. Micro injection molding is used to manufacture highly valued micro medical components, micro optics, micro fluidic systems, micro mechanical systems. 
 To exploit the micro molding technology process capabilities and take advantage of research and market opportunities, there was a need for a dedicated book that deals exclusively with micro injection molding and the knowledge to overcome the challenges of successfully managing and processing polymer materials at these ultra-small scales. This book meets that need. Micro injection molding is indeed not just a simple downscaling of conventional injection molding, and specific material-process-product interactions must be understood in order to achieve near zero-defect net-shape micro molded products. 

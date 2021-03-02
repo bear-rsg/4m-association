@@ -1,6 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## December 2014
 
-##  4M/ICOMM 2015 – REGISTRATION NOW OPEN
+###  4M/ICOMM 2015 – REGISTRATION NOW OPEN
 
 
 ![4m2020logo](/4m-association/assets/images/4m2020logo.png)
@@ -9,7 +13,7 @@ Registration details available [here](/4m-association/content/Conference-Registr
 
 Author registration deadline: 1st February 2015. In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 1st of February 2015.
 
-##  4M/IWMF 2016 Conference
+###  4M/IWMF 2016 Conference
 
 ![4M2020 2016 Logo](/4m-association/assets/images/files/2016-logo.jpg)
 
@@ -27,7 +31,7 @@ If you have preference please let us know!
 We will announce the 2016 conference location at the 4M/ICOMM event in Milan.
 
 
-##  15th International Conference & Exhibition, 1 - 5 June 2015, Leuven, Belgium
+###  15th International Conference & Exhibition, 1 - 5 June 2015, Leuven, Belgium
 
 ![4M2020 Logo](/4m-association/assets/images/files/euspen.jpg)
 This event will once again showcase the best international advances in precision engineering fields such as additive manufacturing, medical products, micro-biology, nano &micro manufacturing, metrology, mechatronic systems & control, renewable energy technologies and ultra precision machines.
@@ -37,7 +41,7 @@ Extended abstract submission deadline 21 Jan 2015
 [Read More>>](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=996138f9de&e=c9b7331d9b)
 
 
-##  9th International Conference on Micro- and Nanosystems (MNS)
+###  9th International Conference on Micro- and Nanosystems (MNS)
 
 ![4M2020 Logo](/4m-association/assets/images/files/idetc-logo.jpg)
 
@@ -46,7 +50,7 @@ In 2015, IDETC/CIE 2015 will co-locate with the new 2015 ASME Additive Manufactu
 [Read More>>](http://www.asmeconferences.org/IDETC2015/index.cfm)
 
 
-##  University of Nottingham - Faculty of Engineering – Division of Manufacturing
+###  University of Nottingham - Faculty of Engineering – Division of Manufacturing
 
 ![4M2020 Logo](/4m-association/assets/images/files/nottingham-logo.jpg)
 
@@ -57,14 +61,14 @@ More Information available [Here>>](/4m-association/content/University-Nottingha
 
 
 
-##  4M 10% Discount on training courses in micro/nanotech
+###  4M 10% Discount on training courses in micro/nanotech
 
 ![4M2020 Logo](/4m-association/assets/images/files/fsrm.jpg)
 To get the discount, members should mention “10% discount for 4M members” on the registration form.
 Visit the website [Here>>](http://www.fsrm.ch/doc/c69.php?lang=e)
 
 
-##  2nd edition 3D Printing Materials Conference
+###  2nd edition 3D Printing Materials Conference
 
 ![4M2020 Logo](/4m-association/assets/images/files/3d-printing.jpg)
 27 January 2015 at MECC in Maastricht, The Netherlands
@@ -84,7 +88,7 @@ Metals
 [Read More](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=4405f1bfb2&e=c9b7331d9b)
 
 
-##  mAm 2015 – The Microproducts Annual Meeting, 6th edition
+###  mAm 2015 – The Microproducts Annual Meeting, 6th edition
 
 ![4M2020 Logo](/4m-association/assets/images/files/mam-2015.jpg)
 February 1-3, 2015, Villars-sur-Ollon, Switzerland
@@ -103,7 +107,7 @@ More information, including the technical program, is available
 [here](http://www.mam2015.ch) 
 
 
-##  Micro Manufacturing Event
+###  Micro Manufacturing Event
 
 ![4M2020 Logo](/4m-association/assets/images/files/mm-event.jpg)
 This event, organised by the EPSRC Centre in Ultra Precision in conjunction with euspen and hosted by the Manufacturing Technology Centre Ltd, is intended to attract the UK’s top practitioners, industrialists and academics in the field of production and machining of micron or smaller sized features.

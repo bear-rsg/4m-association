@@ -1,7 +1,10 @@
+---
+layout: sidebar_page
+---
+
 ## February 2016 
 
 ###  Postdoc Position uTwente
-
 
 POSTDOC POSITION IN PROJECT ON LASER-INDUCED FORWARD TRANSFER (LIFT) OF 3D MULTI-MATERIAL PRODUCTS
 

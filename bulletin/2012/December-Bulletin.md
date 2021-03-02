@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## December '12 
 
 <!--break-->
