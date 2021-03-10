@@ -4,9 +4,10 @@
     const data = await response.json();
     let htmlString = '';
     for (let file of data) {
-      htmlString += `<li><a href="/4m-association/${file.path}">${file.name}</a></li>`;
+      $filepath = ${file.path}.slice(0, -3) + '.html'
+      htmlString += `<li><a href="/4m-association/$filepath">${file.name}</a></li>`;
     }
     htmlString += '';
-    document.getElementsByTagName('body')[0].innerHTML = htmlString;
+    document.getElementsByTagName('ul.menu')[0].innerHTML = htmlString;
   })()
 </script>
