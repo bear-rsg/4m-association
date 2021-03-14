@@ -9,7 +9,7 @@ layout: sidebar_page
     let htmlString = '<ul class="bulletin-list">';
     for (let file of data) {
       let filepath = ${file.path}.slice(0, -3) + '.html'
-      let filename = ${file.name} //.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+      let filename = ${file.name}
       htmlString += `<li><a href="/4m-association/${filepath}">${filename}</a></li>`;
     }
     htmlString += '</ul>';
