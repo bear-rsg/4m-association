@@ -8,7 +8,7 @@ layout: sidebar_page
     const data = await response.json();
     let htmlString = '<ul>';
     for (let file of data) {
-      let filepath = ${file.path}.slice(0, -3) + '.html'
+      let filepath = file.path.slice(0, -3) + '.html'
       htmlString += `<li><a href="/4m-association/${filepath}">${file.name}</a></li>`;
     }
     htmlString += '</ul>';
