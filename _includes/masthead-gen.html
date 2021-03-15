@@ -2,12 +2,7 @@
   (async () => {
     const response = await fetch('https://api.github.com/repositories/304575824/contents/about/');
     const data = await response.json();
-    let htmlString = '
-                <li {{ current }}>
-                <a href="{{ category.href }}" {% if category.description %}title="{{ category.description }}"{% endif %}>{{ category.title }}</a>
-                {% if category.subcategories %}
-
-    ';
+    let htmlString = '';
     for (let file of data) {
       let filepath = ${file.path}.slice(0, -3) + '.html'
       htmlString += `<li><a href="/4m-association/${filepath}">${file.name}</a></li>`;
