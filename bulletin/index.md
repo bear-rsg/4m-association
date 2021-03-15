@@ -12,6 +12,6 @@ layout: sidebar_page
       htmlString += `<li><a href="/4m-association/${filepath}">${file.name}</a></li>`;
     }
     htmlString += '</ul>';
-    document.getElementsByTagName('main')[0].innerHTML = htmlString;
+    document.getElementsByClassName('left-area')[0].innerHTML = htmlString;
   })()
 </script>
