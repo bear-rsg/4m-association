@@ -1,7 +1,3 @@
----
-layout: sidebar_page
----
-
 <script>
   (async () => {
     const response = await fetch('https://api.github.com/repositories/304575824/contents/bulletin/');
@@ -9,7 +5,6 @@ layout: sidebar_page
     let htmlString = '<ul>';
     for (let file of data) {
       let filepath = ${file.path}.slice(0, -3) + '.html'
-      let filename = ${file.name}
       htmlString += `<li><a href="/4m-association/${filepath}">${file.name}</a></li>`;
     }
     htmlString += '</ul>';
