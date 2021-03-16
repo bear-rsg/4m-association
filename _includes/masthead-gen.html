@@ -8,7 +8,7 @@
 
             let redirfilename = dirfile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
             let capdirfilename = redirfilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-            let htmlString += '<li><a href="/4m-association/${capdirfile.name}/">${capdirfilename}</a><ul class="sub-menu">';
+            let htmlString += '<li><a href="/4m-association/${dirfile.name}/">${capdirfilename}</a><ul class="sub-menu">';
 
             htmlString += '</ul></li>';
         }
