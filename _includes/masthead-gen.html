@@ -7,7 +7,8 @@
       let filepath = file.path.slice(0, -3) + '.html'
       let filename = file.name.slice(0, -3)
       let refilename = filename.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
-      htmlString += `<li><a href="/4m-association/${filepath}">${refilename}</a></li>`;
+      let capfilename = refilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase())
+      htmlString += `<li><a href="/4m-association/${filepath}">${capfilename}</a></li>`;
     }
     htmlString += '';
     document.getElementsByClassName('menu')[0].innerHTML = htmlString;
