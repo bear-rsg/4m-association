@@ -2,7 +2,7 @@
   (async () => {
     const response = await fetch('https://api.github.com/repositories/304575824/contents/about/');
     const data = await response.json();
-    let htmlString = '<ul><li><a href="/4m-association/about/">About</a><ul class="sub-menu">';
+    let htmlString = '<li><a href="/4m-association/about/">About</a><ul class="sub-menu">';
     for (let file of data) {
       let filepath = file.path.slice(0, -3) + '.html'
       let filename = file.name.slice(0, -3)
@@ -10,7 +10,7 @@
       let capfilename = refilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase())
       htmlString += `<li><a href="/4m-association/${filepath}">${capfilename}</a></li>`;
     }
-    htmlString += '</ul></li></ul>';
+    htmlString += '</ul></li>';
     document.getElementsByClassName('menu')[0].innerHTML = htmlString;
   })()
 </script>
