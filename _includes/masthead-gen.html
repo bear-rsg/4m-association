@@ -5,22 +5,11 @@
     const dirdata = await response.json();
     for (let dirfile of dirdata) {
         if (dirfile.type == 'dir'){
-            const dirresponse = await fetch('https://api.github.com/repositories/304575824/contents/'+dirfile.name+'/');
-            const data = await dirresponse.json();
+
             let redirfilename = dirfile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
             let capdirfilename = redirfilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
             let htmlString += '<li><a href="/4m-association/${capdirfile.name}/">${capdirfilename}</a><ul class="sub-menu">';
-            /*
-            for (let file of data) {
-              let filepath = file.path.slice(0, -3) + '.html'
-              let filename = file.name.slice(0, -3)
-              let refilename = filename.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
-              let capfilename = refilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase())
-              if (capfilename != 'Index') {
-                htmlString += '<li><a href="/4m-association/${filepath}">${capfilename}</a></li>';
-              }
-            }
-            */
+
             htmlString += '</ul></li>';
         }
     }
