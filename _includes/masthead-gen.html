@@ -2,15 +2,18 @@
   (async () => {
 
     const response = await fetch('https://api.github.com/repositories/304575824/contents/');
-    const dirdata = await response.json();
-    for (let dirfile of dirdata) {
-        if (dirfile.type == 'dir') {
-            let redirfilename = dirfile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
-            let capdirfilename = redirfilename.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase())
-            let htmlString += '<li><a href="/4m-association/${dirfile.name}/">${capdirfilename}</a><ul class="sub-menu"></ul></li>'
+    const dirData = await response.json();
+
+    var htmlString = '';
+    for (let dirFile of dirData) {
+        if (dirFile.type == 'dir') {
+            let reDirFileName = dirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2')
+            let capDirFileName = reDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase())
+            let htmlString += '<li><a href="/4m-association/${dirFile.name}/">${capDirFileName}</a><ul class="sub-menu"></ul></li>'
         }
     }
     htmlString += '';
+
     document.getElementsByClassName('menu')[0].innerHTML = htmlString;
   })()
 </script>
