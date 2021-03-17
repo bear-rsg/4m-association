@@ -4,7 +4,7 @@
     const response = await fetch('https://api.github.com/repositories/304575824/contents/');
     const dirdata = await response.json();
 
-    let htmlString = '';
+    var htmlString = '';
 
     for (let dirfile of dirdata) {
         if (dirfile.type == 'dir') {
