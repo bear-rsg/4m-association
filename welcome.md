@@ -1,4 +1,4 @@
-#    Welcome to the 4M Association
+## Welcome to the 4M Association
 
 Welcome to the homepage of the 4M Association, the meeting place of the micro manufacturing knowledge community. 
 

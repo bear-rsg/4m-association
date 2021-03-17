@@ -1,4 +1,4 @@
-# Terms & Conditions
+## Terms & Conditions
 
 4M was established as a Network of Excellence under the European Framework Program 6 (FP6) to develop Micro- and Nano- Technology (MNT) for the batch-manufacture of micro-components and devices in a variety of materials for future microsystems products.
 
