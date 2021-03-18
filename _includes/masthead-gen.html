@@ -4,13 +4,16 @@
     const response = await fetch('https://api.github.com/repositories/304575824/contents/?ref=dev-v1');
     const dirData = await response.json();
 
-    let htmlString = '';
+    let baseHtmlString = '';
     for(let dirFile of dirData){
         if(dirFile.type == 'dir'){
             let reDirFileName = dirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
             let capDirFileName = reDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-            let htmlString += '<li><a href="/4m-association/${dirFile.name}/">${capDirFileName}</a><ul class="sub-menu"></ul></li>';
+            let dirHtmlString = '<li><a href="/4m-association/${dirFile.name}/">${capDirFileName}</a><ul class="sub-menu"></ul></li>';
+        }else{
+            let dirHtmlString = '';
         }
+        htmlString += dirHtmlString;
     }
     htmlString += '';
 
