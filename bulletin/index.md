@@ -13,7 +13,7 @@ layout: sidebar_page
       } else {
         let indexFileName = indexFile.name;
       }
-      let indexCapFileName = indexFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
+      let indexCapFileName = indexFileName; // .replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
       let indexFilepath = indexFile.path.slice(0, -3) + '.html';
       let indexHtmlString += `<li><a href="/4m-association/${indexFilepath}">${indexCapFileName}</a></li>`;
     }
