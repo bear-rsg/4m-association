@@ -4,14 +4,14 @@ layout: sidebar_page
 
 <script>
   (async () => {
-    const response = await fetch('https://api.github.com/repositories/304575824/contents/bulletin/');
-    const data = await response.json();
-    let htmlString = '<ul>';
-    for (let file of data) {
-      let filepath = file.path.slice(0, -3) + '.html'
-      htmlString += `<li><a href="/4m-association/${filepath}">${file.name}</a></li>`;
+    const indexResponse = await fetch('https://api.github.com/repositories/304575824/contents/bulletin/?ref=dev-v1');
+    const indexData = await indexResponse.json();
+    let indexHtmlString = '<ul>';
+    for (let indexFile of indexData) {
+      let indexFilepath = indexFile.path.slice(0, -3) + '.html'
+      indexHtmlString += `<li><a href="/4m-association/${indexFilepath}">${indexFile.name}</a></li>`;
     }
-    htmlString += '</ul>';
-    document.getElementsByClassName('left-area')[0].innerHTML = htmlString;
+    indexHtmlString += '</ul>';
+    document.getElementsByClassName('left-area')[0].innerHTML = indexHtmlString;
   })()
 </script>
