@@ -10,7 +10,7 @@ layout: sidebar_page
     for (let indexFile of indexData) {
       let indexFileName = indexFile.name;
       if (indexFile.name.endsWith('.md')) {
-        let indexFileName = indexFile.name.slice(0, -3);
+        indexFileName = indexFile.name.slice(0, -3);
       }
       let indexCapFileName = indexFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
       let indexFilepath = indexFile.path.slice(0, -3) + '.html';
