@@ -12,6 +12,6 @@ layout: sidebar_page
       indexHtmlString += `<li><a href="/4m-association/${indexFilepath}">${indexFile.name}</a></li>`;
     }
     indexHtmlString += '</ul>';
-    document.getElementsByClassName('left-area')[0].innerHTML = indexData;
+    document.getElementsByClassName('left-area')[0].innerHTML = indexHtmlString;
   })()
 </script>
