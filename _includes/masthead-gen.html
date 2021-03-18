@@ -4,7 +4,7 @@
     const response = await fetch('https://api.github.com/repositories/304575824/contents/?ref=dev-v1');
     const dirData = await response.json();
 
-    let baseHtmlString = '';
+    let htmlString = '';
     for(let dirFile of dirData){
         if(dirFile.type == 'dir'){
             let reDirFileName = dirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
