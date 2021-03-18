@@ -8,10 +8,9 @@ layout: sidebar_page
     const indexData = await indexResponse.json();
     let indexHtmlString = '<ul>';
     for (let indexFile of indexData) {
+      let indexFileName = indexFile.name;
       if (indexFile.name.endsWith('.md')) {
         let indexFileName = indexFile.name.slice(0, -3);
-      } else {
-        let indexFileName = indexFile.name;
       }
       let indexCapFileName = indexFileName; // .replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
       let indexFilepath = indexFile.path.slice(0, -3) + '.html';
