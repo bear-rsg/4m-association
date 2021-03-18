@@ -12,7 +12,7 @@ layout: sidebar_page
       if (indexFile.name.endsWith('.md')) {
         let indexFileName = indexFile.name.slice(0, -3);
       }
-      let indexCapFileName = indexFileName; // .replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
+      let indexCapFileName = indexFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
       let indexFilepath = indexFile.path.slice(0, -3) + '.html';
       indexHtmlString += `<li><a href="/4m-association/${indexFilepath}">${indexCapFileName}</a></li>`;
     }
