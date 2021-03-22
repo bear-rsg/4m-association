@@ -10,7 +10,7 @@
         let capDirFileName = reDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
         let htmlString += '<li><a href="/4m-association/${dirFile.name}/">${capDirFileName}</a><ul class="sub-menu"></ul></li>';
     }
-    htmlString += '';
+    let htmlString += '';
 
     document.getElementsByClassName('menu')[0].innerHTML = htmlString;
   })()
