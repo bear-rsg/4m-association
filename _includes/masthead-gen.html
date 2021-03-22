@@ -4,7 +4,6 @@
     const response = await fetch('https://api.github.com/repositories/304575824/contents/?ref=dev-v1');
     const dirData = await response.json();
 
-    let htmlString = '';
     for(let dirFile of dirData){
         try{
             let reDirFileName = dirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
@@ -14,7 +13,6 @@
             alert(err);
         }
     }
-    let htmlString += '';
 
     document.getElementsByClassName('menu')[0].innerHTML = htmlString;
   })()
