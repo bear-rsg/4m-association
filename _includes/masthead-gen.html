@@ -11,7 +11,7 @@
             alert('directory found');
             let reDirFileName = dirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
             let capDirFileName = reDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-            htmlDirString = '<li><a href="/4m-association/' + dirFile.name + '/">' + capDirFileName + '</a><ul class="sub-menu"></ul></li>';
+            htmlDirString += '<li><a href="/4m-association/' + dirFile.name + '/">' + capDirFileName + '</a><ul class="sub-menu"></ul></li>';
         }
     }
     htmlDirString += '';
