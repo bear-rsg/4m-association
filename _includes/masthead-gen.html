@@ -27,7 +27,7 @@
 
                     if(subDirFile.name != 'index.md'){
                         let subDirFileName = subDirFile.name;
-                        let subFilepath = indexFile.path;
+                        let subFilepath = subDirFile.path;
                         if (subDirFileName.endsWith('.md')) {
                             subDirFileName = subDirFileName.slice(0, -3);
                             subFilepath = indexFile.path.slice(0, -3) + '.html';
