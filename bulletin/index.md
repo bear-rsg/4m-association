@@ -9,8 +9,7 @@ layout: sidebar_page
     let indexHtmlString = '<ul>';
     for (let indexFile of indexData) {
         let indexFileName = indexFile.name;
-        let indexFilepath = indexFile.path;
-        .slice(0, -3) + '.html';
+        let indexFilepath = indexFile.path.slice(0, -3) + '.html';
         if (indexFileName.endsWith('.md')) {
             indexFileName = indexFileName.slice(0, -3);
             indexFilepath = indexFile.path.slice(0, -3) + '.html';
