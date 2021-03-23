@@ -9,12 +9,13 @@ layout: sidebar_page
     let indexHtmlString = '<ul>';
     for (let indexFile of indexData) {
         let indexFileName = indexFile.name;
-        let indexFilepath = indexFile.path.slice(0, -3) + '.html';
+        let indexFilePath = indexFile.path;
+        
         if (indexFileName.endsWith('.md')) {
             indexFileName = indexFileName.slice(0, -3);
-            indexFilepath = indexFile.path.slice(0, -3) + '.html';
+            indexFilePath = indexFile.path.slice(0, -3) + '.html';
         }
-        indexFileName = indexFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
+        indexFileName = indexFileName.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
         indexFileName = indexFileName.replace(/([a-z])([0-9])/g, '$1 $2');
         indexFileName= indexFileName.replace(/([a-z0-9])([-])([a-z0-9])/g, '$1 $3');
             
