@@ -27,16 +27,18 @@
 
                     if(subDirFile.name != 'index.md'){
                         let subDirFileName = subDirFile.name;
-                        let subFilepath = subDirFile.path;
+                        let subFilePath = subDirFile.path;
                         if (subDirFileName.endsWith('.md')) {
                             subDirFileName = subDirFileName.slice(0, -3);
-                            subFilepath = indexFile.path.slice(0, -3) + '.html';
+                            subFilePath = subFilePath.slice(0, -3) + '.html';
                         }
+
                         let subReDirFileName = subDirFileName.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
                         subReDirFileName = subReDirFileName.replace(/([a-z])([0-9])/g, '$1 $2');
                         subReDirFileName = subReDirFileName.replace(/([a-z0-9])([-])([a-z0-9])/g, '$1 $3');
+
                         let capSubDirFileName = subReDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-                        htmlDirString += '<li><a href="/4m-association/' + subDirFile.path + '/">' + capSubDirFileName + '</a></li>';
+                        htmlDirString += '<li><a href="/4m-association/' + subFilePath + '/">' + capSubDirFileName + '</a></li>';
                     }
                 }
 
