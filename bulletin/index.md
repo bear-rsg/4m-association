@@ -26,7 +26,7 @@ layout: sidebar_page
                 
             let indexCapFileName = indexFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
             
-            indexHtmlString += `<li><a href="/4m-association/${indexFilepath}">${indexCapFileName}</a></li>`;
+            indexHtmlString += `<li><a href="/4m-association/${indexFilePath}">${indexCapFileName}</a></li>`;
         }
     }
     indexHtmlString += '</ul>';
