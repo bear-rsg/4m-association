@@ -21,9 +21,13 @@
                 let subDirData = await subResponse.json();
 
                 for(let subDirFile of subDirData){
-                    let subReDirFileName = subDirFile.name.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
+                    let subDirFileName = subDirFile.name;
+                    if (subDirFileName.endsWith('.md')) {
+                        subDirFileName = subDirFileName.slice(0, -3);
+                    }
+                    let subReDirFileName = subDirFileName.replace(/([a-z0-9])([A-Z])/g, '$1 $2');
                     let capSubDirFileName = subReDirFileName.replace(/(^\w{1})|(\s+\w{1})/g, letter => letter.toUpperCase());
-                    htmlDirString += '<li><a href="/4m-association/' + subDirFile.name + '/">' + capSubDirFileName + '</a></li>';
+                    htmlDirString += '<li><a href="/4m-association/' + subDirFileName + '/">' + capSubDirFileName + '</a></li>';
                 }
 
                 htmlDirString += '</ul>';
