@@ -3,8 +3,8 @@ theme: jekyll-theme-cayman
 
 description              : "4M Association"
 baseurl                  : "/4m-association"
-url                      : "ceryslewis.github.io"
-repository               : "ceryslewis.github.io/bear-software-resources"
+url                      : "4m-association.github.io"
+repository               : "github.com/bear-rsg/4m-association/"
 
 title_separator          : "-"
 lang                     : "en-GB"
@@ -86,3 +86,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
+collections_dir: site_collections
+
+collections:
+  short_bulletins:
+    permalink: /:collection/:path/
+    output: true
+
+future: true

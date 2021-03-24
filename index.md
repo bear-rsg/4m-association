@@ -1,4 +1,3 @@
-
 ## Coming Soon
 
 The 4M Association website is under construction and will be coming soon.

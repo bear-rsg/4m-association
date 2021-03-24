@@ -1,0 +1,20 @@
+---
+layout: sidebar_page
+---
+
+## 3M-NANO
+
+This new International Conference on Manipulation,
+Manufacturing and Measurement on the Nanoscale (3M-NANO), which will be held for the first time on 29 Aug - 2 Sept 2011 in Changchun, China.
+<!--break-->
+3M-NANO covers advanced technologies for handling on the nanoscale, including manipulation, measurement and manufacturing on the nanoscale.  
+  
+These technologies promise novel revolutionary products and methods in numerous fields of application.  
+  
+3M-NANO papers will be recommended for publication i.a. in Int. Journal of Intelligent Mechatronics and Robotics, Int. Journal of Optomechatronics and Acta Physico-Chimica Sinica.  
+  
+Workshops on selected topics in manipulation, manufacturing and measurement on the nanoscale will be arranged on the first day of the conference. Workshop attendance is covered by 3M-NANO registration fee.   
+  
+A major goal of the 3M-NANO conference is to support the development of the nanohandling research community and to encourage long-term partnerships and collaborative research activities. The social events and tours will be organized by 3M-NANO 2011 free of charge as part of this effort.  
+  
+For full details visit the [3M-NANO conference website](http://3m-nano.org).

@@ -1,0 +1,11 @@
+---
+layout: sidebar_page
+---
+
+## Integ-micro seminar
+
+![Integ-Micro](/4m-association/assets/images/Logo_IntegMicro_web2.jpg class="thumbnail-teaser")A seminar on micro-manufacturing organised and hosted by the Integ-Micro project will take place in Hannover on Thursday 22nd September 2011.
+<!--break-->
+The seminar is free-of-charge and includes a welcome coffee reception.
+
+A flyer with more information is available to download by clicking on the icon below.

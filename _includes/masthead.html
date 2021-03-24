@@ -1,3 +1,13 @@
+{% for entry in site.data.navigation %}
+    {% capture curr_url %}{{ entry.href }}{% endcapture %}
+    {% if curr_url == page.url %}
+        {% assign current_page = curr_url %}
+        {% break %}
+    {% elsif page.href contains curr_url %}
+        {% assign current_page = curr_url %}
+    {% endif %}
+{% endfor %}
+
 <header id="header">
     <div class="masthead__logos">
         {% unless site.uob_logo_url == empty %}
@@ -18,17 +28,31 @@
         <nav id="links_menu">
             <a id="resp-menu" class="responsive-menu" href="#"><i class="fa fa-reorder"></i> Menu</a>
             <ul class="menu">
-            {% for category in site.data.navigation %}
-                <li><a href="{{ category.href }}" {% if category.description %}title="{{ category.description }}"{% endif %}>{{ category.title }}</a>
+                {{ current_page }}
+                {% for category in site.data.navigation %}
+                    {% if category.href == current_page %}
+                        {% assign current = ' class="selected"' %}
+                    {% else %}
+                        {% assign current = null %}
+                    {% endif %}
+
+                <li {{ current }}>
+                    <a href="{{ category.href }}" {% if category.description %}title="{{ category.description }}"{% endif %}>{{ category.title }}</a>
                 {% if category.subcategories %}
                     <ul class="sub-menu">
                     {% for subcategory in category.subcategories %}
-                        <li><a href="{{ subcategory.subhref }}" {% if subcategory.description %}title="{{ subcategory.description }}"{% endif %}>{{ subcategory.subtitle }}</a></li>
+                        <li><a href="{{ subcategory.subhref }}" {% if subcategory.subdescription %}title="{{ subcategory.subdescription }}"{% endif %}>{{ subcategory.subtitle }}</a></li>
+                        {% for subsubcategory in category.subcategories.subcategories %}
+                            <li><a href="{{ subsubcategory.subhref }}" {% if subsubcategory.subdescription %}title="{{ subsubcategory.subdescription }}"{% endif %}>{{ subsubcategory.subtitle }}</a></li>
+                        {% endfor %}
                     {% endfor %}
                     </ul>
                 {% endif %}
                 </li>
             {% endfor %}
+            </ul>
+            <ul>
+                {% include masthead-gen.html %}
             </ul>
         </nav>
     </div>

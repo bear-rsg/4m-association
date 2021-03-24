@@ -1,3 +1,7 @@
+---
+layout: sidebar_page
+---
+
 ## Join the 4M Association
 
 ### MEMBERSHIP LEVELS
