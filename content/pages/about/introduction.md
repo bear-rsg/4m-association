@@ -1,0 +1,10 @@
+title: Introduction
+date: 2021-03-31
+
+### Rationale
+
+The rationale for the 4M Association is to capitalise on the links and knowledge built up within the 4M Network of Excellence for the benefit of the micro-nano manufacturing (MNM) industry.
+
+### Aim
+
+The aim of the 4M Association is to support the micro-nano manufacturing industry as a self-funded membership based association, with a membership drawn from industry and the wider micro-nano manufacturing community.

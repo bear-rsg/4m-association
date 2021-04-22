@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb42aa1-4044-42ef-b6dc-f20717e0ddb6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/always_modified/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/always_modified/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/author_images/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/author_images/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/autopages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/autopages/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_codeblock_line_numbering/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_codeblock_line_numbering/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_figures_and_images/test_data/images-test.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_figures_and_images/test_data/images-test.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_tables/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_tables/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/bootstrap-rst/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/bootstrap-rst/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/clean_summary/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/clean_summary/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/collate_content/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/collate_content/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/collate_content/test_collate_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/collate_content/test_collate_content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/creole_reader/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/creole_reader/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_duplicate_tags_authors.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_duplicate_tags_authors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_markdown_and_nonascii_summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_markdown_and_nonascii_summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_md_extension.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_md_extension.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/disqus_static/disqus_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/disqus_static/disqus_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/extract_toc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/extract_toc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/feed_summary/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/feed_summary/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/footer_insert/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/footer_insert/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/gallery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/gallery/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/github-wiki/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/github-wiki/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/glossary/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/glossary/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/interlinks/test_data/testme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/interlinks/test_data/testme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/jinja2content/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/jinja2content/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/libravatar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/libravatar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/test_libravatar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/test_libravatar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/linker/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/linker/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-generic-config-tag.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-generic-config-tag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat4.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/more_categories/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/more_categories/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/more_categories/more_categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/more_categories/more_categories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/neighbors/test_data/article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/neighbors/test_data/article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.el" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.el" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican-rdf/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican-rdf/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/avatars.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/avatars.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/feed.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/feed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/import.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/import.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/quickstart.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/quickstart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/identicon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/identicon/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/test_data/filename.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/test_data/filename.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/test_data/photo.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/test_data/photo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/reddit_poster/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/reddit_poster/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/render_math/test_data/article.nbdata" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/render_math/test_data/article.nbdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/representative_image/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/representative_image/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/rmd_reader/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/rmd_reader/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/rmd_reader/test_rmd_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/rmd_reader/test_rmd_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/dummy_article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/dummy_article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/other_dummy_article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/other_dummy_article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/share_post/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/share_post/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shortcodes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shortcodes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/slim/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/slim/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/noparent.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/noparent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent--implicit.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent--implicit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent-explicit.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent-explicit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/subcategory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/subcategory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/summary/Readme.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/summary/Readme.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/test_data/content/cat1/markdown-article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/test_data/content/cat1/markdown-article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/textile_reader/Readme.textile" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/textile_reader/Readme.textile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/textile_reader/textile_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/textile_reader/textile_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/Demo.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/Demo.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/bootstrap_rst_directives.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/bootstrap_rst_directives.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/video_privacy_enhancer/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/video_privacy_enhancer/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/w3c_validate/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/w3c_validate/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/webring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/webring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pelican-chameleon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pelican-chameleon/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/article_info.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/translations.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="100" selection-start-line="26" selection-start-column="100" selection-end-line="26" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/authors.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/categories.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/github.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/github-js.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/images.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/recent_posts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title: (.*)</find>
+      <find>&quot;/4m-association/</find>
+      <find>well</find>
+      <find>side</find>
+      <find>well well-sm</find>
+      <find>&lt;section class=&quot;well well-sm&quot;&gt;</find>
+      <find>.well</find>
+      <find>&lt;img width=&quot;100%&quot;</find>
+      <find>&lt;img src</find>
+      <find>/4m-association/assets/</find>
+      <find>&lt;a href=&quot;/4m-association/content/(.*)&quot;</find>
+      <find>href=&quot;/4m-association/(.*)&quot;</find>
+      <find>=&quot;/4m-association/(.*)&quot;</find>
+      <find>width=&quot;(.*)px&quot;</find>
+      <find>/4m-association/assets/images</find>
+      <find>/files</find>
+      <find>/4m-association/</find>
+      <find>/files/</find>
+      <find>.pdf</find>
+      <find>/assets/images/files/</find>
+      <find>/images/files/</find>
+      <find>\(/content/(.*)</find>
+      <find>\(/content/(.*)\).html</find>
+      <find>\(/content/(.*)\)</find>
+      <find>\(/contents/(.*)\) .html</find>
+      <find>\(\/contents\/([\w\-]*)\). \.html</find>
+      <find>\(/contents/([\w\-]*)\)\. ( \.html)</find>
+      <find>\(/contents/([\w\-]*)\)</find>
+      <find>&lt;span class=&quot;label label-default&quot;&gt;</find>
+      <find>LOCALE</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>date:</replace>
+      <replace>date: 2020-03-29 12:00</replace>
+      <replace>Date:</replace>
+      <replace>layout: sidebar_page</replace>
+      <replace>date: $1</replace>
+      <replace>## $1&lt;/p&gt;</replace>
+      <replace>title: $1</replace>
+      <replace>## $1</replace>
+      <replace>&quot;/</replace>
+      <replace>static/</replace>
+      <replace>&lt;img width=&quot;100%&quot; src</replace>
+      <replace>&lt;a href=&quot;/4m-association/content/$1.html&quot;</replace>
+      <replace>&lt;a href=&quot;/content/$1.html&quot;</replace>
+      <replace>href=&quot;/$1.html&quot;</replace>
+      <replace>href=&quot;/4m-association/$1&quot;</replace>
+      <replace>=&quot;/4m-association/$1&quot;</replace>
+      <replace>width=&quot;100%&quot;</replace>
+      <replace>/images</replace>
+      <replace>/images/</replace>
+      <replace>\(/content/$1.html</replace>
+      <replace>\(/content/$1\)</replace>
+      <replace>\(/contents/$1\)</replace>
+      <replace>\(/contents/$1\)\.</replace>
+      <replace>\(/contents/$1.html\)</replace>
+      <replace />
+      <replace>/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Dev\4m\4m-association-pelican\active-theme\pelican-bootstrap3\templates</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\contents</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\active-theme\pelican-bootstrap3</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pelican-plugins" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pelican-plugins/Responsive-Pelican/templates/index.html" />
+        <option value="$PROJECT_DIR$/pelican-plugins/Responsive-Pelican/templates/_includes/head.html" />
+        <option value="$PROJECT_DIR$/content/join4m.md" />
+        <option value="$PROJECT_DIR$/content/members.md" />
+        <option value="$PROJECT_DIR$/content/Terms.md" />
+        <option value="$PROJECT_DIR$/content/about/index.md" />
+        <option value="$PROJECT_DIR$/content/about/faq.md" />
+        <option value="$PROJECT_DIR$/content/about/introduction.md" />
+        <option value="$PROJECT_DIR$/content/404-Page-Not-Found.md" />
+        <option value="$PROJECT_DIR$/content/welcome.md" />
+        <option value="$PROJECT_DIR$/pelican-plugins/Responsive-Pelican/templates/base.html" />
+        <option value="$PROJECT_DIR$/content/projects/index.md" />
+        <option value="$PROJECT_DIR$/content/node/224.md" />
+        <option value="$PROJECT_DIR$/content/index.md" />
+        <option value="$PROJECT_DIR$/content/about.md" />
+        <option value="$PROJECT_DIR$/content/about/structure.md" />
+        <option value="$PROJECT_DIR$/output/conference/wcmnm2020/index.html" />
+        <option value="$PROJECT_DIR$/content/pages/conference/2009/License_Agreement.md" />
+        <option value="$PROJECT_DIR$/content/pages/join/members.md" />
+        <option value="$PROJECT_DIR$/content/pages/node/1.md" />
+        <option value="$PROJECT_DIR$/content/pages/bulletin/February2014.md" />
+        <option value="$PROJECT_DIR$/content/pages/conference/2010/Submission_Guidelines.md" />
+        <option value="$PROJECT_DIR$/content/pages/bulletin/2019/index.md" />
+        <option value="$PROJECT_DIR$/content/pages/interest-group/micro_fluidics.md" />
+        <option value="$PROJECT_DIR$/content/pages/interest-group/ceramic_processing.md" />
+        <option value="$PROJECT_DIR$/content/pages/event/4M-Governing-Council.md" />
+        <option value="$PROJECT_DIR$/content/pages/node/3.md" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article_list.html" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/image-js.html" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar.html" />
+        <option value="$PROJECT_DIR$/content/pages/node/649.md" />
+        <option value="$PROJECT_DIR$/pelicanconf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="active-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="active-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="pelican-bootstrap3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1619086891271" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/active-theme/pelican-bootstrap3" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\4m\4m-association-pelican\content\pages" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content" />
+      <recent name="C:\Dev\4m\4m-association-pelican\active-theme" />
+      <recent name="C:\Dev\4m\4m-association-pelican\pelican-plugins" />
+      <recent name="C:\Dev\4m\4m-association-pelican\pelican-plugins\Responsive-Pelican\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\4m\4m-association-pelican\output\projects" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content\pages" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content\assets" />
+      <recent name="C:\Dev\4m\4m-association-pelican" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb42aa1-4044-42ef-b6dc-f20717e0ddb6" name="Default Changelist" comment="" />
+      <created>1616769357004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616769357004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/archive.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/category.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="7" selection-start-column="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/about/structure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="520" selection-start-line="1" selection-start-column="520" selection-end-line="1" selection-end-column="520" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/minam.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/Sarix.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/MM_Mag.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/FZKLogo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/kit_logo.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/wag-logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/ASME_Logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/EUMINAfab.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/DESMA-TEC.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/images/logos/fp6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="27" column="156" selection-start-line="27" selection-start-column="156" selection-end-line="27" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/image-js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/conference/WCMNM2020.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="70">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/node/679.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="170">
+            <caret line="10" column="40" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/assets/javascript/bootstrap/bootstrap.bundle.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="5" column="2191" selection-start-line="5" selection-start-column="2191" selection-end-line="5" selection-end-column="2191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/4M-Ceramics-workshop-Hannover-Fair.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/History.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/PS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/si.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/ECF.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/RAL.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/ERCE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/I2M2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/Lift.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/LIGA.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/PMMA.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/contents/PP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/projects/index.html" />
+    <entry file="file://$PROJECT_DIR$/content/pages/conference/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/projects/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="196" column="33" selection-start-line="196" selection-start-column="33" selection-end-line="196" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/article-li.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/article_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/translations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="100" selection-start-line="26" selection-start-column="100" selection-end-line="26" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/authors.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/categories.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/github.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/github-js.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/images.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/sidebar/recent_posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.7 virtualenv at C:\Dev\relib\django\venv</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
