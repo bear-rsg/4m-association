@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Solid-State Sensors, Actuators and Microsystems Workshop
 date: 2021-03-31
+tags: event, home
+category: event
 
 ![Transducer Research Foundation](/images/trflogo.gif class="thumbnail-teaser")  
 

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Summer School in Microrobotics and Self-Assembly for Hybrid MEMS
 date: 2021-03-31
+tags: event, home
+category: event
 
 This Summer School is a real opportunity to go into the microworld and discover innovative approaches and tools.
 <!--break-->

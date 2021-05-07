@@ -1,4 +1,7 @@
-# Page Not Found
+title: Page Not Found
+date: 2021-03-31
+slug: 404-page-not-found
+ 
 
 ![Not Found](/images/lost.jpg "Sorry, page lost somewhere in the woods" class="stretch-img")
 

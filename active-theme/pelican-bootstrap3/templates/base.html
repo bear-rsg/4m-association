@@ -238,7 +238,7 @@
 {% if 'liquid_tags.notebook' in PLUGINS %}
     {% include 'includes/liquid_tags_nb_footer.html' %}
 {% endif %}
-{% include 'includes/image-js.html' %}
+<script src="{{ SITEURL }}/assets/javascript/footer.js"></script>
 {% block scripts %}{% endblock %}
 </body>
 </html>

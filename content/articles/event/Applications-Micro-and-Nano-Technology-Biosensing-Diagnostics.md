@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Applications of Micro and Nano Technology in Biosensing & Diagnostics
 date: 2021-03-31
+tags: event, home
+category: event
 
 The aim of this meeting is to highlight current advances in biosensing and diagnostics being made possible by the application of micro and nanotechnology.
 <!--break-->

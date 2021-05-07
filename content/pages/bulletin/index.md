@@ -1,6 +1,6 @@
----
-layout: sidebar_page
----
+title: Bulletins
+date: 2021-03-31
+slug: bulletin-index
 
 <script>
   (async () => {

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: ESAFORM 2012
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 ![ESAFORM2012](/images/logoEsaform_300.jpg)This conference is based on a series of mini-symposia, including a mini-symposium on "Nano-structured materials and microforming". As in the past, one of the objectives of this mini-symposium is to get together the apparently different topics of nano-structured materials (including ultrafine grained and nanocrystalline materials) and microforming (including sheet and bulk metal forming).   

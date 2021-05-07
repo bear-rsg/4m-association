@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: COTECH at K2010
 date: 2021-03-31
+tags: event, home
+category: event
 
 The [COTECH project](/node/18) will be presented at the K2010 fair in Dusseldorf.
 <!--break-->

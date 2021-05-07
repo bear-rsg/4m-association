@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Workshop on Microfluidics for cells
 date: 2021-03-31
+tags: event, home
+category: event
 
 <i>“Tools for tissue engineering”</i> at the Fraunhofer Institute for Reliability and Microintegration IZM, Munich branch.
 <!--break-->

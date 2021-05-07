@@ -1,5 +1,8 @@
 title: About 4M Association
-date: 2021-03-31
+date: 2021-04-01
+slug: about-index
+tags: about
+category: about
 
 ### Background
 

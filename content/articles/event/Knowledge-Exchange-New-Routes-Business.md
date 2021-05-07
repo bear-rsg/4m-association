@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Knowledge Exchange: New Routes for Business
 date: 2021-03-31
+tags: event, home
+category: event
 
 Cardiff University, with Assembly backing, is reaching out to support Welsh enterprises with free access to technical demonstrator expertise and specialised facilities.
 <!--break-->
@@ -8,11 +9,7 @@ Understand the benefits of working with the university and find out how to take 
 
 A flyer for the event is available to download below.
 
-#Programme---
-layout: sidebar_page
----
-
-##  
+#Programme##  
 6.00 pm: Registration  
 
 6.30 pm: Welcome Prof Hywel Thomas, Pro Vice-Chancellor for Engagement, Cardiff University

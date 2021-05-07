@@ -1,6 +1,6 @@
-layout: sidebar_page
 title: Conference Series Association 
 date: 2021-03-31
+slug: join-members
 
 ## 4M Members - January 2018 - April 2019
 

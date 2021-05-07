@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 4M MicroFluidics Division
 date: 2021-03-31
+tags: event, home
+category: event
 
 The next and last divisional meeting (microfluidic division) will be held in Karlsruhe following the [4M GC meeting.](../event/4M-Governing-Council.html)
 <!--break-->

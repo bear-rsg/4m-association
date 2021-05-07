@@ -1,25 +1,18 @@
-layout: sidebar_page
 title: IFMM'10
 date: 2021-03-31
+tags: event, home
+category: event
 
-##  International Forum on Micro Manufacturing 2010
+### International Forum on Micro Manufacturing 2010
 
 The main aim of IFMM'10 is to provide a forum for experts from industry and academia to clarify the current states and problems of the processing technology of micro/meso scale (0.1-10mm) in the world and engage in interdisciplinary discussions about the creation of micro-manufacturing capabilities.
 <!--break-->
 Papers are invited that present the latest advances in developing prosesses and process chains for multi-material micro manufacture and their applications in microsystems-based products.  
 
-#Venue---
-layout: sidebar_page
----
-
-##  
+#Venue##  
 Gifu, Japan
 
-#Important Dates---
-layout: sidebar_page
----
-
-##  
+#Important Dates##  
 
 Submission deadline of abstract        February 28, 2010  
   

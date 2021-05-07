@@ -8,13 +8,16 @@ SITENAME = '4M Association'
 PATH = 'content'
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
-LOCALE = ('en_GB', 'en')
 
 # Appearance
 THEME = './active-theme/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
 PLUGIN_PATHS = ['./pelican-plugins/']
+I18N_TEMPLATES_LANG = 'en'
 PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy']
 
 USE_FOLDER_AS_CATEGORY = True
@@ -28,9 +31,26 @@ AUTHOR_FEED_RSS = None
 
 DISPLAY_CATEGORIES_ON_MENU = False
 
+PATH_METADATA = 'articles/(?P<path>.*)\..*'
+
+DEFAULT_METADATA = { }
+
+ARTICLE_SAVE_AS = '{path}/{slug}.html'
+ARTICLE_URL = '{path}/{slug}.html'
+ARTICLE_ORDER_BY = 'reversed-date'
+
+ARTICLE_EXCLUDES = ['templates']
+TEMPLATE_PAGES = {
+}
+
+# Don't need the author pages
+AUTHOR_SAVE_AS = ''
+AUTHOR_URL = ''
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
 PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = '{slug}.html'
 SLUGIFY_SOURCE = 'basename'
+INDEX_SAVE_AS = 'index.html'
 
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['.git', '.gitignore']
@@ -61,7 +81,6 @@ STATIC_PATHS = [
     'css',
     'assets',
 ]
-PATH_METADATA = 'pages/(?P<path>.*)\..*'
 
 # EXTRA_PATH_METADATA = {
 #     'extra/custom.css': {'path': 'custom.css'},
@@ -75,7 +94,7 @@ PATH_METADATA = 'pages/(?P<path>.*)\..*'
 DEFAULT_PAGINATION = 10
 
 # URL settings
-# SLUGIFY_SOURCE = 'basename'
+SLUGIFY_SOURCE = 'basename'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -99,12 +118,14 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Home', '/welcome/'),
-    ('About', '/about/'),
-    ('Interest Groups', '/interest-group/'),
-    ('Projects', '/projects/'),
-    ('Join 4M', '/join4m/'),
-    ('Bulletin', '/bulletin/'),
-    ('4M Conference Series', '/conference/'),
-    ('Expert Workshop FOCUS', '/bulletin/2016/September/Expert-Workshop-FOCUS.html'),
+    ('Home', '/welcome.html'),
+    ('About', '/about.html'),
+    ('Interest Groups', '/interest-groups.html'),
+    ('Projects', '/projects.html'),
+    ('Join 4M', '/join4m.html'),
+    ('Bulletin', '/bulletin/bulletin-index.html'),
+    ('4M Conference Series', '/conference/conference-index.html'),
+    ('Expert Workshop FOCUS', '/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
 )
+
+LOCALE = ('en_GB', 'en')

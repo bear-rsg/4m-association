@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: MICROSYS 2010
 date: 2021-03-31
+tags: event, home
+category: event
 
 Microsys 2010, the Micro- and Nanotechnology Fair, will take place in Stuttgart Trade Fair Centre this September.
 <!--break-->

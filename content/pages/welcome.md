@@ -1,5 +1,6 @@
 title: Welcome to the 4M Association
 date: 2021-03-31
+slug: welcome
 
 Welcome to the homepage of the 4M Association, the meeting place of the micro manufacturing knowledge community. 
 

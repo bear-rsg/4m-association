@@ -1,6 +1,6 @@
 title: 4M Association
 date: 2021-03-31
-slug: index
+slug: home
 
 <script>
   (async () => {

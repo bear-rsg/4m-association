@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Launching NANOfutures
 date: 2021-03-31
+tags: event, home
+category: event
 
 The European Commission, the Spanish EU Presidency, the Government of Principality of Asturias, the NANOfutures association and PRODINTEC are pleased to announce the Official Launching of the European Technology Innovation Platform NANOfutures focused on nanotechnologies in Gijón (Asturias) on the 15-16th June 2010. This initiative has been included as Official Event of the Spanish EU Presidency.  
     

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: PowerMEMS 2010
 date: 2021-03-31
+tags: event, home
+category: event
 
 The 10th International Workshop on Micro and Nanotechnology for Power Generation and Energy Conversion Applications
 <!--break-->

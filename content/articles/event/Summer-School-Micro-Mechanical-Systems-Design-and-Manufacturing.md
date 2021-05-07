@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Summer School on Micro Mechanical Systems Design and Manufacturing
 date: 2021-03-31
+tags: event, home
+category: event
 
 For the 6th consecutive year, DTU is organizing the PhD Summer School on "Micro Mechanical Systems Design and Manufacturing".
 <!--break-->

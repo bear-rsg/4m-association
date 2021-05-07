@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Production Technologies & Equipment for Micro-Manufacturing
 date: 2021-03-31
+tags: event, home
+category: event
 
 This Summer School will explore the emerging technologies in this field with theoretical and practical sessions by taking direction from the European [Integ-Micro Project](http://www.integ-micro.eu/), an ambitious initiative that has been able to develop five innovative platforms that redesign the state of the art in the industry.
 <!--break-->

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Metrology workshop at ALICONA
 date: 2021-03-31
+tags: event, home
+category: event
 
 Within the activities of the [COTECH project,](/node/18) you are invited to the Metrology workshop which will be held at ALICONA IMAGING Gmbh (Graz, Austria) on November 10th 2010.
 <!--break-->

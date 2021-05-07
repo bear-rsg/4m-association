@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 3M Nano Conference
 date: 2021-03-31
+tags: event, home
+category: event
 
 Venue: Suzhou, China
 

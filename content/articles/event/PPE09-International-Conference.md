@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: PPE'09 International Conference
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 ![polymer processing engineering conference 2009](/images/ppe_logo.jpg)
@@ -13,12 +14,12 @@ date: 2021-03-31
 
 
 
-##  Venue:
+### Venue:
 
 University of Bradford
 
 Further details on the [PPE'09 website.](http://www.polyeng.com/ppe09/)
 
-##  Programme
+### Programme
 
 The draft programme on the attached flyer and available to download below.

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: European Medical Polymers Conference
 date: 2021-03-31
+tags: event, home
+category: event
 
 Being held in Belfast at the Polymer Processing Research Centre of Queen's University.
 <!--break-->

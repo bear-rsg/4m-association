@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Training for Professionals No.3 - Vienna
 date: 2021-03-31
+tags: event, home
+category: event
 
 The Workshop will present the latest technologies and applications within the field of micro and nano moulding, with presentations by speakers from industrial partners, research centers and universities.
 <!--break-->

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 9th International MID Congress
 date: 2021-03-31
+tags: event, home
+category: event
 
 The use of high temperature thermoplastics and their structured metallization opens up a new dimension of circuit carrier design to the electronic industry: Molded Interconnect Devices (MID).
 <!--break-->

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Smart Sensors, Actuators and MEMS
 date: 2021-03-31
+tags: event, home
+category: event
 
 This biannual conference is the fifth in the series following its successful launch in 2003.
 <!--break-->

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: LBMP-VI
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 Photonics West, being held next year in San Francisco, USA, is one of the biggest laser related conferences. In the frame of Photonic West 2012 a conference entitled  
@@ -21,7 +22,7 @@ Amongst others, the following session topics will be offered:
  
 The Call for Papers (CFP) can be downloaded by the link below. Don't miss a chance to present your recent work at LBMP-V 2012 in San Francisco. 
 
-##  Abstract due date is July 11, 2011.
+### Abstract due date is July 11, 2011.
 
  
 The guidelines and procedure for submission of an abstract is described in the attached CFP.  

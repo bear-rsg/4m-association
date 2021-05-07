@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Integ-micro seminar
 date: 2021-03-31
+tags: event, home
+category: event
 
 ![Integ-Micro](/images/Logo_IntegMicro_web2.jpg class="thumbnail-teaser")A seminar on micro-manufacturing organised and hosted by the Integ-Micro project will take place in Hannover on Thursday 22nd September 2011.
 <!--break-->

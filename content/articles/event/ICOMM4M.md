@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: ICOMM/4M
 date: 2021-03-31
+tags: event, home
+category: event
 
 ![ICOMM/4M 2010](/images/logo%202010.jpg class="thumbnail-teaser")  
 The [5th International Conference on MicroManufacturing](http://www.conferencing.uwex.edu/conferences/ICOMM10)

@@ -1,0 +1,4 @@
+title: Wittmann-Battenfeld logo
+date: 2021-03-31
+
+attached

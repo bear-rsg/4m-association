@@ -1,5 +1,6 @@
 title: Projects
 date: 2021-03-31
+slug: projects
 
 <strong>CO</strong>NVERGING <strong>TECH</strong>NOLOGIES for micro systems manufacturing What does COTECH, converging technologies, mean? <a href="#">Read more</a> <a href="#">Project</a>
 
@@ -9,6 +10,7 @@ date: 2021-03-31
 
 <strong>FlexPAET</strong> will address limitations of state-of-the-art micro machining technologies and optical design calculation methods with respect to the production of optically functionalised elements on large surfaces. <a href="#">Read more</a> <a href="#">Project</a> <a href="#">FlexPAET</a>
 
-<strong>Integ-Micro:</strong> New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques. <a href="./Integ-Micro.html">Read more</a> <a href="#">Project</a> <a href="#./Integ-Micro.html">Integ-Micro</a>
+<strong>Integ-Micro:</strong> New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques. <a href="./Integ-Micro.html">Read more</a> <a href="#">Project</a> <a href="./integ-micro.html">Integ-Micro</a>
+
 
 

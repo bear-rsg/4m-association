@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: DTU PhD Summer School 2019
 date: 2021-03-31
+tags: event, home
+category: event
 
 DTU is organizing the <strong>PhD Summer School on Micro Mechanical Systems Design and Manufacturing 2019</strong>. The Summer School is scheduled to run for <strong>two weeks, from June 24th to July 5th</strong> (see enclosed flyer).
 

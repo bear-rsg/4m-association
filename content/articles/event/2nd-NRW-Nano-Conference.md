@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 2nd NRW Nano-Conference
 date: 2021-03-31
+tags: event, home
+category: event
 
 NRW Nano-Conference shows trends and highlights in 2009 - research and industry meet in Dortmund.
 <!--break-->

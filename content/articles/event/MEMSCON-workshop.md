@@ -1,9 +1,10 @@
-layout: sidebar_page
 title: MEMSCON workshop
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
-##  Venue
+### Venue
 
 Bucharest World Trade Centre  
   

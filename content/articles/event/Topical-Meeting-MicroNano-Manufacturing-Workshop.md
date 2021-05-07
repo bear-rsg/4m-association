@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Topical Meeting: Micro/Nano Manufacturing Workshop
 date: 2021-03-31
+tags: event, home
+category: event
 
 **27th- 28th November 2013 at Karlsruhe Institute of Technology (KIT), Germany**
 

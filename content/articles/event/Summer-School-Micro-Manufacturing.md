@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Summer School in Micro Manufacturing
 date: 2021-03-31
+tags: event, home
+category: event
 
 The main aim of the course is to build a new knowledge corpus applied to micro scale (most of the students already have some manufacturing or mechanical engineering basic knowledge) and develop new skills, including projects and teamwork.   
   

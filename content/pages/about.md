@@ -1,6 +1,6 @@
-layout: sidebar_page
 title: About the 4M Association
 date: 2021-03-31
+slug: about
 
 ### Background
 4M was established as a [Network of Excellence](http://www.4m-net.org/) under the European Framework Program 6 (FP6) to develop Micro- and Nano- Technology (MNT) for the batch-manufacture of micro-components and devices in a variety of materials for future microsystems products.  The aim of the Network was to act as a knowledge resource to the research community and to industry in the development of microsystems devices that provide new, enhanced, and multi functionality in tiny packages, integrating micro and nano scale features and properties into products and systems.

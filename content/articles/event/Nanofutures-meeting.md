@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Nanofutures meeting
 date: 2021-03-31
+tags: event, home
+category: event
 
 Please find, available to download below, the Agenda of a Nanofutures preparatory meeting, which has been organized in Brussels by Christos Tokamanis to present and discuss the Nanofutures Initiative.
 <!--break-->

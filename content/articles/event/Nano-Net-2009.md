@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Nano-Net 2009
 date: 2021-03-31
+tags: event, home
+category: event
 
 Nano-Net 2009 is the fourth edition of a successful series of event, which took place in Lausanne, Catania and Boston. The Nano-Net conference positions itself at the intersection of two worlds, namely, emerging nanotechnologies on one side, and Information & Communication Technologies on the other side.
 <!--break-->

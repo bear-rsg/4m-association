@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Micro-nano moulding seminar
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 *ATV• SEMAPP/The Polymer- and MicroNano groups in cooperation with Dansk Maskinteknisk Selskab (DMS), IDA and the EU Network on ‘Converging technologies for micro systems manufacturing -* [‘COTECH’](http://www.fp7-cotech.eu/) *invites you to a seminar on:*   

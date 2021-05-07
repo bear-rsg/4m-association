@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Optics - Key technology for the future
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 **Venue:**  

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 2nd Aachen Precision Days
 date: 2021-03-31
+tags: event, home
+category: event
 
 This international conference with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research.
 <!--break-->

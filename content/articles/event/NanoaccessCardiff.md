@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Nanoaccess@Cardiff
 date: 2021-03-31
+tags: event, home
+category: event
 
 *The Annual meeting of current and potential users of Nanoscience and Nanotechnology Equipment at Cardiff (Nanoaccess@Cardiff) takes place on 6th October 2009 at Manufacturing Engineering Centre (MEC), Cardiff University.*
 <!--break-->

@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Erlangen workshop on microforming
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 ![Microforming](/images/Logo_5th_MF_web.jpg)On November 23rd, 2010 the Chair of Manufacturing Technology will host the workshop on microforming in Erlangen/Germany.   

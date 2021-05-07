@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: 3M-Nano
 date: 2021-03-31
+tags: event, home
+category: event
 
 3M-NANO is an annual International Conference on Manipulation, Manu­facturing and Measurement on the Nanoscale, which will be held for the second time in Xi'an, China, from 29th August to 1st September 2012.
 

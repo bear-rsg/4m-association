@@ -1,8 +1,9 @@
-layout: sidebar_page
 title: 3rd MicroNano Moulding ATV-SEMAPP Seminar  
 date: 2021-03-31
+tags: event, home
+category: event
 
-##  November 13th, 2013, DTU
+### November 13th, 2013, DTU
 
 
 At the seminar the latest technologies and applications within the field of micro and nano moulding will be presented by speakers from industrial partners, research centers and universities working on the projects

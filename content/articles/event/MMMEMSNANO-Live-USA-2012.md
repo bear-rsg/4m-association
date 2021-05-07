@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: MM/MEMS/NANO Live USA 2012
 date: 2021-03-31
+tags: event, home
+category: event
 
 Following its debut in Ohio, 2012 will see MM Live USA and new co-locating feature events MEMS Live USA and NANO Live USA move to the Donald E. Stephens Convention Center in Rosemont near Chicago.
 <!--break-->

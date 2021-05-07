@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: MULTILAYER Workshop
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 **Workshop on Automation process integration, control and inspection issues for ceramic 3D structuring**  

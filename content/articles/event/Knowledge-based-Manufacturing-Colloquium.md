@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: Knowledge-based Manufacturing Colloquium
 date: 2021-03-31
+tags: event, home
+category: event
 
 Are you interested in new concepts of manufacturing automation and their feasibility in the automotive, aeronautics and electrical areas?   
 Would you like to discover the potential of a task oriented production approach?   

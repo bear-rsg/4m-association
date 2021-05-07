@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: ISEM XVII
 date: 2021-03-31
+tags: event, home
+category: event
 
 From the 9th to 12th April 2013 the 17th International Symposium on Electromachining (ISEM XVII) will be held in Leuven, Belgium.
 <!--break-->

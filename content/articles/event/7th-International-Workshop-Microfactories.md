@@ -1,6 +1,7 @@
-layout: sidebar_page
 title: IWMF
 date: 2021-03-31
+tags: event, home
+category: event
 
 <!--break-->
 ![IWMF2010](/images/org_banner_iwmf2010.gif) 
