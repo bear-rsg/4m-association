@@ -1,3 +1,0 @@
-## Wittmann-Battenfeld logo
-
-attached

@@ -1,3 +1,0 @@
-## Plastic Ecodesign Centre
-
-Logo

@@ -1,3 +1,0 @@
-## Cadflow logo
-
-Cadflow logo

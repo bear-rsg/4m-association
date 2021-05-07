@@ -11,6 +11,7 @@ import os
 
 from jinja2 import Environment, FileSystemLoader, meta
 
+import gettext
 
 def list_themes(themesroot):
     dirlist = []

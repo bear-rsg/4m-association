@@ -1,7 +1,0 @@
----
-layout: sidebar_page
----
-
-## Developments in microEDMing
-
-A recent article on [MICROmanufacturing.com](http://www.micromanufacturing.com/showthread.php?t=878) takes a look at recent advances in [microEDM](/4m-association/content/Electro-Discharge-Machining-0).
