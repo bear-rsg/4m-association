@@ -20,7 +20,7 @@ BOOTSTRAP_THEME = 'flatly'
 
 CUSTOM_CSS = 'css/custom.css'
 
-PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy','i18n_subsites']
+PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
