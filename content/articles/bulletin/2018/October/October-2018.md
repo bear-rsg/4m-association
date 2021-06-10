@@ -1,5 +1,7 @@
 title: October 2018
-date: 2021-03-31
+date: 2018-10-08 
+category: bulletin
+tags: bulletin
 
 <img src="/images/Seminar MIM2.jpg" width="100%">
 
@@ -24,3 +26,5 @@ Registration, full program, and list of speakers available [HERE](https://atv-se
 Download a 30 pages free preview of the ‘Micro Injection Molding’ book [HERE](http://files.hanser.de/Files/Article/ARTK_LPR_9781569906538_0001.pdf)
 
 **More details can be found in the attached pdf below**
+
+[&larr; Bulletins](/bulletin/index.html)

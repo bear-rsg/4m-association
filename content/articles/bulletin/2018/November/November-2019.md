@@ -1,5 +1,7 @@
 title: November 2018
-date: 2021-03-31
+date: 2019-06-06 
+category: bulletin
+tags: bulletin
 
 ###  WCMNM2019, Call for papers
 
@@ -59,3 +61,5 @@ Submission deadline for full papers:  **15th of April 2019**
 Contact: <a href="mailto:gngaile@ncsu.edu">Dr. Gracious Ngaile, North Carolina State University, USA.</strong></a>
 
 <img src="/images/CFP_logos_Ngaile.png" width="100%">
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,5 +1,7 @@
 title: August 2014
-date: 2021-03-31
+date: 2014-10-10 
+category: bulletin
+tags: bulletin
 
 ###  Update - 4M/ICOMM 2015
 
@@ -64,6 +66,8 @@ Structured and Freeform Surfaces - 19th - 20th November 2014
 Palazzo Santo Stefano, Italy
 
 [Call for short Abstracts click here>>](http://www.euspen.eu)
+
+[&larr; Bulletins](/bulletin/index.html)
 
 
 

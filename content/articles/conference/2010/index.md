@@ -1,5 +1,5 @@
 title: 4M 2010 Conference
-date: 2021-03-31
+date: 2009-10-21
 slug: conference-2010-index
 
 ![PEP,Plastipolis, Oyonnax, France](/images/pep-for-web.jpg )

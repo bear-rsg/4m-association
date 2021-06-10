@@ -1,5 +1,5 @@
 title: WCMNM 2019
-date: 2021-03-31
+date: 2019-02-26 
 slug: conference-WCMNM2019
 
 ##  World Congress on Micro and Nano Manufacturing

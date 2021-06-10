@@ -1,8 +1,6 @@
 title: Conference Registration 4M2016
-date: 2021-03-31
-
-title:  Conference Registration Now Open
-date: 2021-03-31
+date: 2015-06-30 
+title:   Conference Registration Now Open
 
 
 **REGISTER NOW** [HERE>>](http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90&prodid=1206)
@@ -26,12 +24,7 @@ Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discoun
 
 
 ................................................................................................
-
-
-
-
-title:  Conference Fees
-date: 2021-03-31
+title:   Conference Fees
 
 **Before 15th of July 2016**
 
@@ -54,16 +47,13 @@ Late payers for I2M2 members: **£522**
 Late payers for non-members: **£587**
 
 Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount.
-Check the following link for information on 4M membership. [Joining 4M](/4m-association/join4m)
+Check the following link for information on 4M membership. [Joining 4M](/join4m)
 
 
 The conference fees (in GBP) include printed proceedings, lunches, refreshments, and conference dinner.
 
 ................................................................................................
-
-
-title:  One Day Conference Fee
-date: 2021-03-31
+title:   One Day Conference Fee
 
 One day conference fee: **£217**
 

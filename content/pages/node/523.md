@@ -1,5 +1,5 @@
 title: POLYNET uses YouTube platform for dissemination
-date: 2021-03-31
+date: 2011-03-02 
 
 The Polynet project, which finished at the end of 2010, has published a video demonstrating the results of its research collaboration on [Youtube]( http://www.youtube.com/watch?v=kJhzZkzaNCw).
 <!--break-->

@@ -1,5 +1,5 @@
 title: FP7 Project - COMPOLIGHT
-date: 2021-03-31
+date: 2011-06-08 
 
 <!--break-->
 **COMPOLIGHT = "Rapid manufacturing of lightweight metal components:"**  

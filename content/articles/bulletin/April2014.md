@@ -1,5 +1,7 @@
 title: April '14
-date: 2021-03-31
+date: 2014-04-24 
+category: bulletin
+tags: bulletin
 
 Join 4M!, IAQSense, IT2014, Precision Engineering Conference, DTU Summer School, Nanomanufacturing Conference, Electronics Conference, Call for Papers - Microfactories, Microfluidic Conference, Call for Papers - Nanoscale, FSRM Training
 <!--break-->
@@ -77,3 +79,5 @@ The ultimate ambition of this conference series is to bridge the gap between nan
 
 ![FSRM](/images/FSRM.jpg)
 FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **15% discount on course fees.** To receive the discount, add comment '15% discount for 4M members'. [Read more>>](http://www.fsrm.ch/agendas/Micro-et-Nano-Technologies/)
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,5 +1,5 @@
 title: Ultra smooth, miniature scale pumping systems 
-date: 2021-03-31
+date: 2009-08-28 
 
 A micro electro-osmotic pump connector enables precise and extremely smooth flow rates in an integrated system.
 <!--break-->

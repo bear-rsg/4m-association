@@ -1,5 +1,5 @@
 title: Knowledge-based Manufacturing Colloquium
-date: 2021-03-31
+date: 2011-04-21 
 tags: event, home
 category: event
 

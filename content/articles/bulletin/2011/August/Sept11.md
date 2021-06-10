@@ -1,5 +1,7 @@
 title: Sept'11
-date: 2021-03-31
+date: 2011-08-31 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -14,7 +16,7 @@ Our colleagues in the USA, the International Institution of Micro Manufacturing 
     
 ###  PhD Scholarship available at K.U.Leuven
 
-One PhD scholarship position is available at the Katholieke Universiteit Leuven, Mechanical Department, PMA division, Belgium. The project title is: "Precision manufacturing technologies towards zero defect production". [More information.](/contents/PhD-scholarship-KULeuven.html)
+One PhD scholarship position is available at the Katholieke Universiteit Leuven, Mechanical Department, PMA division, Belgium. The project title is: "Precision manufacturing technologies towards zero defect production". [More information.](/content/PhD-scholarship-KULeuven/PhD-scholarship-KULeuven.html)
   
 ###  ESAFORM 2012
 
@@ -22,7 +24,7 @@ One PhD scholarship position is available at the Katholieke Universiteit Leuven,
   
 ###  Minam Survey
 
-The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. [You are invited](/contents/MINAM-Survey.html) to complete the MINAM Survey online..html
+The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. [You are invited](/content/MINAM-Survey/MINAM-Survey.html) to complete the MINAM Survey online..html
   
 ###  Integ-Micro seminar
 
@@ -30,17 +32,19 @@ The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by me
     
 ###  EUMINAfab Gender Survey
 
-4M Members and anyone involved in MNT reserach are invited to participate in the [EUMINAfab Gender Survey.](/contents/EUMINAfab-Gender-Survey.html) The survey was developed to evaluate the situation of female scientists in the European Micro Nano Technology (MNT) community.     .html
+4M Members and anyone involved in MNT reserach are invited to participate in the [EUMINAfab Gender Survey.](/content/EUMINAfab-Gender-Survey/EUMINAfab-Gender-Survey.html) The survey was developed to evaluate the situation of female scientists in the European Micro Nano Technology (MNT) community.     .html
   
 ###  2011 Summer School on “Micro Mechanical Systems Design and Manufacture”
 
-The 2011 edition of the [Summer School on “Micro Mechanical Systems Design and Manufacture”](/contents/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html) organised by DTU was attended by 20 students representing 7 countries of affiliation and 10 nationalities!  .html
+The 2011 edition of the [Summer School on “Micro Mechanical Systems Design and Manufacture”](/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html) organised by DTU was attended by 20 students representing 7 countries of affiliation and 10 nationalities!  .html
 
 ###  Nanochallenge and Polymerchallenge 2011
 
-Do you have a business idea in nanotechnology or polymer-based materials? If so then [Nanochallenge and Polymerchallenge 2011](/contents/Nanochallenge-and-Polymerchallenge-2011.html) just might be of interest to you.  .html
+Do you have a business idea in nanotechnology or polymer-based materials? If so then [Nanochallenge and Polymerchallenge 2011](/content/Nanochallenge-and-Polymerchallenge-2011/Nanochallenge-and-Polymerchallenge-2011.html) just might be of interest to you.  .html
  
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

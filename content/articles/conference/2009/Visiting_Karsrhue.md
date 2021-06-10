@@ -1,5 +1,5 @@
 title: Visiting Karlsruhe
-date: 2021-03-31
+date: 2009-03-10 
 
 <!--break-->![Karlsrhue](/images/karlsrhue-pyramid.jpg)  
 <small>Photo: Courtesy of FZK, Germany</small>

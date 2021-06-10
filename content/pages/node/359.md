@@ -1,5 +1,5 @@
 title: Lithography and Etching 
-date: 2021-03-31
+date: 2009-11-13 
 
 Technology suitable for small quantity production
 Ultraviolet lithography is a technology which involves surface cleaning, photoresist coating by spin-coating, spraying or dip-coating, exposing to UV radiation, developing and isotropic or anisotropic wet-etching of metals and semiconductors or dry-etching (anisotropic etching with verticallity of 89º, maximum aspect ratio in the order of 15) for pattern transfer. Typical pattern resolution is 1 micron, although resolutions up to 0.5 microns are often obtained in some ultra precision processes. Silicon or Pyrex wafers are the usual materials etched but experience also exists on how to work successfully with reel-to-reel processing in a wide variety of metals, alloys and polymers.

@@ -1,12 +1,14 @@
 title: December 2014
-date: 2021-03-31
+date: 2019-06-06 
+category: bulletin
+tags: bulletin
 
 ###  4M/ICOMM 2015 – REGISTRATION NOW OPEN
 
 
 ![4m2020logo](/images/4m2020logo.png)
 
-Registration details available [here](/contents/Conference-Registration.html)
+Registration details available [here](/content/Conference-Registration/Conference-Registration.html)
 
 Author registration deadline: 1st February 2015. In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 1st of February 2015.
 
@@ -112,3 +114,5 @@ This event, organised by the EPSRC Centre in Ultra Precision in conjunction with
 Date/time:  25/02/2015   9:30 am - 5:00 pm - Venue:  The Manufacturing Technology Centre Coventry, CV7 9JU.
 
 [Read More](http://www.ultraprecision.org/news/events/micro-manufacturing-2/)
+
+[&larr; Bulletins](/bulletin/index.html)

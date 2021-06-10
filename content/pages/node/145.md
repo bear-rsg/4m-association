@@ -1,5 +1,5 @@
 title: Anodic bonding
-date: 2021-03-31
+date: 2009-05-12 
 
 Anodic bonding is the bonding of two substrates , usually glass and silicon, by an electrical potential. The substrates are placed between two electrodes and at temperatures around 400° C a high potential (around 1 kV) is applied to the substrates. This forces sodium ions in the glass to move away from the bonding surface. Therefore the surface is highly reactive and bonds easily to the other substrate.
 <!--break-->

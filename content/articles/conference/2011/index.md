@@ -1,5 +1,5 @@
 title: 4M 2011 Conference
-date: 2021-03-31
+date: 2011-02-02 
 slug: conference-2011-index
 
 ![Haus der Wirtschaft, Germany](/images/H_der_W.jpg )

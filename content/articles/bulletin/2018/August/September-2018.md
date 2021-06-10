@@ -1,5 +1,7 @@
 title: September 2018
-date: 2021-03-31
+date: 2018-08-29 
+category: bulletin
+tags: bulletin
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="100%">
 
@@ -21,5 +23,7 @@ The book provides a comprehensive, up-to-date and detailed treatment of the main
 
 
 **Micro Injection Molding** is available to buy on [Amazon](https://www.amazon.co.uk/Micro-Injection-Molding-Tosello-author/dp/156990653X) !
+
+[&larr; Bulletins](/bulletin/index.html)
 
 

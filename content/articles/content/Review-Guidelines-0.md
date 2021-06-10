@@ -1,8 +1,6 @@
 title: Review Guidelines
-date: 2021-03-31
-
-title:  Deadlines (provisional)
-date: 2021-03-31
+date: 2009-03-13 
+title:   Deadlines (provisional)
 
 
 <table class="info" style="width:100%;">
@@ -10,8 +8,7 @@ date: 2021-03-31
 <tr class="dark  current"><td>End of review</td><td>21st June 2013</td></tr> 
 </table>
 <!--break-->
-title:  Step by Step Guide
-date: 2021-03-31
+title:   Step by Step Guide
 
 
 We have a two phase review process. 
@@ -24,9 +21,7 @@ We have a two phase review process.
  * To finish a review tick the *complete* box on the box and submit the form
 5. Complete the reviews by **21st June 2013** 
 6. During the review make sure that the authors have made the changes you've recommended to your satisfaction, if not make a recommendation, change your comments, etc...
-
-title:  Things to pay attention to
-date: 2021-03-31
+title:   Things to pay attention to
 
 
 When carrying out this task you should consider the:

@@ -1,12 +1,12 @@
 title: Conference Series Association 
-date: 2021-03-31
+date: 2018-07-10
 slug: join-members
 
 ## 4M Members - January 2018 - April 2019
 
 Please note, that 4M Membership is Annual (1st January to 30th April). Requests will be sent out each year to ask whether you want to renew your membership for yourself, or your organisation.
 
-For membership benefits, please <a href="#">click here>></a>
+For membership benefits, please <a href="/join4m.html">click here>></a> 
 
 ### SME/Research Organisations
 
@@ -28,10 +28,11 @@ For membership benefits, please <a href="#">click here>></a>
  - Dumitru Ulieru, SITEX 45 SRL, ROMANIA
 
 ...........................................................................................
+
  ## I2M2 Current Members
 
 List available in the attached document.
 	
 | Attachment | Size |
 |---|---|
-|<a href="#">I2M2 Members - 2017_2018.pdf</a> | 512.37 KB |
+|<a href="/assets/files/I2M2 Members - 2017_2018.pdf">I2M2 Members - 2017_2018.pdf</a> | 512.37 KB |

@@ -1,5 +1,5 @@
 title: Training for Professionals No.3 - Vienna
-date: 2021-03-31
+date: 2012-04-24 
 tags: event, home
 category: event
 

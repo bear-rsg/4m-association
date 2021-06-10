@@ -1,11 +1,11 @@
 title: 4M 2013 Invited Speaker: Professor Jian Cao
-date: 2021-03-31
+date: 2013-07-15
 
 Department of Mechanical Engineering | Department of Civil and Environmental Engineering | Northwestern University| U.S.A
 <!--break-->
 **Biography**
 
-![Professor Jian Cao](/4m-association/assets/images/files/profile_jian.jpg)
+![Professor Jian Cao](/images/profile_jian.jpg)
 
 Jian Cao received her Ph.D. in Mechanical Engineering from M.I.T. in 1995. She is currently a Professor of Mechanical Engineering, a Professor of Civil and Environmental Engineering, and an Associate Vice President for Research at Northwestern University. She is a co-director of the NSF Summer Institute on Nanomechanics, Nanomaterials and Micro/Nano-manufacturing. 
 

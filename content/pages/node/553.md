@@ -1,5 +1,5 @@
 title: EUMINAfab Gender Survey
-date: 2021-03-31
+date: 2011-08-24 
 
 4M Members and anyone involved in MNT reserach are invited to participate in the EUMINAfab Gender Survey. The survey was developed to evaluate the situation of female scientists in the European Micro Nano Technology (MNT) community.
 <!--break-->

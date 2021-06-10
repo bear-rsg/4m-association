@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import time
+
 # Base configuration
 AUTHOR = '4M Association'
 SITENAME = '4M Association'
@@ -9,9 +11,14 @@ PATH = 'content'
 TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 
+# Custom settings for copyright notice
+CURRENT_YEAR = time.strftime("%Y")
+
 # Appearance
 THEME = './active-theme/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
+
+CUSTOM_CSS = 'css/custom.css'
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
@@ -29,28 +36,49 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+NEWEST_FIRST_ARCHIVES = True
+
 DISPLAY_CATEGORIES_ON_MENU = False
 
 PATH_METADATA = 'articles/(?P<path>.*)\..*'
 
 DEFAULT_METADATA = { }
 
-ARTICLE_SAVE_AS = '{path}/{slug}.html'
-ARTICLE_URL = '{path}/{slug}.html'
-ARTICLE_ORDER_BY = 'reversed-date'
-
-ARTICLE_EXCLUDES = ['templates']
-TEMPLATE_PAGES = {
-}
-
 # Don't need the author pages
 AUTHOR_SAVE_AS = ''
 AUTHOR_URL = ''
-YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
-PAGE_URL = '{slug}/'
+# YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+YEAR_ARCHIVE_SAVE_AS = ''
+
+PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 SLUGIFY_SOURCE = 'basename'
 INDEX_SAVE_AS = 'index.html'
+
+ARTICLE_SAVE_AS = '{path}/{slug}.html'
+ARTICLE_URL = '{path}/{slug}.html'
+ARTICLE_ORDER_BY = 'reversed-date'
+ARTICLE_TRANSLATION_ID = None
+
+# The URL to refer to an article draft.
+DRAFT_URL = '{path}/drafts/{slug}/'
+DRAFT_SAVE_AS = '{path}/drafts/{slug}/index.html'
+
+# Build only modified content instead of all content
+LOAD_CONTENT_CACHE = False
+CACHE_CONTENT = False
+
+# Allow Markdown in the summary and title
+FORMATTED_FIELDS = ['summary', 'title']
+
+USE_PAGER = True # Prev / Next vs Page no block
+ARTICLE_EXCLUDES = ['templates']
+TEMPLATE_PAGES = {
+    'templates/bulletin.html': 'bulletin/index.html',
+}
+DIRECT_TEMPLATES = ['index', 'bulletin', 'archives']
+
+# THEME_TEMPLATES_OVERRIDES = ['templates']
 
 DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = ['.git', '.gitignore']
@@ -71,6 +99,7 @@ SITEMAP = {
     }
 }
 
+DEFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = ('%d-%m-%Y')
 
 SITEURL = '.'
@@ -79,19 +108,24 @@ SITEURL = '.'
 STATIC_PATHS = [
     'images',
     'css',
+    'scss',
     'assets',
 ]
 
-# EXTRA_PATH_METADATA = {
-#     'extra/custom.css': {'path': 'custom.css'},
-#     'extra/robots.txt': {'path': 'robots.txt'},
-#     'extra/favicon.ico': {'path': 'favicon.ico'},
-#     'extra/CNAME': {'path': 'CNAME'},
-#     'extra/README': {'path': 'README'},
-# }
-# IGNORE_FILES = ['.#*', 'README.md']
+EXTRA_PATH_METADATA = {
+     # 'extra/css/custom.css': {'path': 'custom.css'},
+     'extra/favicon.ico': {'path': 'favicon.ico'},
+     # 'extra/robots.txt': {'path': 'robots.txt'},
+}
+IGNORE_FILES = ['.#*', 'README.md']
 
 DEFAULT_PAGINATION = 10
+
+# Leave no orphans
+DEFAULT_ORPHANS = 0
+
+PAGINATED_TEMPLATES = {'index': None, 'archives': None}
+
 
 # URL settings
 SLUGIFY_SOURCE = 'basename'
@@ -118,12 +152,12 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Home', '/welcome.html'),
+    ('Home', '/index.html'),
     ('About', '/about.html'),
     ('Interest Groups', '/interest-groups.html'),
     ('Projects', '/projects.html'),
     ('Join 4M', '/join4m.html'),
-    ('Bulletin', '/bulletin/bulletin-index.html'),
+    ('Bulletin', '/bulletin/index.html'),
     ('4M Conference Series', '/conference/conference-index.html'),
     ('Expert Workshop FOCUS', '/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
 )

@@ -1,5 +1,5 @@
 title: Tough T-shirt?
-date: 2021-03-31
+date: 2010-05-05 
 
 A cotton t-shirt reinforced with boron carbide is tough and hard but nonetheless elastic. These properties indicate future promise, but this material is not yet bulletproof.
 <!--break-->

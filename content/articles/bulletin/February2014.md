@@ -1,5 +1,7 @@
 title: February '14
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 Join 4M!, IT2014, Nanomanufacturing Conference, Electronics System Integration Conference, Microfactories Workshop, Microfluidic Handling Systems Conference, FSRM Training
 <!--break-->
@@ -48,3 +50,5 @@ The 2nd International Conference on Microfluidic Handling Systems (MFHS 2014) fo
 
 ![FSRM](/images/FSRM.jpg)
 FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **15% discount on course fees.** To receive the discount, add comment '15% discount for 4M members'. [Read more>>](http://www.fsrm.ch/agendas/Micro-et-Nano-Technologies/)
+
+[&larr; Bulletins](/bulletin/index.html)

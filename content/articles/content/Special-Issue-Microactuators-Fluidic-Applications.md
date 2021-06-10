@@ -1,5 +1,5 @@
 title: Microactuators for Fluidic Applications
-date: 2021-03-31
+date: 2009-07-17 
 
 A Special Issue of JMEP entitled “Microactuators for
 Fluidic Applications” is being prepared. It intends to give a comprehensive overview of the current status in respect to cutting-edge concepts and prototypes in this field.

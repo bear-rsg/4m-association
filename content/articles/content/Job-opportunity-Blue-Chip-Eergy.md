@@ -1,11 +1,9 @@
 title: Job opportunity in Blue Chip Energy.
-date: 2021-03-31
+date: 2009-12-03 
 
 <!--break-->
 [Blue Chip Energy](http://www.bluechipenergy.at/?sitelang=en) company manufacture high-efficiency solar cells at their base in Austria. As part of the "SiSolar" project, in conjunction with the Johannes Kepler University of Linz and the Austrian Research Center, Blue Chip are seeking a:
-
 title:   Dissertation author
-date: 2021-03-31
 
 
 Duties include: 

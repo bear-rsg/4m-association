@@ -1,5 +1,5 @@
 title: Vacancy for a Research Scientist in Microsystems
-date: 2021-03-31
+date: 2011-01-04 
 
 **SWEREA IVF are seeking a Research Scientist in Microsystems** to work on the development of technology for microsystem packaging.
 <!--break-->

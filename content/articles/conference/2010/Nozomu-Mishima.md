@@ -1,5 +1,5 @@
 title: Nozomu Mishima
-date: 2021-03-31
+date: 2010-02-09
 
 ![Nozomu Mishima](/images/N_Mishima.JPG)
 Nozomu Mishima is the leader of the Environmentally Conscious Design and Manufacturing Research Group at the Advanced Manufacturing Research Institute of the National Institute of Advanced Industrial Science and Technology (AIST) in Japan.  

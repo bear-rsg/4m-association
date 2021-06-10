@@ -1,5 +1,5 @@
 title: Symposium on Micro- and Nano-manufacturing 
-date: 2021-03-31
+date: 2011-01-13 
 tags: event, home
 category: event
 

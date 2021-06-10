@@ -1,5 +1,5 @@
 title: Consortium Tests the Viability of Nanoimprint Lithography 
-date: 2021-03-31
+date: 2009-11-02 
 
 Nanoimprint lithography (NIL) holds promise for patterning the small features of tomorrow's microchips.
 <!--break-->

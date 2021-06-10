@@ -1,5 +1,7 @@
 title: May'09 Bulletin
-date: 2021-03-31
+date: 2009-05-05 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### 4M Final Governing Council meeting
@@ -33,8 +35,10 @@ Thanks to our growing number of [sponsors](/conference/2009/Sponsors) who have a
 
 ### 4M workshops on Ceramics
 
-The second of two seminars about ceramic processing and application [was held at the Hannover Fair](/contents/4M-Ceramics-workshop-Hannover-Fair.html) on the 21st April 2009..html
+The second of two seminars about ceramic processing and application [was held at the Hannover Fair](/content/4M-Ceramics-workshop-Hannover-Fair/4M-Ceramics-workshop-Hannover-Fair.html) on the 21st April 2009..html
  
 ### Vacancy for Research Associate in Micro Manufacturing
 
-A vacancy exists at Cardiff University's Manufacturing Engineering Centre for a [Research Associate in micro manufacturing](/contents/Research-Associate-Micro-Manufacturing.html) to conduct research projects and develop innovative process chains in the areas of micro and nano fabrication..html
+A vacancy exists at Cardiff University's Manufacturing Engineering Centre for a [Research Associate in micro manufacturing](/content/Research-Associate-Micro-Manufacturing/Research-Associate-Micro-Manufacturing.html) to conduct research projects and develop innovative process chains in the areas of micro and nano fabrication.
+
+[&larr; Bulletins](/bulletin/index.html)

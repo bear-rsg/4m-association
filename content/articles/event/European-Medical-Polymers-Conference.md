@@ -1,5 +1,5 @@
 title: European Medical Polymers Conference
-date: 2021-03-31
+date: 2010-08-13 
 tags: event, home
 category: event
 

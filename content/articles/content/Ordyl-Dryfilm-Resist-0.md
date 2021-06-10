@@ -1,5 +1,5 @@
 title: Ordyl Dryfilm Resist
-date: 2021-03-31
+date: 2009-05-14 
 
 __material properties:__	
 most relevant chemical non-resistance:	acetone

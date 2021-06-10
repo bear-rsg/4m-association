@@ -1,12 +1,14 @@
 title: March '13
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 4M2013 Second Call for Papers, First Invited Speakers and Special Sessions Announced, 4M2020 CSA Proposal, Can Glass be Brittle OR Ductile?, New Journal Publish on Surface Topography - Now Open for Papers, COMS 2013, FSRM Training.
 <!--break-->
 ###  Second Call for Papers - Reminder 
 
 ![4M2013](/images/4m2013_logo.jpg)
-The [Second Call for Papers](/contents/Call-Papers-4M2013.html) is published. The deadline for submission of papers is the **27th March 2013**. Four [Invited Speakers](/content/Invited-Speakers-4M2013) have already been confirmed aswell as three projects: [IMPRESS](http://www.impress-fp7.eu/), [SMARTFRAME](http://www.smart-frame.eu/site/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. Further information is available, and will be regularly updated, on the [4M2013 webpages.](/conference/2013)
+The [Second Call for Papers](/content/Call-Papers-4M2013/Call-Papers-4M2013.html) is published. The deadline for submission of papers is the **27th March 2013**. Four [Invited Speakers](/content/Invited-Speakers-4M2013) have already been confirmed aswell as three projects: [IMPRESS](http://www.impress-fp7.eu/), [SMARTFRAME](http://www.smart-frame.eu/site/), and [EUMINAfab](http://www.euminafab.eu/) will host special sessions within the conference programme. Further information is available, and will be regularly updated, on the [4M2013 webpages.](/conference/2013)
 
 ###  4M2020 CSA Proposal
 
@@ -30,4 +32,6 @@ The journal will focus on the progress in surface metrology, surface characteris
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM.jpg)
-FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/contents/fsrm-training-courses.html)
+FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

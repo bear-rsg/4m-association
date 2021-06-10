@@ -1,5 +1,5 @@
 title: History of the 4M Conference
-date: 2021-03-31
+date: 2011-02-03 
 
 This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/node/1). 4M2011 will be the eighth in the series.
 <!--break-->
@@ -13,4 +13,4 @@ This series of conferences on multi-material micro-manufacture is organised by t
  * [ICOMM/4M 2010](http://www.conferencing.uwex.edu/conferences/ICOMM10) - Madison, Wisconsin, USA  
  * [4M2010](/conference/2010) - Bourg en Bresse and Oyonnax, France. 
 
-Links to the Proceedings from the above conferences can be found [here.](/contents/4M-conference-series.html)
+Links to the Proceedings from the above conferences can be found [here.](/content/4M-conference-series/4M-conference-series.html)

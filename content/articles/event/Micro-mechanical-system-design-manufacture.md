@@ -1,5 +1,5 @@
 title: Summer School in micro mechanical system design & manufacture
-date: 2021-03-31
+date: 2010-05-05 
 tags: event, home
 category: event
 
@@ -11,4 +11,4 @@ There is a limited number of **bursaries available to 4M Association members.**
 
 **Venue:**   *DTU Mechanical Engineering, Copehhagen, Denmark*  
   
-Read more about the [2009 Summer School here,](/contents/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School.html)
+Read more about the [2009 Summer School here,](/content/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School.html)

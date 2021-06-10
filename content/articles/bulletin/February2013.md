@@ -1,5 +1,7 @@
 title: February '13
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 4M2013 Call for papers, 4M2012 Proceedings, Elena Ulieru, Nanostructures, Nanoimprinting, DTU, Papertab, FSRM Training
 <!--break-->
@@ -16,7 +18,7 @@ The 9th International Conference on Multi-Material Micro Manufacture, 4M 2012, t
 ### In Memory of Elena Ulieru
 
 ![Elena](/images/elena.jpg)
-In memory of Elena Ulieru, SITEX, in cooperation with the 4M Association will offer a prize at 4M 2013, for the best paper by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers in the 4M Conferences. [Read more>>](/contents/Elena-Ulieru.html)
+In memory of Elena Ulieru, SITEX, in cooperation with the 4M Association will offer a prize at 4M 2013, for the best paper by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers in the 4M Conferences. [Read more>>](/content/Elena-Ulieru/Elena-Ulieru.html)
 
 ### Nanostructures with Living Cells
 
@@ -41,4 +43,6 @@ Cambridge-based Plastic Logic will this week demonstrate a thin, flexible comput
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

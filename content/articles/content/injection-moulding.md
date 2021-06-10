@@ -1,5 +1,5 @@
 title: injection moulding
-date: 2021-03-31
+date: 2009-05-12 
 
 Injection moulding is a manufacturing process for producing parts from both thermoplastic and thermosetting plastic materials. Material is fed into a heated barrel, mixed, and forced into a mold cavity where it cools and hardens to the configuration of the mold cavity. After a product is designed, molds are made from metal, usually hard steel, and precision-machined to form the features of the desired part.
 <!--break-->

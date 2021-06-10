@@ -1,5 +1,7 @@
 title: January'09 Bulletin
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 4M/ICOMM2009, Ceramic Processing Handbook, Changes to Project Officer, Micropumps Workshop, PhD Award, Vacancies, Flexible Organice Electronics Conference
 <!--break-->
@@ -43,3 +45,5 @@ The 2nd International Symposium on Flexible Organic Electronics has been announc
 
 
 Nanosciences & Nanotechnologies – NN09. for more information [see event listing](/node/67 "4M events list")
+
+[&larr; Bulletins](/bulletin/index.html)

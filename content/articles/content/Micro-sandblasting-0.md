@@ -1,5 +1,5 @@
 title: Micro-sandblasting
-date: 2021-03-31
+date: 2009-05-12 
 
 Micro sandblasting uses air and micro particles to create structures on a micrometric scale. With this technique it is also possible to create holes when either the substrate is very thin (foil) or the method is applied longer. The geometry of created structures is defined by masks.
 <!--break-->

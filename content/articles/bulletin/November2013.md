@@ -1,5 +1,7 @@
 title: November '13
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 Eurotraining, EUSPEN 2013, Microsystems on Plastic parts 2013, ICOMM 2014, ASME 2014, Bulk Metal, FRSM Training
 <!--break-->
@@ -46,4 +48,6 @@ In a paper published in the Science and Technology of Advanced Materials, Bhades
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM.jpg)
-FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/contents/fsrm-training-courses.html)
+FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,12 +1,14 @@
 title: October'10 Bulletin
-date: 2021-03-31
+date: 2010-10-08 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2010
 
 
 ![4M2010](/images/4m-logotight_web.png)
-For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/contents/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/node/18), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
+For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/node/18), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
     
 ###  5th Erlangen Workshop on Microforming
 
@@ -27,4 +29,6 @@ The [EUMINAfab project](/node/21) will be attending the MMLive exhibition and co
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

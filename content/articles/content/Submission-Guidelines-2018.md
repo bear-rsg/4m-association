@@ -1,5 +1,5 @@
 title: 4 Page Paper Submission & Guidelines 2018
-date: 2021-03-31
+date: 2018-03-09 
 
 Submission **OPEN**
 

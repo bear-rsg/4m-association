@@ -1,8 +1,8 @@
 title: Day 1 - 23 September 2009
-date: 2021-03-31
+date: 2009-07-08 
 
 <!--break-->
-##  Wednesday 23 September 2009
+###  Wednesday 23 September 2009
 
 
 <table class="full-program">

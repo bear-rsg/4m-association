@@ -1,5 +1,5 @@
 title: IMPRESS Newsletter
-date: 2021-03-31
+date: 2012-03-02 
 
 The [IMPRESS](http://www.impress-fp7.eu/) project has just published a Newsletter giving its mid-term results.
 <!--break-->

@@ -1,5 +1,5 @@
 title: Hot embossing glass – to the nearest micrometer
-date: 2021-03-31
+date: 2011-01-13 
 
 The lens is what matters: if lens arrays could be made of glass, it would be possible to make more conveniently sized projectors.
 <!--break-->

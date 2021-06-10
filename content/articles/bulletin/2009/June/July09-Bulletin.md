@@ -1,5 +1,7 @@
 title: July'09 Bulletin
-date: 2021-03-31
+date: 2009-07-09 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### 4M/ICOMM 2009
@@ -12,15 +14,15 @@ The [Provisionsl programme](/conference/2009/Programme) is now available. Visit 
 
 ### Glass Microfluidic Device for High Throughput Mixing and Reactions
 
-Dolomite, a world leader in microfluidic design and manufacture, has introduced the [1ml Microreactor Chip,](/contents/Glass-Microfluidic-Device-High-Throughput-Mixing-and-Reactions.html) a glass microfluidic device designed for the mixing and reacting of two or three liquid reagent streams.  .html
+Dolomite, a world leader in microfluidic design and manufacture, has introduced the [1ml Microreactor Chip,](/content/Glass-Microfluidic-Device-High-Throughput-Mixing-and-Reactions/Glass-Microfluidic-Device-High-Throughput-Mixing-and-Reactions.html) a glass microfluidic device designed for the mixing and reacting of two or three liquid reagent streams.  .html
 
 ### Nanostructures in Metal Moving Liquid Uphill
 
-[Femtosecond laser ablation](/contents/Nanostructures-Metal-Moving-Liquid-Uphill.html) is applied to change the surface structure of metals, such that it lifts liquid by capillary action at a speed that would make nature envious.  .html
+[Femtosecond laser ablation](/content/Nanostructures-Metal-Moving-Liquid-Uphill/Nanostructures-Metal-Moving-Liquid-Uphill.html) is applied to change the surface structure of metals, such that it lifts liquid by capillary action at a speed that would make nature envious.  .html
 
 ### SMARTIEHS
 
-[SMARTIEHS](/contents/SMARTIEHS.html) is an FP7-CP STREP which is developing a smart, high-speed, cost effective and flexible inspection system for production of Micro(Opto)ElectroMechanicalSystems (M(O)EMS)..html
+[SMARTIEHS](/content/SMARTIEHS/SMARTIEHS.html) is an FP7-CP STREP which is developing a smart, high-speed, cost effective and flexible inspection system for production of Micro(Opto)ElectroMechanicalSystems (M(O)EMS)..html
 
 ### IPAS2009
 
@@ -32,4 +34,6 @@ The Second Call for Papers for the International Precision Assembly Seminar is n
 
 ### MINAM - NANOfutures, meeting of IMG/OSG
 
-A meeting of the MINAM Industrial Management Group(IMG) and the Operational Support Group(OSG) of MINAM took place in Prague during the ENF'09. [Details](/contents/MINAM-Nanofutures-meeting-IMGOSG-Prague.html)
+A meeting of the MINAM Industrial Management Group(IMG) and the Operational Support Group(OSG) of MINAM took place in Prague during the ENF'09. [Details](/content/MINAM-Nanofutures-meeting-IMGOSG-Prague/MINAM-Nanofutures-meeting-IMGOSG-Prague.html)
+
+[&larr; Bulletins](/bulletin/index.html)

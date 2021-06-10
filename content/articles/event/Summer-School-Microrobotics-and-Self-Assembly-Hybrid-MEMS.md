@@ -1,5 +1,5 @@
 title: Summer School in Microrobotics and Self-Assembly for Hybrid MEMS
-date: 2021-03-31
+date: 2010-05-05 
 tags: event, home
 category: event
 

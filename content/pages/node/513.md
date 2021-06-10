@@ -1,5 +1,5 @@
 title: Hotels & Accommodation
-date: 2021-03-31
+date: 2011-02-03 
 
 We recommend that you use the Hotel booking service provided by the accommodation bureau of the  Stuttgart-Marketing office, which is offered completely free of charge.
 

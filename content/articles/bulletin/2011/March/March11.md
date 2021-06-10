@@ -1,5 +1,7 @@
 title: March'11
-date: 2021-03-31
+date: 2011-03-02 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -10,15 +12,15 @@ The 4M2011 [submission site](/conference/2011/Submission_Guidelines) is now **OP
      
 ###  Michaeli's successor at IKV named
 
-University Professor Dr.-Ing. Christian Hopmann is to become [new head of the Institute](/contents/Michaelis-successor-IKV-named.html) of Plastics Processing (IKV).  .html
+University Professor Dr.-Ing. Christian Hopmann is to become [new head of the Institute](/content/Michaelis-successor-IKV-named/Michaelis-successor-IKV-named.html) of Plastics Processing (IKV).
    
 ###  MEMS makers: machinists who work in silicon
 
-Interesting article [here](/contents/MEMS-makers-machinists-who-work-silicon.html) published in the latest edition of Micromanufacturing magazine.  .html
+Interesting article [here](/content/MEMS-makers-machinists-who-work-silicon/MEMS-makers-machinists-who-work-silicon.html) published in the latest edition of Micromanufacturing magazine.
 
 ###  Christine Neuy joins MST BW
 
-MST BW (Mikrosystemtechnik Baden-Württemberg) have announced that [Christine Neuy has joined their team.](/contents/Christine-Neuy-joins-MST-BW.html)
+MST BW (Mikrosystemtechnik Baden-Württemberg) have announced that [Christine Neuy has joined their team.](/content/Christine-Neuy-joins-MST-BW/Christine-Neuy-joins-MST-BW.html)
   
 ###  I2M2
 
@@ -30,11 +32,11 @@ The publishers of Commercial Micro Manufacturing (CMM) are proud to announce [th
   
 ###  POLYNET uses Youtube for dissemination
 
-The Polynet Project has [posted a video](/contents/POLYNET-uses-YouTube-platform-dissemination.html) which illustrates its project outcomes on Youtube..html
+The Polynet Project has [posted a video](/content/POLYNET-uses-YouTube-platform-dissemination/POLYNET-uses-YouTube-platform-dissemination.html) which illustrates its project outcomes on Youtube..html
   
 ###  EUMINAfab opens 4th Call
 
-EUMINAfab opens the [4th Call](/contents/EUMINAfab-opens-4th-Call.html) for no fee access to 36 installations containing equipment to high end micro and nano technologies.  .html
+EUMINAfab opens the [4th Call](/content/EUMINAfab-opens-4th-Call/EUMINAfab-opens-4th-Call.html) for no fee access to 36 installations containing equipment to high end micro and nano technologies.  .html
   
 ###  EUMINAfab launches online survey
 
@@ -44,4 +46,6 @@ EUMINAfab’s roadmapping team has identified two “Hot Topics”. They have la
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

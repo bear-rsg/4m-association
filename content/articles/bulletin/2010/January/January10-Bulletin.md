@@ -1,5 +1,7 @@
 title: January'10 Bulletin
-date: 2021-03-31
+date: 2010-01-12 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2010
@@ -12,12 +14,12 @@ date: 2021-03-31
 
 
 ![4m 2007 cover](/images/Front_Cover_4M2007web4.jpg)17 papers from the proceedings of the 4M2007 conference have been selected for publication in a Special Issue on 4M in the International Journal of Advanced Manufacturing Technology (IJAMT).  
-The papers selected for publication are listed [here.](/contents/Special-Issue-4M-IJAMT.html)
+The papers selected for publication are listed [here.](/content/Special-Issue-4M-IJAMT/Special-Issue-4M-IJAMT.html)
 This will be the fourth Special Issue to be drawn from the [4M conference series](/conference). The previous Special Issues can be accessed [here.](http://www.4m-net.org/Publications) 
   
 ###  Job Opportunity
 
-TU Vienna is offering one [PhD Position](/contents/PhD-position-ISAS-TU-Vienna-0.html) in the framework of an international project, in the field of photovoltaics.  .html
+TU Vienna is offering one [PhD Position](/content/PhD-position-ISAS-TU-Vienna-0/PhD-position-ISAS-TU-Vienna-0.html) in the framework of an international project, in the field of photovoltaics.  .html
 
   
 ###  MAM2010
@@ -40,8 +42,10 @@ An event to officialy launching the Integrating European Technology Innovation P
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
 
 ###  ECERS
 
 The European Ceramic Society have announced the dates of their [2011 conference](/event/ECERS-2011) in Stockholm.
+
+[&larr; Bulletins](/bulletin/index.html)

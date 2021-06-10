@@ -1,5 +1,5 @@
 title: Product Manager in Micro-machining
-date: 2021-03-31
+date: 2011-03-17 
 
 <!--break-->
 SPI’s portfolio of OEM laser beam sources sell to machine builders world-wide across the macro (kW), micro (medium power) and marking applications. SPI manufactures fibre lasers and is an independent UK based company within the TRUMPF Group.  SPI is seeking a product manager in the micro-machining sector where the fibre lasers are used to cut, weld, drill and scribe small components.   

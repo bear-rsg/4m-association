@@ -1,5 +1,5 @@
 title: Microrobots put to the test
-date: 2021-03-31
+date: 2011-07-06 
 
 Robotic automation, microrobotics and robotic perception and recognition all advanced a few steps closer to their future applications during the recent NIST Tests.
 <!--break-->

@@ -1,17 +1,10 @@
 title: Congress Registration
-date: 2021-03-31
-
-title:  Congress Registration Now Open
-date: 2021-03-31
+date: 2017-03-16 
+title:   Congress Registration Now Open
 
 
 **REGISTER NOW** [HERE>>](https://reporter.ncsu.edu/index.html)
-
-
-
-
-title:  Conference Fees
-date: 2021-03-31
+title:   Conference Fees
 
 **Before 25th of July 2019**
 
@@ -36,7 +29,7 @@ Late registration for students: **$530**
     <li>I2M2, 4M, IFMM members can receive discount codes from the chair of their institution.</li>
 </ul>    
 
-_Note: For a 4M discount please see the following link with information on 4M membership. [Joining 4M](/4m-association/join4m)_
+_Note: For a 4M discount please see the following link with information on 4M membership. [Joining 4M](/join4m)_
 <ul>
     <li>Students can use the discount code WCMNMSTUDENT.</li>
 </ul>

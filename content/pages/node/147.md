@@ -1,5 +1,5 @@
 title: Thermal bonding
-date: 2021-03-31
+date: 2009-05-12 
 
 Thermal bonding exploits the fact that thermoplastic polymers become soft at elevated temperatures close to the glass transition temperature. Therefore the substrates to be bonded are heated and then pressed together. As the polymer is soft, bindings between the two layers establish and make sure that the bonding lasts after cooling down the substrate. Care must be taken to choose the right temperature to bond the substrate without damaging the microstructure.
 <!--break-->

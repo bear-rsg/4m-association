@@ -1,5 +1,5 @@
 title: Ilika and CeramTec enter into Joint Development Project 
-date: 2021-03-31
+date: 2010-01-14 
 
 Ilika Technologies Ltd, a company specializing in the use of high-throughput methods to accelerate materials development, today announced that it had entered into a joint development project with CeramTec, the world-leading ceramics company, for the development and commercialization of novel ceramic materials.
 <!--break-->

@@ -1,13 +1,11 @@
 title: Job Opportunity - Development Engineer
-date: 2021-03-31
+date: 2010-03-02 
 
 <!--break-->
 **IMT Masken und Teilungen AG**, is a leading international company in the field of microstructures and micro-lithographic solutions on or in glass. Our highly qualified staff carry out all processes in-house. Our solutions stand out in terms of high-level precision and attractive price-performance ratios. Our products are used worldwide and are applied in optics, medical technology, measurement technology, research and space, as well as in automation and defence technology.  
   
 To strengthen their team IMT Masken und Teilungen AG are looking in the immediate future for a **Development Engineer.**  
-  
-title:  Profile
-date: 2021-03-31
+title:   Profile
 
 
 * A degree in physics (or equivalent)  
@@ -17,9 +15,7 @@ date: 2021-03-31
 * A high level of teamworking and communications skills  
 * Good language skills in German and English (spoken and written)  
 * Ability to make things happen, and to work reliably under pressure  
-  
-title:  Activities
-date: 2021-03-31
+title:   Activities
 
 
 * Further development of our technology portfolio (in micro-fluidics, amongst other fields  
@@ -27,9 +23,7 @@ date: 2021-03-31
 * Technical support of our process engineers in development and production (process
 optimisation)  
 * Management and support of customer projects  
-  
-title:  In return IMT offer you
-date: 2021-03-31
+title:   In return IMT offer you
 
   
 * Interesting and varied activities  

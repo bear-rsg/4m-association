@@ -1,5 +1,5 @@
 title: Devices for harsh environments
-date: 2021-03-31
+date: 2009-03-31 
 tags: event, home
 category: event
 

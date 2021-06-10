@@ -1,5 +1,5 @@
 title: WCMNM2020
-date: 2021-03-31
+date: 2019-10-24 
 slug: conference-WCMNM2020
 
 ##  As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.

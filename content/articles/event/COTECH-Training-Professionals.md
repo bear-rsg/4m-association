@@ -1,5 +1,5 @@
 title: COTECH - Training for Professionals
-date: 2021-03-31
+date: 2011-10-14 
 tags: event, home
 category: event
 

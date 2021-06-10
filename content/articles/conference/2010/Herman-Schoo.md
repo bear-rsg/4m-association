@@ -1,5 +1,5 @@
 title: Herman Schoo
-date: 2021-03-31
+date: 2010-02-09
 
 ![Schoo](/images/Herman_Schoo.jpg)Herman Schoo is the Program manager in the Holst Centre of the strategic program “Sensor Tags & Systems” where combinations of organic, large area electronic device technology is investigated.
 He was recently appointed as Senior Research Fellow of TNO.  

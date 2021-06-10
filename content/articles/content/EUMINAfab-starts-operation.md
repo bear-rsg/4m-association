@@ -1,5 +1,5 @@
 title: EUMINAfab starts operation.
-date: 2021-03-31
+date: 2009-12-07 
 
 EUMINA*fab* is the first European Research Infrastructure on multimaterial micro and nanotechnology. It offers open and no-cost access to state of the art fabrication and characterisation technologies for a multitude of functional materials. EUMINA*fab* combines the scientific expertise and technological capacities of 10 leading European institutions from industry and academia, creating a unique source of knowledge and capabilities in micro nano technologies for European researchers from industry or academia.
 <!--break-->

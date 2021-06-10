@@ -1,5 +1,7 @@
 title: April'09 Bulletin
-date: 2021-03-31
+date: 2009-04-01 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### 4M Governing Council
@@ -23,21 +25,23 @@ The latest information is now available on the [Summer School website](http://ww
 
 
 ![4M workshops on Ceramics](/images/ceramics-workshop-goteborg-thumb.jpg)
-The first of two seminars about ceramic processing and application [was held in Goteborg](/contents/4M-Ceramics-Workshop-Goteborg.html) on the 11th of March. A [second seminar](/node/56) will be held in Hannover Fair on the 21st April 2009..html
+The first of two seminars about ceramic processing and application [was held in Goteborg](/content/4M-Ceramics-Workshop-Goteborg/4M-Ceramics-Workshop-Goteborg.html) on the 11th of March. A [second seminar](/node/56) will be held in Hannover Fair on the 21st April 2009..html
 
 ### Vacancy for a researcher in Microtechnologies
 
-A position is available at the <i>Institut universitaire de technologie de Grenoble 1</i> for a researcher in microtechnologies. Further information about this opportunity is [available here.](/contents/Position-available-researcher-microtechnologies.html)
+A position is available at the <i>Institut universitaire de technologie de Grenoble 1</i> for a researcher in microtechnologies. Further information about this opportunity is [available here.](/content/Position-available-researcher-microtechnologies/Position-available-researcher-microtechnologies.html)
 
 ### Vacancy for PhD at TU Vienna
 
-A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/contents/PhD-position-ISAS-TU-Vienna.html) is available. .html
+A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/content/PhD-position-ISAS-TU-Vienna/PhD-position-ISAS-TU-Vienna.html) is available. .html
 
 ### EUMINAfab is launched
 
 ![EUMINAfab launch](/images/euminafab-kickoff-thumb.jpg)
-A new European Research Infrastructure (ERI) [celebrated its kick-off](/contents/EUMINAfab-kick-meeting.html) with a meeting at the coordinating Karlsruhe Nano Micro Facility (KNMF) of the Forschungszentrum Karlsruhe in Germany. .html
+A new European Research Infrastructure (ERI) [celebrated its kick-off](/content/EUMINAfab-kick-meeting/EUMINAfab-kick-meeting.html) with a meeting at the coordinating Karlsruhe Nano Micro Facility (KNMF) of the Forschungszentrum Karlsruhe in Germany. .html
 
 ### International Precision Assembly Seminar (IPAS 2010)
 
 The First Call for Papers for the Fifth International Precision Assembly Seminar 2010 has been made. Full details of the event which will be held on **14-17 February 2010** in Chamonix, France are on the [event page.](/event/IPAS-2010)
+
+[&larr; Bulletins](/bulletin/index.html)

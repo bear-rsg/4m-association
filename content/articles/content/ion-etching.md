@@ -1,5 +1,5 @@
 title: ion etching
-date: 2021-03-31
+date: 2009-05-12 
 
 Reactive ion etching (RIE) is an etching technology used in microfabrication. It uses chemically reactive plasma to remove material deposited on wafers. The plasma is generated under low pressure (vacuum) by an electromagnetic field. High-energy ions from the plasma attack the wafer surface and react with it.
 <!--break-->

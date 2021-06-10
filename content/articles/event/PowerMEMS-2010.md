@@ -1,5 +1,5 @@
 title: PowerMEMS 2010
-date: 2021-03-31
+date: 2010-05-14 
 tags: event, home
 category: event
 

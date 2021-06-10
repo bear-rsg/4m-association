@@ -12,7 +12,7 @@
 {% endblock %}
 
 {% block content %}
-  <h1>{{ _('Authors on') }} {{ SITENAME }}</h1>
+  <h2>{{ _('Authors on') }} {{ SITENAME }}</h2>
     {% for author, articles in authors|sort %}
         <li><a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a> ({{ articles|count }})</li>
     {% endfor %}

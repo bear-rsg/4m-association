@@ -1,11 +1,13 @@
 title: January 2015
-date: 2021-03-31
+date: 2019-02-27 
+category: bulletin
+tags: bulletin
 
 ###  4M/ICOMM 2015 – REGISTRATION NOW OPEN
 
 ![4M2020 Logo](/images/conference.jpg)
 
-Registration details available [here](/contents/Conference-Registration.html)
+Registration details available [here](/content/Conference-Registration/Conference-Registration.html)
 
 Author registration deadline: 1st February 2015. In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 1st of February 2015.
 
@@ -20,7 +22,7 @@ Technical University of Denmark or University of Ljubljana, Slovenia
 
 If you have preference please let us know! We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 
-[Read more](/contents/4MIWMF-2016-Proposals.html)
+[Read more](/content/4MIWMF-2016-Proposals/4MIWMF-2016-Proposals.html)
 
 ###  Micro Manufacturing Event
 
@@ -70,3 +72,5 @@ To get the discount, members should mention “10% discount for 4M members” on
 ![4M2020 Logo](/images/conference.jpg)
 NEW ! There are now two different opportunities for travel funds for students, one including senior undergraduates.
 [Read More](http://www.4m-icomm-2015.polimi.it/travel_fund.php)
+
+[&larr; Bulletins](/bulletin/index.html)

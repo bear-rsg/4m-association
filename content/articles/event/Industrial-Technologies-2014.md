@@ -1,5 +1,5 @@
 title: Industrial Technologies 2014
-date: 2021-03-31
+date: 2014-04-09 
 tags: event, home
 category: event
 

@@ -1,5 +1,5 @@
 title: Microgrinding
-date: 2021-03-31
+date: 2009-11-13 
 
 Technology suitable for both serial and small quantity production
 

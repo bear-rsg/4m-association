@@ -1,5 +1,5 @@
 title: Smart Sensors, Actuators and MEMS
-date: 2021-03-31
+date: 2010-08-11 
 tags: event, home
 category: event
 

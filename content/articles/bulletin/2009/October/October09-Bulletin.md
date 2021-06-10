@@ -1,5 +1,7 @@
 title: October'09 Bulletin
-date: 2021-03-31
+date: 2009-10-08 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### Workshop on Microfluidics for Cells
@@ -18,7 +20,7 @@ MM Live, which takes place 20-21st October, is a global showcase for everything 
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
  
 ### 4M/ICOMM 2009
 
@@ -32,15 +34,15 @@ With some extremely well-received talks from the invited speakers, excellent loc
 
 ### Bio-inspired micro structures for micro robots
 
-Recent article on Micro manufacturing website about [super adhesive for microrobots.](/contents/New-super-adhesive-microrobots.html)
+Recent article on Micro manufacturing website about [super adhesive for microrobots.](/content/New-super-adhesive-microrobots/New-super-adhesive-microrobots.html)
 
 ### Management of Innovative Technologies
 
-The 10th conference on Management of Innovative Technologies was organised in Fiesa, Slovenia. The field of Technology Management is currently very broad as industry attempts to find a workable definition of "sustainability". [Read more.](/contents/10th-conference-Management-Innovative-Technologies.html)
+The 10th conference on Management of Innovative Technologies was organised in Fiesa, Slovenia. The field of Technology Management is currently very broad as industry attempts to find a workable definition of "sustainability". [Read more.](/content/10th-conference-Management-Innovative-Technologies/10th-conference-Management-Innovative-Technologies.html)
 
 ### Microparts present unique measuring challenges
 
-[Interesting article](/contents/Microparts-present-unique-measuring-challenges.html) from Micro manufacturing website. .html
+[Interesting article](/content/Microparts-present-unique-measuring-challenges/Microparts-present-unique-measuring-challenges.html) from Micro manufacturing website. .html
 
 ### IFMM'10
 
@@ -49,8 +51,10 @@ Call for papers for this conference, which will take place in Nagoya, Japan from
 ### EUMINA*fab*
 
 EUMINA*fab* is the first European Research Infrastructure on multimaterial micro and nanotechnology. It offers open and no-cost access to state of the art fabrication and characterisation technologies for a multitude of functional materials. Access is based on an online submission of proposals.
-The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/contents/EUMINAfab-starts-operation.html)
+The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/content/EUMINAfab-starts-operation/EUMINAfab-starts-operation.html)
 
 ### NMP Call opens
 
-As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/contents/NMP-Call-opened-31st-July-2009.html)
+As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/content/NMP-Call-opened-31st-July-2009/NMP-Call-opened-31st-July-2009.html)
+
+[&larr; Bulletins](/bulletin/index.html)

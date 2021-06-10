@@ -1,12 +1,14 @@
 title: February'10 Bulletin
-date: 2021-03-31
+date: 2010-02-02 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### 4M 2010
 
 
 ![4M2010](/images/4m-logotight_web.png)
-Following the distribution of the [Call for Papers,](/contents/1st-Call-Papers.html) the [submission site](/conference/2010/Submission%20Guidelines.html) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010/index.html) that will feature the following [invited speakers](/content/Invited-Speakers.html).  .html
+Following the distribution of the [Call for Papers,](/content/1st-Call-Papers.html) the [submission site](/conference/2010/Submission%20Guidelines.html) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010/index.html) that will feature the following [invited speakers](/content/Invited-Speakers/1st-Call-Papers.html) the [submission site](/conference/2010/Submission%20Guidelines.html) for 4M2010 is now **OPEN** and will remain so until the deadline on 19th March 2010. The 4M Association looks forward to welcoming you to a stimulating, informative and enjoyable [4M2010 Conference](/conference/2010/index.html) that will feature the following [invited speakers](/content/Invited-Speakers.html).  .html
 
 * Eric Baer, Cleveland Case Reserve University, USA  
 * Phil Coates, Bradford University, UK  
@@ -41,9 +43,11 @@ Yole Developpement has announced the launch issue of their all new [MEMS Trends 
   
 ###  MORGaN
 
-MORGaN  is a project to develop materials, processes and packaging for devices based on gallium nitride (GaN). Latest news [here.](/contents/MORGan-Newsletter-No2.html)
+MORGaN  is a project to develop materials, processes and packaging for devices based on gallium nitride (GaN). Latest news [here.](/content/MORGan-Newsletter-No2/MORGan-Newsletter-No2.html)
  
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

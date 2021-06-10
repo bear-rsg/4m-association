@@ -1,5 +1,7 @@
 title: October 2019
-date: 2021-03-31
+date: 2019-11-05 
+category: bulletin
+tags: bulletin
 
 <a href="/bulletin/2019/October/October-2019" title="October 2019" class="bulletin-teaser">October 2019</a>
     
@@ -52,3 +54,6 @@ In order for a paper to be included in the conference program and appear in the 
 For more information on **WCMNM2020** please see [here>>](https://www.me.iitb.ac.in/~wcmnm/#speakers)
 
 or contact: [wcmnm@me.iitb.ac.in](mailto:wcmnm@me.iitb.ac.in)
+
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,5 +1,5 @@
 title: Virtual microscope lens delivers a real revolution in imaging 
-date: 2021-03-31
+date: 2012-04-02 
 
 The University of Sheffield has produced the world's first lens-less microscope. With no technical limit to image accuracy or resolution, the technology is cheaper to produce than standard microscopes and is even able to `see through´ solid state devices such as microchips.
 <!--break-->

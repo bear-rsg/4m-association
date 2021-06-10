@@ -1,5 +1,5 @@
 title: New Journal! - Trans. ASME Journal of Micro- and Nano-Manufacturing (JMNM)
-date: 2021-03-31
+date: 2012-01-04 
 
 The launch of a new archival  journal is announced – [Trans. ASME Journal of Micro- and Nano-Manufacturing (JMNM)](http://journaltool.asme.org/Content/JournalDescriptions.cfm?journalId=26&Journal=MNM) on January 1, 2012.
 <!--break-->

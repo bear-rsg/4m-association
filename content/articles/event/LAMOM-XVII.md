@@ -1,5 +1,5 @@
 title: LAMOM XVII
-date: 2021-03-31
+date: 2011-07-05 
 tags: event, home
 category: event
 

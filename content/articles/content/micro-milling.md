@@ -1,5 +1,5 @@
 title: micro-milling
-date: 2021-03-31
+date: 2009-05-12 
 
 Micro milling is a mechanical way to structure a substrate. It works like milling, but on a microscopic scale. The material is removed by a fast rotating cutter. By moving this tool, the structure is created on the substrate.
 <!--break-->

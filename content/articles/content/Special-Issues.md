@@ -1,5 +1,5 @@
 title: Special Issues
-date: 2021-03-31
+date: 2012-01-17 
 
 Since the inception of the 4M Conference series in 2005, a number of Special Issues in learned journals, arising from papers first presented in the 4M Conference Proceedings, have been published.
 

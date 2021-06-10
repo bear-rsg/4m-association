@@ -1,5 +1,7 @@
 title: February 2016 
-date: 2021-03-31
+date: 2016-09-21 
+category: bulletin
+tags: bulletin
 
 ###  Postdoc Position uTwente
 
@@ -8,3 +10,5 @@ POSTDOC POSITION IN PROJECT ON LASER-INDUCED FORWARD TRANSFER (LIFT) OF 3D MULTI
 For more information please visit the link below:
 
 [https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666](https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666)
+
+[&larr; Bulletins](/bulletin/index.html)

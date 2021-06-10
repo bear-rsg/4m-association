@@ -1,5 +1,5 @@
 title: Applied Sciences Micro/Nano Manufacturing Issue
-date: 2021-03-31
+date: 2018-04-20 
 
 <img src="http://www.mdpi.com/img/journals/applsci-logo.png?1693b1ae19024e2e" width="450px">
 

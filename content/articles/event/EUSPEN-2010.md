@@ -1,5 +1,5 @@
 title: EUSPEN 2010
-date: 2021-03-31
+date: 2010-01-11 
 tags: event, home
 category: event
 

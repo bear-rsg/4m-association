@@ -1,5 +1,7 @@
 title: March'09 Bulletin
-date: 2021-03-31
+date: 2009-03-31 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### Ceramics/Sensors & Actuators Workshop
@@ -23,11 +25,11 @@ The Summer School, once again hosted by DTU, takes place this year from **15th -
 
 ### Vacancy for PhD at TU Vienna
 
-A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/contents/PhD-position-ISAS-TU-Vienna.html) is available. .html
+A vacancy exists for a PhD student at our 4M Partners in the Institute of Sensors and Actuators. Further information [about the vacancy](/content/PhD-position-ISAS-TU-Vienna/PhD-position-ISAS-TU-Vienna.html) is available. .html
 
 ### Networks of Excellence - what did they achieve?
 
-The EC appointed an Expert Group to look at the achievements of NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’. The expert group discusses the special nature of the ‘intermediate collective research goods’ NoEs are producing as well as the structural aspect of NoEs originally supposed to form a new intra-European layer of durable virtual research organisations. Their full report can be [downloaded here.](/contents/Expert-Group-future-Networks-Excellence-Final-Report.html)
+The EC appointed an Expert Group to look at the achievements of NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’. The expert group discusses the special nature of the ‘intermediate collective research goods’ NoEs are producing as well as the structural aspect of NoEs originally supposed to form a new intra-European layer of durable virtual research organisations. Their full report can be [downloaded here.](/content/Expert-Group-future-Networks-Excellence-Final-Report/Expert-Group-future-Networks-Excellence-Final-Report.html)
 
 ### EuronanoForum (ENF'09)
 
@@ -36,3 +38,5 @@ This event, being hosted by the Czech Republic during its Presidency of the EC, 
 ### IEEE IROS 2009
 
 This conference, [IEE IROS 2009,](http://www.iros09.mtu.edu/index.php/IROS_2009:_The_2009_IEEE/RSJ_International_Conference_on_Intelligent_RObots_and_Systems) will feature an invited session on "Advanced Control Techniques in Micro/Nano Manipulation".
+
+[&larr; Bulletins](/bulletin/index.html)

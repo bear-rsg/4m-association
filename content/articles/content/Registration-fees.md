@@ -1,5 +1,5 @@
 title: Registration & fees
-date: 2021-03-31
+date: 2011-05-25 
 
 Register for the 4M 2012 Conference via the dedicated [**4M2012 Registration Site**]( 
 http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&prodid=508&deptid=17&catid=3)

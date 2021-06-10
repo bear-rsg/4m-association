@@ -1,5 +1,5 @@
 title: Invited Speakers 4M2016
-date: 2021-03-31
+date: 2015-06-30 
 
 <img src="https://www.psi.ch/lmn/PeopleDetailHelmutSchiftEN/igp_a925a735442ca127bd09147933b0e02d_helmut_schift.jpg" width="100px">
 

@@ -1,5 +1,7 @@
 title: June '14
-date: 2021-03-31
+date: 2014-07-14 
+category: bulletin
+tags: bulletin
 
 4M/ICOMM 2015 in Milan is jointly organised by the International Institution for Micromanufacturing (I2M2) and the 4M Association; 4M/ICOMM 2015 – Call for Papers; 4M Announcement - 4M2020 Foresight Forum; 9th International Workshop on Microfactories; New Book Published - Richard Leach - Fundamental Principles of Engineering Nanometrology (Micro & Nano Technologies); LET’S 2014 will be held in Bologna (Italy) from September 29th to October 1st 2014
 <!--break-->
@@ -49,3 +51,5 @@ This book is an essential guide for the emerging nanomanufacturing and nanofabri
 ![4M2020 Logo](/images/lets-2014.jpg)
 LET’S 2014 will focus on the perspective of Nanotechnologies, Advanced Materials, Advanced Manufacturing, Processing and Biotechnology and will point out how the industrial system should be able to develop the industry’s ability to integrate - through a systemic approach - creativity, culture, knowledge and competitiveness.
 [Read more>>](http://www.lets2014.eu/)
+
+[&larr; Bulletins](/bulletin/index.html)

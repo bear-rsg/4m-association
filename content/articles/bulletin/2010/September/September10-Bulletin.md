@@ -1,16 +1,18 @@
 title: September'10 Bulletin
-date: 2021-03-31
+date: 2010-09-09 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2010
 
 
 ![4M2010](/images/4m-logotight_web.png)
-All those wishing to attend the 4M2010 Conference should **register by Friday 17th September** to benefit from the reduced rates.  General conference information including [hotels & accommodation](/contents/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
+All those wishing to attend the 4M2010 Conference should **register by Friday 17th September** to benefit from the reduced rates.  General conference information including [hotels & accommodation](/content/Hotels-and-Acommodation/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  The [provisional programme](/content/Provisional-Programme) is now published. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
     
 ###  DTU Summer School on micromanufacturing
 
-Read about this summer's School [here.](/contents/Summer-School-micro-manufacturing.html)
+Read about this summer's School [here.](/content/Summer-School-micro-manufacturing/Summer-School-micro-manufacturing.html)
   
 ###  9th International Congress MID 2010
 
@@ -18,11 +20,11 @@ Takes place on 29th and 30th September - [further details](/event/9th-Internatio
   
 ###  Micromachining by waterjet
 
-View a presentation [here.](/contents/Waterjet-technology-precision-and-micro-machining.html)
+View a presentation [here.](/content/Waterjet-technology-precision-and-micro-machining/Waterjet-technology-precision-and-micro-machining.html)
   
 ###  An evaluation of the FP6 NMP programme......
 
-...........has been carried out and is published. Executive summary and access to full report [here.](/contents/Evaluation-FP6-NMP.html)
+...........has been carried out and is published. Executive summary and access to full report [here.](/content/Evaluation-FP6-NMP/Evaluation-FP6-NMP.html)
   
 ###  Interview with S.Dimov in MICROmanufacturing magazine
 
@@ -42,7 +44,7 @@ There will be a EUMINAfab workshop held on 14th September 2010 as a satellite ev
     
 ###  Programmable nanolithography
 
-[Report](/contents/Revolutionizing-nanofabrication-programmable-nanolithography.html) on the work of a team at Northwestern University, USA.  .html
+[Report](/content/Revolutionizing-nanofabrication-programmable-nanolithography/Revolutionizing-nanofabrication-programmable-nanolithography.html) on the work of a team at Northwestern University, USA.  .html
 
 ###  Focus on micro moulding at MM Live
 
@@ -55,4 +57,6 @@ Takes place from 5th April 2011 in Illinois, USA. [More details.](/event/SME-Mic
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

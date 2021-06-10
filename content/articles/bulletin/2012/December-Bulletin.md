@@ -1,5 +1,7 @@
 title: December '12 
-date: 2021-03-31
+date: 2013-01-23 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ##  ***Merry Christmas and a Happy New Year to all of our members. We look forward to working with you in 2013***
@@ -11,7 +13,7 @@ date: 2021-03-31
 <p>It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.</p>  
 <p>Per was one of the original partners in the 4M Network of Excellence (NoE) and was joint leader of the Ceramics Processing Division. Always full of energy and ideas he was instrumental in the success of the ceramics group, their work culminating in the publication of a handbook on Ceramics Processing in Microtechnology.  
 When the 4M NoE came to an end, Per was a great supporter of the idea of setting up the 4M Association and made sure that Swerea IVF was one of the first to join.
-</p>[Read more>>](/contents/Johander.html)
+</p>[Read more>>](/content/Johander/Johander.html)
 
 ##  4M 2020 CSA Proposal
 
@@ -80,4 +82,6 @@ opportunities.</p>
 
 ![FSRM](/images/FSRM.jpg)
 <p>FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.**</p>
-[Read more>>](/contents/fsrm-training-courses.html)
+[Read more>>](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

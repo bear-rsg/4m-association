@@ -1,5 +1,5 @@
 title: Roland Zengerle
-date: 2021-03-31
+date: 2009-02-05 
 
 ![Prof. Dr. Roland Zengerle Photo](/images/RolandZengerle.jpg class="inline-img") Prof. Dr. Roland Zengerle is the director of the Department of Microsystems Engineering (IMTEK) at the University of Freiburg, Germany. He also heads the Laboratory for MEMS Applications at IMTEK and in addition he is a director at the Institute for Micro- and Information Technology of the Hahn-Schickard-Gesellschaft (HSG-IMIT). HSG-IMIT is a non-profit organisation supporting industries in development of new products based on MEMS technologies. Since June 2008 Dr. Zengerle is also the vice-chairman of the new centre for “Biological Signalling Studies (bioss)” at the University of Freiburg; the centre is funded by the national science foundation in the framework of the German excellence initiative. 
 

@@ -1,5 +1,7 @@
 title: INDUSTRIAL WORKSHOP  30. March 2015    (Milano, Italy)
-date: 2021-03-31
+date: 2015-03-06 
+category: bulletin
+tags: bulletin
 
 **INDUSTRIAL WORKSHOP Higher Value production technologies and KET enabled applications**
 
@@ -36,3 +38,5 @@ Please find attached the workshop flyer with its programme.
 **HYPROLINE** - Hybrid Manufacturing Platforms for Production of Miniaturised Components 
 
 **4M2020** - Advanced Manufacturing of Multi-Material Multi-Functional Products Towards 2020 and Beyond
+
+[&larr; Bulletins](/bulletin/index.html)

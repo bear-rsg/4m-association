@@ -1,5 +1,5 @@
 title: DTU PhD Summer School 2019
-date: 2021-03-31
+date: 2019-07-16 
 tags: event, home
 category: event
 

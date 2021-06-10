@@ -1,4 +1,4 @@
 title: Social Programme & Gala Dinner
-date: 2021-03-31
+date: 2016-09-06 
 
 More information will be available in due time.

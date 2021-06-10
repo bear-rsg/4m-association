@@ -1,5 +1,7 @@
 title: June'10 Bulletin
-date: 2021-03-31
+date: 2010-06-02 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2010 - Sponsor
@@ -11,7 +13,7 @@ We are pleased to announce that once again [SARIX](http://sarix.com/) have agree
 ###  4M 2010
 
 ![4M2010](/images/4m-logotight_web.png)
-Authors should receive feedback about their papers from the Review process by 3rd June. Further general conference information can be viewed on the [conference webpages](/conference/2010).  The [provisional programme](/contents/Provisional-Programme.html) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
+Authors should receive feedback about their papers from the Review process by 3rd June. Further general conference information can be viewed on the [conference webpages](/conference/2010).  The [provisional programme](/content/Provisional-Programme/Provisional-Programme.html) is now published. We look forward to welcoming you in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
     
 ###  4M/ICOMM2009 accepted and indexed by Thomson Reuters'
 
@@ -27,7 +29,7 @@ The 10th International Workshop on Micro and Nanotechnology for Power Generation
   
 ###  Laser interference lithography
 
-Two important breakthroughs by European researchers have brought an emerging nano-scale fabrication technology out of the lab and into the real world.  [Read about the DELILA project.](/contents/Laser-interference-lithography.html)   .html
+Two important breakthroughs by European researchers have brought an emerging nano-scale fabrication technology out of the lab and into the real world.  [Read about the DELILA project.](/content/Laser-interference-lithography/Laser-interference-lithography.html)   .html
   
 ###  Met & Props 2011
 
@@ -40,4 +42,6 @@ The registration deadline for [NANOfutures, 15-16th June 2010](http://www.nanofu
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

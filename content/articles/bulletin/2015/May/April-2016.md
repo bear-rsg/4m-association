@@ -1,5 +1,7 @@
 title: April 2015
-date: 2021-03-31
+date: 2019-02-27 
+category: bulletin
+tags: bulletin
 
 ### 4M/ICOMM2015 Feedback Survey
 ![4M2020 Logo](/images/feedback.jpg)
@@ -20,7 +22,7 @@ On behalf of the 4M Association, we are pleased to announce that the next 4M Con
 ![4M2020 Logo](/images/best-paper.jpg) 
 Best Paper Award: “Experimental Investigation of the Effect of Dielectric Conductivity on Characteristics of Micro-EDM Process” Soham S. Mujumdar, Shiv G. Kapoor and Davide Curreli (University of Illinois at Urbana Champaign, USA) [READ MORE](/conference/2015)
 
-The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her excellent presentation at conference of the paper entitled :  "Design and fabrication of a polymeric micro-filter" [READ MORE](/contents/Elena-Ulieru-Innovation-Award.html)
+The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her excellent presentation at conference of the paper entitled :  "Design and fabrication of a polymeric micro-filter" [READ MORE](/content/Elena-Ulieru-Innovation-Award/Elena-Ulieru-Innovation-Award.html)
 
 ###   DTU Summer School 2015 - Micro mechanical  systems design and manufacturing
 
@@ -66,3 +68,5 @@ Funding is available for UK students and EU students who have studied for three 
 Self-funded overseas/non-EU applicants are welcome to apply for the MRes/PhD programme but are not eligible for funding from the Centre for Doctoral Training in Ultra Precision.
 
 More information available [here](http://www.ultraprecision.org/research/vacancies/)
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,5 +1,5 @@
 title: Different epoxys
-date: 2021-03-31
+date: 2009-05-14 
 
 __process parameters:__  	
 temperature:	roomtemperature - 150 °C  

@@ -1,5 +1,7 @@
 title: May '11
-date: 2021-03-31
+date: 2011-05-06 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -23,4 +25,6 @@ A new book entitled [Optical Measurement of Surface Topography](http://www.amazo
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

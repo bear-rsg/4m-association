@@ -1,5 +1,7 @@
 title: Oct'11
-date: 2021-03-31
+date: 2011-10-13 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -14,7 +16,7 @@ On the day before the 4M2011 begins, a workshop entitled "Training for Professio
   
 ###  MINAM Survey
 
-The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. You are invited to complete the MINAM [Survey online](/contents/MINAM-Survey.html) or you will have the opportunity to complete it at the MINAM stand at 4M2011. .html
+The MINAM 2.0 Coordinating and Supporting Action will update the MINAM SRA by means of a survey. You are invited to complete the MINAM [Survey online](/content/MINAM-Survey/MINAM-Survey.html) or you will have the opportunity to complete it at the MINAM stand at 4M2011. .html
 
 ###  IWMF 2012
 
@@ -35,4 +37,6 @@ Following its debut in Ohio, 2012 will see MM Live USA and new co-locating featu
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

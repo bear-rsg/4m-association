@@ -1,11 +1,9 @@
 title: Call for paper 2020
-date: 2021-03-31
+date: 2020-01-14 
 
 Papers are sought to address theoretical and applied research issues related to manufacture, assembly and metrology for components and systems with nano/micro/meso-scale features and dimensions.
 All papers must be technical in nature and include original work. Approximately 100 papers will be presented in technical sessions and published in conference proceedings. Conference papers will be peer reviewed.
-
-title:  Topics to cover
-date: 2021-03-31
+title:   Topics to cover
 
 <ul>
     <li>Micro fabrication technologies, process chains and process characterization</li>
@@ -24,4 +22,4 @@ date: 2021-03-31
 </ul>
 
 Click [here>>](https://www.me.iitb.ac.in/~wcmnm/Call_for_papers.pdf) for paper submission details.
-Before submitting a paper, please review the required [template>>](/4m-association/assets/images/files/WCMNM_paper_template_1.docx).
+Before submitting a paper, please review the required [template>>](/images/WCMNM_paper_template_1.docx).

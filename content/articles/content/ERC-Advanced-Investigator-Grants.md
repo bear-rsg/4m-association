@@ -1,8 +1,6 @@
 title: ERC Advanced Investigator Grants
-date: 2021-03-31
-
-title:  UK Information and Proposal Writing Events
-date: 2021-03-31
+date: 2009-11-17 
+title:   UK Information and Proposal Writing Events
 
 
 In its capacity as UK National Contact Point (NCP) for the European Research Council (ERC), the [UK Research Office](http://www.ukro.ac.uk/), in partnership with institutions from across the UK, will hold a series of information events. These are designed for researchers who are based in or moving to the UK and are interested in applying for the ERC Advanced Investigator Grants and will be held at:

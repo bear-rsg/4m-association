@@ -1,8 +1,6 @@
 title: Programme Committee
-date: 2021-03-31
-
-title:  Joint 4M/IWMF Programme Committee
-date: 2021-03-31
+date: 2009-06-29 
+title:   Joint 4M/IWMF Programme Committee
 
 Nadja Adamovich, TUWien, Austria 
 

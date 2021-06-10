@@ -1,5 +1,5 @@
 title: Lecturer/Researcher in microtechnologies
-date: 2021-03-31
+date: 2009-04-01 
 
 A position is available for a lecturer/researcher in microtechnologies, at the <i>Institut universitaire de technologie de Grenoble 1, France</i>.  
 

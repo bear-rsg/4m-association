@@ -1,5 +1,5 @@
 title: Congress Programme
-date: 2021-03-31
+date: 2018-08-01 
 
 **A cocktail reception is available on the evening of the 17th at the congress venue.**
 

@@ -1,5 +1,5 @@
 title: Nanochallenge and Polymerchallenge 2011
-date: 2021-03-31
+date: 2011-07-12 
 
 **Do you have a business idea in nanotechnology or polymer-based materials?** If so then Nanochallenge and Polymerchallenge 2011 just might be of interest to you.
 <!--break-->

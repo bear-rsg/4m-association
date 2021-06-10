@@ -1,5 +1,5 @@
 title: Sylvain Ballandras
-date: 2021-03-31
+date: 2009-02-05 
 
 ![Sylvain Ballandras](/images/SylvainBallandras.jpg class="inline-img") Sylvain Ballandras was born in Strasbourg in 1965. He joined the CNRS in 1991, after his PhD in Engineering Sciences from the Université de Franche-Comté. From 1991 to 1995, he has been working on surface acoustic wave (SAW) devices, but he was mainly involved in the development of micromachining technologies. He  initiated the development of a finite element analysis package devoted to acoustic transducers and also new researches on miniaturized transducers for endoscopic applications. He joined TMX in 1997 for a one year industrial training project. From 1999 to 2005, he was responsible for the research group entitled « Acoustique et Microsonique » at LPMO. He created its own consulting office to answer specific demands from industry.  
   

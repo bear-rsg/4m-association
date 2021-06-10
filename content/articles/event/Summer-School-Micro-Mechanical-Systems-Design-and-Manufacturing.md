@@ -1,5 +1,5 @@
 title: Summer School on Micro Mechanical Systems Design and Manufacturing
-date: 2021-03-31
+date: 2012-03-05 
 tags: event, home
 category: event
 
@@ -14,6 +14,6 @@ All information is posted on the [Summer School website.](http://www.microsummer
 [Registration and accommodation]( 
 http://indico.conferences.dtu.dk/conferenceDisplay.py?confId=112)  
   
-You can read about last year's summer school [here.](/contents/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html)
+You can read about last year's summer school [here.](/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html)
   
 A flyer for the 2012 Summer School can be downloaded below:

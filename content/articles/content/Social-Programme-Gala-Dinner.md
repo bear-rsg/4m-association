@@ -1,5 +1,5 @@
 title: Social Programme & Gala Dinner
-date: 2021-03-31
+date: 2016-09-06 
 
 <img src="http://langelinie3-9.dk/wp-content/uploads/2015/06/langelinie-pavillonen-Koglen.jpg" width="300px">
 

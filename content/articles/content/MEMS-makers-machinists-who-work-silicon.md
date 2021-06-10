@@ -1,5 +1,5 @@
 title: MEMS makers: machinists who work in silicon 
-date: 2021-03-31
+date: 2011-02-08 
 
 Interesting article here published in the latest edition of Micromanufacturing magazine.
 <!--break-->

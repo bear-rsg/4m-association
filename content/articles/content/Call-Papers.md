@@ -1,5 +1,5 @@
 title: Call For Papers
-date: 2021-03-31
+date: 2011-02-03 
 
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture, in particular but not limited to:
 • Components: fabrication technologies and process chains

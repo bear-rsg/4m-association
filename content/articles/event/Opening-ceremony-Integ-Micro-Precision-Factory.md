@@ -1,5 +1,5 @@
 title: Opening ceremony of Integ-Micro Precision Factory
-date: 2021-03-31
+date: 2012-06-08 
 tags: event, home
 category: event
 

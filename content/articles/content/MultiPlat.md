@@ -1,8 +1,8 @@
 title: MultiPlat
-date: 2021-03-31
+date: 2009-12-07 
 
 <!--break-->
-![MultiPlat](/4m-association/assets/images/MultiPlat_LOGOweb1.jpg)  
+![MultiPlat](/images/MultiPlat_LOGOweb1.jpg)  
  
 The goal of the MultiPlat project is to develop biomimetic proton conductive membranes with nanometer thickness (nanomembranes) through convergence of the number of fields.  
   

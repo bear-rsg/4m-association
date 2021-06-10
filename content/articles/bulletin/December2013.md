@@ -1,5 +1,7 @@
 title: December '13
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 Seasons Greetings, Become a 4M Member!, 4M2020 New Website, ICOMM 2014, ASME 2014, Call for Papers: 3M Nano 2014, FRSM Training
 <!--break-->
@@ -47,4 +49,6 @@ format) will be included in IEEE Xplore database and indexed by Ei Compendex. [R
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM.jpg)
-FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/contents/fsrm-training-courses.html)
+FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

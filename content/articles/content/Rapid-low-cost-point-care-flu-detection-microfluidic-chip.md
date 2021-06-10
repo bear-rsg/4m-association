@@ -1,5 +1,5 @@
 title: Rapid, low-cost, point of care flu detection from microfluidic chip
-date: 2021-03-31
+date: 2012-03-27 
 
 <!--break-->
 A four-year, National Institutes of Health-funded study of 146 patients with flu-like symptoms spearheaded by Associate Professor Catherine Klapperich (BME, MSE) at Boston University has validated a prototype rapid, low-cost, accurate, point-of-care device that promises a better standard of care.  

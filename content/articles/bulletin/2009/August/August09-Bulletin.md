@@ -1,5 +1,7 @@
 title: August'09 Bulletin
-date: 2021-03-31
+date: 2009-09-08 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ### 4M/ICOMM 2009
@@ -16,7 +18,7 @@ This workshop, organised by Fraunhofer IZM-M, takes place on Tuesday, 20th Octob
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
 
 ### Applications of Micro and Nano Technology in Biosensing & Diagnostics
 
@@ -32,7 +34,7 @@ An organisation is seeking someone with the capability to produce a nanocomposit
 
 ### Microactuators for Fluidic Applications
 
-A Special Issue on “Microactuators for Fluidic Applications” is being prepared by JMEP. If you are interested in submitting a paper click [here.](/contents/Special-Issue-Microactuators-Fluidic-Applications.html)
+A Special Issue on “Microactuators for Fluidic Applications” is being prepared by JMEP. If you are interested in submitting a paper click [here.](/content/Special-Issue-Microactuators-Fluidic-Applications/Special-Issue-Microactuators-Fluidic-Applications.html)
 
 ### Microalliance
 
@@ -44,7 +46,7 @@ A new booklet that illustrates the exciting possibilities offered by laser manuf
 
 ### 4M Summer School 2009
 
-![Summ Sch](/images/Group_DTUSummerschool2009thumb.jpg)This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/contents/4M-Summer-School-2009.html)    .html
+![Summ Sch](/images/Group_DTUSummerschool2009thumb.jpg)This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/content/4M-Summer-School-2009/4M-Summer-School-2009.html)    .html
   
 ### Nanoaccess@Cardiff
 
@@ -53,12 +55,14 @@ The [Annual Meeting](/event/NanoaccessCardiff) of current and potential users of
 ### EUMINA*fab*
 
 EUMINA*fab* is the first European Research Infrastructure on multimaterial micro and nanotechnology. It offers open and no-cost access to state of the art fabrication and characterisation technologies for a multitude of functional materials. Access is based on an online submission of proposals.
-The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/contents/EUMINAfab-starts-operation.html)
+The First Call for proposals to access the portfolio of technologies and expertise offered by EUMINA*fab* opens on 1st September 2009. [Read more.](/content/EUMINAfab-starts-operation/EUMINAfab-starts-operation.html)
 
 ### CHARPAN
 
-The latest newsletter from this project is [available here.](/contents/CHARPAN.html)
+The latest newsletter from this project is [available here.](/content/CHARPAN/CHARPAN.html)
 
 ### NMP Call opens
 
-As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/contents/NMP-Call-opened-31st-July-2009.html)
+As many of you will already be aware, the new FP7 NMP 2010 call was launched on 30 July 2009. Closing dates for proposals and workprogramme are [available here.](/content/NMP-Call-opened-31st-July-2009/NMP-Call-opened-31st-July-2009.html)
+
+[&larr; Bulletins](/bulletin/index.html)

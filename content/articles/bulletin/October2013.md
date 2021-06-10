@@ -1,12 +1,14 @@
 title: October '13
-date: 2021-03-31
+date: 2014-04-07 
+category: bulletin
+tags: bulletin
 
 4M 2013 Presentations available, 4M 2013 Feedback Survey, 4M 2013 Proceedings, Elena Ulieru Innovation Award, 4M 2020 Kick Off Meeting Presentations available, 4M/ICOMM 2015 Announced, ATV-SEMAPP Seminar, ASME 2014, Make-it-yourself, FRSM Training
 <!--break-->
 ### 4M 2013 Conference, San Sebastián, Spain - Presentations now available!
 
 ![barcelopic](/images/barcelopic.jpg)
-Thank you to everyone who attended the 4M 2013 Conference in San Sebastián, with a special thank you to our Sponsors [Sarix](http://www.sarix.com), Supporters [ONR](http://www.onr.navil.mil), [Invited Speakers](/contents/Invited-Speakers-4M2013.html), and [ICOMM](http://icomm2014.northwestern.edu/), Opening Speakers, and Co-organisers [IK4-Tekniker](http://www.tekniker.es/en). Photographs from the conference will be available shortly, however presentations from both days of the conference are now available to download on our site. [Read more>>](/content/Presentations)
+Thank you to everyone who attended the 4M 2013 Conference in San Sebastián, with a special thank you to our Sponsors [Sarix](http://www.sarix.com), Supporters [ONR](http://www.onr.navil.mil), [Invited Speakers](/content/Invited-Speakers-4M2013/Invited-Speakers-4M2013.html), and [ICOMM](http://icomm2014.northwestern.edu/), Opening Speakers, and Co-organisers [IK4-Tekniker](http://www.tekniker.es/en). Photographs from the conference will be available shortly, however presentations from both days of the conference are now available to download on our site. [Read more>>](/content/Presentations)
 
 ### Take Part in a Feedback Survey
 
@@ -54,4 +56,6 @@ Thanks to state-of-the-art design software and the latest computer-controlled la
 ### Training Courses in Microsystems
 
 ![FSRM](/images/FSRM.jpg)
-FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/contents/fsrm-training-courses.html)
+FSRM (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a **10% discount on course fees.** [Read more>>](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

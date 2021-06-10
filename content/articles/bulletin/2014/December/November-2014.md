@@ -1,5 +1,7 @@
 title: November 2014
-date: 2021-03-31
+date: 2014-12-05 
+category: bulletin
+tags: bulletin
 
 ###  4M/ICOMM 2015
 
@@ -81,3 +83,5 @@ Metals
 In the field of microfluidics, LMSE is focusing on development of vari-ous mems structures and devices by integrating materials such as sili-con, glass, PDMS, PZT, SU8, etc., for applications in medicine and bio-chemical engineering. With years of experience in the field of 3d fully coupled numerical modeling, we established rapid virtual prototyping and numerical optimization of newly proposed micropump prototypes
 
 [Read More](http://4m-association.us1.list-manage.com/track/click?u=4a3e2307c8444f1ffd4221249&id=2477dc02fe&e=c9b7331d9b)
+
+[&larr; Bulletins](/bulletin/index.html)

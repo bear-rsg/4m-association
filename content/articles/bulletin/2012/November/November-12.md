@@ -1,5 +1,7 @@
 title: November '12
-date: 2021-03-31
+date: 2013-10-12 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2012 Association Annual Meeting - Presentations available
@@ -26,3 +28,5 @@ Have your say on the future direction of metrology in Horizon 2020. (Deadline 23
 ###  International Conference: Micro and Nanotechnologies in Materials and Processes for the European Polymer Industry
 
 Date: 22nd November 2012, Venue: College of Engineering and Architecture of Fribourg, Switzerland. The latest scientific and technological developments in the field of micro and nanotechnologies are the core issues of this international conference. [Read more>>](http://www.fp7-cotech.eu/143/?tx_ttnews%5Btt_news%5D=48&tx_ttnews%5BbackPid%5D=1&cHash=44cbb177ea)
+
+[&larr; Bulletins](/bulletin/index.html)

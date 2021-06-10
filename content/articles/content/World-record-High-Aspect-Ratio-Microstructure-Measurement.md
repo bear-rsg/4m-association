@@ -1,5 +1,5 @@
 title: World record in High-Aspect Ratio Microstructure Measurement
-date: 2021-03-31
+date: 2009-04-03 
 
 Working in conjunction with a major equipment manufacturer, Prof. Lars Mattsson, leader of the Metrology Division of the 4M Network of Excellence, reports that a new aspect ratio of 50:1 was recently achieved in laboratory measurements following the optimisation of an existing optical metrology system.
 <!--break-->

@@ -1,5 +1,5 @@
 title: Electro Chemical Machining
-date: 2021-03-31
+date: 2009-11-13 
 
 Technology suitable small quantity production 
 

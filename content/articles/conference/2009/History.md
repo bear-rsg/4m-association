@@ -1,5 +1,5 @@
 title: History
-date: 2021-03-31
+date: 2009-02-10 
 
 This conference is jointly organised by the International Conference on Multi-Material Micro-Manufacture(<acronym title="Multi-Material Micro-Manufacture">4M</acronym>) and the International Conference on Micro-Manufacture (<acronym title="International Conference on Micro-Manufacture">ICOMM</acronym>), bringing together for the first time the worldwide community of micro-manufacturing experts.
 <!--break-->

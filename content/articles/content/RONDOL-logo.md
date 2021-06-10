@@ -1,6 +1,6 @@
 title: RONDOL logo
-date: 2021-03-31
+date: 2011-08-31 
 
-![RONDOL](/4m-association/assets/images/logo_web_address_3.jpg)   
+![RONDOL](/images/logo_web_address_3.jpg)   
   
  

@@ -1,5 +1,5 @@
 title: Solid-State Sensors, Actuators and Microsystems Workshop
-date: 2021-03-31
+date: 2009-11-17 
 tags: event, home
 category: event
 

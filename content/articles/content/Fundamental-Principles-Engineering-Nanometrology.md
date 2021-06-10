@@ -1,8 +1,8 @@
 title: Fundamental Principles of Engineering Nanometrology 
-date: 2021-03-31
+date: 2009-12-03 
 
 <!--break-->
-![Leach on nanometrology](/4m-association/assets/images/files/LeachBookweb.jpg) This new book is from Professor Richard Leach, a Principal Research Scientist in the Mass & Dimensional Group, Engineering Measurement Division at the National Physical Laboratory (NPL), UK. It provides a comprehensive overview of engineering metrology and how it relates to micro and nanotechnology (MNT) research and manufacturing. By combining established knowledge with the latest advances from the field, it presents a comprehensive single volume that can be used for professional reference and academic study.  
+![Leach on nanometrology](/images/LeachBookweb.jpg) This new book is from Professor Richard Leach, a Principal Research Scientist in the Mass & Dimensional Group, Engineering Measurement Division at the National Physical Laboratory (NPL), UK. It provides a comprehensive overview of engineering metrology and how it relates to micro and nanotechnology (MNT) research and manufacturing. By combining established knowledge with the latest advances from the field, it presents a comprehensive single volume that can be used for professional reference and academic study.  
   
 *Key Features*  
 

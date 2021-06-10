@@ -1,8 +1,6 @@
 title: License Agreement 2015
-date: 2021-03-31
-
-title:  Deadlines
-date: 2021-03-31
+date: 2014-07-30 
+title:   Deadlines
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -10,8 +8,7 @@ date: 2021-03-31
 <tr><td>Submission of License Agreement</td><td>12th January 2015</td></tr> 
 </table>
 <!--break-->
-title:  License agreement
-date: 2021-03-31
+title:   License agreement
 
 
 To publish your paper in the proceedings, the University of Birmingham requests a formal written License agreement from the copyright owners for each article published. To avoid any delay in the publication of your article, please read the terms of the agreement, sign and return the completed form to us at the address below by the specified deadline.
@@ -26,9 +23,7 @@ The licensor warrants that:
  * the Article submitted is original and has been written by the stated authors.  
  * the Article contains no libelous or other unlawful statements and does not contain any materials that violate any personal or proprietary rights of any other person or entity. 
  * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted. 
-
-title:  Submission
-date: 2021-03-31
+title:   Submission
 
 
 Please download the 4M/ICOMM2016 License Agreement by clicking on the icon below. When you have completed it please scan, post or email it, by the specified deadline, to the Secretariat at the address below. If posting, please also email a confirmation.

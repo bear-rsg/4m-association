@@ -1,5 +1,5 @@
 title: Glass Microfluidic Device for High Throughput Mixing and Reactions 
-date: 2021-03-31
+date: 2009-06-24 
 
 Dolomite, a world leader in microfluidic design and manufacture, has introduced the 1ml Microreactor Chip,
 a glass microfluidic device designed for the mixing and reacting of two or three liquid reagent streams.

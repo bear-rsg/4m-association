@@ -1,5 +1,5 @@
 title: MM/MEMS/NANO Live USA 2012
-date: 2021-03-31
+date: 2011-10-12 
 tags: event, home
 category: event
 

@@ -1,12 +1,14 @@
 title: June'12
-date: 2021-03-31
+date: 2012-06-08 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2012 - Vienna, Austria, 9-11th October
 
 
 ![4M2011](/images/4m-2012_100.png)
-The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/contents/Invited-Speakers-4M2012.html). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). .html
+The second review will commence next week. The **deadline for the second review** to be completed is Friday 29th June 2012. You will be asked to check the papers that you were originally allocated in first review, to ensure any recommendations have been addressed.  The final [Invited Speaker has now been announced](/content/Invited-Speakers-4M2012/Invited-Speakers-4M2012.html). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012). .html
 
 ###  4M 2009 Proceedings
 
@@ -18,7 +20,7 @@ A facility that houses the manufacturing platforms developed by the Integ-Micro 
   
 ###  MM LIVE UK 2012 – Call For Papers
 
-Contributions are invited for the conference area at this high-precision engineering and manufacturing event, which this year takes place at the National Exhibition Centre in Birmingham, UK, on 25–26 September 2012. [Download the call document.](/contents/MM-LIVE-UK-2012-%E2%80%93-Innovations-Micro-Manufacturing)  .html
+Contributions are invited for the conference area at this high-precision engineering and manufacturing event, which this year takes place at the National Exhibition Centre in Birmingham, UK, on 25–26 September 2012. [Download the call document.](/contents/MM-LIVE-UK-2012-%E2%80%93-Innovations-Micro-Manufacturing)
   
 ###  International Symposium on Electromachining
 
@@ -27,4 +29,6 @@ The 17th International Symposium on Electromachining (ISEM XVII) will be held in
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

@@ -1,16 +1,18 @@
 title: May'12
-date: 2021-03-31
+date: 2012-05-01 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ####  4M 2012 - Vienna, Austria, 9-11th October
 
 
 ![4M2011](/images/4m-2012_100.png)
-The **deadline for the first review** is Friday 4th May 2012. If you have been allocated papers to review please complete them by this date. The first [Invited Speakers have been announced](/contents/Invited-Speakers-4M2012.html). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. .html
+The **deadline for the first review** is Friday 4th May 2012. If you have been allocated papers to review please complete them by this date. The first [Invited Speakers have been announced](/content/Invited-Speakers-4M2012/Invited-Speakers-4M2012.html). The conference will be held in the modern surroundings of the new 1,200 m² [EURO PLAZA Conference Center](http://www.europlaza.at/jart/prj3/euro_pl/website.jart?rel=en&content-id=1155914559700&reserve-mode=active). An initial selection of [suggested Hotels](/content/Hotels-Accommodation) is also now available. Further information can be found on the [4M2012 webpages](/conference/2012) which will be regularly updated. .html
   
 ####  European micro- and nanotechnology industry unfazed by debt crisis
 
-According to a [report produced by IVAM](/contents/European-micro-and-nanotechnology-industry-unfazed-debt-crisis.html), the Euro debt crisis has left the microtechnology, nanotechnology and advanced materials industries largely unfazed so far.     .html
+According to a [report produced by IVAM](/content/European-micro-and-nanotechnology-industry-unfazed-debt-crisis/European-micro-and-nanotechnology-industry-unfazed-debt-crisis.html), the Euro debt crisis has left the microtechnology, nanotechnology and advanced materials industries largely unfazed so far.     .html
   
 ####  COTECH - training for Professionals
 
@@ -22,7 +24,7 @@ Follow up report from our USA colleagues who held the [ICOMM conference](http://
  
 ####  POLYBRIGHT
 
-A high power fiber 500W laser source, with adapted wavelength for polymer welding, has been developed in the frame of the European project POLYBRIGHT. [Read more.](/contents/New-laser-source-adapted-polymer-welding-developed-POLYBRIGHT-project.html)
+A high power fiber 500W laser source, with adapted wavelength for polymer welding, has been developed in the frame of the European project POLYBRIGHT. [Read more.](/content/New-laser-source-adapted-polymer-welding-developed-POLYBRIGHT-project/New-laser-source-adapted-polymer-welding-developed-POLYBRIGHT-project.html)
   
 ####  Horizon 2020
 
@@ -33,4 +35,6 @@ With just over 600 days to go until Horizon 2020 begins, the [homepage](http://e
 ####  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

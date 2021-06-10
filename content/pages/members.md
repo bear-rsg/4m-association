@@ -1,5 +1,5 @@
 title: 4M Members - January 2018 - April 2019
-date: 2021-03-31
+date: 2018-07-10 
 slug: members
 
 **Please note, that 4M Membership is Annual (1st January to 30th April).** Requests will be sent out each year to ask whether you want to renew your membership for yourself, or your organisation. 

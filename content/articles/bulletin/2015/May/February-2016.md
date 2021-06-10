@@ -1,5 +1,7 @@
 title: February 2015
-date: 2021-03-31
+date: 2019-02-27 
+category: bulletin
+tags: bulletin
 
 ###  4M/ICOMM15 2015
 
@@ -22,7 +24,7 @@ If you have preference please let us know!
  
 We will announce the 2016 conference location at the 4M/ICOMM event in Milan
 
-[Read More](/contents/4MIWMF-2016-Proposals.html)
+[Read More](/content/4MIWMF-2016-Proposals/4MIWMF-2016-Proposals.html)
 
 
 ###  Industrial Workshop - (by invitation only)
@@ -33,4 +35,6 @@ As you might know, a joint Industrial Workshop on “Higher Value Production Tec
  
 The workshop promises to be a great day for all involved
 
-[Read More](/bulletin/2015/March/INDUSTRIAL-WORKSHOP)
+[Read More](/bulletin/2015/March/INDUSTRIAL-WORKSHOP/industrial-workshop.html)
+
+[&larr; Bulletins](/bulletin/index.html)

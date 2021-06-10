@@ -1,5 +1,5 @@
 title: Hotels and Acommodation
-date: 2021-03-31
+date: 2009-07-13 
 
 Rooms have been reserved at the following hotels. These reservations will only be held until 1st September 2009:
 
@@ -51,6 +51,7 @@ Price for single room: **about €78**
   
 
   
+
 
 
 

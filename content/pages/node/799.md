@@ -1,5 +1,5 @@
 title: Congress Programme
-date: 2021-03-31
+date: 2018-08-01 
 
 **A reception is available on the evening of the 9th September at the congress venue.**
 

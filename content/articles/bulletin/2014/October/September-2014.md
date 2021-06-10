@@ -1,5 +1,7 @@
 title: September 2014
-date: 2021-03-31
+date: 2014-10-23 
+category: bulletin
+tags: bulletin
 
 ###  4M/ICOMM 2015 – Call for Papers
 
@@ -8,7 +10,7 @@ date: 2021-03-31
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture.
 All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of Micro and Nano Manufacturing (JMNM), SME Journal of Manufacturing Processes (JMP). Deadline for submission is the 1st of November 2014.
 
-[Read more>>](/contents/Submission-Guidelines-1.html)
+[Read more>>](/content/Submission-Guidelines-1/Submission-Guidelines-1.html)
 
 ###  Micro Surface Structuring 
 
@@ -62,3 +64,4 @@ Special Interest Group Meeting  - Structured and Freeform Surfaces - 19th - 20th
  
 [Read more>>](http://4m-association.us1.list-manage1.com/track/click?u=4a3e2307c8444f1ffd4221249&id=c4bafcd5ef&e=1434686575)
 
+[&larr; Bulletins](/bulletin/index.html)

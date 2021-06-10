@@ -1,5 +1,5 @@
 title: Hard Metals, Steel, Tungsten, ...
-date: 2021-03-31
+date: 2009-05-15 
 
 __dimensions:__  	
 min. structure wide:	50 µm Die sinking, 30 µm WEDM, 10 µm EDM milling  

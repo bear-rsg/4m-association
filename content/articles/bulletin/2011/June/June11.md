@@ -1,5 +1,7 @@
 title: June'11
-date: 2021-03-31
+date: 2011-06-08 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -10,7 +12,7 @@ The first stage of the 4M2011 peer review is almost complete. All corresponding 
     
 ###  COMPOLIGHT
 
-COMPOLIGHT is an FP7 project that aims to improve the design and manufacture of lightweight metal components. [Read more](/contents/FP7-Project-COMPOLIGHT.html)   .html
+COMPOLIGHT is an FP7 project that aims to improve the design and manufacture of lightweight metal components. [Read more](/content/FP7-Project-COMPOLIGHT/FP7-Project-COMPOLIGHT.html)   .html
    
 ###  Laser-based Micro- and Nano-packaging and Assembly
 
@@ -23,4 +25,6 @@ A new website is available - see link from our [event page](/event/IPAS2012). Al
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

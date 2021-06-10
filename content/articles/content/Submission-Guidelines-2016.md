@@ -1,8 +1,6 @@
 title: Submission Guidelines 2016
-date: 2021-03-31
-
-title:  Deadlines
-date: 2021-03-31
+date: 2015-06-30 
+title:   Deadlines
 
 
 The Paper Submission will be open on the 1st of January 2016. 
@@ -18,8 +16,7 @@ Feedback for Authors will be available from the 16th of May
 <tr><td>Submission of Final Paper</td><td>13th of June</td></tr> 
 </table>
 <!--break-->
-title:  Step by Step Guide
-date: 2021-03-31
+title:   Step by Step Guide
 
 1. Go to the [conference submission website](http://conference.4m-association.org) 
 2. To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link
@@ -32,6 +29,6 @@ date: 2021-03-31
 3. If required, update the submission information, like author details, by following the [Edit Submission](http://conference.4m-association.org/author/edit.php) link
 4. If required, for example after review, you can re-upload the paper, using the [Re-Upload Paper](http://conference.4m-association.org/author/upload.php?t=reup) link
 5. If your paper is accepted with revisions, re-upload the revised paper as above, as a PDF file, by **13th of June 2016**
-6. Submit the final version of the paper and send us the [copyright forms](/4m-association/content/License-Agreement-2015)  by **13th of June 2016**
+6. Submit the final version of the paper and send us the [copyright forms](/content/License-Agreement-2015)  by **13th of June 2016**
 
 **Note:** All authors will be asked to review papers and will be automatically entered into the reviewer pool for the conference. We will send further reviewer guidelines.

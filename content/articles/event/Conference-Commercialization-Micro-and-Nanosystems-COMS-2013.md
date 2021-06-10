@@ -1,5 +1,5 @@
 title: Conference on Commercialization of Micro and Nanosystems COMS 2013
-date: 2021-03-31
+date: 2013-03-22 
 tags: event, home
 category: event
 

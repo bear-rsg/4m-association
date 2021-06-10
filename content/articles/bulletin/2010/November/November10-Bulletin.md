@@ -1,12 +1,14 @@
 title: November'10 Bulletin
-date: 2021-03-31
+date: 2010-11-05 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2010 - this month!
 
 
 ![4M2010](/images/4m-logotight_web.png)
-It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/contents/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
+It is not too late to register but please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/content/Hotels-and-Acommodation/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/conference/2010).  With over 100 participants already registered and more sponsors than ever before, we look forward to welcoming you all to a stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
   
 ###  MultiLayer workshop
 
@@ -31,4 +33,6 @@ The dates for the [11th euspen International Conference](http://www.como2011.eus
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)

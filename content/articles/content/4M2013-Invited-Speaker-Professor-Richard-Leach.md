@@ -1,11 +1,11 @@
 title: 4M 2013 Invited Speaker: Professor Richard Leach 
-date: 2021-03-31
+date: 2013-08-15
 
 Engineering Measurement Division | National Physical Laboratory | Teddington, Middlesex TW11 0LW | UK | +44 20 8943 6303 | [richard.leach@npl.co.uk](mailto:richard.leach@npl.co.uk)
 <!--break-->
 **Biography**
 
-![Professor Richard Leach](/4m-association/assets/images/files/profile_richard.JPG)
+![Professor Richard Leach](/images/profile_richard.JPG)
 
 Professor Richard Leach is a Principal Research Scientist at the National Physical Laboratory in the UK and a visiting professor at Loughborough University and the Harbin Institute of Technology. 
 

@@ -1,5 +1,7 @@
 title: January'11
-date: 2021-03-31
+date: 2011-02-02 
+category: bulletin
+tags: bulletin
 
 <!--break-->
 ###  4M 2011 - Dates and venue announced
@@ -26,9 +28,11 @@ The latest newsletter from MultiLayer is available on the [MultiLayer news pages
   
 ###  News from MORGaN
 
-The latest newsletter from MORGaN is available [here](/contents/MORGan-Newsletter-4.html).
+The latest newsletter from MORGaN is available [here](/content/MORGan-Newsletter-4/MORGan-Newsletter-4.html).
  
 ###  Training Courses in Microsystems
 
 ![FSRM](/images/FSRM_LOGO_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/contents/fsrm-training-courses.html)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
+
+[&larr; Bulletins](/bulletin/index.html)
