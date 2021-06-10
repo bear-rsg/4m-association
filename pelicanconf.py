@@ -20,12 +20,13 @@ BOOTSTRAP_THEME = 'flatly'
 
 CUSTOM_CSS = 'css/custom.css'
 
+PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy','i18n_subsites']
+
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 PLUGIN_PATHS = ['./pelican-plugins/']
 I18N_TEMPLATES_LANG = 'en'
-PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy']
 
 USE_FOLDER_AS_CATEGORY = True
 
