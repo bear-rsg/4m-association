@@ -3,7 +3,7 @@ date: 2019-11-05
 category: bulletin
 tags: bulletin
 
-<a href="/bulletin/2019/October/October-2019" title="October 2019" class="bulletin-teaser">October 2019</a>
+<a href="/4m-association/bulletin/2019/October/October-2019" title="October 2019" class="bulletin-teaser">October 2019</a>
     
 ### WCMNM2020, Call for papers
 
@@ -56,4 +56,4 @@ For more information on **WCMNM2020** please see [here>>](https://www.me.iitb.ac
 or contact: [wcmnm@me.iitb.ac.in](mailto:wcmnm@me.iitb.ac.in)
 
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

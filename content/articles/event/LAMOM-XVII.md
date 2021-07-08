@@ -1,6 +1,6 @@
 title: LAMOM XVII
 date: 2011-07-05 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

@@ -1,6 +1,6 @@
 title: ICOMM 2011
 date: 2010-09-08 
-tags: event, home
+tags: event
 category: event
 
 The 6th International Conference on 

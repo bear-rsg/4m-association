@@ -1,5 +1,7 @@
 title: Important Deadlines (provisional)
 date: 2009-11-23
+category: conference
+tags: conference
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

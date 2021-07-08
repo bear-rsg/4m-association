@@ -1,6 +1,6 @@
 title: Training for Professionals No.2 - Stockholm
 date: 2012-04-24 
-tags: event, home
+tags: event
 category: event
 
 This Workshop will present the latest technologies and applications within the field of micro and nano moulding with presentations by speakers from industrial partners, research centers and universities.

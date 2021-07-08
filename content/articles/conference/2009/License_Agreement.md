@@ -1,7 +1,9 @@
 title: License agreement
 date: 2009-06-04 
+category: conference
+tags: conference
 
-<!--break-->##Important dates##
+<!--break-->##Important dates
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

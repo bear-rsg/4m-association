@@ -1,5 +1,7 @@
 title: Review Guidelines
 date: 2009-03-13 
+category: conference
+tags: conference
 
 ##  Deadlines
 

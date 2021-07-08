@@ -1,6 +1,6 @@
 title: ESAFORM
 date: 2010-11-05 
-tags: event, home
+tags: event
 category: event
 
 The 14th ESAFORM conference will be held on April 27-29, 2011, hosted by Queen´s University, Belfast, Northern Ireland.

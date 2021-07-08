@@ -55,4 +55,4 @@ or contact: <a href="mailto:wcmnm@me.iitb.ac.in"> wcmnm@me.iitb.ac.in</strong></
 
 <img src=" /images/IITB, Mumbai_1.jpg" width="100%">
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

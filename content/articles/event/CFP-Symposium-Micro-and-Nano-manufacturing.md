@@ -1,6 +1,6 @@
 title: Symposium on Micro- and Nano-manufacturing 
 date: 2011-01-13 
-tags: event, home
+tags: event
 category: event
 
 Call for papers to this symposium which takes place at the 35th ASME INTERNATIONAL CONFERENCE ON  MICRO- AND  NANO-SYSTEMS within the IDETC2011 - 2011 ASME International Design Engineering Technical Conferences, August 28-31, 2011, Washington, DC, USA.

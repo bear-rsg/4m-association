@@ -1,6 +1,6 @@
 title: 3M-NANO
 date: 2011-02-02 
-tags: event, home
+tags: event
 category: event
 
 This new International Conference on Manipulation,

@@ -1,6 +1,6 @@
 title: Workshop on Microfluidics for cells
 date: 2009-08-12 
-tags: event, home
+tags: event
 category: event
 
 <i>“Tools for tissue engineering”</i> at the Fraunhofer Institute for Reliability and Microintegration IZM, Munich branch.

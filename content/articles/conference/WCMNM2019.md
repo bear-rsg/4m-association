@@ -1,12 +1,14 @@
 title: WCMNM 2019
 date: 2019-02-26 
+category: conference
+tags: conference
 slug: conference-WCMNM2019
 
 ##  World Congress on Micro and Nano Manufacturing
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 
-<img src="/images/Raleigh NC, USA.jpg" width="100%">
+<img src="/4m-association/images/raleigh_nc,_usa.jpg" width="100%">
 
 ##  Congress Chair
 

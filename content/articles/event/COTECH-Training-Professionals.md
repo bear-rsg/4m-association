@@ -1,6 +1,6 @@
 title: COTECH - Training for Professionals
 date: 2011-10-14 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

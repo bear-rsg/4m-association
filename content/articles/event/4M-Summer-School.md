@@ -1,6 +1,6 @@
 title: 4M Summer School 2009
 date: 2009-06-02 
-tags: event, home
+tags: event
 category: event
 
 The Summer School, once again hosted by DTU, takes place this year from 15th - 26th June 2009. Please note these dates down and consider sending your students.

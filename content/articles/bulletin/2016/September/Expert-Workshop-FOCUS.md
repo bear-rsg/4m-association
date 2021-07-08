@@ -11,4 +11,4 @@ For more information please visit the link below:
 
 [https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666](https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666)
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

@@ -1,6 +1,6 @@
 title: Optics - Key technology for the future
 date: 2010-06-18 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

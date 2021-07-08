@@ -1,9 +1,9 @@
 title: Metrology workshop at ALICONA
 date: 2010-10-13 
-tags: event, home
+tags: event
 category: event
 
-Within the activities of the [COTECH project,](/node/18) you are invited to the Metrology workshop which will be held at ALICONA IMAGING Gmbh (Graz, Austria) on November 10th 2010.
+Within the activities of the [COTECH project,](/4m-association/node/18) you are invited to the Metrology workshop which will be held at ALICONA IMAGING Gmbh (Graz, Austria) on November 10th 2010.
 <!--break-->
 The workshop, organized by Dr. Manfred Prantl and his team at ALICONA IMAGING Gmbh, will be an all-day workshop including both theory and practice with hands-on training on the InfiniteFocus instrument as well as optical form and roughness measurement.  
 

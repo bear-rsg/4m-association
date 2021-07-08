@@ -1,6 +1,6 @@
 title: International Conference on Micromanufacturing
 date: 2012-12-20 
-tags: event, home
+tags: event
 category: event
 
 Venue: University of Victoria

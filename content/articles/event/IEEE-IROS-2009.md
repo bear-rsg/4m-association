@@ -1,6 +1,6 @@
 title: IEEE IROS 2009
 date: 2009-03-04 
-tags: event, home
+tags: event
 category: event
 
 This conference, [IEE IROS 2009,](http://www.iros09.mtu.edu/index.php/IROS_2009:_The_2009_IEEE/RSJ_International_Conference_on_Intelligent_RObots_and_Systems) will feature an invited session on "Advanced Control Techniques

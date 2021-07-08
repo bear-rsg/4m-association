@@ -1,5 +1,7 @@
 title: History
 date: 2009-02-10
+category: conference
+tags: conference
 
 This conference is organised by the International Conference on Multi-Material Micro-Manufacture(<acronym title="Multi-Material Micro-Manufacture">4M</acronym>).
 <!--break-->
@@ -21,7 +23,7 @@ Papers and presentations from all past 4M Conferences, except 4M2006, can be fou
 
 #Joint 4M/ICOMM Conferences
 
- * [4M/ICOMM 2009](/conference/2009) - Karlsruhe, Germany
+ * [4M/ICOMM 2009](/4m-association/conference/2009) - Karlsruhe, Germany
  * [ICOMM/4M 2010](http://www.conferencing.uwex.edu/conferences/ICOMM10) - Madison, Wisconsin, USA **(April 5 - 10 2010)**
 
 The <a href="http://eco.pepublishing.com/content/g837w8">Proceedings of the 4M/ICOMM Conference, held in Karlsruhe, Germany, from 23rd - 25th September 2009</a>, are published by Engineering Conferences Online (ECO)

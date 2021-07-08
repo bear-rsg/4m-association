@@ -23,6 +23,6 @@ date: 2009-04-23
 3. If required, update the submission information, like author details, by following the [Edit Submission](http://conference.4m-association.org/author/edit.php) link
 4. If required, for example after review, you can re-upload the paper, using the [Re-Upload Paper](http://conference.4m-association.org/author/upload.php?t=reup) link
 5. If your paper is accepted with revisions, re-upload the revised paper as above, but as a .doc file, by **8th June, 2012**
-6. Submit the final version of the paper and send us the [copyright forms](/conference/2011/License_Agreement)  by **end of July, 2012**
+6. Submit the final version of the paper and send us the [copyright forms](/4m-association/conference/2011/License_Agreement)  by **end of July, 2012**
 
 **Note:** All authors will be asked to review papers and will be automatically entered into the reviewer pool for the conference. We will send further reviewer guidelines

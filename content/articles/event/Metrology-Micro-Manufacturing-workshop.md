@@ -1,6 +1,6 @@
 title: Metrology in Micro Manufacturing - workshop
 date: 2009-12-04 
-tags: event, home
+tags: event
 category: event
 
 In partnership with CEMMNT, [MM Live](http://www.micromanu.com/x/exhibition.html) is pleased to announce the introduction of the Metrology in Micro Manufacturing Workshop, which will take place during the afternoon session of 21st October, of the Micro Manufacturing Conference.

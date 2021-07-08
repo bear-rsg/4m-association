@@ -1,5 +1,7 @@
 title: Registration & fees
 date: 2011-05-25 
+category: conference
+tags: conference
 
 ##  Important Dates (provisional)
 
@@ -31,7 +33,7 @@ The conference fees include printed proceedings, lunches, refreshments, and conf
 ##  Registration
 
 
-When registration opens, please complete the [**Registration Form**](/files/Registration_form_4M2011.doc) and mail, fax or e-mail it to:  
+When registration opens, please complete the [**Registration Form**](/4m-association/files/Registration_form_4M2011.doc) and mail, fax or e-mail it to:  
 
 Mr C. Matthews  
 Research Office   

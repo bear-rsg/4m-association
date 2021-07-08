@@ -1,6 +1,6 @@
 title: EUSPEN 2011
 date: 2010-11-05 
-tags: event, home
+tags: event
 category: event
 
 **Venue**  

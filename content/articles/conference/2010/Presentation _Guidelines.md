@@ -1,5 +1,7 @@
 title: Presentation  Guidelines
 date: 2008-12-05
+category: conference
+tags: conference
 
 <!--break-->
 ##  Oral Presentation

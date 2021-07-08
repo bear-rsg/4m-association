@@ -1,5 +1,7 @@
 title: Invited Speakers
 date: 2010-02-02 
+category: conference
+tags: conference
 
 The following speakers have already agreed to address the 4M2011 Conference:  
   

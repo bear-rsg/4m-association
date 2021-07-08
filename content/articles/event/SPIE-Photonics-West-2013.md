@@ -1,6 +1,6 @@
 title: SPIE Photonics West 2013
 date: 2012-12-20 
-tags: event, home
+tags: event
 category: event
 
 Venue: The Moscone Center, San Francisco, California, United States

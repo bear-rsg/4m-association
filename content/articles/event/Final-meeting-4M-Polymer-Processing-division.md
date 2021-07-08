@@ -1,6 +1,6 @@
 title: 4M Polymer Processing division
 date: 2009-05-05 
-tags: event, home
+tags: event
 category: event
 
 This final meeting of the Polymer Processing Divison will be hosted by CEA at the Cadarache chateau in France.

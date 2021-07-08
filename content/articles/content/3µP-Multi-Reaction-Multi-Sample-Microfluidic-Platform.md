@@ -1,5 +1,8 @@
 title: 3µP: Multi-Reaction, Multi-Sample Microfluidic Platform
-date: 2010-05-24 
+date: 2010-05-24
+tags: project, micro-fluidics
+category: Project
+
 
 Two former partners of 4M ([Fraunhofer IZM](http://www.izm.fraunhofer.de/), [FEMTO-ST](http://www.femto-st.fr/en/)) have joined forces to develop  a microfluidic platform for multiple samples with multiple analytes to run diagnostic analysis.
 <!--break-->

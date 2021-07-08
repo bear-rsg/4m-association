@@ -1,5 +1,7 @@
 title: Important Deadlines
 date: 2009-04-06 
+category: conference
+tags: conference
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

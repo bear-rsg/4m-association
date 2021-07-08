@@ -1,5 +1,7 @@
 title: Day 3 - 25 September 2009
 date: 2009-07-08 
+category: conference
+tags: conference
 
 <!--break-->
 ##  Friday 25 September 2009

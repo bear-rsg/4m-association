@@ -39,4 +39,4 @@ Please find attached the workshop flyer with its programme.
 
 **4M2020** - Advanced Manufacturing of Multi-Material Multi-Functional Products Towards 2020 and Beyond
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

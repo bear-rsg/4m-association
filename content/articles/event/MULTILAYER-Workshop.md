@@ -1,6 +1,6 @@
 title: MULTILAYER Workshop
 date: 2009-12-07 
-tags: event, home, Multilayer, Project, Training
+tags: event, multilayer, project, training
 category: event
 
 A workshop on  <b>PRINTING TECHNOLOGIES</b>  
@@ -8,21 +8,21 @@ Recent developments in printing processes such as inkjet printing and screen pri
 <!--break-->
 The workshop will include oral presentations. There will be discussion time after each lecture and a concluding round table. All contributions will be presented on internet at [http://multilayer.4m-association.org/](http://multilayer.4m-association.org/).  
 
-#Venue##  
+# Venue  
 FhG - IKTS, Winterbergstrasse 28, 01277 Dresden, Germany.
 
-#Participation##  
+# Participation  
 Participation is open to all scientists interested in ceramics and printing technologies. There is
 no registration fee charged (deadline for registration by e-mail:19th October 2009)  
 
-#Language##  
+# Language  
 The language of the workshop will be English.
 
-#Organised by:##  
+# Organised by:  
 * Commissariat à l’Energie Atomique (Liten) – Grenoble/France  
 * Fraunhofer-Institut für Keramische Technologien und Systeme – Dresden/Germany
 
-#Programme##  
+# Programme  
 13.30 – 13.50 Registration  
 13.50 – 14.00 Introduction and Welcome from Organiser. *L. Federzoni/CEA*  
 14.00 – 14.30 Lecture “Materials and Deposition Technologies for Functional Ceramic Layers at Fraunhofer IKTS” *U. Partsch/IKTS*  

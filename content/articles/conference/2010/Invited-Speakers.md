@@ -1,5 +1,7 @@
 title: 4M 2010 Invited Speakers
 date: 2010-02-02
+tags: event, 4m-conference, conference
+category: conference
 
 <!--break-->
 The following speakers have been confirmed for 4M2010:  

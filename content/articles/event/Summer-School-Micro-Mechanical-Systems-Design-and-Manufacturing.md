@@ -1,6 +1,6 @@
 title: Summer School on Micro Mechanical Systems Design and Manufacturing
 date: 2012-03-05 
-tags: event, home
+tags: event
 category: event
 
 For the 6th consecutive year, DTU is organizing the PhD Summer School on "Micro Mechanical Systems Design and Manufacturing".
@@ -14,6 +14,6 @@ All information is posted on the [Summer School website.](http://www.microsummer
 [Registration and accommodation]( 
 http://indico.conferences.dtu.dk/conferenceDisplay.py?confId=112)  
   
-You can read about last year's summer school [here.](/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html)
+You can read about last year's summer school [here.](/4m-association/content/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture/2011-Summer-School-Micro-Mechanical-Systems-Design-and-Manufacture.html)
   
 A flyer for the 2012 Summer School can be downloaded below:

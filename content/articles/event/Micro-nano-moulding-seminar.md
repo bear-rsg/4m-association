@@ -1,6 +1,6 @@
 title: Micro-nano moulding seminar
 date: 2010-03-22 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

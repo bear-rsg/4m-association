@@ -1,6 +1,6 @@
 title: 3M Nano Conference
 date: 2012-12-20 
-tags: event, home
+tags: event
 category: event
 
 Venue: Suzhou, China

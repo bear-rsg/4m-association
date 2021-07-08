@@ -1,5 +1,7 @@
 title: Registration and fees
 date: 2009-04-24
+category: conference
+tags: conference
 
 ##  Important Dates (provisional)
 
@@ -36,7 +38,7 @@ The conference fees include printed proceedings, lunches, conference dinner, bus
 ##  Registration
 
 
-Please complete the [**Registration Form**](/files/Registration_form.pdf) and mail, fax or e-mail it to:  
+Please complete the [**Registration Form**](/4m-association/files/Registration_form.pdf) and mail, fax or e-mail it to:  
 
 Mr C. Matthews  
 Manufacturing Engineering Centre (MEC)   

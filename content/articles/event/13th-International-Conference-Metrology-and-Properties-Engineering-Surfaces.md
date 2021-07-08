@@ -1,6 +1,6 @@
 title: 13th International Conference on Metrology and Properties of Engineering Surfaces
 date: 2011-02-02 
-tags: event, home
+tags: event, metrology
 category: event
 
 <!--break-->

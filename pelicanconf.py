@@ -54,7 +54,7 @@ YEAR_ARCHIVE_SAVE_AS = ''
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 SLUGIFY_SOURCE = 'basename'
-INDEX_SAVE_AS = 'index.html'
+# INDEX_SAVE_AS = 'index.html'
 
 ARTICLE_SAVE_AS = '{path}/{slug}.html'
 ARTICLE_URL = '{path}/{slug}.html'
@@ -103,14 +103,13 @@ SITEMAP = {
 DEFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = ('%d-%m-%Y')
 
-SITEURL = '.'
+SITEURL = 'https://bear-rsg.github.io/4m-association'
 
 # Static files
 STATIC_PATHS = [
     'images',
-    'css',
-    'scss',
     'assets',
+    'files'
 ]
 
 EXTRA_PATH_METADATA = {
@@ -153,14 +152,14 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-    ('Home', '/index.html'),
-    ('About', '/about.html'),
-    ('Interest Groups', '/interest-groups.html'),
-    ('Projects', '/projects.html'),
-    ('Join 4M', '/join4m.html'),
-    ('Bulletin', '/bulletin/index.html'),
-    ('4M Conference Series', '/conference/conference-index.html'),
-    ('Expert Workshop FOCUS', '/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
+    ('Home', '/4m-association/index.html'),
+    ('About', '/4m-association/about.html'),
+    ('Interest Groups', '/4m-association/interest-groups.html'),
+    ('Projects', '/4m-association/projects.html'),
+    ('Join 4M', '/4m-association/join4m.html'),
+    ('Bulletin', '/4m-association/bulletin/index.html'),
+    ('4M Conference Series', '/4m-association/conference/index/conference-index.html'),
+    ('Expert Workshop FOCUS', '/4m-association/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
 )
 
 LOCALE = ('en_GB', 'en')

@@ -1,6 +1,6 @@
 title: CICMT Conference
 date: 2011-10-12 
-tags: event, home
+tags: event
 category: event
 
 The next “IMAPS/ACerS 8th International Conference and Exhibition on Ceramic Interconnect and Ceramic Microsystems Technologies” will be held in Radisson Blu Hotel, Erfurt, Germany on April 16 - 19, 2012.

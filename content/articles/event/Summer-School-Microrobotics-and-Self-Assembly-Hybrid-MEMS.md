@@ -1,6 +1,6 @@
 title: Summer School in Microrobotics and Self-Assembly for Hybrid MEMS
 date: 2010-05-05 
-tags: event, home
+tags: event
 category: event
 
 This Summer School is a real opportunity to go into the microworld and discover innovative approaches and tools.

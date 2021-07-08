@@ -1,6 +1,6 @@
 title: Nanofutures meeting
 date: 2009-10-06 
-tags: event, home
+tags: event
 category: event
 
 Please find, available to download below, the Agenda of a Nanofutures preparatory meeting, which has been organized in Brussels by Christos Tokamanis to present and discuss the Nanofutures Initiative.

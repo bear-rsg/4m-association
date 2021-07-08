@@ -1,5 +1,7 @@
 title: WCMNM2020
 date: 2019-10-24 
+category: conference
+tags: conference
 slug: conference-WCMNM2020
 
 ##  As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.
@@ -13,7 +15,7 @@ The 2020 World Congress on Micro and Nano Manufacturing will take place from **2
 It is jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM).
 
 
-<img src="/images/Mumbai-1.jpg" width="100%">
+<img src="/4m-association/images/mumbai-1.jpg" width="100%">
 
 The Congress will take place in the **Victor Menezes Convention Centre (VMCC), IIT Bombay**.
 

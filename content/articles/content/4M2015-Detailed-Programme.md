@@ -1,6 +1,7 @@
 title: 4M 2015 Detailed Programme
 date: 2014-07-30
-
+tags: event, 4m-conference, conference
+category: conference
 **Download the full schedule at the bottom of this page!**
 
 The slot for each paper will last 20 minutes, including 15 minutes for the presentation + 5 minutes for questions & answers. 
@@ -16,7 +17,7 @@ Please prepare your presentation on a pen drive to upload it on the pc that will
 Castello Sforzesco 
  Piazza Castello - Milano [map](https://www.google.it/maps/place/castello%2bsforzesco/@45.470476,9.179332,17z/data=!4m2!3m1!1s0x4786fcb60ea97b3d:0x6556dd66c472c29b)  
 
-18:00 - 21:00  Registration & Welcome Party [details](/content/Social-Events.html) 
+18:00 - 21:00  Registration & Welcome Party [details](/4m-association/content/Social-Events.html) 
 
 
  
@@ -58,7 +59,7 @@ Assolombarda congress centre
 16:00 - 17:40  Parallel sessions 
 
 
-19:30 - 23:00 Gala Dinner @ Palazzo delle Stelline [details](/content/Social-Events.html)
+19:30 - 23:00 Gala Dinner @ Palazzo delle Stelline [details](/4m-association/content/Social-Events.html)
 
 
  
@@ -104,7 +105,7 @@ Politecnico di Milano Building BL27
 16:30 - 18:30  Parallel sessions 
 
 
-19:00 - 22:00 Lab Dinner [details](/content/Social-Events.html)
+19:00 - 22:00 Lab Dinner [details](/4m-association/content/Social-Events.html)
 
 
  
@@ -143,7 +144,7 @@ Politecnico di Milano
  
 
 
-15:00 - 16:00 "The Last Supper" visit [details](/content/Social-Events.html)
+15:00 - 16:00 "The Last Supper" visit [details](/4m-association/content/Social-Events.html)
 
 
 

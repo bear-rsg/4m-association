@@ -1,6 +1,6 @@
 title: Devices for harsh environments
 date: 2009-03-31 
-tags: event, home
+tags: event
 category: event
 
 TU Wien are organising this **4M Workshop** on the topic of:  

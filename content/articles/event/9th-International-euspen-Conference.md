@@ -1,6 +1,6 @@
 title: 9th International euspen Conference
 date: 2009-03-05 
-tags: event, home
+tags: event
 category: event
 
 ### Theme

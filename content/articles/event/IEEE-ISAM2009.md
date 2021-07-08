@@ -1,6 +1,6 @@
 title: IEEE ISAM2009
 date: 2009-06-30 
-tags: event, home
+tags: event
 category: event
 
 2009 IEEE International Symposium on Assembly and Manufacturing [(IEEE ISAM 2009)](http://www.isam2009.org) will be held in Seoul, Korea on 17 to 20 November 2009. The Symposium aims at providing a forum for researchers and practitioners working on the diverse issues of assembly and manufacturing in various product sizes, production scales, and product life-cycle.  

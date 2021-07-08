@@ -1,6 +1,6 @@
 title: SAVE THE DATE for the 4M/ICOMM 2015 Conference!
 date: 2014-11-04 
-tags: event, home
+tags: event
 category: event
 
 ### 31 March – 2 April 2015, Milan, Italy
@@ -13,7 +13,7 @@ Dr. Irene Fassi, CNR-ITIA
 Prof. Gloria Wiens, University of Florida
 Prof. Stefan Dimov, Birmingham University 
 
-[LINK](/conference/2015) to conference website
+[LINK](/4m-association/conference/2015) to conference website
 
 Co-organised by: 
 

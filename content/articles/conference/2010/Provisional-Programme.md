@@ -1,5 +1,7 @@
 title: Overview Programme
 date: 2010-10-04
+category: conference
+tags: conference
 
 This Provisional Programme does not include the detailed schedule for presentations.
 <!--break-->

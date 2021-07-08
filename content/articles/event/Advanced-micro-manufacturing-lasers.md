@@ -1,6 +1,6 @@
 title: Advanced micro-manufacturing with lasers
 date: 2010-09-08 
-tags: event, home
+tags: event
 category: event
 
 The Association of Industrial Laser Users (AILU) is to hold a workshop on ‘Advanced micro-manufacturing with lasers’.

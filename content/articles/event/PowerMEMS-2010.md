@@ -1,6 +1,6 @@
 title: PowerMEMS 2010
 date: 2010-05-14 
-tags: event, home
+tags: event
 category: event
 
 The 10th International Workshop on Micro and Nanotechnology for Power Generation and Energy Conversion Applications

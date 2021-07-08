@@ -3,7 +3,7 @@ date: 2018-10-08
 category: bulletin
 tags: bulletin
 
-<img src="/images/Seminar MIM2.jpg" width="100%">
+<img src="/4m-association/images/seminar_mim2.jpg" width="100%">
 
 
 Working with injection molding? Tools production? Product development? This seminar will give you the
@@ -27,4 +27,4 @@ Download a 30 pages free preview of the ‘Micro Injection Molding’ book [HERE
 
 **More details can be found in the attached pdf below**
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

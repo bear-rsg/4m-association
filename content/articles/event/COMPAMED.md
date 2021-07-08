@@ -1,6 +1,6 @@
 title: COMPAMED
 date: 2009-03-10 
-tags: event, home
+tags: event
 category: event
 
 High-tech solutions for medical technology international trade fair in Düsseldorf,

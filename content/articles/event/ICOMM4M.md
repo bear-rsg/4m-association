@@ -1,9 +1,9 @@
 title: ICOMM/4M
 date: 2010-05-14 
-tags: event, home
+tags: event
 category: event
 
-![ICOMM/4M 2010](/images/logo%202010.jpg class="thumbnail-teaser")  
+![ICOMM/4M 2010](/4m-association/images/logo%202010.jpg)  
 The [5th International Conference on MicroManufacturing](http://www.conferencing.uwex.edu/conferences/ICOMM10)
 focuses on the processes, equipment, and systems for fabricating miniature parts with micro-scale features.
 <!--break-->

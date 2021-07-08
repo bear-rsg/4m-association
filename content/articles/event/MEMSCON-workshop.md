@@ -1,6 +1,6 @@
 title: MEMSCON workshop
 date: 2010-07-02 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

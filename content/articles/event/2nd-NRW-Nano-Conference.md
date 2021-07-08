@@ -1,6 +1,6 @@
 title: 2nd NRW Nano-Conference
 date: 2009-03-13 
-tags: event, home
+tags: event
 category: event
 
 NRW Nano-Conference shows trends and highlights in 2009 - research and industry meet in Dortmund.

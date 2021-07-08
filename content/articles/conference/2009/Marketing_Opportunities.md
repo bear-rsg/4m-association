@@ -1,5 +1,7 @@
 title: Marketing Opportunities
 date: 2009-02-17 
+category: conference
+tags: conference
 
 Stand out from the rest in front of more than 150 micro-manufacturing experts from around the world.
 

@@ -1,6 +1,6 @@
 title: 2nd Aachen Precision Days
 date: 2010-01-20 
-tags: event, home
+tags: event
 category: event
 
 This international conference with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research.

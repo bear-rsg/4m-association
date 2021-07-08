@@ -1,6 +1,6 @@
 title: Applications of Micro and Nano Technology in Biosensing & Diagnostics
 date: 2009-08-11 
-tags: event, home
+tags: event, micro-fluidics
 category: event
 
 The aim of this meeting is to highlight current advances in biosensing and diagnostics being made possible by the application of micro and nanotechnology.

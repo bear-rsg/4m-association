@@ -1,6 +1,6 @@
 title: 4M MicroFluidics Division
 date: 2009-05-15 
-tags: event, home
+tags: event
 category: event
 
 The next and last divisional meeting (microfluidic division) will be held in Karlsruhe following the [4M GC meeting.](../event/4M-Governing-Council.html)

@@ -6,7 +6,7 @@ The 4M2020 programme (*) is organising a Foresight Forum from the 9th to 11th Se
 ### The projects should be collaborative and operating at the time of the Forum.
 
 
-This is an invitation only event, and we would be very grateful if you could indicate your intention to attend by replying to [David Gardner](mailto:david.gardner@ctechinnovation.com) and [Brigitte Rameau](mailto:brigitte.rameau@cea.fr) by the ##12th June### stating the name of the project, and the contact details of the project coordinator who will be invited to attend the Forum.
+This is an invitation only event, and we would be very grateful if you could indicate your intention to attend by replying to [David Gardner](mailto:david.gardner@ctechinnovation.com) and [Brigitte Rameau](mailto:brigitte.rameau@cea.fr) by the 12th June stating the name of the project, and the contact details of the project coordinator who will be invited to attend the Forum.
  
 Peers discussions will be animated and structured in clusters of technologies / application domains. Main challenges and recommendations will be formulated towards strategic and coherent R&D efforts in support of the EU industry and value chains in Micro and Nano Manufacturing. This Forum is an opportunity for the Micro and Nano Manufacturing community to discuss and define its vision and future priorities in the context of H2020, and to identify potential future high-impact projects.
  

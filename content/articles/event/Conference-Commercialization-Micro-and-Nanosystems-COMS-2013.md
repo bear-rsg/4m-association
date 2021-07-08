@@ -1,6 +1,6 @@
 title: Conference on Commercialization of Micro and Nanosystems COMS 2013
 date: 2013-03-22 
-tags: event, home
+tags: event
 category: event
 
 **Venue: Enschede, The Netherlands**

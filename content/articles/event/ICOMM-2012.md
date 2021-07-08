@@ -1,6 +1,6 @@
 title: ICOMM 2012
 date: 2012-03-07 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

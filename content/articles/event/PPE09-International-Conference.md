@@ -1,10 +1,10 @@
 title: PPE'09 International Conference
 date: 2009-11-17 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->
-![polymer processing engineering conference 2009](/images/ppe_logo.jpg)
+![polymer processing engineering conference 2009](/4m-association/images/ppe_logo.jpg)
 
 [PPE'09](http://www.polyeng.com/ppe09/) aims to:  
 

@@ -9,4 +9,4 @@ The 2017 World Congress on Micro and Nano Manufacturing, a joint conference of t
 
 More information can be found by clicking [HERE.](http://ww2.me.ntu.edu.tw/wcmnm2017/)
 
-[&larr; Bulletins](/bulletin/index.html)
+[&larr; Bulletins](/4m-association/bulletin/index.html)

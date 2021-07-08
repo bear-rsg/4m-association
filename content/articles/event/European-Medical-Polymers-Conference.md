@@ -1,6 +1,6 @@
 title: European Medical Polymers Conference
 date: 2010-08-13 
-tags: event, home
+tags: event
 category: event
 
 Being held in Belfast at the Polymer Processing Research Centre of Queen's University.

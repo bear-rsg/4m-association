@@ -1,6 +1,6 @@
 title: Industrial Technologies 2014
 date: 2014-04-09 
-tags: event, home
+tags: event
 category: event
 
 ### April 9 - 11 2014, Athens, Greece

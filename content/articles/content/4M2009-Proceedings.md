@@ -1,5 +1,6 @@
 title: 4M 2009 Proceedings
 date: 2012-05-21
+tag: 4m-conference
 
 The Proceedings of the 4M2009 Conference are available again online.
 <!--break-->

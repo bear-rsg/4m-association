@@ -1,7 +1,9 @@
 title: Ian Hutchings
 date: 2009-02-05 
+category: conference
+tags: conference
 
-![Ian Hutchins](/images/IanHutchings.jpg class="inline-img") 
+![Ian Hutchins](/4m-association/images/ianhutchings.jpg) 
 ##  Name
 
 ‭Ian Michael Hutchings

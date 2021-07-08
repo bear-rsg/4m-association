@@ -1,6 +1,6 @@
 title: Workshop on "Tape 3D structuring"
 date: 2010-09-20 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

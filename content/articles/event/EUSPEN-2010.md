@@ -1,10 +1,10 @@
 title: EUSPEN 2010
 date: 2010-01-11 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->
-![euspen](/images/euspen.png)Rapid and efficient industrial innovation requires not only leading scientific knowledge, but an understanding of latest technological advances and the harnessing of effective collaboration. Euspen  provides an entrepreneurial network of leading industrialists and researchers working in the field of precision, micro and nano engineering through which these three key activities are delivered.
+![euspen](/4m-association/images/euspen.png)Rapid and efficient industrial innovation requires not only leading scientific knowledge, but an understanding of latest technological advances and the harnessing of effective collaboration. Euspen  provides an entrepreneurial network of leading industrialists and researchers working in the field of precision, micro and nano engineering through which these three key activities are delivered.
  
 Technologically, euspen’s focus lies in:
 

@@ -1,5 +1,7 @@
 title: License agreement 
 date: 2009-06-04
+category: conference
+tags: conference
 
 ##  Important dates
 

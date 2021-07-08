@@ -1,6 +1,6 @@
 title: MULTILAYER Workshop
 date: 2009-12-07 
-tags: event, home, Multilayer
+tags: event, multilayer
 category: event
 
 <!--break-->

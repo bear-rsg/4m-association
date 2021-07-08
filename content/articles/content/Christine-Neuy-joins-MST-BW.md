@@ -2,7 +2,7 @@ title: Christine Neuy joins MST BW
 date: 2011-02-15 
 
 <!--break-->
-![Christine Neuy](/images/Christine_Neuy_4c.jpg)   
+![Christine Neuy](/4m-association/images/christine_neuy_4c.jpg)   
 
 MST BW (Mikrosystemtechnik Baden-Württemberg) have announced that Christine Neuy has joined their team.  
 

@@ -1,6 +1,6 @@
 title: LBMP-VI
 date: 2011-06-08 
-tags: event, home
+tags: event
 category: event
 
 <!--break-->

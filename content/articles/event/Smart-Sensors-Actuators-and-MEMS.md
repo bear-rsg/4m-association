@@ -1,6 +1,6 @@
 title: Smart Sensors, Actuators and MEMS
 date: 2010-08-11 
-tags: event, home
+tags: event
 category: event
 
 This biannual conference is the fifth in the series following its successful launch in 2003.

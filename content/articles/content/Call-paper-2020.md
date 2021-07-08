@@ -22,4 +22,4 @@ title:   Topics to cover
 </ul>
 
 Click [here>>](https://www.me.iitb.ac.in/~wcmnm/Call_for_papers.pdf) for paper submission details.
-Before submitting a paper, please review the required [template>>](/images/WCMNM_paper_template_1.docx).
+Before submitting a paper, please review the required [template>>](/4m-association/images/WCMNM_paper_template_1.docx).

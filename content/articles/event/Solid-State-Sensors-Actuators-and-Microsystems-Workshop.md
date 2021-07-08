@@ -1,9 +1,9 @@
 title: Solid-State Sensors, Actuators and Microsystems Workshop
 date: 2009-11-17 
-tags: event, home
+tags: event
 category: event
 
-![Transducer Research Foundation](/images/trflogo.gif class="thumbnail-teaser")  
+![Transducer Research Foundation](/4m-association/images/trflogo.gif)  
 
 The thirteenth in the series of Hilton Head Workshops on the science and technology of solid-state sensors, actuators, and microsystems will be held on June 6-10, 2010.
 <!--break-->
