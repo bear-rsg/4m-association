@@ -1,0 +1,11 @@
+name: ci-eslint
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install modules
+        run: yarn global add eslint --prefix ~/
+      - name: Run ESLint
+        run: ~/bin/eslint . --ext .js,.jsx,.ts,.tsx
