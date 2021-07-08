@@ -1,0 +1,34 @@
+---
+
+  flake8:
+    tags:
+      - bear-gitlab-runners
+    image: pipelinecomponents/flake8:latest
+    script:
+      - flake8 -v .
+
+  stylelint:
+    tags:
+      - bear-gitlab-runners
+    image: pipelinecomponents/stylelint
+    script:
+      - stylelint .
+
+  eslint:
+    tags:
+      - bear-gitlab-runners
+    image: pipelinecomponents/stylelint
+    script:
+      # - eslint .
+      - echo "Enable eslint when JS added"
+
+  tidy:
+    tags:
+      - bear-gitlab-runners
+    image: python:3.6
+    before_script:
+      - apt update
+      - apt -y install tidy
+    script:
+      # tidy exits 1 for warnings, 2 for errors, 0 for neither.
+      - export EX=0; for f in $(find -name *.html); do MYEX=$(tidy $f; echo $?); if [[ ${MYEX} -eq 2 ]]; then EX=$(expr ${EX} + 1); fi; done; if [[ ${EX} -ne 0 ]] ; then exit ${EX}; fi
