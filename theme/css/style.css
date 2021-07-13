@@ -239,3 +239,7 @@ figure.floatcenter, .align-center {
 .gap-left {
   margin-left: 10px;
 }
+
+@media (min-width: 992px) {
+
+}

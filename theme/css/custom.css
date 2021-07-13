@@ -112,3 +112,20 @@ h1 a:hover {
 	padding: 8px 24px 24px 24px;
 	border-radius: 8px;
 }
+@media (max-width:992px){
+    .navbar-ex1-collapse{
+        display: block;
+    }
+    .navbar-toggle{
+        display: none;
+    }
+}
+@media (min-width:992px){
+    .navbar-ex1-collapse{
+        display: none;
+    }
+    .navbar-toggle{
+        display: block;
+    }
+
+}
