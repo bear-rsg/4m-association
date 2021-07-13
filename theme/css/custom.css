@@ -116,6 +116,9 @@ h1 a:hover {
     .navbar-nav{
         display: none;
     }
+    .navbar-header{
+        float: right;
+    }
     .navbar-toggle{
         display: block;
         position: relative;
