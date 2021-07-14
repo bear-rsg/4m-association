@@ -113,9 +113,6 @@ h1 a:hover {
 	border-radius: 8px;
 }
 @media (max-width:992px){
-    .navbar-nav{
-        display: none;
-    }
     .navbar-header{
         float: right;
     }
@@ -134,9 +131,6 @@ h1 a:hover {
     }
 }
 @media (min-width:992px){
-    .navbar-nav{
-        display: block;
-    }
     .navbar-toggle{
         display: none;
     }
