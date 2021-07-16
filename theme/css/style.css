@@ -291,3 +291,8 @@ figure.floatcenter, .align-center {
         font-size: 20px;
     }
 }
+
+.pager li > a:hover, .pager li > a:focus {
+    text-decoration: none;
+    background-color: #2c3e50;
+}
