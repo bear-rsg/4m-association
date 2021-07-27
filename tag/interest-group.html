@@ -81,13 +81,6 @@
             <div class="row">
                 <div class="col-sm-9">
             <article>
-                <h2><a href="../interest-group/ceramic-processing/ceramic-processing.html"><p>Ceramic Processing</p></a></h2>
-                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
-                    <a class="btn btn-default btn-xs" href="../interest-group/ceramic-processing/ceramic-processing.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="../interest-group/interest-groups.html"><p>Interest Groups</p></a></h2>
                 <div class="summary"><h3><a href="/4m-association/node/15">Polymer Processing</a></h3>
 <p>4M Association interest group for those processing polymers</p>
@@ -96,6 +89,13 @@
 <h3><a href="/4m-association/node/16">Ceramics Interest Group</a></h3>
 <p><img alt="Ceramics thumbnail" src="/4m-association/images/3d_pack_4mass.jpg"> Recent postings which may be of interest to the …</p>
                     <a class="btn btn-default btn-xs" href="../interest-group/interest-groups.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../interest-group/ceramic-processing/ceramic-processing.html"><p>Ceramic Processing</p></a></h2>
+                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
+                    <a class="btn btn-default btn-xs" href="../interest-group/ceramic-processing/ceramic-processing.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -120,6 +120,13 @@
             </article>
             <hr/>
             <article>
+                <h2><a href="../interest-group/metrology/metrology.html"><p>Metrology Interest Group</p></a></h2>
+                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
+                    <a class="btn btn-default btn-xs" href="../interest-group/metrology/metrology.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../node/23/23.html"><p>Metrology Interest Group</p></a></h2>
                 <div class="summary"><p>News of interest to this group will appear here.</p>
 <p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
@@ -128,9 +135,13 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="../interest-group/metrology/metrology.html"><p>Metrology Interest Group</p></a></h2>
-                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
-                    <a class="btn btn-default btn-xs" href="../interest-group/metrology/metrology.html">more ...</a>
+                <h2><a href="../node/16/16.html"><p>Micro-Optics Interest Group</p></a></h2>
+                <div class="summary"><p>The aim of this group is to bring together commercial and non-commercial/academic parties interested in the technologies applied in micro optical manufacturing.</p>
+<!--break-->
+<p>To find out more information about the latest developments in this area visit the webpages of the group at:
+<a href="http://www.opticsmanufacturing.net"> <strong>www.opticsmanufacturing.net</strong></a></p>
+<p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
+                    <a class="btn btn-default btn-xs" href="../node/16/16.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -147,17 +158,6 @@
                 <h2><a href="../node/22/22.html"><p>Ceramics Interest Group</p></a></h2>
                 <div class="summary"><p>Recent postings which may be of interest to the Ceramics group are shown below.</p>
                     <a class="btn btn-default btn-xs" href="../node/22/22.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../node/16/16.html"><p>Micro-Optics Interest Group</p></a></h2>
-                <div class="summary"><p>The aim of this group is to bring together commercial and non-commercial/academic parties interested in the technologies applied in micro optical manufacturing.</p>
-<!--break-->
-<p>To find out more information about the latest developments in this area visit the webpages of the group at:
-<a href="http://www.opticsmanufacturing.net"> <strong>www.opticsmanufacturing.net</strong></a></p>
-<p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
-                    <a class="btn btn-default btn-xs" href="../node/16/16.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -418,6 +418,44 @@
     <script type="text/javascript">
         $(document).ready(function() {
 
+          $(".conference-book").hide();
+
+          if(document.location.href.indexOf('/conference/2010') > -1) {
+            alert("conf 2010");
+            $(".conference-2010").show();
+          }
+          if(document.location.href.indexOf('/conference/2011') > -1) {
+            alert("conf 2011");
+            $(".conference-2011").show();
+          }
+          if(document.location.href.indexOf('/conference/2012') > -1) {
+            alert("conf 2012");
+            $(".conference-2012").show();
+          }
+          if(document.location.href.indexOf('/conference/2013') > -1) {
+            alert("conf 2013");
+            $(".conference-2013").show();
+          }
+          if(document.location.href.indexOf('/conference/2015') > -1) {
+            alert("conf 2015");
+            $(".conference-2015").show();
+          }
+          if(document.location.href.indexOf('/conference/2016') > -1) {
+            alert("conf 2016");
+            $(".conference-2016").show();
+          }
+          if(document.location.href.indexOf('/conference/2018') > -1) {
+            alert("conf 2018");
+            $(".conference-2018").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
+            alert("conf 2019");
+            $(".conference-2019").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
+            alert("conf 2020");
+            $(".conference-2020").show();
+          }
           $("table").addClass("table-responsive").addClass("table-striped");
           var w = $(window).width();
           if(w > 767) {
@@ -428,34 +466,6 @@
               }
           }
 
-          $(".conference-book").hide();
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            $(".conference-2010").show();
-          }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            $(".conference-2011").show();
-          }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            $(".conference-2012").show();
-          }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            $(".conference-2013").show();
-          }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            $(".conference-2015").show();
-          }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            $(".conference-2016").show();
-          }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            $(".conference-2018").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            $(".conference-2019").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            $(".conference-2020").show();
-          }
         });
     </script>
 </body>

@@ -371,6 +371,44 @@ site in Petersaurach in southern Germany. From 2006 to the end of 2009, he was h
     <script type="text/javascript">
         $(document).ready(function() {
 
+          $(".conference-book").hide();
+
+          if(document.location.href.indexOf('/conference/2010') > -1) {
+            alert("conf 2010");
+            $(".conference-2010").show();
+          }
+          if(document.location.href.indexOf('/conference/2011') > -1) {
+            alert("conf 2011");
+            $(".conference-2011").show();
+          }
+          if(document.location.href.indexOf('/conference/2012') > -1) {
+            alert("conf 2012");
+            $(".conference-2012").show();
+          }
+          if(document.location.href.indexOf('/conference/2013') > -1) {
+            alert("conf 2013");
+            $(".conference-2013").show();
+          }
+          if(document.location.href.indexOf('/conference/2015') > -1) {
+            alert("conf 2015");
+            $(".conference-2015").show();
+          }
+          if(document.location.href.indexOf('/conference/2016') > -1) {
+            alert("conf 2016");
+            $(".conference-2016").show();
+          }
+          if(document.location.href.indexOf('/conference/2018') > -1) {
+            alert("conf 2018");
+            $(".conference-2018").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
+            alert("conf 2019");
+            $(".conference-2019").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
+            alert("conf 2020");
+            $(".conference-2020").show();
+          }
           $("table").addClass("table-responsive").addClass("table-striped");
           var w = $(window).width();
           if(w > 767) {
@@ -381,34 +419,6 @@ site in Petersaurach in southern Germany. From 2006 to the end of 2009, he was h
               }
           }
 
-          $(".conference-book").hide();
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            $(".conference-2010").show();
-          }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            $(".conference-2011").show();
-          }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            $(".conference-2012").show();
-          }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            $(".conference-2013").show();
-          }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            $(".conference-2015").show();
-          }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            $(".conference-2016").show();
-          }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            $(".conference-2018").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            $(".conference-2019").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            $(".conference-2020").show();
-          }
         });
     </script>
 </body>

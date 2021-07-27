@@ -80,18 +80,9 @@
             <div class="row">
                 <div class="col-sm-9">
             <article>
-                <h2><a href="./content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip/rapid-low-cost-point-care-flu-detection-microfluidic-chip.html"><p>Rapid, low-cost, point of care flu detection from microfluidic chip</p></a></h2>
-                <div class="summary"><!--break-->
-<p>A four-year, National Institutes of Health-funded study of 146 patients with flu-like symptoms spearheaded by Associate Professor Catherine Klapperich (BME, MSE) at Boston University has validated a prototype rapid, low-cost, accurate, point-of-care device that promises a better standard of care.  </p>
-<p>Once optimized and deployed in the clinic, the new device …</p>
-                    <a class="btn btn-default btn-xs" href="./content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip/rapid-low-cost-point-care-flu-detection-microfluidic-chip.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./content/FOTEC-logo/fotec-logo.html"><p>FOTEC logo</p></a></h2>
-                <div class="summary"><p>FOTEC logo</p>
-                    <a class="btn btn-default btn-xs" href="./content/FOTEC-logo/fotec-logo.html">more ...</a>
+                <h2><a href="./content/Alicona-logo/alicona-logo.html"><p>Alicona logo</p></a></h2>
+                <div class="summary"><p>Alicona logo attached.</p>
+                    <a class="btn btn-default btn-xs" href="./content/Alicona-logo/alicona-logo.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -105,6 +96,13 @@
             </article>
             <hr/>
             <article>
+                <h2><a href="./node/606/606.html"><p>FOTEC logo</p></a></h2>
+                <div class="summary"><p>FOTEC logo</p>
+                    <a class="btn btn-default btn-xs" href="./node/606/606.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="./node/605/605.html"><p>Alicona logo</p></a></h2>
                 <div class="summary"><p>Alicona logo attached.</p>
                     <a class="btn btn-default btn-xs" href="./node/605/605.html">more ...</a>
@@ -112,16 +110,18 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./content/Alicona-logo/alicona-logo.html"><p>Alicona logo</p></a></h2>
-                <div class="summary"><p>Alicona logo attached.</p>
-                    <a class="btn btn-default btn-xs" href="./content/Alicona-logo/alicona-logo.html">more ...</a>
+                <h2><a href="./content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip/rapid-low-cost-point-care-flu-detection-microfluidic-chip.html"><p>Rapid, low-cost, point of care flu detection from microfluidic chip</p></a></h2>
+                <div class="summary"><!--break-->
+<p>A four-year, National Institutes of Health-funded study of 146 patients with flu-like symptoms spearheaded by Associate Professor Catherine Klapperich (BME, MSE) at Boston University has validated a prototype rapid, low-cost, accurate, point-of-care device that promises a better standard of care.  </p>
+<p>Once optimized and deployed in the clinic, the new device …</p>
+                    <a class="btn btn-default btn-xs" href="./content/Rapid-low-cost-point-care-flu-detection-microfluidic-chip/rapid-low-cost-point-care-flu-detection-microfluidic-chip.html">more ...</a>
                 </div>
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/606/606.html"><p>FOTEC logo</p></a></h2>
+                <h2><a href="./content/FOTEC-logo/fotec-logo.html"><p>FOTEC logo</p></a></h2>
                 <div class="summary"><p>FOTEC logo</p>
-                    <a class="btn btn-default btn-xs" href="./node/606/606.html">more ...</a>
+                    <a class="btn btn-default btn-xs" href="./content/FOTEC-logo/fotec-logo.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -421,6 +421,44 @@
     <script type="text/javascript">
         $(document).ready(function() {
 
+          $(".conference-book").hide();
+
+          if(document.location.href.indexOf('/conference/2010') > -1) {
+            alert("conf 2010");
+            $(".conference-2010").show();
+          }
+          if(document.location.href.indexOf('/conference/2011') > -1) {
+            alert("conf 2011");
+            $(".conference-2011").show();
+          }
+          if(document.location.href.indexOf('/conference/2012') > -1) {
+            alert("conf 2012");
+            $(".conference-2012").show();
+          }
+          if(document.location.href.indexOf('/conference/2013') > -1) {
+            alert("conf 2013");
+            $(".conference-2013").show();
+          }
+          if(document.location.href.indexOf('/conference/2015') > -1) {
+            alert("conf 2015");
+            $(".conference-2015").show();
+          }
+          if(document.location.href.indexOf('/conference/2016') > -1) {
+            alert("conf 2016");
+            $(".conference-2016").show();
+          }
+          if(document.location.href.indexOf('/conference/2018') > -1) {
+            alert("conf 2018");
+            $(".conference-2018").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
+            alert("conf 2019");
+            $(".conference-2019").show();
+          }
+          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
+            alert("conf 2020");
+            $(".conference-2020").show();
+          }
           $("table").addClass("table-responsive").addClass("table-striped");
           var w = $(window).width();
           if(w > 767) {
@@ -431,34 +469,6 @@
               }
           }
 
-          $(".conference-book").hide();
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            $(".conference-2010").show();
-          }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            $(".conference-2011").show();
-          }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            $(".conference-2012").show();
-          }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            $(".conference-2013").show();
-          }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            $(".conference-2015").show();
-          }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            $(".conference-2016").show();
-          }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            $(".conference-2018").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            $(".conference-2019").show();
-          }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            $(".conference-2020").show();
-          }
         });
     </script>
 </body>
