@@ -162,32 +162,6 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./content/Programme-Committee-0/programme-committee-0.html"><p>Scientific Committee</p></a></h2>
-                <div class="summary"><h3>Scientific Chairs</h3>
-<p>Irene Fassi (ITIA-CNR, Italy)</p>
-<p>Samuel Bigott (Cardiff University, UK)</p>
-<p>Tohru Sasaki (University of Toyama, Japan)
-title:   Committee Members</p>
-<p>Annoni, Massimiliano</p>
-<p>Attanasio, Aldo</p>
-<p>Basile, Vito</p>
-<p>Bissacco, Giuliano</p>
-<p>Bordatchev, Evgueni</p>
-<p>Bruschi, Stefania</p>
-<p>Castagne, Sylvie</p>
-<p>Cheng, Kai</p>
-<p>Chung, Chunhui</p>
-<p>Dong, Xianghuai</p>
-<p>D'urso, Gianluca</p>
-<p>Ehmann, Kornel</p>
-<p>Elkaseer, Ahmed</p>
-<p>Ferraris, Eleonora</p>
-<p>Fillon, Bertrand …</p>
-                    <a class="btn btn-default btn-xs" href="./content/Programme-Committee-0/programme-committee-0.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="./node/778/778.html"><p>Scientific Committee</p></a></h2>
                 <div class="summary"><h2>Scientific Chairs</h2>
 <p>Irene Fassi (ITIA-CNR, Italy)</p>
@@ -211,6 +185,32 @@ title:   Committee Members</p>
 <p>Fillon, Bertrand</p>
 <p>Fu …</p>
                     <a class="btn btn-default btn-xs" href="./node/778/778.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="./content/Programme-Committee-0/programme-committee-0.html"><p>Scientific Committee</p></a></h2>
+                <div class="summary"><h3>Scientific Chairs</h3>
+<p>Irene Fassi (ITIA-CNR, Italy)</p>
+<p>Samuel Bigott (Cardiff University, UK)</p>
+<p>Tohru Sasaki (University of Toyama, Japan)
+title:   Committee Members</p>
+<p>Annoni, Massimiliano</p>
+<p>Attanasio, Aldo</p>
+<p>Basile, Vito</p>
+<p>Bissacco, Giuliano</p>
+<p>Bordatchev, Evgueni</p>
+<p>Bruschi, Stefania</p>
+<p>Castagne, Sylvie</p>
+<p>Cheng, Kai</p>
+<p>Chung, Chunhui</p>
+<p>Dong, Xianghuai</p>
+<p>D'urso, Gianluca</p>
+<p>Ehmann, Kornel</p>
+<p>Elkaseer, Ahmed</p>
+<p>Ferraris, Eleonora</p>
+<p>Fillon, Bertrand …</p>
+                    <a class="btn btn-default btn-xs" href="./content/Programme-Committee-0/programme-committee-0.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -477,13 +477,14 @@ title:   Committee Members</p>
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-
+    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    alert(url);
+    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
+        console.log('year: 2010');
       $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {

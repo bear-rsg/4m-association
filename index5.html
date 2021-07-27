@@ -111,13 +111,13 @@ You can <a href="http://rpsonline.com.sg/proceedings/9789810946098/index.html">v
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/788/788.html"><p>October 2018</p></a></h2>
+                <h2><a href="./bulletin/2018/October/October-2018/october-2018.html"><p>October 2018</p></a></h2>
                 <div class="summary"><p><img src="/4m-association/images/seminar_mim2.jpg" width="100%"></p>
 <p>Working with injection molding? Tools production? Product development? This seminar will give you the
 opportunity to stay up to date with the latest developments in precision micro injection molding (μIM),
 including: micro molding product development and industrial production, process monitoring and
 simulation, tooling technologies, additive manufacturing, quality control, metal/ceramic …</p>
-                    <a class="btn btn-default btn-xs" href="./node/788/788.html">more ...</a>
+                    <a class="btn btn-default btn-xs" href="./bulletin/2018/October/October-2018/october-2018.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -148,15 +148,6 @@ simulation, tooling technologies, additive manufacturing, quality control, metal
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/786/786.html"><p>Congress Programme</p></a></h2>
-                <div class="summary"><p><strong>A cocktail reception is available on the evening of the 17th at the congress venue.</strong></p>
-<p>The main congress programme starts with the registration at 8:00 on the 18th and ends after lunch, around 14:00, on the 20th.</p>
-<p>Kindly download the detailed programme from the link below.</p>
-                    <a class="btn btn-default btn-xs" href="./node/786/786.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="./node/799/799.html"><p>Congress Programme</p></a></h2>
                 <div class="summary"><p><strong>A reception is available on the evening of the 9th September at the congress venue.</strong></p>
 <p>The main congress programme starts with the registration at 8:30 on the 10th September and ends after lunch, around 14:00, on the 12th September.</p>
@@ -171,6 +162,15 @@ simulation, tooling technologies, additive manufacturing, quality control, metal
 <p>The main congress programme starts with the registration at 8:00 on the 18th and ends after lunch, around 14:00, on the 20th.</p>
 <p>Kindly download the detailed programme from the link below.</p>
                     <a class="btn btn-default btn-xs" href="./content/Congress-Programme/congress-programme.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="./node/786/786.html"><p>Congress Programme</p></a></h2>
+                <div class="summary"><p><strong>A cocktail reception is available on the evening of the 17th at the congress venue.</strong></p>
+<p>The main congress programme starts with the registration at 8:00 on the 18th and ends after lunch, around 14:00, on the 20th.</p>
+<p>Kindly download the detailed programme from the link below.</p>
+                    <a class="btn btn-default btn-xs" href="./node/786/786.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -462,13 +462,14 @@ simulation, tooling technologies, additive manufacturing, quality control, metal
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-
+    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    alert(url);
+    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
+        console.log('year: 2010');
       $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {

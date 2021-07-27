@@ -80,10 +80,10 @@
             <div class="row">
                 <div class="col-sm-9">
             <article>
-                <h2><a href="./content/ECF/ecf.html"><p>ECF</p></a></h2>
-                <div class="summary"><p>Technology suitable for small quantity production</p>
-<p>ECF is a new technique to machine hard materials and other electrochemically active materials. The tool movements are similar to conventional milling machines. Nevertheless ECF is an electrochemical process, hence both workpiece and tool are submerged in an electrolyte and held at a constant …</p>
-                    <a class="btn btn-default btn-xs" href="./content/ECF/ecf.html">more ...</a>
+                <h2><a href="./node/359/359.html"><p>Lithography and Etching</p></a></h2>
+                <div class="summary"><p>Technology suitable for small quantity production
+Ultraviolet lithography is a technology which involves surface cleaning, photoresist coating by spin-coating, spraying or dip-coating, exposing to UV radiation, developing and isotropic or anisotropic wet-etching of metals and semiconductors or dry-etching (anisotropic etching with verticallity of 89º, maximum aspect ratio in the order …</p>
+                    <a class="btn btn-default btn-xs" href="./node/359/359.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -118,18 +118,12 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/336/336.html"><p>Consortium Tests the Viability of Nanoimprint Lithography</p></a></h2>
-                <div class="summary"><p>Nanoimprint lithography (NIL) holds promise for patterning the small features of tomorrow's microchips.</p>
-<!--break-->
-<p>But, will it become a major semiconductor manufacturing technology or just be a novelty? Some argue it is an obvious choice for chip makers to continue down the path of Moore's Law, the doubling of the transistor …</p>
-                    <a class="btn btn-default btn-xs" href="./node/336/336.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./node/339/339.html"><p>Nanofutures - vision paper</p></a></h2>
-                <div class="summary"><p>The Nanofutures vision paper is available to download (to 4M Association members only) below.</p>
-                    <a class="btn btn-default btn-xs" href="./node/339/339.html">more ...</a>
+                <h2><a href="./node/322/322.html"><p>Nanoimprinting could lower solar cell manufacturing costs</p></a></h2>
+                <div class="summary"><!--break-->
+<p>Many researchers are investigating the development of flexible solar cells in the hope of improving efficiency and lowering manufacturing costs.</p>
+<p>However one researcher from UT Dallas aims to use nanoimprint lithography to produce precisely nanostructured devices rather than using chemical methods of manufacturing.  </p>
+<p>See the full article on the <a href="http://www.nanowerk.com/news/newsid%3D12921.php"><b><em>nanowerk …</em></b></a></p>
+                    <a class="btn btn-default btn-xs" href="./node/322/322.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -143,6 +137,13 @@
             </article>
             <hr/>
             <article>
+                <h2><a href="./node/339/339.html"><p>Nanofutures - vision paper</p></a></h2>
+                <div class="summary"><p>The Nanofutures vision paper is available to download (to 4M Association members only) below.</p>
+                    <a class="btn btn-default btn-xs" href="./node/339/339.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="./content/Nanofutures-vision-paper/nanofutures-vision-paper.html"><p>Nanofutures - vision paper</p></a></h2>
                 <div class="summary"><p>The Nanofutures vision paper is available to download (to 4M Association members only) below.</p>
                     <a class="btn btn-default btn-xs" href="./content/Nanofutures-vision-paper/nanofutures-vision-paper.html">more ...</a>
@@ -150,12 +151,11 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/322/322.html"><p>Nanoimprinting could lower solar cell manufacturing costs</p></a></h2>
-                <div class="summary"><!--break-->
-<p>Many researchers are investigating the development of flexible solar cells in the hope of improving efficiency and lowering manufacturing costs.</p>
-<p>However one researcher from UT Dallas aims to use nanoimprint lithography to produce precisely nanostructured devices rather than using chemical methods of manufacturing.  </p>
-<p>See the full article on the <a href="http://www.nanowerk.com/news/newsid%3D12921.php"><b><em>nanowerk …</em></b></a></p>
-                    <a class="btn btn-default btn-xs" href="./node/322/322.html">more ...</a>
+                <h2><a href="./node/336/336.html"><p>Consortium Tests the Viability of Nanoimprint Lithography</p></a></h2>
+                <div class="summary"><p>Nanoimprint lithography (NIL) holds promise for patterning the small features of tomorrow's microchips.</p>
+<!--break-->
+<p>But, will it become a major semiconductor manufacturing technology or just be a novelty? Some argue it is an obvious choice for chip makers to continue down the path of Moore's Law, the doubling of the transistor …</p>
+                    <a class="btn btn-default btn-xs" href="./node/336/336.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -422,13 +422,14 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-
+    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    alert(url);
+    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
+        console.log('year: 2010');
       $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {

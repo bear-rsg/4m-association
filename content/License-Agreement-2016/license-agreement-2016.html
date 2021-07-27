@@ -386,13 +386,14 @@ Telephone: +44(121)414 4143</p>
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-
+    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    alert(url);
+    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
+        console.log('year: 2010');
       $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {

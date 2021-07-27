@@ -102,13 +102,6 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="../content/Alicona-logo/alicona-logo.html"><p>Alicona logo</p></a></h2>
-                <div class="summary"><p>Alicona logo attached.</p>
-                    <a class="btn btn-default btn-xs" href="../content/Alicona-logo/alicona-logo.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="../content/FOTEC-logo/fotec-logo.html"><p>FOTEC logo</p></a></h2>
                 <div class="summary"><p>FOTEC logo</p>
                     <a class="btn btn-default btn-xs" href="../content/FOTEC-logo/fotec-logo.html">more ...</a>
@@ -116,9 +109,23 @@
             </article>
             <hr/>
             <article>
+                <h2><a href="../content/Alicona-logo/alicona-logo.html"><p>Alicona logo</p></a></h2>
+                <div class="summary"><p>Alicona logo attached.</p>
+                    <a class="btn btn-default btn-xs" href="../content/Alicona-logo/alicona-logo.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="../content/PEP-logo/pep-logo.html"><p>PEP logo</p></a></h2>
                 <div class="summary"><p>PEP logo</p>
                     <a class="btn btn-default btn-xs" href="../content/PEP-logo/pep-logo.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../content/RONDOL-logo/rondol-logo.html"><p>RONDOL logo</p></a></h2>
+                <div class="summary"><p><img alt="RONDOL" src="/4m-association/images/logo_web_address_3.jpg">   </p>
+                    <a class="btn btn-default btn-xs" href="../content/RONDOL-logo/rondol-logo.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -133,13 +140,6 @@
                 <h2><a href="../content/Courbis-Logo/courbis-logo.html"><p>Courbis Logo</p></a></h2>
                 <div class="summary"><p>Courbis Logo</p>
                     <a class="btn btn-default btn-xs" href="../content/Courbis-Logo/courbis-logo.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="../content/RONDOL-logo/rondol-logo.html"><p>RONDOL logo</p></a></h2>
-                <div class="summary"><p><img alt="RONDOL" src="/4m-association/images/logo_web_address_3.jpg">   </p>
-                    <a class="btn btn-default btn-xs" href="../content/RONDOL-logo/rondol-logo.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -399,13 +399,14 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-
+    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    alert(url);
+    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
+        console.log('year: 2010');
       $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
