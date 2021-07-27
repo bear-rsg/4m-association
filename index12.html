@@ -150,15 +150,6 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/727/727.html"><p>University of Nottingham - Faculty of Engineering – Division of Manufacturing</p></a></h2>
-                <div class="summary"><p><strong>PhD Research Studentship</strong></p>
-<p>Development of optical coordinate metrology techniques for precision and additive manufactured components
-Applications are invited from suitably qualified graduates for a fully funded PhD studentship within the Manufacturing Metrology Group. The Faculty is ranked in the top 5 out of 85 engineering departments in the UK in …</p>
-                    <a class="btn btn-default btn-xs" href="./node/727/727.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="./content/University-Nottingham-Faculty-Engineering-–-Division-Manufacturing/university-nottingham-faculty-engineering-division-manufacturing.html"><p>University of Nottingham - Faculty of Engineering – Division of Manufacturing</p></a></h2>
                 <div class="summary"><p><strong>PhD Research Studentship</strong></p>
 <p>Development of optical coordinate metrology techniques for precision and additive manufactured components
@@ -168,12 +159,21 @@ Applications are invited from suitably qualified graduates for a fully funded Ph
             </article>
             <hr/>
             <article>
-                <h2><a href="./bulletin/2014/December/October-2014/october-2014.html"><p>October 2014</p></a></h2>
-                <div class="summary"><h3>4M/ICOMM 2015 – Call for Papers</h3>
-<p><img alt="4M2020 Logo" src="/4m-association/images/call-for-papers.jpg"></p>
-<p>Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture.
-All papers must be technical in nature and include original work. Selected papers will be fast tracked in following journals: ASME Journal of …</p>
-                    <a class="btn btn-default btn-xs" href="./bulletin/2014/December/October-2014/october-2014.html">more ...</a>
+                <h2><a href="./node/727/727.html"><p>University of Nottingham - Faculty of Engineering – Division of Manufacturing</p></a></h2>
+                <div class="summary"><p><strong>PhD Research Studentship</strong></p>
+<p>Development of optical coordinate metrology techniques for precision and additive manufactured components
+Applications are invited from suitably qualified graduates for a fully funded PhD studentship within the Manufacturing Metrology Group. The Faculty is ranked in the top 5 out of 85 engineering departments in the UK in …</p>
+                    <a class="btn btn-default btn-xs" href="./node/727/727.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="./bulletin/2014/December/November-2014/november-2014.html"><p>November 2014</p></a></h2>
+                <div class="summary"><h3>4M/ICOMM 2015</h3>
+<p><img alt="4M2020 Logo" src="/4m-association/images/conference.jpg"></p>
+<p>Now that the paper submission is closed the review process is just beginning. Keep an eye on your inbox - the conference secretary will be in touch with authors and reviewers over the next few weeks.
+Two Invited Speakers have already been confirmed aswell as two projects: Hyproline …</p>
+                    <a class="btn btn-default btn-xs" href="./bulletin/2014/December/November-2014/november-2014.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -438,54 +438,55 @@ All papers must be technical in nature and include original work. Selected paper
 
 
 
-    <script type="text/javascript">
-        $(document).ready(function() {
+<!-- Extras JS Code -->
+<script type="text/javascript">
+$(document).ready(function() {
 
-          $(".conference-book").hide();
+    $(".conference-book").hide();
 
-          var url = window.location.href;
-          alert(url);
+    var url = window.location.href;
+    alert(url);
 
-          if(url.indexOf('/conference/2010') > -1) {
-            $(".conference-2010").show();
-          }
-          if(url.indexOf('/conference/2011') > -1) {
-            $(".conference-2011").show();
-          }
-          if(url.indexOf('/conference/2012') > -1) {
-            $(".conference-2012").show();
-          }
-          if(url.indexOf('/conference/2013') > -1) {
-            $(".conference-2013").show();
-          }
-          if(url.indexOf('/conference/2015') > -1) {
-            $(".conference-2015").show();
-          }
-          if(url.indexOf('/conference/2016') > -1) {
-            $(".conference-2016").show();
-          }
-          if(url.indexOf('/conference/2018') > -1) {
-            $(".conference-2018").show();
-          }
-          if(url.indexOf('/conference/WCMNM2019') > -1) {
-            $(".conference-2019").show();
-          }
-          if(url.indexOf('/conference/WCMNM2020') > -1) {
-            $(".conference-2020").show();
-          }
+    if(url.indexOf('/conference/2010') > -1) {
+      $(".conference-2010").show();
+    }
+    if(url.indexOf('/conference/2011') > -1) {
+      $(".conference-2011").show();
+    }
+    if(url.indexOf('/conference/2012') > -1) {
+      $(".conference-2012").show();
+    }
+    if(url.indexOf('/conference/2013') > -1) {
+      $(".conference-2013").show();
+    }
+    if(url.indexOf('/conference/2015') > -1) {
+      $(".conference-2015").show();
+    }
+    if(url.indexOf('/conference/2016') > -1) {
+      $(".conference-2016").show();
+    }
+    if(url.indexOf('/conference/2018') > -1) {
+      $(".conference-2018").show();
+    }
+    if(url.indexOf('/conference/WCMNM2019') > -1) {
+      $(".conference-2019").show();
+    }
+    if(url.indexOf('/conference/WCMNM2020') > -1) {
+      $(".conference-2020").show();
+    }
 
-          $("table").addClass("table-responsive").addClass("table-striped");
+    $("table").addClass("table-responsive").addClass("table-striped");
 
-          var w = $(window).width();
-          if(w > 767) {
-              var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-              alert(min);
-              if(($("#content").height() < min) and ($("#sidebar").height() < min)){
-                  $("#footer").addClass("shortpage");
-              }
-          }
+    var w = $(window).width();
+    if(w > 767) {
+        var min = $( window ).height() - ($("#header").height() + $("#footer").height());
+        alert(min);
+        if(($("#content").height() < min) and ($("#sidebar").height() < min)){
+            $("#footer").addClass("shortpage");
+        }
+    }
 
-        });
-    </script>
-</body>
+});
+</script>
+<!-- Extras JS Code --></body>
 </html>

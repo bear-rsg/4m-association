@@ -382,54 +382,55 @@
 
 
 
-    <script type="text/javascript">
-        $(document).ready(function() {
+<!-- Extras JS Code -->
+<script type="text/javascript">
+$(document).ready(function() {
 
-          $(".conference-book").hide();
+    $(".conference-book").hide();
 
-          var url = window.location.href;
-          alert(url);
+    var url = window.location.href;
+    alert(url);
 
-          if(url.indexOf('/conference/2010') > -1) {
-            $(".conference-2010").show();
-          }
-          if(url.indexOf('/conference/2011') > -1) {
-            $(".conference-2011").show();
-          }
-          if(url.indexOf('/conference/2012') > -1) {
-            $(".conference-2012").show();
-          }
-          if(url.indexOf('/conference/2013') > -1) {
-            $(".conference-2013").show();
-          }
-          if(url.indexOf('/conference/2015') > -1) {
-            $(".conference-2015").show();
-          }
-          if(url.indexOf('/conference/2016') > -1) {
-            $(".conference-2016").show();
-          }
-          if(url.indexOf('/conference/2018') > -1) {
-            $(".conference-2018").show();
-          }
-          if(url.indexOf('/conference/WCMNM2019') > -1) {
-            $(".conference-2019").show();
-          }
-          if(url.indexOf('/conference/WCMNM2020') > -1) {
-            $(".conference-2020").show();
-          }
+    if(url.indexOf('/conference/2010') > -1) {
+      $(".conference-2010").show();
+    }
+    if(url.indexOf('/conference/2011') > -1) {
+      $(".conference-2011").show();
+    }
+    if(url.indexOf('/conference/2012') > -1) {
+      $(".conference-2012").show();
+    }
+    if(url.indexOf('/conference/2013') > -1) {
+      $(".conference-2013").show();
+    }
+    if(url.indexOf('/conference/2015') > -1) {
+      $(".conference-2015").show();
+    }
+    if(url.indexOf('/conference/2016') > -1) {
+      $(".conference-2016").show();
+    }
+    if(url.indexOf('/conference/2018') > -1) {
+      $(".conference-2018").show();
+    }
+    if(url.indexOf('/conference/WCMNM2019') > -1) {
+      $(".conference-2019").show();
+    }
+    if(url.indexOf('/conference/WCMNM2020') > -1) {
+      $(".conference-2020").show();
+    }
 
-          $("table").addClass("table-responsive").addClass("table-striped");
+    $("table").addClass("table-responsive").addClass("table-striped");
 
-          var w = $(window).width();
-          if(w > 767) {
-              var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-              alert(min);
-              if(($("#content").height() < min) and ($("#sidebar").height() < min)){
-                  $("#footer").addClass("shortpage");
-              }
-          }
+    var w = $(window).width();
+    if(w > 767) {
+        var min = $( window ).height() - ($("#header").height() + $("#footer").height());
+        alert(min);
+        if(($("#content").height() < min) and ($("#sidebar").height() < min)){
+            $("#footer").addClass("shortpage");
+        }
+    }
 
-        });
-    </script>
-</body>
+});
+</script>
+<!-- Extras JS Code --></body>
 </html>
