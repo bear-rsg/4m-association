@@ -96,6 +96,14 @@
             </article>
             <hr/>
             <article>
+                <h2><a href="./node/3/3.html"><p>FAQ</p></a></h2>
+                <div class="summary"><hr>
+<p><a href="/4m-association/about.html">&larr; About the 4M Association</a></p>
+                    <a class="btn btn-default btn-xs" href="./node/3/3.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <h2><a href="./node/4/4.html"><p>Structure</p></a></h2>
                 <div class="summary"><p>The <a href="/4m-association/members">members</a> will direct the 4M Association through an Advisory Group. An Executive/Administrative function, based at C-Tech Innovation, Chester, UK, will act upon the advice of this Group. <a href="/4m-association/node/11">Graded membership</a> will be available to companies, individuals, and other entities. The Association services/ information will be part public and part …</p>
                     <a class="btn btn-default btn-xs" href="./node/4/4.html">more ...</a>
@@ -114,14 +122,6 @@
                 <h2><a href="./node/13/13.html"><p>4M association website created</p></a></h2>
                 <div class="summary"><p>A new design, and basic conent of the 4m association website are up and running</p>
                     <a class="btn btn-default btn-xs" href="./node/13/13.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
-                <h2><a href="./node/3/3.html"><p>FAQ</p></a></h2>
-                <div class="summary"><hr>
-<p><a href="/4m-association/about.html">&larr; About the 4M Association</a></p>
-                    <a class="btn btn-default btn-xs" href="./node/3/3.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -397,40 +397,34 @@
 
           $(".conference-book").hide();
 
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            alert("conf 2010");
+          var url = window.location.href;
+          alert(url);
+
+          if(url.indexOf('/conference/2010') > -1) {
             $(".conference-2010").show();
           }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            alert("conf 2011");
+          if(url.indexOf('/conference/2011') > -1) {
             $(".conference-2011").show();
           }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            alert("conf 2012");
+          if(url.indexOf('/conference/2012') > -1) {
             $(".conference-2012").show();
           }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            alert("conf 2013");
+          if(url.indexOf('/conference/2013') > -1) {
             $(".conference-2013").show();
           }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            alert("conf 2015");
+          if(url.indexOf('/conference/2015') > -1) {
             $(".conference-2015").show();
           }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            alert("conf 2016");
+          if(url.indexOf('/conference/2016') > -1) {
             $(".conference-2016").show();
           }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            alert("conf 2018");
+          if(url.indexOf('/conference/2018') > -1) {
             $(".conference-2018").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            alert("conf 2019");
+          if(url.indexOf('/conference/WCMNM2019') > -1) {
             $(".conference-2019").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            alert("conf 2020");
+          if(url.indexOf('/conference/WCMNM2020') > -1) {
             $(".conference-2020").show();
           }
 

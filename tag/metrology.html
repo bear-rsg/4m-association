@@ -101,17 +101,17 @@ National Physical Laboratory (NPL) which is situated 20 km south-west of central
             </article>
             <hr/>
             <article>
-                <h2><a href="../interest-group/metrology/metrology.html"><p>Metrology Interest Group</p></a></h2>
-                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
-                    <a class="btn btn-default btn-xs" href="../interest-group/metrology/metrology.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="../node/23/23.html"><p>Metrology Interest Group</p></a></h2>
                 <div class="summary"><p>News of interest to this group will appear here.</p>
 <p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
                     <a class="btn btn-default btn-xs" href="../node/23/23.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../interest-group/metrology/metrology.html"><p>Metrology Interest Group</p></a></h2>
+                <div class="summary"><p><a href="/4m-association/interest-groups.html">&larr; Interest Groups</a></p>
+                    <a class="btn btn-default btn-xs" href="../interest-group/metrology/metrology.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -366,40 +366,34 @@ National Physical Laboratory (NPL) which is situated 20 km south-west of central
 
           $(".conference-book").hide();
 
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            alert("conf 2010");
+          var url = window.location.href;
+          alert(url);
+
+          if(url.indexOf('/conference/2010') > -1) {
             $(".conference-2010").show();
           }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            alert("conf 2011");
+          if(url.indexOf('/conference/2011') > -1) {
             $(".conference-2011").show();
           }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            alert("conf 2012");
+          if(url.indexOf('/conference/2012') > -1) {
             $(".conference-2012").show();
           }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            alert("conf 2013");
+          if(url.indexOf('/conference/2013') > -1) {
             $(".conference-2013").show();
           }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            alert("conf 2015");
+          if(url.indexOf('/conference/2015') > -1) {
             $(".conference-2015").show();
           }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            alert("conf 2016");
+          if(url.indexOf('/conference/2016') > -1) {
             $(".conference-2016").show();
           }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            alert("conf 2018");
+          if(url.indexOf('/conference/2018') > -1) {
             $(".conference-2018").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            alert("conf 2019");
+          if(url.indexOf('/conference/WCMNM2019') > -1) {
             $(".conference-2019").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            alert("conf 2020");
+          if(url.indexOf('/conference/WCMNM2020') > -1) {
             $(".conference-2020").show();
           }
 

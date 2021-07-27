@@ -80,17 +80,6 @@
             <div class="row">
                 <div class="col-sm-9">
             <article>
-                <h2><a href="./node/672/672.html"><p>4M2013 Invited Speaker: Professor Richard Leach</p></a></h2>
-                <div class="summary"><p>Engineering Measurement Division | National Physical Laboratory | Teddington, Middlesex TW11 0LW | UK | +44 20 8943 6303 | <a href="mailto:richard.leach@npl.co.uk">richard.leach@npl.co.uk</a></p>
-<!--break-->
-<p><strong>Biography</strong></p>
-<p><img alt="Professor Richard Leach" src="/4m-association/images/profile_richard.jpg"></p>
-<p>Professor Richard Leach is a Principal Research Scientist at the National Physical Laboratory in the UK and a visiting professor at Loughborough University and the Harbin Institute of Technology …</p>
-                    <a class="btn btn-default btn-xs" href="./node/672/672.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="./node/673/673.html"><p>4M2013 Invited Speaker: Yasunori Saotome</p></a></h2>
                 <div class="summary"><p>Kansai Center | Institute for Materials Research | Tohoku University | 9203 Bldg. in  | Univ. of Hyogo | Shosha 2167 | Himeji, Hyogo 671-2280 | JAPAN | +81 79 260 7208 | <a href="mailto:saotome@imr.tohoku.ac.jp">saotome@imr.tohoku.ac.jp</a></p>
 <!--break-->
@@ -113,11 +102,13 @@
             </article>
             <hr/>
             <article>
-                <h2><a href="./content/Venue-Location-and-Directions/venue-location-and-directions.html"><p>Venue Location and Directions</p></a></h2>
-                <div class="summary"><p><strong>How to get to the 4M2013 Conference Venue from Bilbao Airport</strong></p>
-<p><strong>1. Bilbao Airport to San Sebastian Bus Station</strong></p>
-<p>Buses leave the airport, Monday to Friday except holidays, once an hour from 7:45 to 23:45; on Saturday, Sunday and public holidays, there is another service at 6:45 …</p>
-                    <a class="btn btn-default btn-xs" href="./content/Venue-Location-and-Directions/venue-location-and-directions.html">more ...</a>
+                <h2><a href="./content/4M2013-Invited-Speaker-Yasunori-Saotome/4m2013-invited-speaker-yasunori-saotome.html"><p>4M 2013 Invited Speaker: Yasunori Saotome</p></a></h2>
+                <div class="summary"><p>Kansai Center | Institute for Materials Research | Tohoku University | 9203 Bldg. in  | Univ. of Hyogo | Shosha 2167 | Himeji, Hyogo 671-2280 | JAPAN | +81 79 260 7208 | <a href="mailto:saotome@imr.tohoku.ac.jp">saotome@imr.tohoku.ac.jp</a></p>
+<!--break-->
+<p><strong>Biography</strong></p>
+<p><img alt="Professor Yasunori Saotome" src="/4m-association/images/profile_yasunori.JPG"></p>
+<p>Professor Yasunori Saotome is a Professor at Institute for Materials Research (IMR) , Tohoku University in Japan and a visiting professor …</p>
+                    <a class="btn btn-default btn-xs" href="./content/4M2013-Invited-Speaker-Yasunori-Saotome/4m2013-invited-speaker-yasunori-saotome.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -127,6 +118,15 @@
 <p><strong>1. Bilbao Airport to San Sebastian Bus Station</strong></p>
 <p>Buses leave the airport, Monday to Friday except holidays, once an hour from 7:45 to 23:45; on Saturday, Sunday and public holidays, there is another service at 6:45 …</p>
                     <a class="btn btn-default btn-xs" href="./node/669/669.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="./content/Venue-Location-and-Directions/venue-location-and-directions.html"><p>Venue Location and Directions</p></a></h2>
+                <div class="summary"><p><strong>How to get to the 4M2013 Conference Venue from Bilbao Airport</strong></p>
+<p><strong>1. Bilbao Airport to San Sebastian Bus Station</strong></p>
+<p>Buses leave the airport, Monday to Friday except holidays, once an hour from 7:45 to 23:45; on Saturday, Sunday and public holidays, there is another service at 6:45 …</p>
+                    <a class="btn btn-default btn-xs" href="./content/Venue-Location-and-Directions/venue-location-and-directions.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -169,10 +169,10 @@ fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensi
             </article>
             <hr/>
             <article>
-                <h2><a href="./node/658/658.html"><p>Conference Service (COMS) - Conferences and Meetings on Microtechnology and Nanotechnology</p></a></h2>
+                <h2><a href="./content/Conferences-and-Meetings-Microtechnology-Nanotechnology/conferences-and-meetings-microtechnology-nanotechnology.html"><p>Conference Service (COMS) - Conferences and Meetings on Microtechnology and Nanotechnology</p></a></h2>
                 <div class="summary"><p>Conference-Service.com is a calendar of upcoming scientific events and meetings in subject areas such as Engineering. 4M Members and associates, may be interested in this conference calendar facility for searching for particular National and International events in the technical areas of Microtechnology and Nanotechnology.</p>
 <p><a href="http://www.conference-service.com/conferences/nanotechnology.html">To view a calendar of …</a></p>
-                    <a class="btn btn-default btn-xs" href="./node/658/658.html">more ...</a>
+                    <a class="btn btn-default btn-xs" href="./content/Conferences-and-Meetings-Microtechnology-Nanotechnology/conferences-and-meetings-microtechnology-nanotechnology.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -432,40 +432,34 @@ fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensi
 
           $(".conference-book").hide();
 
-          if(document.location.href.indexOf('/conference/2010') > -1) {
-            alert("conf 2010");
+          var url = window.location.href;
+          alert(url);
+
+          if(url.indexOf('/conference/2010') > -1) {
             $(".conference-2010").show();
           }
-          if(document.location.href.indexOf('/conference/2011') > -1) {
-            alert("conf 2011");
+          if(url.indexOf('/conference/2011') > -1) {
             $(".conference-2011").show();
           }
-          if(document.location.href.indexOf('/conference/2012') > -1) {
-            alert("conf 2012");
+          if(url.indexOf('/conference/2012') > -1) {
             $(".conference-2012").show();
           }
-          if(document.location.href.indexOf('/conference/2013') > -1) {
-            alert("conf 2013");
+          if(url.indexOf('/conference/2013') > -1) {
             $(".conference-2013").show();
           }
-          if(document.location.href.indexOf('/conference/2015') > -1) {
-            alert("conf 2015");
+          if(url.indexOf('/conference/2015') > -1) {
             $(".conference-2015").show();
           }
-          if(document.location.href.indexOf('/conference/2016') > -1) {
-            alert("conf 2016");
+          if(url.indexOf('/conference/2016') > -1) {
             $(".conference-2016").show();
           }
-          if(document.location.href.indexOf('/conference/2018') > -1) {
-            alert("conf 2018");
+          if(url.indexOf('/conference/2018') > -1) {
             $(".conference-2018").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2019') > -1) {
-            alert("conf 2019");
+          if(url.indexOf('/conference/WCMNM2019') > -1) {
             $(".conference-2019").show();
           }
-          if(document.location.href.indexOf('/conference/WCMNM2020') > -1) {
-            alert("conf 2020");
+          if(url.indexOf('/conference/WCMNM2020') > -1) {
             $(".conference-2020").show();
           }
 
