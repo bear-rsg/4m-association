@@ -417,18 +417,6 @@ $(document).ready(function() {
     var w = $(window).width();
     console.log('w: '+ w);
 
-    if(w > 767) {
-
-        var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
-
-        if(($("#content").height() < min) and ($("#sidebar").height() < min)){
-            $("#footer").addClass("shortpage");
-            console.log('shortpage: '+ shortpage);
-        }
-
-    }
-
 });
 </script>
 <!-- Extras JS Code --></body>
