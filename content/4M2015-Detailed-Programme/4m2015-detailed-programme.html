@@ -475,6 +475,13 @@ $(document).ready(function() {
         var sidebar = $("#sidebar").height();
         console.log('sidebar: '+ sidebar);
 
+        if( (content < min) and (sidebar < min) ){
+            $("#footer").addClass("shortpage");
+            console.log('shortpage required');
+        }else{
+            console.log('shortpage not required');
+        }
+
     }
 
 });
