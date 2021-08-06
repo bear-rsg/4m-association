@@ -112,6 +112,20 @@
                 </div>
                 <p>NANOfutures is a European multi-sectorial, cross-ETP, integrating platform with the objective of connecting and establishing the cooperation and representation of all relevant Technology Platforms that require nanotechnologies in their industrial sector and products. It has been created with the support of the EUROPEAN MINAM Micro- and Nano-Manufacturing community (MINAM).  </p>
 <p>Download the latest Newsletter from MINAM below.  </p>
+<table>
+<thead>
+<tr>
+<th>Attachment</th>
+<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/4m-association/files/MINAM Newsletter Feb 2010.pdf">MINAM Newsletter Feb 2010.pdf</a></td>
+<td>1.88 MB</td>
+</tr>
+</tbody>
+</table>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -363,42 +377,32 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -409,22 +413,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

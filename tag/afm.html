@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" prefix="og: http://ogp.me/ns# fb: https://www.facebook.com/2008/fbml">
 <head>
-    <title>tags: sensors-and-actuators - 4M Association</title>
+    <title>afm - 4M Association</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
 
 
     <meta name="author" content="4M Association" />
-    <meta name="keywords" content="tags: sensors-and-actuators" />
+    <meta name="keywords" content="afm" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="4M Association" />
@@ -81,13 +81,19 @@
             <div class="row">
                 <div class="col-sm-9">
             <article>
-                <h2><a href="../event/4M-Workshop-Devices-harsh-environments/4m-workshop-devices-harsh-environments.html"><p>Devices for harsh environments</p></a></h2>
-                <div class="summary"><p>TU Wien are organising this <strong>4M Workshop</strong> on the topic of:  </p>
-<p><em>"Devices for harsh environments (materials, processing, characterisation)"</em></p>
+                <h2><a href="../content/Diving-world-very-small/diving-world-very-small.html"><p>Diving into the world of the very small</p></a></h2>
+                <div class="summary"><!--break-->
+<p>With the help of ERC funding, Dr Davide Iannuzzi of the VU University Amsterdam, The Netherlands, is building microscopic moving parts on to the ends of optical fibres, leading to better instruments for observing and measuring at the nanoscale. To read more about the project 'Fiber-top micromachined devices: ideas on …</p>
+                    <a class="btn btn-default btn-xs" href="../content/Diving-world-very-small/diving-world-very-small.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="../content/Image-single-molecule/image-single-molecule.html"><p>Image of a single molecule!</p></a></h2>
+                <div class="summary"><p>The detailed chemical structure of a single molecule has been imaged for the first time, say researchers.</p>
 <!--break-->
-<p>TU Wien invite all 4M partners to contribute to this topic (also industrial partners) and to participate in this event.</p>
-<p>The main goal of the workshop is to present recent achievements in …</p>
-                    <a class="btn btn-default btn-xs" href="../event/4M-Workshop-Devices-harsh-environments/4m-workshop-devices-harsh-environments.html">more ...</a>
+<p>The physical shape of single carbon nanotubes has been outlined before, using similar techniques - but the new method even shows up chemical bonds. Read the full story on the <a href="http://news.bbc.co.uk/1/hi/sci/tech/8225491.stm">BBC website.</a></p>
+                    <a class="btn btn-default btn-xs" href="../content/Image-single-molecule/image-single-molecule.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -338,42 +344,32 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -384,22 +380,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

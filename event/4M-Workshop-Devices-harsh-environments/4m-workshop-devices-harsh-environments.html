@@ -12,7 +12,7 @@
 <link rel="canonical" href="../../event/4M-Workshop-Devices-harsh-environments/4m-workshop-devices-harsh-environments.html">
 
         <meta name="author" content="4M Association" />
-        <meta name="keywords" content="events,home,tags: sensors-and-actuators,ceramic-interest-group" />
+        <meta name="keywords" content="events,home,sensors-and-actuators,ceramic-interest-group" />
         <meta name="description" content="TU Wien are organising this 4M Workshop on the topic of: &#34;Devices for harsh environments (materials, processing, characterisation)&#34; TU Wien invite all 4M partners to contribute to this topic (also industrial partners) and to participate in this event. The main goal of the workshop is to present recent achievements in …" />
 
         <meta property="og:site_name" content="4M Association" />
@@ -24,7 +24,7 @@
             <meta property="article:section" content="event" />
             <meta property="article:tag" content="events" />
             <meta property="article:tag" content="home" />
-            <meta property="article:tag" content="tags: sensors-and-actuators" />
+            <meta property="article:tag" content="sensors-and-actuators" />
             <meta property="article:tag" content="ceramic-interest-group" />
             <meta property="article:author" content="4M Association" />
 
@@ -117,7 +117,7 @@
         /
 	<a href="../../tag/home.html">home</a>
         /
-	<a href="../../tag/tags-sensors-and-actuators.html">tags: sensors-and-actuators</a>
+	<a href="../../tag/sensors-and-actuators.html">sensors-and-actuators</a>
         /
 	<a href="../../tag/ceramic-interest-group.html">ceramic-interest-group</a>
 <br />
@@ -132,6 +132,28 @@
 <p>This workshop falls within the 4M extension period so is eligible expenditure.  </p>
 <p>Full details are on the flyer that you can download from below, along with information about the location and hotels. If you have any further questions or are interested in contributing to this event you can also contact <a href="nadja.adamovic@tuwien.ac.at">Nadja Adamovic.</a> </p>
 <p><strong>Deadline for abstracts is May 8th 2009.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Attachment</th>
+<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/4m-association/files/Flyer-4M_Workshop-Vienna_2009.pdf">Flyer-4M_Workshop-Vienna_2009.pdf</a></td>
+<td>536.52 KB</td>
+</tr>
+<tr>
+<td><a href="/4m-association/files/Hotelplan.pdf">Hotelplan.pdf</a></td>
+<td>361.53 KB</td>
+</tr>
+<tr>
+<td><a href="/4m-association/files/HOTELLISTE 2009.doc">HOTELLISTE 2009.doc</a></td>
+<td>26.5 KB</td>
+</tr>
+</tbody>
+</table>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -383,42 +405,32 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -429,22 +441,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

@@ -12,6 +12,7 @@
 <link rel="canonical" href="../../content/Fundamental-Principles-Engineering-Nanometrology/fundamental-principles-engineering-nanometrology.html">
 
         <meta name="author" content="4M Association" />
+        <meta name="keywords" content="book" />
         <meta name="description" content="This new book is from Professor Richard Leach, a Principal Research Scientist in the Mass &amp; Dimensional Group, Engineering Measurement Division at the National Physical Laboratory (NPL), UK. It provides a comprehensive overview of engineering metrology and how it relates to micro and nanotechnology (MNT) research and manufacturing. By combining established …" />
 
         <meta property="og:site_name" content="4M Association" />
@@ -21,6 +22,7 @@
         <meta property="og:description" content="This new book is from Professor Richard Leach, a Principal Research Scientist in the Mass &amp; Dimensional Group, Engineering Measurement Division at the National Physical Laboratory (NPL), UK. It provides a comprehensive overview of engineering metrology and how it relates to micro and nanotechnology (MNT) research and manufacturing. By combining established …"/>
         <meta property="article:published_time" content="2009-12-03" />
             <meta property="article:section" content="content" />
+            <meta property="article:tag" content="book" />
             <meta property="article:author" content="4M Association" />
 
 
@@ -107,6 +109,9 @@
 
 
 
+<span class="label label-default">Tags</span>
+	<a href="../../tag/book.html">book</a>
+<br />
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
@@ -122,7 +127,21 @@ from static length and displacement to surface topography, mass and force</li>
 <li>Explains, in depth, the calibration of surface topography measuring instruments (traceability; calibration of profile and areal surface texture measuring instruments; uncertainties)  </li>
 <li>Discusses the material in a way that is comprehensible to even those with only a limited mathematical knowledge </li>
 </ul>
-<p>You can download  a flyer for the book below.</p>
+<p>You can download a flyer for the book below.</p>
+<table>
+<thead>
+<tr>
+<th>Attachment</th>
+<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/4m-association/files/leach_flyer.pdf">leach_flyer.pdf</a></td>
+<td>138.5 KB</td>
+</tr>
+</tbody>
+</table>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -374,42 +393,32 @@ from static length and displacement to surface topography, mass and force</li>
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -420,22 +429,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

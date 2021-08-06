@@ -12,6 +12,7 @@
 <link rel="canonical" href="../../content/Diving-world-very-small/diving-world-very-small.html">
 
         <meta name="author" content="4M Association" />
+        <meta name="keywords" content="afm" />
         <meta name="description" content="With the help of ERC funding, Dr Davide Iannuzzi of the VU University Amsterdam, The Netherlands, is building microscopic moving parts on to the ends of optical fibres, leading to better instruments for observing and measuring at the nanoscale. To read more about the project &#39;Fiber-top micromachined devices: ideas on …" />
 
         <meta property="og:site_name" content="4M Association" />
@@ -21,6 +22,7 @@
         <meta property="og:description" content="With the help of ERC funding, Dr Davide Iannuzzi of the VU University Amsterdam, The Netherlands, is building microscopic moving parts on to the ends of optical fibres, leading to better instruments for observing and measuring at the nanoscale. To read more about the project &#39;Fiber-top micromachined devices: ideas on …"/>
         <meta property="article:published_time" content="2012-04-02" />
             <meta property="article:section" content="content" />
+            <meta property="article:tag" content="afm" />
             <meta property="article:author" content="4M Association" />
 
 
@@ -107,6 +109,9 @@
 
 
 
+<span class="label label-default">Tags</span>
+	<a href="../../tag/afm.html">afm</a>
+<br />
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
@@ -363,42 +368,32 @@
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -409,22 +404,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

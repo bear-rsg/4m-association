@@ -12,7 +12,7 @@
 <link rel="canonical" href="../../event/Microparts’-Interest-Group-Workshop/microparts-interest-group-workshop.html">
 
         <meta name="author" content="4M Association" />
-        <meta name="keywords" content="events,home" />
+        <meta name="keywords" content="events,home,metrology,metrology-interest-group" />
         <meta name="description" content="Recent advances in modern manufacturing techniques has made it possible to manufacture small and complex components to extremely high accuracies. In direct response to the extreme demands of quality assurance for the measurement of size, form and position of microsystem parts, extensive research is being carried out in the area …" />
 
         <meta property="og:site_name" content="4M Association" />
@@ -24,6 +24,8 @@
             <meta property="article:section" content="event" />
             <meta property="article:tag" content="events" />
             <meta property="article:tag" content="home" />
+            <meta property="article:tag" content="metrology" />
+            <meta property="article:tag" content="metrology-interest-group" />
             <meta property="article:author" content="4M Association" />
 
 
@@ -114,6 +116,10 @@
 	<a href="../../tag/events.html">events</a>
         /
 	<a href="../../tag/home.html">home</a>
+        /
+	<a href="../../tag/metrology.html">metrology</a>
+        /
+	<a href="../../tag/metrology-interest-group.html">metrology-interest-group</a>
 <br />
     
 </footer><!-- /.post-info -->                    </div>
@@ -156,6 +162,20 @@ Test procedures and applications  </p>
 Event adminstration - <a href="mailto:stuart.humphreys@npl.co.uk">Stuart Humphreys</a><br>
 Technical content - <a href="mailto:james.claverley@npl.co.uk">James Claverley</a></p>
 <p>You can download the workshop flyer below:</p>
+<table>
+<thead>
+<tr>
+<th>Attachment</th>
+<th>Size</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="/4m-association/files/091028_microparts_flyer_20090612141343.pdf">091028_microparts_flyer_20090612141343.pdf</a></td>
+<td>1.87 MB</td>
+</tr>
+</tbody>
+</table>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -407,42 +427,32 @@ Technical content - <a href="mailto:james.claverley@npl.co.uk">James Claverley</
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -453,22 +463,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

@@ -148,13 +148,6 @@ The …</p>
             </article>
             <hr/>
             <article>
-                <h2><a href="./conference/2012/Scope/scope.html"><p>Scope of 4M Conference</p></a></h2>
-                <div class="summary"><p>Microsystems-based products are a key value-adding element for many sectors of industry - and the predicted nanotechnology future will also be largely delivered by microtechnologies. While the late 20th century saw a silicon-based microelectronics revolution, the 21st century looks forward to the adoption of micro- and nano-manufacturing technologies as the demand …</p>
-                    <a class="btn btn-default btn-xs" href="./conference/2012/Scope/scope.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
-            <article>
                 <h2><a href="./content/Scope-4M-Conference2015/scope-4m-conference2015.html"><p>Scope of 4M</p></a></h2>
                 <div class="summary"><p>Microsystems-based products are a key value-adding element for many sectors of industry - and the predicted nanotechnology future will also be largely delivered by microtechnologies. While the late 20th century saw a silicon-based microelectronics revolution, the 21st century looks forward to the adoption of micro- and nano-manufacturing technologies as the demand …</p>
                     <a class="btn btn-default btn-xs" href="./content/Scope-4M-Conference2015/scope-4m-conference2015.html">more ...</a>
@@ -162,12 +155,24 @@ The …</p>
             </article>
             <hr/>
             <article>
-                <h2><a href="./conference/2012/Sponsoring/sponsoring.html"><p>Sponsoring 4M2012</p></a></h2>
-                <div class="summary"><p>Stand out from the rest in front of more than 100 micro-manufacturing experts from around the world. As a sponsor, you can promote your company’s mission even more effectively to the assembled individuals and organisations attending 4M2012 while learning about the latest advances in micro-manufacturing research.</p>
+                <h2><a href="./content/History-4M-Conference-Series2015/history-4m-conference-series2015.html"><p>History of the 4M Conference Series</p></a></h2>
+                <div class="summary"><p>This series of conferences on multi-material micro-manufacture is organised by the <a href="/4m-association/node/1/1.html">4M Association</a>. 4M/ICOMM2015 will be the eleventh in the series.</p>
 <!--break-->
-
-<h2>What our Sponsors …</h2>
-                    <a class="btn btn-default btn-xs" href="./conference/2012/Sponsoring/sponsoring.html">more ...</a>
+<p>title: Past 4M conferences</p>
+<ul>
+<li><a href="http://www.4m-net.org/4M_Conference" title="4M2005 Conference">4M2005</a> - Forschungszentrum Karlsruhe, Germany  </li>
+<li><a href="http://www.4m-net.org/Conference/4M2006" title="4M2006 Conference">4M2006</a> - The European Centre for Micro and Nano Technology, Grenoble, France  </li>
+<li><a href="http://www.4m-net.org/Conference/4M2007" title="4M2007 Conference">4M2007</a> - Borovets, Bulgaria  </li>
+<li><a href="http://www.4m-net.org/Conference/4M2008" title="4M2008 Conference">4M2008</a> - Cardiff University, United Kingdom</li>
+<li><a href="/4m-association/conference/2009">ICOMM …</a></li></ul>
+                    <a class="btn btn-default btn-xs" href="./content/History-4M-Conference-Series2015/history-4m-conference-series2015.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <h2><a href="./content/Scope-4M-Conference2013/scope-4m-conference2013.html"><p>Scope of 4M</p></a></h2>
+                <div class="summary"><p>Microsystems-based products are a key value-adding element for many sectors of industry - and the predicted nanotechnology future will also be largely delivered by microtechnologies. While the late 20th century saw a silicon-based microelectronics revolution, the 21st century looks forward to the adoption of micro- and nano-manufacturing technologies as the demand …</p>
+                    <a class="btn btn-default btn-xs" href="./content/Scope-4M-Conference2013/scope-4m-conference2013.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -423,42 +428,32 @@ The …</p>
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -469,22 +464,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }

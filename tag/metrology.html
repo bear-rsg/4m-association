@@ -107,6 +107,13 @@ National Physical Laboratory (NPL) which is situated 20 km south-west of central
                 </div>
             </article>
             <hr/>
+            <article>
+                <h2><a href="../event/Microparts’-Interest-Group-Workshop/microparts-interest-group-workshop.html"><p>'Microparts’ Interest Group Workshop</p></a></h2>
+                <div class="summary"><p>Recent advances in modern manufacturing techniques has made it possible to manufacture small and complex components to extremely high accuracies. In direct response to the extreme demands of quality assurance for the measurement of size, form and position of microsystem parts, extensive research is being carried out in the area …</p>
+                    <a class="btn btn-default btn-xs" href="../event/Microparts’-Interest-Group-Workshop/microparts-interest-group-workshop.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
 
                 </div>
                 <div class="col-sm-3" id="sidebar">
@@ -354,42 +361,32 @@ National Physical Laboratory (NPL) which is situated 20 km south-west of central
 <!-- Extras JS Code -->
 <script type="text/javascript">
 $(document).ready(function() {
-    console.log('jquery found');
     $(".conference-book").hide();
 
     var url = window.location.href;
-    console.log('url: '+ url);
 
     if(url.indexOf('/conference/2010') > -1) {
-        console.log('year: 2010');
         $(".conference-2010").show();
     }
     if(url.indexOf('/conference/2011') > -1) {
-        console.log('year: 2011');
         $(".conference-2011").show();
     }
     if(url.indexOf('/conference/2012') > -1) {
-        console.log('year: 2012');
         $(".conference-2012").show();
     }
     if(url.indexOf('/conference/2013') > -1) {
-        console.log('year: 2013');
         $(".conference-2013").show();
     }
     if(url.indexOf('/conference/2015') > -1) {
-        console.log('year: 2015');
         $(".conference-2015").show();
     }
     if(url.indexOf('/conference/2016') > -1) {
-        console.log('year: 2016');
         $(".conference-2016").show();
     }
     if(url.indexOf('/conference/2018') > -1) {
-        console.log('year: 2018');
         $(".conference-2018").show();
     }
     if(url.indexOf('/conference/WCMNM2019') > -1) {
-        console.log('year: 2019');
         $(".conference-2019").show();
     }
     if(url.indexOf('/conference/WCMNM2020') > -1) {
@@ -400,22 +397,15 @@ $(document).ready(function() {
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
-    console.log('w: '+ w);
 
     if(w > 767) {
         var min = $(window).height() - ($("#header").height() + $("#footer").height());
-        console.log('min: '+ min);
 
         var content = $("#content").height();
-        console.log('content: '+ content);
         var sidebar = $("#sidebar").height();
-        console.log('sidebar: '+ sidebar);
 
         if( (content < min) && (sidebar < min) ){
             $("#footer").addClass("shortpage");
-            console.log('shortpage required');
-        }else{
-            console.log('shortpage not required');
         }
 
     }
