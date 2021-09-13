@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: web-design, metadata, date
 Category: Advanced Features
 Date: 2014-04-19 14:52

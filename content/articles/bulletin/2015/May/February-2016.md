@@ -1,7 +1,9 @@
 title: February 2015
 date: 2019-02-27 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  4M/ICOMM15 2015
 
@@ -14,7 +16,7 @@ Discounts available for 4M & I2M2 members. Those who are not 4M or I2M2 members 
 [Register here](/4m-association/conference/2015)
 
 
-4M/IWMF 2016 Conference 
+### 4M/IWMF 2016 Conference 
 ![4M2020 Logo](/4m-association/images/2016-conference.jpg)
 We are excited to announce that we have received two attractive proposals for the 4M/IWMF event in 2016 - we have a difficult decision to make!
 

@@ -3,10 +3,7 @@ Pelican Semantic-UI Theme
 
 ![](http://i.imgur.com/DN9LPoB.png)
 
-This is a small clean Blog Template using Semantic-UI frameworktitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is a small clean Blog Template using Semantic-UI framework
 
 First:
 
@@ -14,10 +11,7 @@ First:
 
 Then:
 
-Point the `THEME` variable in your `pelicanconf.py` to `/path/to/pelican-semantic-ui`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Point the `THEME` variable in your `pelicanconf.py` to `/path/to/pelican-semantic-ui`
 
 * `GOOGLE_ANALYTICS` - For google analytics
 * `DISQUS_SITENAME` - To enable disqus comments

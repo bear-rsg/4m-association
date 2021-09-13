@@ -1,36 +1,21 @@
 # SVBHACK
 
-pelican-svbhack is a responsive theme for [Pelican](http://getpelican.com), it is my hack of a svbtle-like theme.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+pelican-svbhack is a responsive theme for [Pelican](http://getpelican.com), it is my hack of a svbtle-like theme.
 
 You can see the [theme in action](http://www.giuliofidente.com/).
 
-![theme screenshot](https://raw.github.com/gfidente/pelican-svbhack/master/screenshot.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![theme screenshot](https://raw.github.com/gfidente/pelican-svbhack/master/screenshot.png)
 
 - responsive
 - syntax highlighting for pre blocks
 - supports google analytics
 - custom list of links
-- supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugintitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- supports the [readtime](https://github.com/getpelican/pelican-plugins/tree/master/readtime) plugin
 
 - no IE testing
-- no custom menutitle: (.*)
-date: 2021-03-31
+- no custom menu
 
-date: 2021-03-30
-
-Clone the [repository](https://github.com/gfidente/pelican-svbhack), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Clone the [repository](https://github.com/gfidente/pelican-svbhack), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.
 
 Supports a number of common global variables but patches are welcomed if you need better support.
 
@@ -48,20 +33,11 @@ Supports a number of common global variables but patches are welcomed if you nee
 
 - `INTERNET_DEFENSE_LEAGUE` set this to `True` if you want to enable the [Internet Defense League](http://internetdefenseleague.org) code
 
-When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`
 
 - Accent color can be changed by editing `@accent` in `./static/css/style.less`.
-- A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.title: (.*)
-date: 2021-03-31
+- A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.
 
-date: 2021-03-30
-
-pelican-svbhack is authored by Giulio Fidente.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+pelican-svbhack is authored by Giulio Fidente.
 
 Released under MIT License, full details in `LICENSE` file.

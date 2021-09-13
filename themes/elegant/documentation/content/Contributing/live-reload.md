@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Slug: what-is-live-reload
 Category: Contributing
 Authors: Talha Mansoor

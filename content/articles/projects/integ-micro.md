@@ -1,7 +1,6 @@
 title: Integ-Micro
 date: 2010-07-01
 tags: project, integ-micro
-category: Project
 
 
 <!--break-->

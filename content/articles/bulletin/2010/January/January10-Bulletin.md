@@ -1,7 +1,9 @@
 title: January'10 Bulletin
 date: 2010-01-12 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2010
@@ -19,7 +21,7 @@ This will be the fourth Special Issue to be drawn from the [4M Conference series
   
 ###  Job Opportunity
 
-TU Vienna is offering one [PhD Position](/4m-association/content/PhD-position-ISAS-TU-Vienna-0/PhD-position-ISAS-TU-Vienna-0.html) in the framework of an international project, in the field of photovoltaics.  .html
+TU Vienna is offering one [PhD Position](/4m-association/content/PhD-position-ISAS-TU-Vienna-0/PhD-position-ISAS-TU-Vienna.html) in the framework of an international project, in the field of photovoltaics.  .html
 
   
 ###  MAM2010

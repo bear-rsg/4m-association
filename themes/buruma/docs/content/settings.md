@@ -1,7 +1,4 @@
-title: Settings
-date: 2021-03-31
 
-date: 2021-03-30
 Status: published
 Author: Ivanhercaz
 Category: Documentation
@@ -9,10 +6,7 @@ Tags: settings, variables, pelicanconf
 Slug: settings
 Extract: Available setting for Buruma.
 
-Buruma is being developed to be easy to configure and to use. One of its goals is to be able to adapt itself easily. This can be possible with a good structure that makes possible to configure everything with small changes or additions. Surely, **Buruma doesn't accomplish with this**, but I hope Buruma grows fastly.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Buruma is being developed to be easy to configure and to use. One of its goals is to be able to adapt itself easily. This can be possible with a good structure that makes possible to configure everything with small changes or additions. Surely, **Buruma doesn't accomplish with this**, but I hope Buruma grows fastly.
 
 In this section you can check the available variables to configure Buruma with your Pelican configuration file (`pelicanconf.py`).
 

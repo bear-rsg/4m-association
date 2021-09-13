@@ -1,5 +1,6 @@
 title: Special Issue from 4M2009
-date: 2012-02-03 
+date: 2012-02-03
+tags: conferences
 
 We are pleased to announce that the 4M2009 Special Issue of the CIRP journal was published in December 2011.
 <!--break-->

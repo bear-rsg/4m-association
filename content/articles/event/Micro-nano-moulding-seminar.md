@@ -1,7 +1,7 @@
 title: Micro-nano moulding seminar
 date: 2010-03-22 
-tags: event
-category: event
+tags: home, polymer-processing, training, cotech
+
 
 <!--break-->
 *ATV• SEMAPP/The Polymer- and MicroNano groups in cooperation with Dansk Maskinteknisk Selskab (DMS), IDA and the EU Network on ‘Converging technologies for micro systems manufacturing -* [‘COTECH’](http://www.fp7-cotech.eu/) *invites you to a seminar on:*   

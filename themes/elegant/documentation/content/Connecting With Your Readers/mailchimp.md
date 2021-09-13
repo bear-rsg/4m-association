@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: marketing, network, subscriber
 Date: 2013-08-27 23:20
 comments: false
@@ -31,22 +28,13 @@ To customize user experience you can also define,
 You can see Mailchimp Form in action in the sidebar. It's a working example. Enter your email address so that we can send you news of new Elegant releases in your inbox.
 
 ![Mailchimp subscriber
-form]({static}/images/elegant-theme_subscribe-form.png)title: (.*)
-date: 2021-03-31
+form]({static}/images/elegant-theme_subscribe-form.png)
 
-date: 2021-03-30
-
-Just set `MAILCHIMP_FORM_ACTION` variable.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Just set `MAILCHIMP_FORM_ACTION` variable.
 
 Unset `MAILCHIMP_FORM_ACTION` variable.
 
-This is the default setting.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is the default setting.
 
 1. Set `MAILCHIMP_FORM_ACTION`
 1. Set `MAILCHIMP_FILTER` to `True`
@@ -57,10 +45,7 @@ Now to show Mailchimp form on selected posts, in article metadata set
 
 ```yaml
 mailchimp_filter: off
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 1. Set `MAILCHIMP_FORM_ACTION`
 1. Remove `MAILCHIMP_FILTER` or set it to `False` which is its default value

@@ -1,5 +1,5 @@
 title: EUMINAfab opens 4th Call
-date: 2011-03-02 
+date: 2011-03-02  
 
 EUMINAfab, the European Research Infrastructure for multimaterial micro and nano fabrication and characterization, opens the 4th call for no fee access to 36 installations containing equipment to high end micro and nano technologies.   
   

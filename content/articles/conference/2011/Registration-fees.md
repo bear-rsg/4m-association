@@ -1,7 +1,7 @@
 title: Registration & fees
 date: 2011-05-25 
-category: conference
-tags: conference
+tags: conference, home
+
 
 ##  Important Dates (provisional)
 

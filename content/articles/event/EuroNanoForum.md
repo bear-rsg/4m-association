@@ -1,7 +1,7 @@
 title: EuroNanoForum
 date: 2009-05-05 
-tags: event
-category: event
+tags: home
+
 
 EuroNanoForum is a biannual event organised by the European Commission, typically attracting 700-1000 participants. For the first time EuroNanoForum and Nanotech Europe will be joining forces to create the largest European nanotechnology event of 2011.
 <!--break-->

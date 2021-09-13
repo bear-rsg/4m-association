@@ -42,9 +42,6 @@ You can make use of the following settings:
 
 # Missing
 
-I do not know whether it works, but as I never cared about it, I suppose that categorys will not work properlytitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+I do not know whether it works, but as I never cared about it, I suppose that categorys will not work properly
 
 ![screenshot](screenshot.png)

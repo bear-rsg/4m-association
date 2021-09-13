@@ -1,5 +1,5 @@
 title: Per Johander
-date: 2012-12-19 
+date: 2012-12-19  
 
 <!--break-->
 ![Per Johander](/4m-association/images/per_obit.jpg)It is with great sadness that we have to inform you of the passing of our friend and colleague Per Johander.  

@@ -1,7 +1,9 @@
 title: October 2018
 date: 2018-10-08 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <img src="/4m-association/images/seminar_mim2.jpg" width="100%">
 

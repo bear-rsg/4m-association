@@ -1,5 +1,5 @@
 title: NILT Announces Launch of Nickel Standard Stamp with Microlens
-date: 2010-03-19 
+date: 2010-03-19  
 
 **NIL Technology** has announced the launch of a Nickel Standard Stamp with Microlens Structures.
 <!--break-->

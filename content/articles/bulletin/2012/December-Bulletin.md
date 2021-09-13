@@ -1,7 +1,9 @@
 title: December '12 
 date: 2013-01-23 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ##  ***Merry Christmas and a Happy New Year to all of our members. We look forward to working with you in 2013***
@@ -22,7 +24,7 @@ As it was decided at the 4M Association meeting in Vienna, the 4M2020 CSA propos
 ##  New 4M Association Contract
 
 ![4Mlogo](/4m-association/images/4mlogo.jpg)
-The contracts with Cardiff and C-Tech Innovation have now been signed and thus we have implemented the proposed and agreed way forward for the Association in Vienna during the 4M2012 Conference. From 1st November 2012, the 4M Office will be hosted by [C-Tech](http://www.ctechinnovation.com) and an outline description of the services that C-Tech will be providing to the 4M Association are available [here](/4m-association/images/C-Tech_4M-Presentation_081012.pptx).
+The contracts with Cardiff and C-Tech Innovation have now been signed and thus we have implemented the proposed and agreed way forward for the Association in Vienna during the 4M2012 Conference. From 1st November 2012, the 4M Office will be hosted by [C-Tech](http://www.ctechinnovation.com) and an outline description of the services that C-Tech will be providing to the 4M Association are available [here](/4m-association/files/C-Tech_4M-Presentation_081012.pptx).
  
 ##  University of Birmingham Job Vacancy: Research Associate/ Research Fellow in Laser Processing/Machining
 

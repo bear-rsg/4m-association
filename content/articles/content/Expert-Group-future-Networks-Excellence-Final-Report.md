@@ -1,5 +1,5 @@
 title: Expert Group on the future of Networks of Excellence - Final Report
-date: 2009-03-04 
+date: 2009-03-04  
 
 In this Final Report, achievements of NoEs are reviewed without aspiring to perform a full and detailed assessment of individual NoEs. A particular focus is directed towards the issues of ‘critical mass’ and ‘integration’.
 <!--break-->

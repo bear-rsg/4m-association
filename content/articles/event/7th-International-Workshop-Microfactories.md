@@ -1,7 +1,7 @@
 title: IWMF
 date: 2010-02-08 
-tags: event
-category: event
+tags: home
+
 
 <!--break-->
 ![IWMF2010](/4m-association/images/org_banner_iwmf2010.gif) 

@@ -1,7 +1,4 @@
-title: Flex: Responsive Pelican theme
-date: 2021-03-31
 
-date: 2021-03-30
 Modified: 2015-07-22 08:00
 Category: News
 Tags: pelican, python, theme
@@ -83,10 +80,7 @@ Pipe     | $1
 
 and how heading looks like?
 
-# This is heading 1title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# This is heading 1
 ### This is heading 3
 #### This is heading 4
 ##### This is heading 5

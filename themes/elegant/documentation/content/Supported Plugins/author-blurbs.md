@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: web-design, metadata, authors
 Category: Supported Plugins
 Date: 2018-12-07 11:00
@@ -26,10 +23,7 @@ Here are two examples of what the Author Blurbs may look like:
 
 ![Author Blurb 1]({static}/images/author-blurb.png)
 
-![Author Blurb 2]({static}/images/author-blurb2.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Author Blurb 2]({static}/images/author-blurb2.png)
 
 To enable author blurbs for your articles, you need to define an `AUTHORS` configuration variable
 in your Pelican configuration. The `AUTHORS` configuration variable for the Elegant
@@ -69,10 +63,7 @@ for these three keys in the each author's dictionary:
 - `avatar` (string) URL to author's avatar image
 
 For the `url` and `avatar` values, there is no restriction on where the URL links to. In the
-above example, Talha's `avatar` URL is local, while Pablo's URL is remote.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+above example, Talha's `avatar` URL is local, while Pablo's URL is remote.
 
 While the configuration for Author Blurbs is centralized in the configuration file, enabling
 this feature for a given article requires that the article contains either the `author` or

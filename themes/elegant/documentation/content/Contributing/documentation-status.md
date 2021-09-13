@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Category: Contributing
 Summary: Current status of existing documentation
 Authors: Jack De Winter

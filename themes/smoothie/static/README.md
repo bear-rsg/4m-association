@@ -1,16 +1,10 @@
 # [Pelican-Smoothie](kdheepak.com/pelican-smoothie/) 
 
-[Pelican-Smoothie](http://kdheepak.com/pelican-smoothie/) is a multipurpose, HTML theme for [Pelican](http://getpelican.com/). This template features various content sections.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[Pelican-Smoothie](http://kdheepak.com/pelican-smoothie/) is a multipurpose, HTML theme for [Pelican](http://getpelican.com/). This template features various content sections.
 
 To use this template, choose one of the following options to get started:
 * Download the latest release from pelicanthemes.com 
-* Fork this repository on GitHubtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Fork this repository on GitHub
 
 Pelican-Smoothie was created by and is maintained by **Dheepak Krishnamurthy** - [kdheepak.com](http://kdheepak.com/).
 

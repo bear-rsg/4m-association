@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-plugin, navigation, web-design
 Category: Supported Plugins
 Date: 2014-01-27 00:02
@@ -22,10 +19,7 @@ and guide them through your site.
 
 Here is an example of what the Previous and Next Articles section may look like:
 
-![Show next and previous articles]({static}/images/elegant-theme_previous-next-article.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Show next and previous articles]({static}/images/elegant-theme_previous-next-article.png)
 
 To enable the Previous and Next Article links for your articles, add `neighbors` to the
 `PLUGINS` configuration variable in your Pelican configuration.

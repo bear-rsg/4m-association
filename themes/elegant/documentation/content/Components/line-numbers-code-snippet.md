@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: markdown, reST, code-snippets, gist
 Category: Components
 Date: 2013-11-05 17:36
@@ -18,10 +15,7 @@ Following examples will generate this output,
 
     #!python
     def example():
-        print 'Hello World'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+        print 'Hello World'
 
 reStructuredText has `code-block` directive to insert code snippets in your
 markup. Use `linenos` flag to switch on line numbers for the snippet.
@@ -31,10 +25,7 @@ markup. Use `linenos` flag to switch on line numbers for the snippet.
         :linenos:
 
         def example():
-            print 'Hello World'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+            print 'Hello World'
 
 [Python-Markdown](https://github.com/Python-Markdown/markdown/) uses
 [CodeHilite](https://python-markdown.github.io/extensions/code_hilite/) <!-- yaspeller ignore -->

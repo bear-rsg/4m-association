@@ -2,10 +2,7 @@
 
 Janky-ass pelican theme.
 
-See it in action: http://burrito.shtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+See it in action: http://burrito.sh
 
 `pip install webassets cssmin`
 

@@ -45,10 +45,7 @@ On the main page of the article is displayed with a preview image. To specify th
 ![article_info](readme_img/article_info.png)
 
 For example:
-```Markdowntitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```Markdown
 Modified: 2015-04-05 19:30
 Category: Python
 Tags: python, browsers, wb-tech

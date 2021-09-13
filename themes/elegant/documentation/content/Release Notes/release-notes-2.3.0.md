@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: change-log, project-management
 layout: post
 date: 2019-06-29 18:31
@@ -15,32 +12,20 @@ We have been busy making changes in our infrastructure. Our end goal is to autom
 
 With this release, every pull request is deployed by Netlify. We no longer have to merge the pull request locally and test it first, before approving it. Anyone can preview the pull request right from the Github.
 
-We are also planning to automate our release process. We have made several changes in our contribution process to ensure that we are compatible with the automate release requirements. Our next release will be published by a bot.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+We are also planning to automate our release process. We have made several changes in our contribution process to ensure that we are compatible with the automate release requirements. Our next release will be published by a bot.
 
 - Documentation is hosted at https://elegant.oncrashreboot.com/
 - Host and build documentation using Netlify
 - `elegant.oncrashreboot.com` domain is the final home of documentation. It shall never change
-- Delete github pages and related repositoriestitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Delete github pages and related repositories
 
 - New: FontAwesome updated to version 4.7.0 <!-- yaspeller ignore -->
 - New: `Photos` plugin support for photo gallery creation
 - New: Lightbox support for `Photos` plugin
 - Fixed: Amazon One Link div is in the header
-- Fixed: Separated claims for Google and Bing into individual includestitle: (.*)
-date: 2021-03-31
+- Fixed: Separated claims for Google and Bing into individual includes
 
-date: 2021-03-30
-
-- New: Help article on claim Google and Bingtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- New: Help article on claim Google and Bing
 
 - New: Enable deploy previews for every pull request
 - New: Add spell check for every pull request, and `master` and `next` branches

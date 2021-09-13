@@ -1,5 +1,6 @@
 title: Chaos in Microlasers
-date: 2011-07-06 
+date: 2011-07-06  
+tags: laser
 
 Würzburg physicists have created a microlaser with unique properties. They have also succeeded in making the laser behave chaotically. In future, it may be possible to use this for a new, secure form of data transmission.
 <!--break-->

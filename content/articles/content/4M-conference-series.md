@@ -1,6 +1,6 @@
 title: 4M Conference Proceedings
 date: 2018-10-08
-tags: 4m-conference
+tags: 4m-conference-series, home, 4m-conference
 
 <ul class="links in-links">
 <li><a href="/4m-association/content/4M-conference-series/4m-conference-series.html#2018">WCMNM2018</a></li>
@@ -94,7 +94,7 @@ You can purchase a copy of the proceedings from [Whittles Publishing](http://moo
 
 <h3 id="2007">4M 2007 Conference Proceedings</h3>
 
-![4m 2007 cover](/4m-association/images/wcmnm2018_proceedings_ .jpg)
+![4m 2007 cover](/4m-association/images/wcmnm2018_proceedings_cover.jpg)
 
 You can [view the papers here](http://www.4m-net.org/KnowledgeBase)
 

@@ -1,7 +1,7 @@
 title: SAVE THE DATE for the 4M/ICOMM 2015 Conference!
 date: 2014-11-04 
-tags: event
-category: event
+tags: home
+
 
 ### 31 March – 2 April 2015, Milan, Italy
 

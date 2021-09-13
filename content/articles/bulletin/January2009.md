@@ -1,7 +1,9 @@
 title: January'09 Bulletin
 date: 2014-04-07 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 4M/ICOMM2009, Ceramic Processing Handbook, Changes to Project Officer, Micropumps Workshop, PhD Award, Vacancies, Flexible Organice Electronics Conference
 <!--break-->

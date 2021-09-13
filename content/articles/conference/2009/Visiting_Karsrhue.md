@@ -1,7 +1,7 @@
 title: Visiting Karlsruhe
 date: 2009-03-10 
-category: conference
-tags: conference
+tags: conference, home
+
 
 <!--break-->![Karlsrhue](/4m-association/images/karlsrhue-pyramid.jpg)  
 <small>Photo: Courtesy of FZK, Germany</small>

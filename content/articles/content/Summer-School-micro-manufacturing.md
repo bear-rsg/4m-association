@@ -1,5 +1,6 @@
 title: Summer School on micro-manufacturing 2010
-date: 2010-09-10 
+date: 2010-09-10  
+tags: summer-school
 
 ![2010 Attendees](/4m-association/images/2010_finalday_web.jpg )The 2010 edition of DTU summerschool in “micro mechanical system design and manufacture” gathered twenty students from all over the world!
 <!--break-->

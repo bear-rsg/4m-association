@@ -1,5 +1,5 @@
 title: Call for papers
-date: 2011-02-03 
+date: 2011-02-03  
 
 Papers are sought to address theoretical and applied research issues related to manufacture, assembly and metrology for components and systems with nano/micro/meso-scale features and dimensions.
 
@@ -23,4 +23,4 @@ title:   Topics to cover:
 </ul>
 
 Click [here>>](https://www.me.iitb.ac.in/~wcmnm/Call_for_papers.pdf) for details about important dates and paper submission details.
-Before submitting a paper, please review the required [template>>](/4m-association/images/WCMNM_paper_template.docx).
+Before submitting a paper, please review the required [template>>](/4m-association/files/WCMNM_paper_template.docx).

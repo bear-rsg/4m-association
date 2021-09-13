@@ -1,5 +1,5 @@
 title: Laser drilling
-date: 2009-05-12 
+date: 2009-05-12  
 
 Laser drilling is a non-cutting machining method. The energy input by Laser is locally so high that the material ionises and evaporates. This plasma leaves the substrate and leaves a hole. The biggest advantages of this technique are the contactless machining and that the temperature stays very low.
 <!--break-->

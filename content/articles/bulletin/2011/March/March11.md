@@ -1,7 +1,9 @@
 title: March'11
 date: 2011-03-02 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November

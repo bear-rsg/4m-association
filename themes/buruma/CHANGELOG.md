@@ -1,9 +1,6 @@
 # Changelog
 
-<a name="0.1.0"></a>title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+<a name="0.1.0"></a>
 
 ### Changed
 
@@ -75,10 +72,7 @@ date: 2021-03-30
 - 📝 Indicate some specifications in the README. [[ecdf29d](https://github.com/ivanhercaz/buruma/commit/ecdf29d052aff6d1341c1ed9e0fcaaf68e0225c8)]
 
 
-<a name="0.1.0-alpha"></a>title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+<a name="0.1.0-alpha"></a>
 
 ### Changed
 

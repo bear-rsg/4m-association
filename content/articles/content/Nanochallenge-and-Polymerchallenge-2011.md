@@ -1,5 +1,6 @@
 title: Nanochallenge and Polymerchallenge 2011
-date: 2011-07-12 
+date: 2011-07-12
+tags: polymer-processing
 
 **Do you have a business idea in nanotechnology or polymer-based materials?** If so then Nanochallenge and Polymerchallenge 2011 just might be of interest to you.
 <!--break-->

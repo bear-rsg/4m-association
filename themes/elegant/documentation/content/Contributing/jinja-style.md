@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: code-style-for-jinja2
 Category: Contributing

@@ -1,5 +1,6 @@
 title: Deadline for 4M/ICOMM 2009 extended to 20th February 2009
-date: 2009-02-17 
+date: 2009-02-17  
+tags: 4m-conference-series
 
 The [4M/ICOMM 2009](/4m-association/conference/2009) Full paper submission deadline has been **extended only** until 20th February 2009!!! This is a hard deadline which must be respected in order for us to produce a fully reviewed proceedings in time.
 <!--break-->

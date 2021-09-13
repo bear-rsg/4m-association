@@ -1,5 +1,6 @@
 title: Integrating optical sensing into lab-on-a-chip systems
-date: 2009-06-05 
+date: 2009-06-05  
+tags: laser, loc, polymer-processing, femtosecond, metals, micro-fluidics-interest-group, micro-optics-interest-group
 
 A combination of waveguides and microfluidics is easily achieved through femtosecond-laser micromachining.
 <!--break-->

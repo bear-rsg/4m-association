@@ -1,7 +1,7 @@
 title: Optics - Key technology for the future
 date: 2010-06-18 
-tags: event
-category: event
+tags: home, training, micro-optics-interest-group
+
 
 <!--break-->
 **Venue:**  

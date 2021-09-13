@@ -1,14 +1,14 @@
 title: WCMNM2020
 date: 2019-10-24 
-category: conference
-tags: conference
+
+tags: conference, home
 slug: conference-WCMNM2020
 
-##  As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.
+### As a precautionary measure against COVID 19 outbreak, the congress has been tentatively postponed to **21-23 September 2021**.
 
 
 
-##  The paper submission deadlines will be extended accordingly. We are closely monitoring the situation and will keep you posted of the new paper submission deadlines. Thank you for understanding and please stay safe.
+#### The paper submission deadlines will be extended accordingly. We are closely monitoring the situation and will keep you posted of the new paper submission deadlines. Thank you for understanding and please stay safe.
 
 
 The 2020 World Congress on Micro and Nano Manufacturing will take place from **21 to 23 September 2021** at IIT Bombay, Mumbai, India.
@@ -82,4 +82,4 @@ or contact: <a href="mailto:wcmnm@me.iitb.ac.in"> wcmnm@me.iitb.ac.in</strong></
 For Visa invitation letter please fill up this [form>>](https://docs.google.com/forms/d/e/1FAIpQLSdrSDeIaviJ7snY6F7id-sNY1rr9xqvrgTRLWD_k_aFW_4ZYw/viewform) 
 
 
-<img src=" /images/IITB, Mumbai_1.jpg" width="100%">
+<img src="/4m-association/images/iitb,_mumbai_1.jpg" width="100%">

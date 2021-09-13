@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: fully-automated-version-management-and-release
 Category: Contributing
@@ -20,10 +17,7 @@ aspect of the project with next to no friction from each other's changes. At any
 team member can pull changes that have been made in another branch to their fork of the
 repository and exercise their changes with complete confidence.
 
-Release process should be fully automated to materialize this goal.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Release process should be fully automated to materialize this goal.
 
 Version management and publishing is accomplished using the
 [semantic-release](https://github.com/semantic-release/semantic-release) tool and it's
@@ -58,10 +52,7 @@ Note that the release type is specified as if that commit was the only commit in
 If the first two commits were put together in the release, the `Minor Feature Release` of the
 second commit would take precedence over the `Patch Release` of the first commit. In the same
 manner, the `Major Breaking Release` of the third commit would take precedence if all three
-commits were submitted in the same release.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+commits were submitted in the same release.
 
 An integral part of the release is updating the
 [CHANGELOG](https://github.com/Pelican-Elegant/elegant/blob/master/CHANGELOG.md).

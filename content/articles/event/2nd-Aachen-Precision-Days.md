@@ -1,7 +1,7 @@
 title: 2nd Aachen Precision Days
 date: 2010-01-20 
-tags: event
-category: event
+tags: home, conferences, training, micro-optics-interest-group
+
 
 This international conference with a thematic focus on precision and ultra-precision manufacturing, is addressed at participants in the field of industry and research.
 <!--break-->
@@ -14,3 +14,8 @@ The technical presentations will offer an insight into new process variations as
 using examples of different production sequences involving interdisciplinary technologies that will serve as a guide for further development activities.
 
 For more information, download a flyer by clicking on the icon below, or contact [Christoph Baum.](mailto:christoph.baum@ipt.fraunhofer.de)
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/2.Aachener Präzisionstage_engl.pdf">2.Aachener Präzisionstage_engl.pdf</a> | 214.75 KB |
+	

@@ -1,7 +1,7 @@
 title: DTU PhD Summer School - Micro Mechanical Systems Design & Manufacturing 2014
 date: 2014-04-14 
-tags: event
-category: event
+tags: home
+
 
 ### June 16th - 27th 2014, Technical University of Denmark
 

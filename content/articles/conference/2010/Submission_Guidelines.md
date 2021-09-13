@@ -1,7 +1,7 @@
 title: Submission Guidelines
 date: 2009-04-23
-category: conference
-tags: conference
+tags: conference, home
+
 
 ###  Deadlines
 

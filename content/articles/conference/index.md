@@ -1,6 +1,6 @@
 title:  4M Conference Series
 date: 2020-01-31
-category: conference
+
 tags: conference
 slug: conference-index
 
@@ -20,7 +20,7 @@ The annual conference provides a forum for experts from industry and academia to
         <li><a href="/4m-association/conference/2015/2015.html">4M/ICOMM2015</a></li>
         <li><a href="/4m-association/conference/2016/2016.html">4M/IWMF2016</a></li>
         <li><a href="/4m-association/conference/2018/2018.html">WCMNM2018</a></li>
-        <li><a href="/4m-association/conference/WCMNM2019.html">WCMNM2019</a></li>
-        <li><a href="/4m-association/conference/WCMNM2020.html">WCMNM2020</a></li>
+        <li><a href="/4m-association/conference/WCMNM2019/conference-WCMNM2019.html">WCMNM2019</a></li>
+        <li><a href="/4m-association/conference/WCMNM2020/conference-WCMNM2020.html">WCMNM2020</a></li>
     </ul>
 </div>

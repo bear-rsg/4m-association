@@ -2,10 +2,7 @@
 
 Nest is a theme for [Pelican](http://getpelican.com) 3.5+, a static site generator written in Python.
 
-I initially created this theme for [my blog](http://www.molivier.com), but now the theme is supposed to be generic enough to have its own repository.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+I initially created this theme for [my blog](http://www.molivier.com), but now the theme is supposed to be generic enough to have its own repository.
 
 ### Homepage
 
@@ -25,18 +22,12 @@ Add a background image by configuring `NEST_HEADER_IMAGES` parameter in your pel
 
 ![Nest Article View](article-background.png)
 
-Add a background image by adding `Illustration` custom parameter in your markdown article or page. Image should be located in `content/images` directory.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Add a background image by adding `Illustration` custom parameter in your markdown article or page. Image should be located in `content/images` directory.
 	Category: server
 	Tags: ubuntu, kernel
 	Slug: ubuntu-install
 	Author: Matthieu OLIVIER
-	Illustration: background.jpgtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+	Illustration: background.jpg
 
 * Featured site header image
 * Featured article header image
@@ -44,10 +35,7 @@ date: 2021-03-30
 * **Disqus** support for comments
 * **Google Analytics** support
 * **Piwik** support
-* RSS and Atom feedstitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* RSS and Atom feeds
 
 Nest template can be customized by adding parameters to your `pelicanconf.py` file. Template specifics parameters are prefixed with template name.
 
@@ -137,10 +125,7 @@ EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/logo.svg': {'path': 'logo.svg'}
 }
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 The theme uses external softwares, scripts, libraries and artworks:
 

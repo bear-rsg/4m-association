@@ -9,10 +9,7 @@
 
 - **applause:** add option to set applause_button_id ([8eda9a4](https://github.com/Pelican-Elegant/elegant/commit/8eda9a4cc7c588ff09a520e9f7fa183d1fb11031))
 - **applause:** add support for applause button ([e4872fd](https://github.com/Pelican-Elegant/elegant/commit/e4872fd558964c3007c516fc616314c88de49eef)), closes [#532](https://github.com/Pelican-Elegant/elegant/issues/532)
-- **applause:** simplify filter option ([9f8b60f](https://github.com/Pelican-Elegant/elegant/commit/9f8b60fc3cbc08e7e21cef08f7e44658131677dd))title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- **applause:** simplify filter option ([9f8b60f](https://github.com/Pelican-Elegant/elegant/commit/9f8b60fc3cbc08e7e21cef08f7e44658131677dd))
 
 ### Bug Fixes
 
@@ -179,32 +176,20 @@ New icons have better colors and bigger sizes.
 - **footer:** use flexbox instead of list for items in the footer ([bef7db9](https://github.com/Pelican-Elegant/elegant/commit/bef7db9)) <!-- yaspeller ignore -->
 - **onelink:** add Amazon Affiliate Disclosure ([cbfa6ac](https://github.com/Pelican-Elegant/elegant/commit/cbfa6ac))
 
-# Version 2.3.0title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# Version 2.3.0
 
 - Documentation is hosted at https://elegant.oncrashreboot.com/
 - Host and build documentation using Netlify
 - `elegant.oncrashreboot.com` domain is the final home of documentation. It shall never change
-- Delete github pages and related repositoriestitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Delete github pages and related repositories
 
 - New: FontAwesome updated to version 4.7.0 <!-- yaspeller ignore -->
 - New: `Photos` plugin support for photo gallery creation
 - New: Lightbox support for `Photos` plugin
 - Fixed: Amazon One Link div is in the header
-- Fixed: Separated claims for Google and Bing into individual includestitle: (.*)
-date: 2021-03-31
+- Fixed: Separated claims for Google and Bing into individual includes
 
-date: 2021-03-30
-
-- New: Help article on claim Google and Bingtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- New: Help article on claim Google and Bing
 
 - New: Enable deploy previews for every pull request
 - New: Add spell check for every pull request, and `master` and `next` branches
@@ -241,18 +226,12 @@ date: 2021-03-30
 - Add Disqus comments to Pages
 - All customizable variables consolidated in a single `_defaults.html`, making
   it easier for you to customize or even _localize_ the theme
-- Adds author blurbs at the end of the articletitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Adds author blurbs at the end of the article
 
 - Performance improvement- 4x faster output
 - Reduce number of HTTP requests using `assets` plugin
 - Shortcut icons, like favicon, are disabled by default. Set
-  `USE_SHORTCUT_ICONS` to true to enable ittitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+  `USE_SHORTCUT_ICONS` to true to enable it
 
 - Email newsletter subscriber form style matches rest of the theme
 - Article images have a visible border
@@ -274,20 +253,14 @@ date: 2021-03-30
 - Fixed: Footer is always under the fold even on smaller length web pages
 - Fixed: Site Name and top navigation menu move to left on wide displays
 - Fixed: Page link is not active in the navbar if `SAVE_PAGE_AS` is not set to
-  defaulttitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+  default
 
 - Use `neighbor` plugin to show next and previous articles
 - Use `assets` plugin to minify CSS and JS files
 - Support for `share_post` plugin
 - Support for `related_posts` plugin
 - Support for `multi_part` plugin
-- Support for `post_stats` plugintitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Support for `post_stats` plugin
 
 - Search results link open in the same window, which is consistent with
   internet search engines

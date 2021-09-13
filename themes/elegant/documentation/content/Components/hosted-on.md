@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 authors: Talha Mansoor
 Tags: nuances
 date: 2019-06-30 11:54

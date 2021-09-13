@@ -1,5 +1,6 @@
 title: Multipurpose integrated active contact lenses
-date: 2009-06-05 
+date: 2009-06-05
+tags: polymer-processing, contact-lens, micro-optics-interest-group 
 
 Electronics, sensors, and communication capabilities will all be embedded in future contact lenses, presenting new opportunities in applications ranging from medicine to virtual reality.
 <!--break-->

@@ -1,14 +1,16 @@
 title: October'10 Bulletin
 date: 2010-10-08 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2010
 
 
 ![4M2010](/4m-association/images/4m-logotight_web.png)
-For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/4m-association/content/Hotels-and-Acommodation/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/4m-association/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/4m-association/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/4m-association/node/18), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
+For those who have not yet registered please do so as soon as possible. For those who have, conference information including [hotels & accommodation](/4m-association/content/Hotels-and-Acommodation/Hotels-and-Acommodation.html) can be viewed on the [conference webpages](/4m-association/conference/2010).  Rooms have been reserved at the hotels shown, but these will only be held until end of October. A [draft detail  programme](/4m-association/content/Detail-Programme) is now published and features sessions organised by the [COTECH](/4m-association/node/18/18.html), [MultiLayer](/node/19), [FlexPAET](/node/20) and [EUMINAfab](/node/21) projects. With more sponsors than at any previous 4M conference, we look forward to welcoming you all to a fruitful and stimulating conference in France, in Bourg en Bresse and in Oyonnax, from 17th - 19th November 2010.  .html
     
 ###  5th Erlangen Workshop on Microforming
 
@@ -24,7 +26,7 @@ Dates for the next International Conference on Micro Manufacture (ICOMM), which 
   
 ###  EUMINAfab at MMLive
 
-The [EUMINAfab project](/4m-association/node/21) will be attending the MMLive exhibition and conference in Coventry on 19th & 20th October 2010, at the Ricoh Arena. Their Stand No. will be C15.  
+The [EUMINAfab project](/4m-association/node/21/21.html) will be attending the MMLive exhibition and conference in Coventry on 19th & 20th October 2010, at the Ricoh Arena. Their Stand No. will be C15.  
   
 ###  Training Courses in Microsystems
 

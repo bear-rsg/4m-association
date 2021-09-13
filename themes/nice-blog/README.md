@@ -12,10 +12,7 @@ https://blog.colacoweb.net
 
 ### Pages can have subtitles, just add:
 ```
-Subtitle: Put your subtitle here
-date: 2021-03-31
-
-date: 2021-03-30
+Sub
 ```
 
 ### Articles can have one cover image, just add:
@@ -28,10 +25,7 @@ Image: image_name.extension
 ```
 gallery:<galleryname>
 ```
-**Images must be on** `./content/images/gallery/<galleryname>`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+**Images must be on** `./content/images/gallery/<galleryname>`
 
 **This settings must be on `pelicanconf.py`**
 

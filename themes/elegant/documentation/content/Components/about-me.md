@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: remarkable, unique, home
 Date: 2019-07-01 01:12
 comments: false
@@ -16,10 +13,7 @@ The slug of the page should be `landing-page-about-hidden` and `status` should b
 
 ```yaml
 ---
-author: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Talha Mansoor
 layout: page
 date: 2019-01-14 7:30:47 +0100
 status: hidden

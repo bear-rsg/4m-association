@@ -1,7 +1,9 @@
 title: January'11
 date: 2011-02-02 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Dates and venue announced

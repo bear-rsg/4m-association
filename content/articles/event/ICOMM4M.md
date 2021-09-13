@@ -1,7 +1,7 @@
 title: ICOMM/4M
 date: 2010-05-14 
-tags: event
-category: event
+tags: home, icomm, conferences, 4m-conference-series
+
 
 ![ICOMM/4M 2010](/4m-association/images/logo%202010.jpg)  
 The [5th International Conference on MicroManufacturing](http://www.conferencing.uwex.edu/conferences/ICOMM10)
@@ -12,3 +12,7 @@ Many fields, including medical, aerospace, military/defense, optics, automotive,
 **Papers are sought** to address theoretical and applied research issues related to manufacture, assembly, and metrology for components and systems with micro-scale features.
 
 The full Call for Papers is available to download by clicking on the icon below. **Abstracts due on 30 October 2009**:
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/ICOMM-4M-2010_Announcement.pdf">ICOMM-4M-2010_Announcement.pdf</a> | 546.72 KB |

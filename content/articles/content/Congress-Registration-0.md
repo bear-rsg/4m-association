@@ -1,7 +1,7 @@
 title: Congress Registration 
-date: 2017-03-16 
-title:   Conference Registration Now Open
-
+date: 2017-03-16
+ 
+###  Conference Registration Now Open
 
 **REGISTER NOW** [HERE>>](https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-mechanical-engineering/wcmnm-2018)
 
@@ -51,7 +51,7 @@ Late payers for I2M2 members: **£580**
 Late payers for non-members: **£650**
 
 Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount.
-Check the following link for information on 4M membership. [Joining 4M](/4m-association/join4m)
+Check the following link for information on 4M membership. [Joining 4M](/4m-association/join4m.html)
 
 
 The conference fees (in GBP) include printed proceedings, lunches, refreshments, and conference dinner.

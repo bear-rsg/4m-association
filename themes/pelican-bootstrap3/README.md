@@ -3,19 +3,13 @@
 This is a Bootstrap 3 theme for Pelican, originally developed by
 [DandyDev](https://github.com/DandyDev).  It's fully responsive and contains
 sub-themes from the Bootswatch project.  Pelican-bootstrap3 is compatible with
-Pelican 3.3.0 and higher.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Pelican 3.3.0 and higher.
 
 If you want to adjust this theme to your own liking, we encourage you to fork
 it. This theme has started to gather more and more attention in the form of
 stars and forks. If you make improvements that are useful to others and can
 make the theme better in general **please don't hesitate to make a pull
-request**. For contributing guidelines, [look here](CONTRIBUTING.md)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+request**. For contributing guidelines, [look here](CONTRIBUTING.md)
 
 First:
 
@@ -48,10 +42,7 @@ site, make sure to also correctly specify the default language of the theme
 
 `I18N_TEMPLATES_LANG = 'en'`
 
-Otherwise the translations will not be used on your default site.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Otherwise the translations will not be used on your default site.
 
 This theme honors the following standard Pelican settings:
 
@@ -70,10 +61,7 @@ This theme honors the following standard Pelican settings:
 	* `PIWIK_URL`, `PIWIK_SSL_URL` and `PIWIK_SITE_ID`
 
 It uses the `tag_cloud` variable for displaying tags in the sidebar. You can
-control the amount of tags shown with: `TAG_CLOUD_MAX_ITEMS`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+control the amount of tags shown with: `TAG_CLOUD_MAX_ITEMS`
 
 ### Bootswatch and other Bootstrap 3 themes
 
@@ -405,17 +393,11 @@ http://dmark.github.io
 ### Translations
 
 This template can be translated using pybabel and the enclosed Makefile. See
-[Localizing themes with Jinja2](https://github.com/getpelican/pelican-plugins/blob/master/i18n_subsites/localizing_using_jinja2.rst) for more details and pointers.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[Localizing themes with Jinja2](https://github.com/getpelican/pelican-plugins/blob/master/i18n_subsites/localizing_using_jinja2.rst) for more details and pointers.
 
 [This is the website of the original author](http://dandydev.net)
 
-If you want more examples of what you could do with this theme, have a [look here](EXAMPLES.md).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+If you want more examples of what you could do with this theme, have a [look here](EXAMPLES.md).
 
 ![](screenshot.png)
 

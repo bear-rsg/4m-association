@@ -1,6 +1,3 @@
-# dev-random #title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# dev-random #
 
 ![screenshot](screenshot.png)

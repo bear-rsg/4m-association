@@ -22,10 +22,7 @@ A friendly Pelican theme
   * [top navigator](#top-navigator)
   * [location panel](#location-panel)
  * [settings of footer](#settings-of-footer)
- * [comment system](#comment-system)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+ * [comment system](#comment-system)
 
 ```bash
 $ git clone https://github.com/dokelung/jojo.git
@@ -38,18 +35,12 @@ $ pelican content -o output -s exconf.py
 $ cd output
 $ python -m pelican.server
 ```
-open your browser and goto http://localhost:8000, that's all!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+open your browser and goto http://localhost:8000, that's all!
 
 * [uikit2](https://getuikit.com/v2/) based theme (have nice look and easy to modify)
 * embedded site search engine [tipue_search](http://www.tipue.com/search/)
 * better chinese article look, guided by [十項讓長文章更容易閱讀的原則](https://wanderer.tw/%E7%B0%A1%E5%96%AE%E5%81%9A%E5%A5%BD%E4%B8%AD%E6%96%87%E6%8E%92%E7%89%88/)
-* [disqus](https://disqus.com/) comment system supporttitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* [disqus](https://disqus.com/) comment system support
 
 Followings are my dev environments:
 
@@ -63,10 +54,7 @@ Require pelican plugins:
 
 * tipue_search: need beautifulsoup4
 * just_table
-* representative_image: need beautifulsoup4title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* representative_image: need beautifulsoup4
 
 Open `pelicanconf.py` to modify your settings:
 
@@ -147,10 +135,7 @@ PAGE_URL = 'pages/{slug}/'
 PAGE_SAVE_AS = 'pages/{slug}/index.html'
 
 THEME = 'path/to/jojo' # specify your own path to jojo
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Open `pelicanconf.py` to modify your settings and remember to put all photos under `content/images` and just specify their base names in following settings:
 

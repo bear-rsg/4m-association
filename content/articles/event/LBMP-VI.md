@@ -1,7 +1,7 @@
 title: LBMP-VI
 date: 2011-06-08 
-tags: event
-category: event
+tags: home, conferences, assembly-packing
+
 
 <!--break-->
 Photonics West, being held next year in San Francisco, USA, is one of the biggest laser related conferences. In the frame of Photonic West 2012 a conference entitled  
@@ -28,3 +28,7 @@ The Call for Papers (CFP) can be downloaded by the link below. Don't miss a chan
 The guidelines and procedure for submission of an abstract is described in the attached CFP.  
 
 [Website](http://spie.org/LA111).
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/LBMP 2012 CFP.pdf">LBMP 2012 CFP.pdf</a> | 422.76 KB |

@@ -2,27 +2,18 @@
 
 Cait is a theme for static site generator, [Pelican][pelican]
 
-Cait is a simple responsive (kind of) theme consisting of mostly black, gray, and white.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Cait is a simple responsive (kind of) theme consisting of mostly black, gray, and white.
 * Disqus comment. `DISQUS_SITENAME` must be defined in configuration file.
 * Google Analytics. `GOOGLE_ANALYTICS` must be defined in configuration.
 * Responsive theme.
 * Landing and Contact Page.
-* Pagination.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Pagination.
 ** Only works on the latest version of Pelican. ( > 3.1.1 )
 Cait includes templates for a landing page and a contact page. In order to use it,
 the template name needs to be included in itself. The page has to go to your
 static pages directory (which is defined in your pelican config file with the `PAGE_DIR`). 
 It also need to include a metadata property for `heading and subheading`. 
-An example of the landing page:title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+An example of the landing page:
     Heading: Hello! My Name is John Doe
     Subheading: Some subheading sentence to put int.
     Template: landing

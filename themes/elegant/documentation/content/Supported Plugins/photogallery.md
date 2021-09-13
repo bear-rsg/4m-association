@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, pelican-plugin, photo gallery
 Category: Supported Plugins
 Date: 2019-06-09 10:49
@@ -35,10 +32,7 @@ Here is an example of what the Image Gallery section of such an article may look
 ![Photo Gallery Demonstration]({static}../images/elegant-theme_photo-gallery.png)
 
 Note that the photo gallery itself will be placed at the end of any text presented for the
-article.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+article.
 
 To enable the Photo Gallery plugin, add `photos` to the `PLUGINS` configuration variable in
 your Pelican configuration.
@@ -66,10 +60,7 @@ dealing with multiprocessing, a function being called within a multiprocessing c
 written to a specific pattern. Currently, the Photo Plugins has not been written to that
 pattern. Setting the `PHOTO_RESIZE_JOBS` configuration variable to `-1`
 circumvents this issue by forcing the photo processing code to work in debug mode on a single
-thread without invoking any of the multiprocessing code.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+thread without invoking any of the multiprocessing code.
 
 Once the configuration for Photo Gallery is enabled in the configuration file, using this
 feature for a given article requires that the article contains the `gallery`

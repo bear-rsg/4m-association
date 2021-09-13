@@ -1,24 +1,15 @@
 # HSS
 
 * HSS is responsive and single page design theme for [Pelican](http://getpelican.com), it is my hack of a Giulio Fidente's [gfidente/pelican-svbhack](https://github.com/gfidente/pelican-svbhack) theme.
-* HSS is "H"ack to "S"ingle-page-layout of "S"VBHACK.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* HSS is "H"ack to "S"ingle-page-layout of "S"VBHACK.
 
 You can see the [my site](https://memo.laughk.org).
 
 index                     | content
 --------------------------|---------------------------
-![image](screenshot1.png) | ![image](screenshot2.png)title: (.*)
-date: 2021-03-31
+![image](screenshot1.png) | ![image](screenshot2.png)
 
-date: 2021-03-30
-
-Clone the [repository](https://github.com/laughk/pelican-hss), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Clone the [repository](https://github.com/laughk/pelican-hss), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.
 
 - `GOOGLE_ANALYTICS` to use Google Analytics, set this var to your UA-XYZ code
 - The following values are intended for use Google Adsens(only responsive).
@@ -84,20 +75,11 @@ date: 2021-03-30
   ```python
   # set custom.css url.
   CUSTOM_CSS_URL = 'https://your-hosting.example.com/path/to/custom.css'
-  ```title: (.*)
-date: 2021-03-31
+  ```
 
-date: 2021-03-30
-
-- A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- A different Pygmentize theme can be used by editing `./Makefile` and running `make pygments`.
 
 * [HSS](https://github.com/laughk/pelican-hss) is authored by Kei Iwasaki.
-* [pelican-svbhack](https://github.com/gfidente/pelican-svbhack) is authored by Giulio Fidente.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* [pelican-svbhack](https://github.com/gfidente/pelican-svbhack) is authored by Giulio Fidente.
 
 Released under MIT License, full details in `LICENSE` file.

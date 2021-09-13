@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: remarkable
 Date: 2019-08-11 01:16
 Slug: tables

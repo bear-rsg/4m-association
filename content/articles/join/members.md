@@ -1,6 +1,5 @@
 title: Conference Series Association 
 date: 2018-07-10
-slug: join-members
 
 ## 4M Members - January 2018 - April 2019
 

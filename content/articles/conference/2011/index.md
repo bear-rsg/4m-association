@@ -1,7 +1,7 @@
 title: 4M 2011 Conference
 date: 2011-02-02 
-tags: event, 4m-conference, conference
-category: conference
+tags: 4m-conference-series, conference, home
+
 slug: conference-2011-index
 
 ![Haus der Wirtschaft, Germany](/4m-association/images/h_der_w.jpg )

@@ -1,7 +1,7 @@
 title: 3rd MicroNano Moulding ATV-SEMAPP Seminar  
 date: 2013-10-21 
-tags: event
-category: event
+tags: home
+
 
 ### November 13th, 2013, DTU
 

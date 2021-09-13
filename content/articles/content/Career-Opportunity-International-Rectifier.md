@@ -1,5 +1,6 @@
 title: Career Opportunity at International Rectifier
-date: 2011-04-06 
+date: 2011-04-06
+tags: vacancies
 
 <!--break-->
 title:   COMPANY PROFILE

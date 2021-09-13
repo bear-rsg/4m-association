@@ -1,5 +1,6 @@
 title: Microturning
-date: 2010-02-12 
+date: 2010-02-12  
+tags: metals-processing
 
 Technology suitable for both serial and small quantity production
 

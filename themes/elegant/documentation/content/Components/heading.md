@@ -1,7 +1,4 @@
-title: Headings Style
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: style, typography
 Category: Components
 Date: 2019-12-01 10:38
@@ -17,10 +14,7 @@ Following are the examples of headings as they appear inside an article.
 
 # Heading 1 `code` <small>small</small>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Lobortis feugiat vivamus at augue. Sed augue lacus viverra vitae congue eu consequat.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Lobortis feugiat vivamus at augue. Sed augue lacus viverra vitae congue eu consequat.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Lobortis feugiat vivamus at augue. Sed augue lacus viverra vitae congue eu consequat.
 

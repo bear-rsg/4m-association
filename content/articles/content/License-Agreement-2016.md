@@ -1,6 +1,7 @@
 title: License Agreement 2016
-date: 2016-01-25 
-title:   Deadlines
+date: 2016-01-25
+ 
+###  Deadlines
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

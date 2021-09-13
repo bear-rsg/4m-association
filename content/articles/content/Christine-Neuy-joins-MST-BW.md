@@ -1,5 +1,5 @@
 title: Christine Neuy joins MST BW 
-date: 2011-02-15 
+date: 2011-02-15  
 
 <!--break-->
 ![Christine Neuy](/4m-association/images/christine_neuy_4c.jpg)   

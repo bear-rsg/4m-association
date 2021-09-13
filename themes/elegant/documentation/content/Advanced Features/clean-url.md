@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: unique
 Date: 2019-08-10 20:44
 Slug: clean-url
@@ -13,10 +10,7 @@ Out of the box, Pelican generated URLs are [unclean](https://en.wikipedia.org/wi
 
 !!! Important "Mandatory"
 
-    To use clean URLs, you server must support it.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    To use clean URLs, you server must support it.
 
 In your Pelican configuration set following values
 
@@ -36,29 +30,20 @@ If you do not set the variables then the URLs will become
 
 1. [`/categories.html`](/categories.html)
 1. [`/tags.html`](/tags.html)
-1. [`/archives.html`](/archives.html)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+1. [`/archives.html`](/archives.html)
 
 For clean URLs for articles, just set
 
 ```python
 ARTICLE_URL = "{slug}"
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 For pages, set
 
 ```python
 PAGE_URL = "{slug}"
 PAGE_SAVE_AS = "{slug}.html"
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 For search page, set
 

@@ -1,5 +1,6 @@
 title: Extending the process limits of laser polymer welding
-date: 2012-02-03 
+date: 2012-02-03
+tags: laser, project, polymer-processing
 
 <!--break-->
 ![Polybright](/4m-association/images/polybright_web.jpg)  

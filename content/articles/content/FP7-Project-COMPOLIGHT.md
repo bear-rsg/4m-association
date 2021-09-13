@@ -1,5 +1,6 @@
 title: FP7 Project - COMPOLIGHT
-date: 2011-06-08 
+date: 2011-06-08
+tags: project, metals-processing
 
 <!--break-->
 **COMPOLIGHT = "Rapid manufacturing of lightweight metal components:"**  

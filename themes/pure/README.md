@@ -2,10 +2,7 @@ Pure
 ====
 
 [Collaborative blogging theme](http://purepelican.com) based on [Purecss](http:purecss.io) for [Pelican](http://docs.getpelican.com/) blogs.
-Theme is responsive.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Theme is responsive.
 
 * `COVER_IMG_URL` - Set the sidebar image for homepage.
 * `PROFILE_IMAGE_URL` - Set the image/logo for the top circle cutout on sidebar.
@@ -29,15 +26,9 @@ date: 2021-03-30
         ('twitter-square', 'https://twitter.com/example'),
     )
     ```
-    where the first value of the tuple is the icon name from http://fontawesome.io/icons/ after stripping `fa-` (eg. `fa-github` will be `github`)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    where the first value of the tuple is the icon name from http://fontawesome.io/icons/ after stripping `fa-` (eg. `fa-github` will be `github`)
 * `about_author` - short summary about author displayed under gravatar
-* `email` - display author's gravar on article. See [gravatar pelican plugin](https://github.com/getpelican/pelican-plugins/tree/master/gravatar)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* `email` - display author's gravar on article. See [gravatar pelican plugin](https://github.com/getpelican/pelican-plugins/tree/master/gravatar)
 
 ![Pure preview](http://i.imgur.com/lqCJVrF.png)
 
@@ -45,9 +36,6 @@ date: 2021-03-30
 
 ![Pure preview](http://i.imgur.com/RkYxMIl.png)
 
-See it live at [testpy.org](http://testpy.org/)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+See it live at [testpy.org](http://testpy.org/)
 * [FitVids](https://github.com/davatron5000/FitVids.js) jQuery plugin for fluid width video embeds.
 * [Math Render Ability](https://github.com/getpelican/pelican-plugins/tree/master/render_math) *render_math* plugin for using MathJax to render both MathML and LaTex.

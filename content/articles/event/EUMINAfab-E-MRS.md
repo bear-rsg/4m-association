@@ -1,7 +1,7 @@
 title: EUMINAfab at E-MRS
 date: 2010-09-08 
-tags: event
-category: event
+tags: home
+
 
 There will be a EUMINAfab workshop held on 14th September 2010 as a satellite event to the E-MRS 2010 Fall meeting in Warsaw.
 <!--break-->

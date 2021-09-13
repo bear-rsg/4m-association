@@ -1,7 +1,7 @@
 title: Day 1 - 23 September 2009
 date: 2009-07-08 
-category: conference
-tags: conference
+tags: conference, home
+
 
 <!--break-->
 ###  Wednesday 23 September 2009

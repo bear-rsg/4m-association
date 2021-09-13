@@ -1,5 +1,5 @@
 title: AITeM Photo Contest 2018
-date: 2018-03-21 
+date: 2018-03-21  
 
 ### WCMNM2018 AITeM Photo Contest
 
@@ -52,7 +52,7 @@ Please e-mail the documents to the contest coordinator, Prof. Giovanni Lucchetta
 ### Sponsor
 
 
-<img src="/4m-association/images/sponsor logo_photo_contest.jpg" width="150px">
+<img src="/4m-association/images/sponsor_logo_photo_contest.jpg" width="150px">
 
 ### Awards
 

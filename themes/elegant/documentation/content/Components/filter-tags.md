@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: nuances, search
 layout: post
 Date: 2013-08-27 23:20

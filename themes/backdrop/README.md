@@ -16,10 +16,7 @@ This is an example of the page footer on a medium screen.
 I you want to customize Backdrop, perhaps consider using
 [Sass](http://sass-lang.com/) and [Grunt](http://gruntjs.com/), as I did when
 originally designing it. See the
-[backdrop-theme](https://github.com/cmacmackin/backdrop-theme) repository.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[backdrop-theme](https://github.com/cmacmackin/backdrop-theme) repository.
 The theme has been designed to use the [representative_image](https://github.com/getpelican/pelican-plugins/tree/master/representative_image) plugin. However,
 websites will look fine without it. It is also known to work with the
 [render_math](https://github.com/getpelican/pelican-plugins/tree/master/render_math)
@@ -27,10 +24,7 @@ and [sitemap](https://github.com/getpelican/pelican-plugins/tree/master/sitemap)
 plugins, but these work with all themes and Backdrop is in no way special in
 this regard. In future, support may be added for the
 [pelican-githubprojects](https://github.com/kura/pelican-githubprojects) and
-[tipue_search](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search) plugins.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[tipue_search](https://github.com/getpelican/pelican-plugins/tree/master/tipue_search) plugins.
 The following variables can be set in your `pelicanconf.py` file in order to
 customize your website.
 

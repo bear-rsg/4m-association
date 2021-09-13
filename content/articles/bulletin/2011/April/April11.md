@@ -1,7 +1,9 @@
 title: April'11
 date: 2011-05-06 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -29,11 +31,11 @@ A prototype implantable eye pressure monitor for glaucoma patients is believed t
   
 ###  Summer School in Micro Mechanical System Design & Manufacturing
 
-The dates for this years [Summer School at DTU](/4m-association/event/Summer-School-Micro-Manufacturing) are announced. It commences on 20th June 2011, for two weeks. A limited number of bursaries are available to 4M member organisations. You can read about previous summer schools [here.](/category/Tags/Summer-school)   
+The dates for this years [Summer School at DTU](/4m-association/event/Summer-School-Micro-Manufacturing) are announced. It commences on 20th June 2011, for two weeks. A limited number of bursaries are available to 4M member organisations. You can read about previous summer schools [here.](/4m-association/tags/summer-school)   
    
 ###  Course in Polymer Micro-fabrication, 3-4th May 2011
 
-As part of the series of courses arranged by fsrm (see below) our 4M colleagues KIT host the above course. This is a good opportunity to remind you that 4M members can get a discounted rate to any fsrm course. For further details see [fsrm page.](/4m-association/content/fsrm-training-courses/fsrm-training-courses.html)    .html
+As part of the series of courses arranged by fsrm (see below) our 4M colleagues KIT host the above course. This is a good opportunity to remind you that 4M members can get a discounted rate to any fsrm course. For further details see [fsrm page.](/4m-association/content/fsrm-training-courses/fsrm-training-courses.html)
  
 ###  Training Courses in Microsystems
 

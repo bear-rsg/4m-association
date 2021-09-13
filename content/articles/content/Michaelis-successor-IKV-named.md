@@ -1,5 +1,5 @@
 title: Michaeli's successor at IKV named
-date: 2011-02-15 
+date: 2011-02-15  
 
 **Hopmann to become new head of the Institute of Plastics Processing (IKV)**  
   

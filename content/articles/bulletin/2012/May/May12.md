@@ -1,7 +1,9 @@
 title: May'12
 date: 2012-05-01 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ####  4M 2012 - Vienna, Austria, 9-11th October

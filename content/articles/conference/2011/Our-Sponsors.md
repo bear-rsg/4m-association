@@ -1,7 +1,7 @@
 title: Our Sponsors
 date: 2011-04-06 
-category: conference
-tags: conference
+tags: conference, home
+
 
 ##  The State of Baden-Württemberg
 
@@ -42,7 +42,7 @@ Our expertise and specialist knowledge ensures technical superiority, quality co
 
 ![SARIX](/4m-association/images/logos/sarix-inline.jpg)
 
-[SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/4m-association/node/75). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities. 
+[SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/4m-association/node/75/75.html). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities. 
 
 -------------------
   

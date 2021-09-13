@@ -1,5 +1,6 @@
 title: Small Quantity Production
-date: 2009-11-13 
+date: 2009-11-13
+tags: metals-processing
 
 <!--break--><table class="info fade">
   <tbody>

@@ -1,7 +1,7 @@
 title: PowerMEMS 2010
 date: 2010-05-14 
-tags: event
-category: event
+tags: home, conferences
+
 
 The 10th International Workshop on Micro and Nanotechnology for Power Generation and Energy Conversion Applications
 <!--break-->
@@ -24,3 +24,7 @@ Technical topics of interest include:
 * Micro coolers and other thermal management technologies  
 
 For full information visit the [PowerMEMS website](http://www.powermems.org/) or download the flyer by clicking on the icon below.
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/PowerMEMS_2010.pdf">PowerMEMS_2010.pdf</a> | 395.85 KB |

@@ -1,7 +1,7 @@
 title: EUSPEN 2011
 date: 2010-11-05 
-tags: event
-category: event
+tags: home, cotech, conferences
+
 
 **Venue**  
 Lake Como, Italy  

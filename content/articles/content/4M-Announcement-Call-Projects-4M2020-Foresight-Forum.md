@@ -1,5 +1,5 @@
 title: 4M Announcement - Call for Projects: 4M2020 Foresight Forum
-date: 2014-08-05 
+date: 2014-08-05  
 
 The 4M2020 programme (*) is organising a Foresight Forum from the 9th to 11th September 2014 in Grenoble (F) to review the research needs in Micro and Nano Manufacturing and inform H2020 about future priorities in this field.  A number of projects that are currently funded by the Commission have already been identified and invited to attend, but we would also like to offer the opportunity for the 4M Association community to propose other projects to attend the forum. 
 

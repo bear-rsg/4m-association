@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, pelican-plugin, social-media
 Category: Supported Plugins
 Date: 2014-03-24 20:14
@@ -26,10 +23,7 @@ benefit of not having any ability to be used for online tracking.
 
 Here is an example of what the Social Media Sharing section may look like:
 
-![Share Post plugin in Elegant]({static}/images/elegant-theme-share-post-plugin.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Share Post plugin in Elegant]({static}/images/elegant-theme-share-post-plugin.png)
 
 To enable the Social Media Sharing links for your articles, add `share_post` to the `PLUGINS`
 configuration variable in your Pelican configuration.
@@ -48,10 +42,7 @@ want to replace it.
 
 ```Python
 SHARE_POST_INTRO = "Share me with your friends on"
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Once the configuration for Sharing Media Links is enabled in the configuration file, using
 this feature to provide links for your readers to share your articles on social media is
@@ -66,10 +57,7 @@ article as follows:
 
 ```yaml
 share_post_intro: Share this article on Elegant with
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 There are a plethora of social sharing widgets available online. The unfortunate problem with
 most of the widgets is that they are used to track users and their browsing habits.

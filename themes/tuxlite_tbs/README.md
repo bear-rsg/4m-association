@@ -1,6 +1,3 @@
-# tuxlite_tbs #title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# tuxlite_tbs #
 
 ![screenshot](screenshot.png)

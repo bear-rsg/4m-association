@@ -1,7 +1,4 @@
-title: Test Page 3 測試頁 3 
-date: 2021-03-31
 
-date: 2021-03-30
 Category: python
 Tags: python, pelican
 Slug: test3

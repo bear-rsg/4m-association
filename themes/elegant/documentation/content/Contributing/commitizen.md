@@ -1,11 +1,5 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-Subtitle: Recommended
-date: 2021-03-31
-
-date: 2021-03-30
+---
+Sub
 Slug: use-commitizen-for-git-commits
 Category: Contributing
 Tags:
@@ -25,10 +19,7 @@ To make this process easier, the Elegant repository is configured to support the
 [Commitizen](https://github.com/commitizen/cz-cli) tool. This tool saves time by controlling
 the format of the Git commit messages to a set of predefined options and patterns. This
 formatting allows for our release process to be
-[fully automated]({filename}./automated-release.md).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[fully automated]({filename}./automated-release.md).
 
 Both [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/en/docs/install)
 must be installed on your system.
@@ -41,10 +32,7 @@ repository, then execute the following commands:
 ```bash
 yarn global add commitizen
 yarn install
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 As the Elegant team has already made the repository
 [Commitizen friendly](https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly),
@@ -61,10 +49,7 @@ crafted for you from the answers you provided.
 In some cases, such as a [Git pre-commit hook failure]({filename}./pre-commit.md), you may
 not want to re-answer the questions again. Once you fix the issues that prevented the
 commit from happening, you can use `git-cz --retry` to submit the commit again using the same
-answers that were used in the failed attempt.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+answers that were used in the failed attempt.
 
 For a quick video on how this process works in real life, click on the play button below.
 

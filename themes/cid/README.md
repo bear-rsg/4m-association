@@ -1,28 +1,16 @@
 # Cid
 
-Cid is a simple theme for static site generator, [Pelican][pelican]. Demo: [my site](http://hndr.me).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Cid is a simple theme for static site generator, [Pelican][pelican]. Demo: [my site](http://hndr.me).
 * Disqus comment. `DISQUS_SITENAME` must be defined in configuration file.
 * Google Analytics. `GOOGLE_ANALYTICS` must be defined in configuration.
 * Obfuscated Email. `CONTACT_EMAIL` must be defined in the configuration file. Javascript is required to view the email address.
 * Responsive theme.
 * Landing Page template.
-* Pagination.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-See in the `scrshot/` directory.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Pagination.
+See in the `scrshot/` directory.
 Cid includes a landing page template that can be used to generate a landing page for your site.
 To use it, simply create a static page that uses the `landing.html` template and configure it
-to be the index page of your site.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+to be the index page of your site.
 By default, the landing page and site footer will display the list of static pages configured on the site. To replace them
 with a list of links you want, specify a `USE_CUSTOM_MENU` configuration variable to be true, and create
 `CUSTOM_MENUITEMS` tuple in the `(Title, url)` format within your configuration file to contain the list
@@ -31,22 +19,13 @@ of items you want to display. The url are specified relative to the `SITEURL`. E
     USE_CUSTOM_MENU = True
     CUSTOM_MENUITEMS = (('Blog', `blog`),
                  ('Contact', 'contact'),
-                 ('Projects', 'pages/projects'))title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+                 ('Projects', 'pages/projects'))
 Define a `SITEFOOTER` in your configuration file to replace the site footer. Will default to
 Pelican and theme credit if not defined. The site footer can contains HTMl tags, but it's better to
-keep it simple as it will be printed inside a `p` tag.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+keep it simple as it will be printed inside a `p` tag.
 If `CONTACT_EMAIL` is configured, the theme will display the email address in a `mailto` link, but
 the email address will be printed through a Javascript ROT13 function in order to obfuscate the email addres.
-This means the email address won't be displayed if the site visitor doesn't have Javascript enabled.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This means the email address won't be displayed if the site visitor doesn't have Javascript enabled.
 Additional contact information can be displayed in the same way as the custom menu item/ pages links. To use it,
 define a `CONTACTS` tuple in the configuration file.
 

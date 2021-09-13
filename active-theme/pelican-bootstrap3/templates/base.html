@@ -120,7 +120,7 @@
         <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
             <div class="masthead__logos">
                 <div id="4m-logo">
-                    <a href="/"><img src="{{ SITEURL }}/images/header.png" alt=""></a>
+                    <a href="/4m-association/"><img src="{{ SITEURL }}/images/header.png" alt=""></a>
                 </div>
                 <div id="title">
                     <h1><a href="/">4M Association</a></h1>
@@ -236,8 +236,6 @@
         <script src="{{ SITEURL }}/{{ CUSTOM_JS }}"></script>
     {% endif %}
 
-
-
     {% if BANNER %}
         <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
     {% endif %}
@@ -249,20 +247,7 @@
     {% if 'liquid_tags.notebook' in PLUGINS %}
         {% include 'includes/liquid_tags_nb_footer.html' %}
     {% endif %}
-    <script type="text/javascript">
-        $(document).ready(function() {
-
-          $("table").addClass("table-responsive").addClass("table-striped");
-          var w = $(window).width();
-          if(w > 767) {
-              var min = $( window ).height() - ($("#header").height() + $("#footer").height());
-              alert(min);
-              if(($("#content").height() < min) and ($("#sidebar").height() < min)){
-                  $("#footer").addClass("shortpage");
-              }
-          }
-        });
-    </script>
+    {% include 'includes/sidebar/extras-js.html' %}
     {% block scripts %}{% endblock %}
 </body>
 </html>

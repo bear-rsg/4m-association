@@ -8,34 +8,22 @@ It offers several unique features like search, live filter, collapsible
 comments, Mailchimp, custom 404 page, and many more.
 
 It is a minimal, and stylish theme that looks amazing across all screen
-resolutions and devices.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+resolutions and devices.
 
 Visit [elegant.oncrashreboot.com][demo] to see theme in action, which is also
-home to the documentation.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+home to the documentation.
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Elegant is the only Pelican theme that offers comprehensive documentation.
 
-The documentation can be viewed at [elegant.oncrashreboot.com][demo]. Its source code is in [documentation folder of this repository][doc_repo].title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+The documentation can be viewed at [elegant.oncrashreboot.com][demo]. Its source code is in [documentation folder of this repository][doc_repo].
 
 Developing Elegant is a community effort. You are invited to help develop it further.
 
 Feel free to fork the [repository][], and submit pull requests.
 
-If you find any issues, or have a suggestion, then please open an [issue][].title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+If you find any issues, or have a suggestion, then please open an [issue][].
 
 Elegant is released under the [MIT License][]. See [`THANKS.md`][thanks] file for a list of contributors.
 

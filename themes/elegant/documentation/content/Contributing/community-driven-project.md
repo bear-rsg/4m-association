@@ -1,11 +1,5 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-Subtitle: The beginning of a beautiful friendship
-date: 2021-03-31
-
-date: 2021-03-30
+---
+Sub
 Slug: community-led-project
 Category: Contributing
 Tags:
@@ -15,10 +9,7 @@ Keywords:
 Authors: Pablo Iranzo Gómez, Talha Mansoor, Matija Šuklje
 ---
 
-[TOC]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[TOC]
 
 [Talha Mansoor][talha131] published the first version of Elegant in 2012. It grew in popularity in a short time, due to its clean and functional style.
 
@@ -39,10 +30,7 @@ This way, the bus factor of the project has greatly improved.
 [talha131]: https://www.oncrashreboot.com
 [iranzo]: https://iranzo.github.io/
 [silverhook]: https://matija.suklje.name <!-- yaspeller ignore -->
-[future]: https://github.com/talha131/pelican-elegant/issues/173title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[future]: https://github.com/talha131/pelican-elegant/issues/173
 
 Since the code base is now tended by more than one, [team][team] has put in place some basic rules of governance to avoid people stepping on each-others toes.
 
@@ -56,19 +44,13 @@ We have also started discussing [how to vote on new features and other important
 [cc-by-4.0]: https://creativecommons.org/licenses/by/4.0/
 [new_members]: https://github.com/Pelican-Elegant/elegant/issues/193
 [vote]: https://github.com/Pelican-Elegant/elegant/issues/180
-[contributing]: https://github.com/Pelican-Elegant/elegant/blob/master/CONTRIBUTING.mdtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[contributing]: https://github.com/Pelican-Elegant/elegant/blob/master/CONTRIBUTING.md
 
 Any good project needs good documentation and deserves a good homepage.
 
 We decided to eat our own dog food and host Elegant documentation on an Elegant-themed Pelican instance. This serves three purposes. One, hosts documentation, two, showcases Elegant features, and third, a testing ground to try out new ideas.
 
-This resulted in [elegant.onCrashReboot.com](https://elegant.oncrashreboot.com).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This resulted in [elegant.onCrashReboot.com](https://elegant.oncrashreboot.com).
 
 As we write this blog post, the discussion on [how to tackle future releases][future_releases] is still on-going.
 

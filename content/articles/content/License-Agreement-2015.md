@@ -1,6 +1,7 @@
 title: License Agreement 2015
 date: 2014-07-30 
-title:   Deadlines
+
+### Deadlines
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>
@@ -22,9 +23,9 @@ The licensor warrants that:
  * the Licensor owns the copyright in the work created by the  authors.  
  * the Article submitted is original and has been written by the stated authors.  
  * the Article contains no libelous or other unlawful statements and does not contain any materials that violate any personal or proprietary rights of any other person or entity. 
- * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted. 
-title:   Submission
-
+ * the Licensor has obtained written permission from copyright owners for any excerpts from copyrighted works that are included and have credited the sources in  the Article or  the supplemental tables, illustrations or other information submitted.
+  
+### Submission
 
 Please download the 4M/ICOMM2016 License Agreement by clicking on the icon below. When you have completed it please scan, post or email it, by the specified deadline, to the Secretariat at the address below. If posting, please also email a confirmation.
 
@@ -34,8 +35,6 @@ Edgbaston
 Birmingham
 B15 2TT
 UK   
-
-
 
 <a href=mailto:a.batal@bham.ac.uk>Afif Batal</a>
 Telephone: +44(121)414 4143

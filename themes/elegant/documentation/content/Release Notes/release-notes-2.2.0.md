@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: change-log, project-management
 layout: post
 date: 2019-06-09 18:58

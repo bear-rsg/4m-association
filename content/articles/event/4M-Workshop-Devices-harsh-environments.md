@@ -1,7 +1,7 @@
 title: Devices for harsh environments
 date: 2009-03-31 
-tags: event
-category: event
+tags: home, sensors-and-actuators, ceramic-interest-group
+
 
 TU Wien are organising this **4M Workshop** on the topic of:  
   
@@ -16,3 +16,9 @@ This workshop falls within the 4M extension period so is eligible expenditure.
 Full details are on the flyer that you can download from below, along with information about the location and hotels. If you have any further questions or are interested in contributing to this event you can also contact [Nadja Adamovic.](nadja.adamovic@tuwien.ac.at) 
 
 **Deadline for abstracts is May 8th 2009.**
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/Flyer-4M_Workshop-Vienna_2009.pdf">Flyer-4M_Workshop-Vienna_2009.pdf</a> | 536.52 KB |
+<a href="/4m-association/files/Hotelplan.pdf">Hotelplan.pdf</a> | 361.53 KB |
+<a href="/4m-association/files/HOTELLISTE 2009.doc">HOTELLISTE 2009.doc</a> | 26.5 KB |

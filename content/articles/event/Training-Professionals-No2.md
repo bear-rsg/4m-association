@@ -1,7 +1,7 @@
 title: Training for Professionals No.2 - Stockholm
 date: 2012-04-24 
-tags: event
-category: event
+tags: home, cotech
+
 
 This Workshop will present the latest technologies and applications within the field of micro and nano moulding with presentations by speakers from industrial partners, research centers and universities.
 <!--break-->
@@ -83,3 +83,8 @@ Micro replication processing technologies:
 *Humbert Noll (FOTEC) (Austria)*  
 
 **14h00**       Close
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/20120420 cotech Workshop.pdf">20120420 cotech Workshop.pdf</a> | 477.37 KB |
+	

@@ -1,5 +1,5 @@
 title: Hotels & Accommodation
-date: 2011-02-03 
+date: 2011-02-03  
 
 The Conference Venue also has accommodation:
 

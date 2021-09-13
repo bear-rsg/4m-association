@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, pelican-plugin, page-speed
 Category: Supported Plugins
 Date: 2014-03-24 14:09
@@ -29,10 +26,7 @@ server.
 Pelican provides a plugin that takes the various CSS and JavaScript files and compiles each
 group of them into a single file. Not only does this process reduce the number of calls to
 retrieve files from the server, but it minifies or reduces the overall size of
-those files as well.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+those files as well.
 
 To enable Asset Management for your website, add `assets` to the `PLUGINS` configuration
 variable in your Pelican configuration.

@@ -1,11 +1,5 @@
-Lannisport is a [Pelican] [1] theme. It can be seen live at http://iovene.com/.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-![] [2]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Lannisport is a [Pelican] [1] theme. It can be seen live at http://iovene.com/.
+![] [2]
 
 Some variables that could be used:
 
@@ -22,10 +16,7 @@ Some variables that could be used:
  *  `LICENSE_NAME`: the license for your content (e.g. CC BY-SA)
  *  `LICENSE_URL`: the link to where the full text of your license is
  *  `ARCHIVES_URL`: the link to your archives
- *  `CONTACT_URL`: the link to your contact pagetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+ *  `CONTACT_URL`: the link to your contact page
 
 This theme is licensed under the [GPL v3] [3] license.
 

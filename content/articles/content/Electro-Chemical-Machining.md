@@ -1,5 +1,6 @@
 title: Electro Chemical Machining
-date: 2009-11-13 
+date: 2009-11-13  
+tags: metals-processing
 
 Technology suitable small quantity production 
 

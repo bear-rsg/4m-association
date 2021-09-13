@@ -1,6 +1,5 @@
 title: University of Nottingham - Faculty of Engineering – Division of Manufacturing
-date: 2014-12-23 
-
+date: 2014-12-23  
 
 **PhD Research Studentship**
 

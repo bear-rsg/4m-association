@@ -1,5 +1,6 @@
 title: Bonding
-date: 2009-05-12 
+date: 2009-05-12  
+tags: metals-processing
 
 Technology suitable small quantity production
 

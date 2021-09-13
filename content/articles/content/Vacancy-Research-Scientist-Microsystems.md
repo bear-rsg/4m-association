@@ -1,5 +1,6 @@
 title: Vacancy for a Research Scientist in Microsystems
-date: 2011-01-04 
+date: 2011-01-04  
+tags: vacancies, assembly-packing
 
 **SWEREA IVF are seeking a Research Scientist in Microsystems** to work on the development of technology for microsystem packaging.
 <!--break-->

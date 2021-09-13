@@ -1,5 +1,5 @@
 title: Final 4M Governing Council
-date: 2009-08-13 
+date: 2009-08-13  
 
 This final gathering of the consortium proceeded as per the [planned agenda.](/4m-association/event/4M-Governing-Council.html)
 <!--break-->

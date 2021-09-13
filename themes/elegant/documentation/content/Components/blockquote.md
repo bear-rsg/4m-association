@@ -1,7 +1,4 @@
-title: Blockquote Style
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: style, typography
 Category: Components
 Date: 2019-12-01 18:41

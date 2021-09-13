@@ -1,7 +1,9 @@
 title: November'09 Bulletin
 date: 2009-11-17 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### 4M/ICOMM Proceedings

@@ -1,7 +1,7 @@
 title: Hotel & Accommodation 2015
-date: 2014-07-30 
-title:   Accommodation
-
+date: 2014-07-30
+ 
+### Accommodation
 
 The Local Organizing Committee of the 4M/ICOMM2015 Conference suggests the following hotels:
 <!--break-->

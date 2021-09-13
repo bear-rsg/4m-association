@@ -1,5 +1,5 @@
 title: EUMINAfab - second Call Opens.
-date: 2010-03-02 
+date: 2010-03-02  
 
 The second call for applications for work in EUMINA*fab* begins on Monday March 1st 2010.
 <!--break-->

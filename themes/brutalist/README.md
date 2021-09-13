@@ -2,14 +2,8 @@
 
 ![Brutalist Pelican Theme](https://brutalistpelican.com/images/site-cover.jpg "Brutalist Pelican Theme") 
 
-View the demo version at [https://brutalistpelican.com](https://brutalistpelican.com).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-When I decided to get back into blogging, I knew that I wanted a site that was super simple and readable. There are many great Pelican themes out there but I couldn't quite find what I was looking for. After reading David Bryant Copeland's [Brutalist Web Design](https://brutalist-web.design/) a few weeks ago, I was inspired to try and apply those design principles to a Pelican theme. The goal of this theme is to be feature-rich while also accessible and fast. This release is just 1.0. I'll be adding more features as I shake off the front-end coding rust. title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+View the demo version at [https://brutalistpelican.com](https://brutalistpelican.com).
+When I decided to get back into blogging, I knew that I wanted a site that was super simple and readable. There are many great Pelican themes out there but I couldn't quite find what I was looking for. After reading David Bryant Copeland's [Brutalist Web Design](https://brutalist-web.design/) a few weeks ago, I was inspired to try and apply those design principles to a Pelican theme. The goal of this theme is to be feature-rich while also accessible and fast. This release is just 1.0. I'll be adding more features as I shake off the front-end coding rust. 
 * Clean, readable, accessible, and fast theme
 * Mobile first
 * W3C validated
@@ -20,10 +14,7 @@ date: 2021-03-30
 * Gravatar support
 * Disqus support
 * Pygments syntax highlighting for code blocks
-* Display Twitter, Github, Facebook, Instagram, Strava, Untappd, Telegram, Foursquare, and Goodreads icons in footer if configuredtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Display Twitter, Github, Facebook, Instagram, Strava, Untappd, Telegram, Foursquare, and Goodreads icons in footer if configured
 ### Supported
 * archives.html
 * period_archives.html
@@ -37,60 +28,24 @@ date: 2021-03-30
 
 ### Not supported
 * author.html
-* authors.htmltitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* authors.html
 Here is a list of theme settings you can configure to alter aspects of the theme. The theme also supports most of the general settings that Pelican offers so I won't go into those here.
 
 ```python
 # Theme Settings
-THEME = 'themes/brutalist'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-SITEIMAGE = 'site-cover.jpg'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-SITEDESCRIPTION = 'A simple, accessible, content-first Pelican theme inspired by David Bryant Copeland\'s https://brutalist-web.design/'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-FAVICON = 'pelly.png'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-LOGO = 'pelly.png'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-FIRST_NAME = 'Brutalist'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-# GOOGLE_ANALYTICS = 'UA-0011001-1'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+THEME = 'themes/brutalist'
+SITEIMAGE = 'site-cover.jpg'
+SITEDESCRIPTION = 'A simple, accessible, content-first Pelican theme inspired by David Bryant Copeland\'s https://brutalist-web.design/'
+FAVICON = 'pelly.png'
+LOGO = 'pelly.png'
+FIRST_NAME = 'Brutalist'
+# GOOGLE_ANALYTICS = 'UA-0011001-1'
 TWITTER_USERNAME = '@mcman_s'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30title: (.*)
 date: 2021-03-31date: 2021-03-30
 ATTRIBUTION = Truetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30title: (.*)
 date: 2021-03-31date: 2021-03-30
 MENUITEMS = [('tags', '/tags')]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30title: (.*)
-date: 2021-03-31date: 2021-03-30title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+date: 2021-03-31date: 2021-03-30
 STRAVA = 'https://www.strava.com/athletes/27234301'
 TWITTER = 'https://twitter.com/mcman_s'
 INSTAGRAM = 'https://instagram.com/mcman_s'
@@ -99,32 +54,17 @@ TELEGRAM = 'https://t.me/mcman_s'
 GOODREADS = 'https://www.goodreads.com/user/show/48849158-matthew-mcmanus'
 FOURSQUARE = 'https://foursquare.com/mcman_s'
 UNTAPPD = 'https://untappd.com/user/mcman_s'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30title: (.*)
 date: 2021-03-31date: 2021-03-30
 DISQUS_SITENAME = 'brutalistpelican'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30title: (.*)
-date: 2021-03-31date: 2021-03-30title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+date: 2021-03-31date: 2021-03-30
 # GRAVATAR = 'https://www.gravatar.com/avatar/a5544bcae63c5d56c0b7a3fa0ab5b295?s=256'
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 I use this theme on [my site]("https://mamcmanus.com") with the following plugin configuration.
 
 ```python
 # PLUGINS
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['sitemap', 'category_order', 'w3c_validate', 'optimize_images', 'gzip_cache']title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+PLUGINS = ['sitemap', 'category_order', 'w3c_validate', 'optimize_images', 'gzip_cache']
 SITEMAP = {
     'format': 'xml',
     'priorities': {
@@ -138,10 +78,7 @@ SITEMAP = {
         'indexes': 'daily'
     },
 }
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 Some design and tooling choices I made while building this theme. Feedback welcome.
 
 * I kept the site in a single column for now. Research shows that the optimal character count is 66 and the single column design usually lands between 50-75.

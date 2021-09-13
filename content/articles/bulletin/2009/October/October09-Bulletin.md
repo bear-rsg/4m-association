@@ -1,7 +1,9 @@
 title: October'09 Bulletin
 date: 2009-10-08 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### Workshop on Microfluidics for Cells

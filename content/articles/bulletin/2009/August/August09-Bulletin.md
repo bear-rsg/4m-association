@@ -1,7 +1,9 @@
 title: August'09 Bulletin
 date: 2009-09-08 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### 4M/ICOMM 2009
@@ -46,7 +48,7 @@ A new booklet that illustrates the exciting possibilities offered by laser manuf
 
 ### 4M Summer School 2009
 
-![Summ Sch](/4m-association/images/group_dtusummerschool2009thumb.jpg)This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/4m-association/content/4M-Summer-School-2009/4M-Summer-School-2009.html)    .html
+![Summ Sch](/4m-association/images/group_dtusummerschool2009thumb.jpg)This took place in Copenhagen in June'09, during the final days of the 4M Network of Excellence. Organised by DTU this Summer School was once again a very well run, attended and received event with a lot of hard work packed into some very busy days - read the [full report.](/4m-association/content/4M-Summer-School-2009/4M-Summer-School-2009.html)
   
 ### Nanoaccess@Cardiff
 

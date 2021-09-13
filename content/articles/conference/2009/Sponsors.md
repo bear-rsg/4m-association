@@ -1,7 +1,7 @@
 title: Sponsors
 date: 2009-04-30 
-category: conference
-tags: conference
+tags: conference, home
+
 
 ##  Microsystems-UK
 
@@ -15,7 +15,7 @@ tags: conference
 
 ![SARIX](/4m-association/images/logos/sarix-inline.jpg)
 
-[SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/4m-association/node/75). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities.
+[SARIX](http://sarix.com/), manufacturers of [high precision micro EDM equipment](/4m-association/node/75/75.html). With its slogan “Making your needs on 3D Micro EDM Machining a reality”, SARIX puts a strong accent onto its leading position in the Micro EDM Machining field. Thus bringing to the increasingly stringent market real solutions to the requirements of 3D cavities.
 
 -------------------
 

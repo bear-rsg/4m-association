@@ -1,7 +1,9 @@
 title: December'09 Bulletin
 date: 2009-12-01 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### 4M 2010

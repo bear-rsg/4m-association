@@ -1,8 +1,5 @@
 ---
-author: Pablo Iranzo Gómeztitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Pablo Iranzo Gómez
 tags: pelican, foss, travis, ci/cd, elegant, blog, python, github, blog-o-matic
 date: 2019-01-11 17:30:47 +0100
 comments: true
@@ -38,18 +35,12 @@ The repository, contains already the required setups and configurations for sett
 
 It requires some manual steps like configuring authentication token in order for automation to 'push' to github the 'rendered webpage', plus enabling 'Travis CI' automation for doing that step.
 
-Check the updated [README on Blog-o-Matic](https://github.com/iranzo/blog-o-matic) if you're interested in the setup, but thing is:title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Check the updated [README on Blog-o-Matic](https://github.com/iranzo/blog-o-matic) if you're interested in the setup, but thing is:
 
 - Repository contains already predefined Travis CI configuration
 - A GH token is needed for Travis CI to push to the 'master' branch that is used by github pages
 - The token needs to be configured as environment variable in 'travis-ci.org' which needs to be enabled for your repository
-- Once this is done, all the automation is ready.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Once this is done, all the automation is ready.
 
 The automation, on a new 'commit' (new config, new article, whatever), that can be even done via github.com Web User Interface, will launch a set of tasks:
 

@@ -1,7 +1,9 @@
 title: December 2016
 date: 2019-04-18 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  WCMNM 2017
 

@@ -1,5 +1,5 @@
 title: Evaluation of FP6 NMP
-date: 2010-09-08 
+date: 2010-09-08  
 
 The ex-post evaluation of the NMP priority in FP6 at strategic level has been completed by Oxford Research. Their report entitled "Strategic impact, no revolution" is now published. 
 

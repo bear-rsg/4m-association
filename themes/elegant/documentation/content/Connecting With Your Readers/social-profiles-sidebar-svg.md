@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, font-awesome, social-media, web-design
 Category: Connecting With Your Readers
 Date: 2019-08-12 13:13
@@ -42,10 +39,7 @@ Following image shows these icons in color.
 <img style="width:35%;"
 src="{static}/images/social-profiles-sidebar-svg-hover.png" alt="Social Profiles in color" />
 
-These SVG icons are [Super Tiny](https://github.com/edent/SuperTinyIcons). Most of them have sizes less than 500 bytes, and none of them exceeds 1 K bytes in size. This gives you increased website speed.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+These SVG icons are [Super Tiny](https://github.com/edent/SuperTinyIcons). Most of them have sizes less than 500 bytes, and none of them exceeds 1 K bytes in size. This gives you increased website speed.
 
 Define `SOCIAL` in your `pelicanconf.py`. `SOCIAL` is list of tuple. Each tuple
 has three items,
@@ -63,10 +57,7 @@ SOCIAL = (
 )
 ```
 
-If `title` is defined then it is used to populate title attribute of the link.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+If `title` is defined then it is used to populate title attribute of the link.
 
 1. `Calendar`
 1. `Email`
@@ -88,10 +79,7 @@ date: 2021-03-30
 1. `Twitch`
 1. `Twitter`
 1. `Wire`
-1. `YouTube`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+1. `YouTube`
 
 By default, Elegant labels social profile section as **Contact**. You can
 change this label by defining a new variable `SOCIAL_PROFILE_LABEL` in your
@@ -99,10 +87,7 @@ change this label by defining a new variable `SOCIAL_PROFILE_LABEL` in your
 
     :::python
 
-    SOCIAL_PROFILE_LABEL = u'Stay in Touch'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    SOCIAL_PROFILE_LABEL = u'Stay in Touch'
 
 What if the icon of your social media site is not available?
 

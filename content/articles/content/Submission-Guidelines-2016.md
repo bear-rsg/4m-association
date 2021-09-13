@@ -1,7 +1,7 @@
 title: Submission Guidelines 2016
-date: 2015-06-30 
-title:   Deadlines
-
+date: 2015-06-30
+ 
+###  Deadlines
 
 The Paper Submission will be open on the 1st of January 2016. 
 

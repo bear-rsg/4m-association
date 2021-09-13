@@ -1,5 +1,5 @@
 title: Applied Sciences Micro/Nano Manufacturing Issue
-date: 2018-04-20 
+date: 2018-04-20  
 
 <img src="http://www.mdpi.com/img/journals/applsci-logo.png?1693b1ae19024e2e" width="450px">
 
@@ -27,3 +27,7 @@ Guest Editors
 Deadline for manuscript submissions: **30 November 2018**
 
 More information on this special issue can be found by clicking [**here**](http://www.mdpi.com/journal/applsci/special_issues/Micro-Nano_Manufacturing) and by downloading the flyer from the attachment below.
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/Micro-Nano_Manufacturing-Flyer.pdf">Micro-Nano_Manufacturing-Flyer.pdf</a> | 125.52 KB |

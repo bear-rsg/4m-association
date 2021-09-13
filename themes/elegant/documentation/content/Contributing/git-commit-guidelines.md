@@ -1,11 +1,5 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-Subtitle: Mandatory
-date: 2021-03-31
-
-date: 2021-03-30
+---
+Sub
 Slug: git-commit-guidelines
 Category: Contributing
 Tags:
@@ -18,10 +12,7 @@ Authors: Talha Mansoor, Jack De Winter
 [TOC]
 
 The Elegant release process is [fully automated]({filename}./automated-release.md). To make
-this work, all commit message must adhere to a given set of rules.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+this work, all commit message must adhere to a given set of rules.
 
 From the [semantic-release project](https://github.com/semantic-release/semantic-release#commit-message-format):
 
@@ -29,10 +20,7 @@ From the [semantic-release project](https://github.com/semantic-release/semantic
 
 What does that mean? It means that semantic-release parses the commit messages to arrive
 at a unbiased version number for a new release, and then creates that new release. This
-allows for a new release to be put together with little human involvement.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+allows for a new release to be put together with little human involvement.
 
 The Elegant development team chose to use the
 [Angular Commit Message Conventions](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
@@ -55,10 +43,7 @@ prompts, following all of the rules in the following sections on the Commit Mess
 
 !!! tip
 
-    [Use Commitizen for Git commits]({filename}./commitizen.md).  It does make life easier.   It automatically formats the commit message to conform to our guidelines.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    [Use Commitizen for Git commits]({filename}./commitizen.md).  It does make life easier.   It automatically formats the commit message to conform to our guidelines.
 
 Each line of the commit message must be shorter than 101 characters! This allows the message
 to be easier to read on GitHub as well as in various git tools.
@@ -186,10 +171,7 @@ If your commit affects an issue, but does not fix it completely, use the "Update
 
 ```text
 Updates #234
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 The following are commits from our own repository that shows how Elegant has used these
 guidelines.
@@ -225,10 +207,7 @@ chore(livereload): use es2015 syntax for gulp configuration
 ci(docs): use sitemap plugin in production only
 ci(docs): add default tasks.py file
 refactor: move Google and Bing claims to their individual files
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 This commit message starts with a capital letter and ends with a period
 

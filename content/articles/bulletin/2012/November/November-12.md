@@ -1,7 +1,9 @@
 title: November '12
 date: 2013-10-12 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2012 Association Annual Meeting - Presentations available
@@ -10,7 +12,7 @@ Thankyou to everyone who attended the 4M2012 Conference in Vienna last month, an
 
 ###  Save the Date for the next 4M Annual Conference - 4M2013
 
-The next 4M Annual Conference will be in San Sebastian, Spain on the 8th to the 10th October 2013 and hosted by Tekniker. Please add the dates to your calendars and more information will be available soon on the [4M2013 pages.](/4m-association/conference/2013) Membership Fees for 2013 are as follows: €500 for corporate members and €200 for individual members. Benefits of membership include reduced fees for the conference, website access, and for corporate members, the option to include an advert in the conference proceedings. To join the 4M Association and for more information, [click here>>](/4m-association/node/11)  
+The next 4M Annual Conference will be in San Sebastian, Spain on the 8th to the 10th October 2013 and hosted by Tekniker. Please add the dates to your calendars and more information will be available soon on the [4M2013 pages.](/4m-association/conference/2013) Membership Fees for 2013 are as follows: €500 for corporate members and €200 for individual members. Benefits of membership include reduced fees for the conference, website access, and for corporate members, the option to include an advert in the conference proceedings. To join the 4M Association and for more information, [click here>>](/4m-association/node/11/11.html)  
 
 ###  REMINDER Call for Papers - The 8th International Conference on MicroManufacturing (ICOMM2013)
 

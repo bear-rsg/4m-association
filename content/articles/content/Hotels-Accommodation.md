@@ -1,5 +1,5 @@
 title: Hotels & Accommodation
-date: 2011-02-03 
+date: 2011-02-03  
 
 The local organizers of the 4M2012 Conference recommend the following hotels:
 

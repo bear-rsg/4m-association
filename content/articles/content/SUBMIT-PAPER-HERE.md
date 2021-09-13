@@ -1,5 +1,5 @@
 title: SUBMIT PAPER HERE
-date: 2014-10-30 
+date: 2014-10-30  
 
  To submit a paper follow the [Submit paper](http://conference.4m-association.org/author/submit.php) link
 

@@ -1,7 +1,9 @@
 title: November 2014
 date: 2014-12-05 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  4M/ICOMM 2015
 

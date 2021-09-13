@@ -1,7 +1,7 @@
 title: 4M/ICOMM2009 Conference
 date: 2014-04-25 
-category: conference
-tags: conference
+
+tags: conference, home
 slug: conference-2009-index
 
 **23-25 September 2009** 

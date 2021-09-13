@@ -1,6 +1,8 @@
 title: Scope of 4M
 date: 2011-12-09 
-tags: conference
+tags: conference, home
+
+
 Microsystems-based products are a key value-adding element for many sectors of industry - and the predicted nanotechnology future will also be largely delivered by microtechnologies. While the late 20th century saw a silicon-based microelectronics revolution, the 21st century looks forward to the adoption of micro- and nano-manufacturing technologies as the demand for function and length scale integrations increases continuously on the way to bridging the gap between the nano- and the macro-worlds.
 <!--break-->
 The existing imbalance between the ease with which batch-fabricated microcomponents and microsystems can be produced in silicon compared to the difficulties and costs associated with their manufacture in other materials hinders the introduction of new microsystems-based products into the market. Although there may be commercial advantages to leveraging the present suite of IC-based processes and materials, they will not be able to meet the demands of emerging products for 3D and high aspect ratio structures, enhanced-force microactuation, improved environmental resistance, high precision, and unification and standardisation. To broaden the range of microsystems-based products and to simultaneously multiply their capabilities requires the integration of new materials and precision engineering technologies for their processing with IC-based, batch-fabrication processes. Whilst these are the major challenges in developing new products they also offer promising research and development areas for innovation and opportunities for value creation.

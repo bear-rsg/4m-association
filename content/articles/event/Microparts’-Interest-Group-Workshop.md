@@ -1,7 +1,7 @@
 title: 'Microparts’ Interest Group Workshop
 date: 2009-06-15 
-tags: event
-category: event
+tags: home, metrology, metrology-interest-group
+
 
 Recent advances in modern manufacturing techniques has made it possible to manufacture small and complex components to extremely high accuracies. In direct response to the extreme demands of quality assurance for the measurement of size, form and position of microsystem parts, extensive research is being carried out in the area of geometrical measurement on the micro-scale.
 <!--break-->
@@ -53,3 +53,7 @@ Event adminstration - [Stuart Humphreys](mailto:stuart.humphreys@npl.co.uk)
 Technical content - [James Claverley](mailto:james.claverley@npl.co.uk)
 
 You can download the workshop flyer below:
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/091028_microparts_flyer_20090612141343.pdf">091028_microparts_flyer_20090612141343.pdf</a> | 1.87 MB |

@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: interaction
 Category: Connecting With Your Readers
 Date: 2014-04-21 16:39
@@ -19,22 +16,13 @@ site name identifier in configuration to enable comments.
 
 That's it. Elegant will take care of the rest.
 
-You can see a working example of Disqus comments in this article.title: (.*)
-date: 2021-03-31
+You can see a working example of Disqus comments in this article.
 
-date: 2021-03-30
-
-Just set `DISQUS_SITENAME` variable.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Just set `DISQUS_SITENAME` variable.
 
 Unset `DISQUS_SITENAME` variable.
 
-This is the default setting.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is the default setting.
 
 1. Set `DISQUS_SITENAME`
 1. Set `DISQUS_FILTER` to `True`
@@ -45,10 +33,7 @@ Now to show Disqus form on selected posts, in article metadata set
 
 ```yaml
 disqus_filter: off
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 1. Set `DISQUS_SITENAME`
 1. Remove `DISQUS_FILTER` or set it to `False` which is its default value

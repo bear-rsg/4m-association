@@ -1,10 +1,7 @@
 ![screenshot](screenshot.png)
 
 # Blue Penguin for pelican
-A simple theme for pelican. Solarized pygments. Feeds support.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+A simple theme for pelican. Solarized pygments. Feeds support.
 ```python
 # all the following settings are *optional*
 
@@ -39,19 +36,10 @@ MENUITEMS = (
     ('GitHub', 'https://github.com/'),
     ('Linux Kernel', 'https://www.kernel.org/'),
 )
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 Contributions are very welcome. Keep in mind that this theme goal is to be
 minimalistic/simple. Contributions will be accepted through Github Pull
 Requests. If you don’t have a Github account you can suggest me your
-changes by email (which you can find on my github profile).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-See [CONTRIBUTORS.md](CONTRIBUTORS.md).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+changes by email (which you can find on my github profile).
+See [CONTRIBUTORS.md](CONTRIBUTORS.md).
 Public domain.

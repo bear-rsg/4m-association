@@ -1,7 +1,7 @@
 title: 4M 2010 Conference
 date: 2009-10-21
-tags: event, 4m-conference, conference
-category: conference
+tags: 4m-conference-series, conference, home
+
 slug: conference-2010-index
 
 ![PEP,Plastipolis, Oyonnax, France](/4m-association/images/pep-for-web.jpg )

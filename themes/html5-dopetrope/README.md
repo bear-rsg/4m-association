@@ -1,13 +1,7 @@
 ### html5up-dopetrope
 
-[Pelican] [1] theme based on html5up-dopetrope design.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-![] [2]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[Pelican] [1] theme based on html5up-dopetrope design.
+![] [2]
 
 Optional variables are available for this theme :
 
@@ -22,10 +16,7 @@ Optional variables are available for this theme :
 *  `ABOUT_IMAGE` : Image to show at the bottom right of the page.
 *  `ABOUT_LINK` : Will add a link under the ABOUT_TEXT page 
 *  `COPYRIGHT` : If SHOW_COPYRIGHT is not set to False, it will show the copyright for html5up, credits for the images and the name set in this variable. You may want to set this variable to your name.
-*  `SHOW_COPYRIGHT` : True by default, you can set it to False to hide the copyrights.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+*  `SHOW_COPYRIGHT` : True by default, you can set it to False to hide the copyrights.
 
 [Creative Commons Attribution 3.0 Unported] [3]
 

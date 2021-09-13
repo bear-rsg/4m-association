@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: interaction
 Category: Connecting With Your Readers
 Date: 2019-08-18 00:13
@@ -18,10 +15,7 @@ You can use [Utterances](https://utteranc.es/) for comments. You have to set `UT
 
 That's it. Elegant will take care of the rest.
 
-You can see a working example of Utterances comments in this article.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You can see a working example of Utterances comments in this article.
 
 Besides setting `UTTERANCES_REPO`, you also have control over following variables.
 
@@ -32,22 +26,13 @@ Besides setting `UTTERANCES_REPO`, you also have control over following variable
 
     Label names are case sensitive. The label must exist in your repo. Utterances cannot attach labels that do not exist.
 
-    Emoji are supported in label names.✨💬✨title: (.*)
-date: 2021-03-31
+    Emoji are supported in label names.✨💬✨
 
-date: 2021-03-30
-
-Just set `UTTERANCES_REPO` variable.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Just set `UTTERANCES_REPO` variable.
 
 Unset `UTTERANCES_REPO` variable.
 
-This is the default setting.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is the default setting.
 
 1. Set `UTTERANCES_REPO`
 1. Set `UTTERANCES_FILTER` to `True`
@@ -58,10 +43,7 @@ Now to show Utterances form on selected posts, in article metadata set
 
 ```yaml
 utterances_filter: off
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 1. Set `UTTERANCES_REPO`
 1. Remove `UTTERANCES_FILTER` or set it to `False` which is its default value

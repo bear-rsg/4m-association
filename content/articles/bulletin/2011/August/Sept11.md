@@ -1,7 +1,9 @@
 title: Sept'11
 date: 2011-08-31 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -20,7 +22,7 @@ One PhD scholarship position is available at the Katholieke Universiteit Leuven,
   
 ###  ESAFORM 2012
 
-![ESAFORM](/4m-association/images/logoesaform_300.jpg)The [15th ESAFORM conference](/4m-association/node/556) will be held on March 14th-16th, 2012, hosted by the Chair of Manufacturing Technology, Erlangen, Germany. One of the objectives of this mini-symposium is to get together the apparently different topics of nano-structured materials (including ultrafine grained and nanocrystalline materials) and microforming (including sheet and bulk metal forming).   
+![ESAFORM](/4m-association/images/logoesaform_300.jpg)The [15th ESAFORM conference](/4m-association/node/556/556.html) will be held on March 14th-16th, 2012, hosted by the Chair of Manufacturing Technology, Erlangen, Germany. One of the objectives of this mini-symposium is to get together the apparently different topics of nano-structured materials (including ultrafine grained and nanocrystalline materials) and microforming (including sheet and bulk metal forming).   
   
 ###  Minam Survey
 

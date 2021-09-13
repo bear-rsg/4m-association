@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: interaction
 Date: 2013-08-27 23:20
 comments: false

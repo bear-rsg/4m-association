@@ -2,22 +2,13 @@
 
 Niu-X2 is a responsive theme for pelican, built with bootstrap3 and font-awesome.
 
-As I am pretty new to bootstrap and jinja2, the codes look messy and may be buggy. If you find any bugs, please let me know.title: (.*)
-date: 2021-03-31
+As I am pretty new to bootstrap and jinja2, the codes look messy and may be buggy. If you find any bugs, please let me know.
 
-date: 2021-03-30
-
-BSD 3-Clause License. Please see LICENSE.txt for more details.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+BSD 3-Clause License. Please see LICENSE.txt for more details.
 
 ![Demo image of niu-x2 theme](https://raw.github.com/wilbur-ma/niu-x2/master/screenshot.png "niu-x2 demo image")
 
-You can check out my blog [blog.atime.me](http://blog.atime.me) for a live demo.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You can check out my blog [blog.atime.me](http://blog.atime.me) for a live demo.
 
 *  Bootstrap3.0.0, font-awesome3.2.1 and jQuery1.10 included.
 *  Responsive. 
@@ -34,10 +25,7 @@ date: 2021-03-30
 *  Category aliases, which should be useful when you set `USE_FOLDER_AS_CATEGORY` to `True`.
 *  Custom dropdown menu, footer links and footer icons through pelican configuration with font-awesome icons.
 *  Custom 404 page.
-*  Translations through pelican configuration.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+*  Translations through pelican configuration.
 
 If you are hosting your pelican site locally, please remeber to set the `SITEURL` variable empty in your pelican configuration, otherwise the theme will not be able to find the css and js static files correctly. 
 
@@ -53,28 +41,16 @@ Then set `THEME` variable to the path of the repository folder you have just clo
 
 The theme depends on the jinja2 `expression statement` extension which should be added to your pelican configuration as below:
 
-    JINJA_EXTENSIONS = ['jinja2.ext.ExprStmtExtension',]title: (.*)
-date: 2021-03-31
+    JINJA_EXTENSIONS = ['jinja2.ext.ExprStmtExtension',]
 
-date: 2021-03-30
-
-1. Better SEO support.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+1. Better SEO support.
 
 Currently the following pelican configuration variables are supported:
 
 *  `DISQUS_SITENAME` is your disqus site ID.
-*  `GOOGLE_ANALYTICS` is your Google analytics ID.title: (.*)
-date: 2021-03-31
+*  `GOOGLE_ANALYTICS` is your Google analytics ID.
 
-date: 2021-03-30
-
-You can define custom css codes in `niu-x2/static/css/custom.css`, and they will be available to all the templates.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You can define custom css codes in `niu-x2/static/css/custom.css`, and they will be available to all the templates.
 
 Note that:
 
@@ -83,10 +59,7 @@ Note that:
 
 ### Enable/Disable comments
 
-The theme enables comments for all the articles and pages by default. However you can disable comments for some particular articles or pages by setting `Comment` metadata to any value other than `on`, e.g.:title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+The theme enables comments for all the articles and pages by default. However you can disable comments for some particular articles or pages by setting `Comment` metadata to any value other than `on`, e.g.:
     Comment: off
 
 ### Custom 404

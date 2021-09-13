@@ -1,11 +1,5 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-Subtitle: Deprecated
-date: 2021-03-31
-
-date: 2021-03-30
+---
+Sub
 Tags: pelican-theme, font-awesome, social-media, web-design
 Category: Connecting With Your Readers
 Date: 2014-01-27 00:28
@@ -46,10 +40,7 @@ Twitter icon in the sidebar" />
 Elegant uses scalable vector icons from [Font
 Awesome](http://fortawesome.github.io/Font-Awesome/). You can instantly
 customize the icons by tweaking the CSS. This customization can range from
-changing size and color to adding drop shadow.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+changing size and color to adding drop shadow.
 
 Define `SOCIAL` in your `pelicanconf.py`. `SOCIAL` is list of tuple. Each tuple
 has two items, title and URL.
@@ -69,10 +60,7 @@ Elegant picks icons from Font Awesome. Title of the tuple, for example
 `Facebook` will use `fa-facebook`.
 
 You can see all the icons and their corresponding CSS classes in [Font Awesome
-documentation](http://fortawesome.github.io/Font-Awesome/icons/#brand).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+documentation](http://fortawesome.github.io/Font-Awesome/icons/#brand).
 
 What if the icon of your social media site is not available in Font Awesome?
 What if the CSS class name does not follow `fa-<title>` convention, for example
@@ -88,10 +76,7 @@ The solution is to add a third element to the tuple. CSS class name.
 
 This third element is optional. It should be equal to the Font Awesome CSS
 class that you want to use for the social profile, minus the `fa` part from the
-CSS class name.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+CSS class name.
 
 By default, Elegant labels social profile section as **Contact**. You can
 change this label by defining a new variable `SOCIAL_PROFILE_LABEL` in your

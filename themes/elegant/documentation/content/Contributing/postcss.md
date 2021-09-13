@@ -1,32 +1,20 @@
-title: Use PostCSS To Compile CSS Style Sheets
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: postcss, gulp
 Category: Contributing
 Date: 2019-12-01 23:13
 Slug: use-postcss-to-compile-css-style-sheets
-Subtitle: Mandatory
-date: 2021-03-31
-
-date: 2021-03-30
+Sub
 Authors: Talha Mansoor
 Summary:
 Keywords:
 
-Elegant uses [GulpJS](https://gulpjs.com/) and [PostCSS](https://postcss.org/) to do pre and post processing, like [adding vendor prefixes](https://github.com/postcss/autoprefixer) or [compressing the CSS file](https://cssnano.co/).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Elegant uses [GulpJS](https://gulpjs.com/) and [PostCSS](https://postcss.org/) to do pre and post processing, like [adding vendor prefixes](https://github.com/postcss/autoprefixer) or [compressing the CSS file](https://cssnano.co/).
 
 [Pelican's assets plugin](https://github.com/getpelican/pelican-plugins/tree/master/assets) uses [Python's webassets package](https://github.com/miracle2k/webassets).
 
 Unfortunately, webassets have not had a release [since early 2017](https://github.com/miracle2k/webassets/releases). Requests to revive the project have [gone unheeded](https://github.com/miracle2k/webassets/issues/505).
 
-I tired to install webassets from the Git repository to use its PostCSS filter but it didn't work. Instead of wasting time in wrestling the code of an unmaintained project, I decided to use PostCSS which is modern and actively maintained.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+I tired to install webassets from the Git repository to use its PostCSS filter but it didn't work. Instead of wasting time in wrestling the code of an unmaintained project, I decided to use PostCSS which is modern and actively maintained.
 
 This is closely related to [LiveReload Elegant Documentation Using Gulp.js]({filename}./live-reload-gulp.md)
 
@@ -72,10 +60,7 @@ To live preview your changes, use
 
 ```bash
 gulp
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Gulp and PostCSS, takes all the CSS files present inside `static/css` folder. It applies PostCSS plugins on it like CSS compression.
 

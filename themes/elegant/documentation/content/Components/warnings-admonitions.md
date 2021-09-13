@@ -1,8 +1,5 @@
 ---
-author: Andy Wegnertitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Andy Wegner
 tags: admonitions, warning, attention
 date: 2018-12-18 09:00
 comments: false
@@ -44,10 +41,7 @@ There are several styles available and Elegant supports the recommended values o
 
 # Examples
 
-Let's see some examples!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Let's see some examples!
 
 You can use either `danger` or `error` to get a red admonition box.
 
@@ -57,10 +51,7 @@ You can use either `danger` or `error` to get a red admonition box.
 
 !!! danger
 
-    This is a danger or error admonitiontitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    This is a danger or error admonition
 
 An `attention`, `caution` or `warning` admonition will be yellow.
 
@@ -70,10 +61,7 @@ An `attention`, `caution` or `warning` admonition will be yellow.
 
 !!! warning
 
-    This is an attention, caution or warning admonitiontitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    This is an attention, caution or warning admonition
 
 Use `important` or `note` to get a green admonition box.
 
@@ -83,10 +71,7 @@ Use `important` or `note` to get a green admonition box.
 
 !!! important
 
-    This is an important or note admonitiontitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    This is an important or note admonition
 
 Use either `hint` or `tip` to get a blue admonition box.
 
@@ -96,10 +81,7 @@ Use either `hint` or `tip` to get a blue admonition box.
 
 !!! hint
 
-    This is a hint or tip admonitiontitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    This is a hint or tip admonition
 
 Admonitions can have custom titles. When the default examples are used, the titles
 of each box are the same as the admonition type. This isn't always what you want.
@@ -112,10 +94,7 @@ type of admonition you are utilizing.
 
 !!! hint "Use double quotes to change the title"
 
-    This admonition box contains a custom tile because I placed it in double quotes after the `hint`.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    This admonition box contains a custom tile because I placed it in double quotes after the `hint`.
 
 There are times when you don't need a title in your boxes. This can be done by
 passing an empty string (`""`) after the admonition type.

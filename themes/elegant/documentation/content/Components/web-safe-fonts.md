@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: web-design
 Category: Components
 Date: 2014-04-22 16:23

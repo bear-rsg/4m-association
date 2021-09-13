@@ -1,8 +1,5 @@
 ---
-author: Pablo Iranzo Gómeztitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Pablo Iranzo Gómez
 tags: pelican, foss, travis, ci/cd, elegant, python
 date: 2018-12-07 16:00:47 +0100
 comments: true
@@ -65,10 +62,7 @@ after_success:
   - git config --global push.default simple
   - git remote add origin https://${GITHUB_TOKEN}@github.com/Pelican-Elegant/pelican-elegant.github.io.git
   - make github
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 So, from above file we do:
 
@@ -86,10 +80,7 @@ python:
 - Confirm we require 'sudo' access
 - Configure python version as 3.5
 
-All of this depends on Travis Image being used and their documentationtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+All of this depends on Travis Image being used and their documentation
 
 Now, we'll prepare the environment for our tests:
 
@@ -106,10 +97,7 @@ before_install:
 
 We do install pip, setuptools, repository and test requirements, peru and tox.
 
-Peru is used to grab additional dependencies for elegant (plugins, latest theme, etc)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Peru is used to grab additional dependencies for elegant (plugins, latest theme, etc)
 
 This is really easy in our case:
 
@@ -121,10 +109,7 @@ script:
 
 We run 'tox' that allows to automate Python virtualenv and tests and then, use the Makefile from Pelican to build the site and tests plugins, etc
 
-If everything succeeds, we're ready for the next step (publishing)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+If everything succeeds, we're ready for the next step (publishing)
 
 All the environment setup and tests have succeed now, we do need to push the site 'live'
 

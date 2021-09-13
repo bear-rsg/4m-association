@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, font-awesome, web-design
 Category: Connecting With Your Readers
 Date: 2014-03-17 15:28

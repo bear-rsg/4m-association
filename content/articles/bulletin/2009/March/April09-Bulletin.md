@@ -1,7 +1,9 @@
 title: April'09 Bulletin
 date: 2009-04-01 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### 4M Governing Council
@@ -15,7 +17,7 @@ This workshop takes place in Vienna on 8th June 2009, partners are invited to bo
 ### 4M/ICOMM 2009
 
 ![4M/icomm 2009](/4m-association/images/conf2008-twin-thumb.png)
-Thank you to all who participated in the first stage of the peer review process. This is now almost  complete and authors should receive feedback soon. Final papers should be uploaded **in WORD format** for the second phase of review by 24th April 2009. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information. The latest draft of the [programme](/4m-association/conference/2009/Programme) is now available and features Special Sessions from the [COTECH](/4m-association/node/18) and [MultiLayer](/node/19) projects. 
+Thank you to all who participated in the first stage of the peer review process. This is now almost  complete and authors should receive feedback soon. Final papers should be uploaded **in WORD format** for the second phase of review by 24th April 2009. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information. The latest draft of the [programme](/4m-association/conference/2009/Programme) is now available and features Special Sessions from the [COTECH](/4m-association/node/18/18.html) and [MultiLayer](/node/19) projects. 
 
 ### 4M Summer School
 
@@ -25,7 +27,7 @@ The latest information is now available on the [Summer School website](http://ww
 
 
 ![4M workshops on Ceramics](/4m-association/images/ceramics-workshop-goteborg-thumb.jpg)
-The first of two seminars about ceramic processing and application [was held in Goteborg](/4m-association/content/4M-Ceramics-Workshop-Goteborg/4M-Ceramics-Workshop-Goteborg.html) on the 11th of March. A [second seminar](/4m-association/node/56) will be held in Hannover Fair on the 21st April 2009..html
+The first of two seminars about ceramic processing and application [was held in Goteborg](/4m-association/content/4M-Ceramics-Workshop-Goteborg/4M-Ceramics-Workshop-Goteborg.html) on the 11th of March. A [second seminar](/4m-association/node/56/56.html) will be held in Hannover Fair on the 21st April 2009..html
 
 ### Vacancy for a researcher in Microtechnologies
 

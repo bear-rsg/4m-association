@@ -1,8 +1,5 @@
 ---
-authors: Pablo Iranzo Gómez, Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Pablo Iranzo Gómez, Talha Mansoor
 tags: amazon, affiliates, income
 date: 2019-07-14 07:30:47 +0100
 category: Monetizing Your Blog

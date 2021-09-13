@@ -1,7 +1,7 @@
 title: MEMSCON workshop
 date: 2010-07-02 
-tags: event
-category: event
+tags: home, project, training
+
 
 <!--break-->
 ### Venue

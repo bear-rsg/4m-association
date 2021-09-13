@@ -1,6 +1,6 @@
 title: MEMS makers: machinists who work in silicon 
 date: 2011-02-08
-
+tags: mems, metrology
 
 Interesting article here published in the latest edition of Micromanufacturing magazine.
 <!--break-->

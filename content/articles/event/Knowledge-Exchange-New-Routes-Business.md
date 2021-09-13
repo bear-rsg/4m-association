@@ -1,7 +1,7 @@
 title: Knowledge Exchange: New Routes for Business
 date: 2009-08-28 
-tags: event
-category: event
+tags: home
+
 
 Cardiff University, with Assembly backing, is reaching out to support Welsh enterprises with free access to technical demonstrator expertise and specialised facilities.
 <!--break-->

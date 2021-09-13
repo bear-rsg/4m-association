@@ -1,14 +1,8 @@
 # Pelican Clean Blog Theme
 
-Theme based in [Clean Blog layout](http://ironsummitmedia.github.io/startbootstrap-clean-blog/).title: (.*)
-date: 2021-03-31
+Theme based in [Clean Blog layout](http://ironsummitmedia.github.io/startbootstrap-clean-blog/).
 
-date: 2021-03-30
-
-![Screenshot](screenshot.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Screenshot](screenshot.png)
 
 All configurations about this theme.
 
@@ -76,10 +70,7 @@ My super title
 ```
 
  - To Markdown
-```markdowntitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```markdown
 Modified: 2010-12-05 19:30
 Category: Python
 Tags: pelican, publishing
@@ -109,10 +100,7 @@ My super title
 ```
 
  - To Markdown
-```markdowntitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```markdown
 Modified: 2010-12-05 19:30
 Category: Python
 Tags: pelican, publishing

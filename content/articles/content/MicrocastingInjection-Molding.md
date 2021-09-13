@@ -1,5 +1,6 @@
 title: Microcasting/Injection Molding
-date: 2009-11-13 
+date: 2009-11-13  
+tags: metals-processing
 
 Technology suitable for both serial and small quantity production
 

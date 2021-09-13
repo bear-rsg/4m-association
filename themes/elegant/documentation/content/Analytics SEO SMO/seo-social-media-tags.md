@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: crawler, social-media, web-analytics
 Category: Analytics, SEO and SMO
 Date: 2014-04-20 16:31
@@ -21,10 +18,7 @@ obsolete.
 
 Elegant does its best to leverage all available search and social media tags to
 give your site higher ranking in search results and optimize it for sharing via
-social media.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+social media.
 
 Inspired by the post ["What is the New SEO? Pubcon 2013 <!-- yaspeller ignore -->
 Takeaways"](https://medium.com/on-startups/f15264e5d790), I looked into the
@@ -76,10 +70,7 @@ Elegant uses following tags,
 
 Please note you need to be
 [approved](https://dev.twitter.com/docs/cards/validation/validator) by Twitter
-before you can start using Twitter Cards.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+before you can start using Twitter Cards.
 
 Elegant puts tags and category of your article in keywords tag `<meta name="keywords"`.
 

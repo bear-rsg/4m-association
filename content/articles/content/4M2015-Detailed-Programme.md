@@ -1,7 +1,8 @@
 title: 4M 2015 Detailed Programme
 date: 2014-07-30
-tags: event, 4m-conference, conference
-category: conference
+tags: 4m-conference-series, conference, home
+
+
 **Download the full schedule at the bottom of this page!**
 
 The slot for each paper will last 20 minutes, including 15 minutes for the presentation + 5 minutes for questions & answers. 

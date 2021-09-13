@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: remarkable, unique, home
 Date: 2019-07-01 01:10
 comments: false

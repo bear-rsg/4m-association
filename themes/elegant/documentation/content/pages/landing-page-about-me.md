@@ -1,8 +1,5 @@
 ---
-author: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Talha Mansoor
 layout: page
 date: 2019-01-14 7:30:47 +0100
 status: hidden
@@ -13,10 +10,7 @@ Elegant is a stylish, responsive, and minimal Pelican
 theme that looks amazing across all screen resolutions and devices.
 
 Elegant gives meaning to the expression **"sand the under side of the drawer"**.
-Every feature and style of Elegant is the result of a long thought process.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Every feature and style of Elegant is the result of a long thought process.
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67 67" width="150" height="150" style="float:right; margin-left:10px">
     <rect width="57.681" height="62.899" x="2.802" y="-11.841" ry="0" fill="none"/>
@@ -37,17 +31,11 @@ date: 2021-03-30
 Elegant is the only Pelican theme that search, live filter tags, zero clutter categories, lazy load comments, Mailchimp, FreeLists support and a customizable landing page.
 That's not all. Go through our documentation, you will find several unique features and nuances that you will not find in any other theme.
 
-To top it of, it is the only theme with comprehensive documentation and an automated build, deploy and release process.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+To top it of, it is the only theme with comprehensive documentation and an automated build, deploy and release process.
 
 This site is a demonstration and documentation of Elegant theme.
 
-To try out Elegant, you don't need to install anything. Just visit different pages of this site. Try the search function. Check out our categories. What you see here is what you get.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+To try out Elegant, you don't need to install anything. Just visit different pages of this site. Try the search function. Check out our categories. What you see here is what you get.
 
 - [Invitation to Participate]({filename}/Contributing/invitation.md)
 - [How Do I Contribute?]({filename}/Contributing/contributing-to-the-project.md)

@@ -1,7 +1,7 @@
 title: License Agreement
 date: 2009-06-04 
-category: conference
-tags: conference
+tags: conference, home
+
 
 ##  Deadlines
 

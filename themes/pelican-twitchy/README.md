@@ -1,9 +1,6 @@
 # pelican-twitchy
 
-pelican-twitchy is a bootstrap3 based pelican theme, with a static navbar on the left which is toggable to provide more space for content. Parts of it has been taken from the great [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3) by [DandyDev](http://dandydev.net/), so credit where credit is due to all contributors of pelican-bootstrap3!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+pelican-twitchy is a bootstrap3 based pelican theme, with a static navbar on the left which is toggable to provide more space for content. Parts of it has been taken from the great [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3) by [DandyDev](http://dandydev.net/), so credit where credit is due to all contributors of pelican-bootstrap3!
 
 *    a sweet landing page
 *    lots of space for modifications
@@ -15,10 +12,7 @@ date: 2021-03-30
 *    DISQUS support
 *    Google Analytics support
 *    CC License Footer (https://github.com/hlapp/cc-tools)
-*    Support ToC pluginstitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+*    Support ToC plugins
 
 ### general
 Setting name (followed by default value, if exists) | Description
@@ -85,10 +79,7 @@ Setting name (followed by default value, if exists) | Description
 Setting name (followed by default value, if exists) | Description
 --------------------------------------------------- | -----------
 `OPEN_GRAPH_FB_APP_ID` | Add open graph section to articles
-`OPEN_GRAPH_IMAGE` | Add image to OG sectiontitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+`OPEN_GRAPH_IMAGE` | Add image to OG section
 *    better social sharing support, maybe with lazy loaded widgets instead of simple sharer links?
 
 ##preview 

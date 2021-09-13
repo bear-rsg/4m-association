@@ -1,7 +1,7 @@
 title: IFMM'10
 date: 2010-02-08 
-tags: event
-category: event
+tags: home
+
 
 ### International Forum on Micro Manufacturing 2010
 
@@ -28,3 +28,7 @@ Public Final Registration               September 30, 2010
 
   
 For further details you can visit the [IFMM'10 website](http://www.ifmm10.org) or you can download the first announcement for this event by clicking on the icon below.
+
+| Attachment | Size |
+| --- | --- |
+| <a href="/4m-association/files/1st announcement__225.1.pdf">1st announcement__225.1.pdf</a> | 588.82 KB |

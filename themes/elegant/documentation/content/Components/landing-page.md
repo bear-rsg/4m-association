@@ -1,8 +1,5 @@
 ---
-authors: Talha Mansoortitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+authors: Talha Mansoor
 Tags: home, remarkable, unique, guide
 Date: 2019-07-01 01:22
 comments: false
@@ -24,10 +21,7 @@ You can see three features here,
 
 There is a third section below these two sections, "Recent articles".
 
-![Recent Articles Section]({static}/images/elegant-theme_recent-posts.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Recent Articles Section]({static}/images/elegant-theme_recent-posts.png)
 
 We have detailed help articles to help you set these sections up
 

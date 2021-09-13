@@ -1,7 +1,7 @@
 title: History
 date: 2009-02-10
-category: conference
-tags: conference
+tags: conference, home
+
 
 This conference is organised by the International Conference on Multi-Material Micro-Manufacture(<acronym title="Multi-Material Micro-Manufacture">4M</acronym>).
 <!--break-->

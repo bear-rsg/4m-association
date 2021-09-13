@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: invitation-to-participate
 Category: Contributing
@@ -33,20 +30,14 @@ early 2019 has energized the development of the project. By asking "how can I he
 "do you need help with...", people have slowly joined the team and enriched the theme to what
 you see today. The contributions of these people has allowed the project to grow beyond the
 scope of what any one of them could accomplish on their own. Their contributions, together as
-a team, are responsible for the project you see here today.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+a team, are responsible for the project you see here today.
 
 If using the Elegant theme and reading this invitation inspires you to contribute, we welcome
 the addition of your creativity to our team. No coding skills are required to volunteer to
 help with Elegant. The theme is mostly composed of templates written in
 [Jinja](http://jinja.pocoo.org/) utilizing
 [metadata]({filename}../Advanced Features/metadata.md) associated with each article. We are
-confident that if you want to help, we can get you up and running in no time!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+confident that if you want to help, we can get you up and running in no time!
 
 As you are volunteering your time and energy, we don't want you to take on a really big task
 to start, scaring you away in the process. For this purpose, we keep a refined list of
@@ -57,10 +48,7 @@ issues appeal to you, feel free to look at all of our
 if any of those are more attractive to you.
 
 If none of that appeals to you and you still want to help, don't worry! We know we are not
-perfect and rely on feedback from our users to help us make the theme better for everyone.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+perfect and rely on feedback from our users to help us make the theme better for everyone.
 
 See something that isn't working properly?
 [Report a bug](https://github.com/Pelican-Elegant/elegant/issues).

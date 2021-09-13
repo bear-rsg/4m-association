@@ -1,16 +1,10 @@
-title: Version 5.0.0
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: change-log, project-management
 Category: Release Notes
 Date: 2019-12-02 18:47
 Slug: version-500
 
-<!-- yaspeller ignore:start -->title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+<!-- yaspeller ignore:start -->
 
 ### Bug Fixes
 

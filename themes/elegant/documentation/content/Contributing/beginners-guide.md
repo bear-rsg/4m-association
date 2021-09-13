@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: git-tips-for-beginners
 Category: Contributing
@@ -14,10 +11,7 @@ Authors: Talha Mansoor, Jack De Winter
 
 [TOC]
 
-Here are some tips we have found useful for using Git to contribute to the project.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Here are some tips we have found useful for using Git to contribute to the project.
 
 1. Create your own fork of Elegant by going to the project repository webpage [on GitHub](https://github.com/Pelican-Elegant/elegant) and pressing the `Fork` button.
 
@@ -31,19 +25,13 @@ date: 2021-03-30
 
    ```bash
    git remote add upstream https://github.com/Pelican-Elegant/pelican-elegant.git
-   ```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+   ```
 
 Most of the changes that you will submit will be against the Upstream repository's `next`
 branch. Whether you decide to work in your local repository's `next` branch or create a new
 branch of your own, it is recommended that you do a `git pull` against the Upstream `next`
 branch before starting to work on a new set of changes. This will ensure that you are starting
-from a known good point, and reduce the chance of requiring a merge at a later stage.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+from a known good point, and reduce the chance of requiring a merge at a later stage.
 
 It is a good practice to update your repository to it's Upstream repository one or more times
 during the development of your changes. Specifically, the `next` branch of the repository
@@ -56,10 +44,7 @@ To update from the `next` branch, from within your project directory, enter the 
 commands:
 
 1. `git fetch upstream next`
-2. `git rebase upstream/next`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+2. `git rebase upstream/next`
 
 Before you [create a pull request in GitHub](https://github.com/Pelican-Elegant/elegant/pulls),
 you have the option to squash your commits into a single commit. This is often used to clean

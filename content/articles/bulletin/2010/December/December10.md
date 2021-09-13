@@ -1,7 +1,9 @@
 title: December'10
 date: 2010-12-09 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  European Ceramics Society

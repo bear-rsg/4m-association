@@ -1,7 +1,7 @@
 title: Erlangen workshop on microforming
 date: 2010-01-20 
-tags: event
-category: event
+tags: home, training, metals-processing
+
 
 <!--break-->
 ![Microforming](/4m-association/images/logo_5th_mf_web.jpg)On November 23rd, 2010 the Chair of Manufacturing Technology will host the workshop on microforming in Erlangen/Germany.   
@@ -12,3 +12,7 @@ industry and academia for the exchange of knowledge, information, experience and
 For further details please visit the [workshop webpage](http://www.lft.uni-erlangen.de/MUT/).  
   
 A flyer is also available, by clicking on the icon below.
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/Flyer 5th Erlangen Workshop on Microforming.pdf">Flyer 5th Erlangen Workshop on Microforming.pdf</a> | 360.34 KB |

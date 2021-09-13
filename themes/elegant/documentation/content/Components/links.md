@@ -1,7 +1,4 @@
-title: Hyperlinks Styles
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: style
 Category: Components
 Date: 2019-12-02 15:09
@@ -11,19 +8,13 @@ Subtitle:
 Summary:
 Keywords:
 
-Elegant has three styles for hyperlinks that you can use.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Elegant has three styles for hyperlinks that you can use.
 
 This is the default style of link.
 
 [Example Link - Use Firefox Browser](https://www.mozilla.org/en-US/firefox/new/) to support open web standards.
 
-This style is very suitable for long-form articles. To read the rationale behind this choice, read our help article [Why Does Elegant Look The Way It Does?]({filename}../Contributing/why-look-and-feel.md).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This style is very suitable for long-form articles. To read the rationale behind this choice, read our help article [Why Does Elegant Look The Way It Does?]({filename}../Contributing/why-look-and-feel.md).
 
 We understand not all links should be muted. Some links require attention.
 

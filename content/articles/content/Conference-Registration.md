@@ -1,6 +1,7 @@
 title: Conference Registration
-date: 2014-11-21 
-title:   Conference Registration Now Open
+date: 2014-11-21
+ 
+### Conference Registration Now Open
 
 
 **REGISTER NOW** [here>>](http://shop.bham.ac.uk/browse/extra_info.asp?compid=1&modid=2&deptid=31&catid=90&prodid=1000)

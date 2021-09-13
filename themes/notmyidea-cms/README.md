@@ -1,6 +1,3 @@
-# notmyidea-cms #title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# notmyidea-cms #
 
 ![screenshot](screenshot.png)

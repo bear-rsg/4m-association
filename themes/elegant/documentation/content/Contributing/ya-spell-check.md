@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: yaspeller-for-elegant
 Category: Contributing
@@ -36,10 +33,7 @@ this `yaspeller` tool is cool
 
 While `yaspeller` is a useful tool, it is not foolproof. When scanning the documentation
 files, it often requires a bit of assistance in determining how to properly handle words which
-do not appear in the standard dictionary.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+do not appear in the standard dictionary.
 
 There are typically 4 categories of spelling mistakes: an honest mistake, a word to be added
 to the project dictionary, a single situational misspelling, and intentional misspellings
@@ -49,10 +43,7 @@ The way to address mistakes in the first category is simple. Fix them. If you ar
 sure that the word is spelled properly, consider using
 [dictionary.com](https://www.dictionary.com/) to verify the spelling. If you search for a
 given word and a simpler form of that word appears, scroll down to the related words section
-and see if it is there.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+and see if it is there.
 
 If the spelling mistake has been verified to be a properly spelled word, then the word jumps
 over to the second category: a word to be added to the project dictionary. The root directory
@@ -60,10 +51,7 @@ of the project contains
 [the project dictionary](https://github.com/Pelican-Elegant/elegant/blob/master/.yaspeller.json)
 with a list of words that `yaspeller` should consider acceptable. Words added to the
 dictionary in lower case will match upper case and lower case versions of the word, while words
-added with any capitalization will force `yaspeller` to perform a case-sensitive match.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+added with any capitalization will force `yaspeller` to perform a case-sensitive match.
 
 For the third category, a single situational misspelling, the best example is included in the
 article [Git Commit Guidelines]({filename}./git-commit-guidelines.md).
@@ -78,10 +66,7 @@ there is one value that is the short form for "performance":
 As this is the only word in the article that is intentionally spelled the way it is, the
 line ends with the `<!-- yaspeller ignore -->` suffix to tell the `yaspeller` tool to ignore
 the entire line. While we could add that single word to the project dictionary, it is more
-clear to ignore the word for this given situation instead of adding it to the dictionary.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+clear to ignore the word for this given situation instead of adding it to the dictionary.
 
 The final category, intentional misspellings within a block of text, is an extension of the
 previous category, but dealing with multiple intentional misspellings, instead of a single
@@ -117,10 +102,7 @@ Typos: 2
 Capitalization: 1
 1. abc (128:3, suggest: ABC)
 -----
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Similar to the other checks that are performed on every submission, a spell check failure will
 cause the build to fail.

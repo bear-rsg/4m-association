@@ -1,7 +1,7 @@
 title: ICOMM 2011
 date: 2010-09-08 
-tags: event
-category: event
+tags: home, conferences, icomm
+
 
 The 6th International Conference on 
 MicroManufacturing (ICOMM 2011) will be held on the Tokyo Denki University campus in Tokyo, Japan.

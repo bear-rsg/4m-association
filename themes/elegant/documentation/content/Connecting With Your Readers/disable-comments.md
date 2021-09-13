@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: interaction
 date: 2019-01-12 16:29
 comments: false
@@ -16,10 +13,7 @@ Sometimes you want to disable comments on selected articles. In which case, you 
 
 Here is an example,
 
-```yamltitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```yaml
 comments: false
 Category: Commenting
 ```

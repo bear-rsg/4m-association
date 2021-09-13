@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: interaction
 date: 2019-06-30 22:29
 comments: false
@@ -22,9 +19,6 @@ article metadata. Set it to any unique string you want. It won't be effected by
 the article URL.
 
 If you choose not to use `comment_id`, Elegant passes article URL to
-Disqus.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Disqus.
 
 In previous versions, we had `disqus_identifier`. Though Elegant is backward compatible but we recommend you to change it to `comment_id`.

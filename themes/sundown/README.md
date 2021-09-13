@@ -1,10 +1,7 @@
 # Pelican-Sundown
 
 A flexible [pelican](http://docs.getpelican.com) based on the [github
-pages](https://github.com/orderedlist) sundown theme created originally by [orderedlist](http://pages.github.com/).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+pages](https://github.com/orderedlist) sundown theme created originally by [orderedlist](http://pages.github.com/).
 
 This theme does have a few differences from the original sundown theme.
 For example, slightly larger font for content, gravatar image, and
@@ -29,15 +26,9 @@ GRV_SIZE = 120
 # construct gravatar URL
 GRV_URL = "http://www.gravatar.com/avatar/" + hashlib.md5(EMAIL.lower()).hexdigest() + "?"
 GRV_URL += urllib.urlencode({'d':DEFAULT_GRV_URL, 's':str(GRV_SIZE)})
-``` title: (.*)
-date: 2021-03-31
+``` 
 
-date: 2021-03-30
-
-* [KenIngle.com](http://keningle.com) - Hosted on github pagestitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* [KenIngle.com](http://keningle.com) - Hosted on github pages
 
 The MIT License (MIT)
 

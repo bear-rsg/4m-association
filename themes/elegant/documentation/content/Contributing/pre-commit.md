@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: use-pre-commit-git-hooks
 Category: Contributing
@@ -26,10 +23,7 @@ custom code to be triggered when certain actions are performed with Git. One of 
 common triggers is the pre-commit trigger, used to activate a program between a client
 request to commit and the actual act of committing the change. If the program reports a
 failure, the commit is aborted, hopefully with the failed program providing enough information
-for the user to diagnose the issue.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+for the user to diagnose the issue.
 
 If you have tried to set up Git hooks before, there are usually two problems you have faced:
 the concept can be hard for people to understand and Git hooks are often frustrating difficult
@@ -41,10 +35,7 @@ To solve most of these problems, the team decided to use the
 Python package which provides a simple layer of abstraction over the Git hooks. The Pre-commit
 package makes managing, sharing and updating the Git hooks very easy. As it installs itself as
 a Git hook, once you have installed it properly, you may easily confuse it as a part of Git's
-commit process.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+commit process.
 
 Pre-commit runs Git hooks that among other things:
 
@@ -57,10 +48,7 @@ Pre-commit runs Git hooks that among other things:
 
 Addressing any failures reported by these hooks locally will result in a smaller turn around
 time in getting those issues addressed. This in turn will save time when submitting changes
-in a Pull Request, as you have already dealt with any errors that this tool may report.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+in a Pull Request, as you have already dealt with any errors that this tool may report.
 
 The package itself is installed in typical Python fashion by using the Pip command:
 
@@ -73,10 +61,7 @@ by changing your directory to the root of that repository and executing the foll
 
 ```bash
 pre-commit install
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Once installed, Pre-commit appears to be part of the Git commit process. When you perform
 your next `git commit` command (including using the `git-cz` command for the
@@ -101,10 +86,7 @@ change again.
 
     If you run these checks on Windows, the `check-executables-have-shebangs` hook will fail as Windows does not require that executable files start with a [shebang](shebang) and all files implicitly have the `execute` or `+x` permission for Linux.
 
-    To skip this check, enter `set SKIP=check-executables-have-shebangs` on the command line before you execute the Pre-commit package, either from a Git hook as detailed above, or manually, as detail in the following section.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    To skip this check, enter `set SKIP=check-executables-have-shebangs` on the command line before you execute the Pre-commit package, either from a Git hook as detailed above, or manually, as detail in the following section.
 
 The full set of hooks are available by entering the following command:
 
@@ -115,10 +97,7 @@ pre-commit run -a
 This will run the full set of hooks and report any errors. It is often useful to run this
 command before committing, even if you are using
 [Commitizen](./commitizien.md)
-for your commits as is recommended.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+for your commits as is recommended.
 
 The Elegant team fully believes in the Git hooks and their benefit to the team. As such, the
 Pre-commit package is executed on all of our team builds (using Travis CI) for any commits and

@@ -6,18 +6,12 @@ It is designed to be very minimalistic, simple and clear. Yet, it is not respons
 
 If you want to use/update it, please do it from the direct [project repository](https://github.com/quack1/notebook). It will be the most up-to-date repo.
 
-This theme is published under the [New BSD License](http://opensource.org/licenses/BSD-3-Clause). So, feel free to use/hack/redistribute it!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This theme is published under the [New BSD License](http://opensource.org/licenses/BSD-3-Clause). So, feel free to use/hack/redistribute it!
 
 The theme support the following "plugins", with the variables used in the `pelicanconf.py` configuration file : 
 	
 - Disqus : `DISQUS_SITENAME` 
-- Google Analytics : `GOOGLE_ANALYTICS`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Google Analytics : `GOOGLE_ANALYTICS`
 
 We add some new functionalities, so we need to add some variables in the `pelicanconf.py` configuration file : 
 
@@ -33,10 +27,7 @@ From a "standard" firefox banner, the values are :
 
 	<a href="http://affiliates.mozilla.org/link/banner/{{ banner_id }}"><img src="{{ path_to_the_image }}" alt="{{ alt_text }}" /></a>
 
-The `path_to_the_image` can be the remote file like given in the Affiliates Mozilla Website, but it won't work with my current Firefox Nightly version (Firefox 23). So I need to download the images and set the path to the local images.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+The `path_to_the_image` can be the remote file like given in the Affiliates Mozilla Website, but it won't work with my current Firefox Nightly version (Firefox 23). So I need to download the images and set the path to the local images.
 
 I also add the support of Twitter Card.
 
@@ -53,10 +44,7 @@ On the articles, we added these variables :
 	<meta name="twitter:title" content="{{ article.title }}">
 	<meta name="twitter:description" content="{{ article.Summary }}">
 
-The `article.summary` variable must be set on the header of the Rest/Markdown article source file (tag : `Summary:`). If not, the first `SUMMARY_MAX_LENGTH` words from the blog post will be used as a default summary.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+The `article.summary` variable must be set on the header of the Rest/Markdown article source file (tag : `Summary:`). If not, the first `SUMMARY_MAX_LENGTH` words from the blog post will be used as a default summary.
 
 The social icons are from Font-Awesome, and colorized by myself.
 

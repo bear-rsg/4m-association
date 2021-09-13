@@ -1,7 +1,7 @@
 title: Workshop on "Tape 3D structuring"
 date: 2010-09-20 
-tags: event
-category: event
+tags: home, training
+
 
 <!--break-->
 **Topics**  
@@ -26,3 +26,7 @@ For further details you can download the event flyer by clicking on the icon bel
 **Participation**  
 Participation is open to all scientists interested in ceramics and printing technologies. There is no
 registration fee charged (deadline for registration by e-mail : 29th October 2010)
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/Agenda_SP2_Workshop_V3.1.pdf">Agenda_SP2_Workshop_V3.1.pdf</a> | 61.81 KB |

@@ -1,7 +1,9 @@
 title: February 2016 
 date: 2016-09-21 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  Postdoc Position uTwente
 

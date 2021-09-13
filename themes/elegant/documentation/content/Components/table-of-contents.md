@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: reST, markdown, navigation, web-design, contents
 Category: Components
 Date: 2014-03-18 11:03
@@ -20,10 +17,7 @@ reader through the article.
 
 Therefore, Elegant places the table of contents on the left side
 of the page with a relatively smaller font. This enables the table to guide the reader without
-grabbing the focus of the reader and distracting them.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+grabbing the focus of the reader and distracting them.
 
 Enabling the Elegant' display of the table of contents is a two-step process.
 
@@ -41,10 +35,7 @@ your pelican configuration.
 
 ```python
 PLUGINS = ['extract_toc']
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 You need to enable the `toc` extension for Markdown in your Pelican configuration.
 
@@ -59,21 +50,12 @@ MARKDOWN = {
 Now to generate a table of contents for you article, add the `[TOC]` markdown tag to your
 document.
 
-```Markdowntitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```Markdown
 Category: Examples
 
-[TOC]title: (.*)
-date: 2021-03-31
+[TOC]
 
-date: 2021-03-30
-
-This is the content of my sample blog post.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is the content of my sample blog post.
 
 I will end my example here.
 ```
@@ -90,10 +72,7 @@ page.
 1. Verify that the
    `MARKDOWN` configuration variable is set properly.
 1. Verify that the `PLUGINS` configuration variable is
-   set properly.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+   set properly.
 
 reStructuredText format has the
 [`contents` directive](http://docutils.sourceforge.net/docs/ref/rst/directives.html#table-of-contents)

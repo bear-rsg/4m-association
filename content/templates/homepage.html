@@ -8,7 +8,7 @@
 
 {% block content %}
     {% if articles %}
-        {% for article in articles | selectattr('tag', 'equalto', 'home') | batch(10) | first %}
+        {% for article in articles if 'home' in article.tags | batch(10) | first %}
             <article>
                 <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
@@ -21,7 +21,7 @@
                             </div>
                         </div>
                         <div id="block-ig_book-801" class="block block-ig_book">
-                            <h3><a href="/4m-association/conference/WCMNM2020" class="book-title">WCMNM2020</a></h3>
+                            <h3><a href="/4m-association/conference/WCMNM2020/conference-WCMNM2020/conference-WCMNM2020.html" class="book-title">WCMNM2020</a></h3>
                             <div class="content">
                                 <ul>
                                     <li class="leaf first"><a href="/4m-association/content/Call-papers-2.html">Call for papers</a></li>

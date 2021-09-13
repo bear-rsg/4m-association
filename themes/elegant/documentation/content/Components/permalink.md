@@ -1,7 +1,4 @@
-title: Permalinks To Headings
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: navigation,
 Category: Components
 Date: 2019-12-02 11:05
@@ -34,10 +31,7 @@ MARKDOWN = {
 
 Enabling the `permalink` option will provide direct links to each heading.
 
-Hover over following example heading to see the permalink.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Hover over following example heading to see the permalink.
 
 You would get this,
 

@@ -1,7 +1,7 @@
 title: Overview Programme
 date: 2010-10-04 
-category: conference
-tags: conference
+tags: conference, home
+
 
 The **Detailed Programme(*)** including the schedule for presentations is **available to download at bottom of this webpage.**
 <!--break-->

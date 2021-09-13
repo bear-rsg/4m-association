@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: contribution-license
 Category: Contributing
@@ -15,10 +12,7 @@ Authors: Talha Mansoor, Jack De Winter
 [TOC]
 
 By submitting a change to the project, you implicitly acknowledge that you are following
-the following license rules.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+the following license rules.
 
 All contributions to the project are understood to be submitted under the same (inbound)
 license as the main (outbound) license of the main Elegant repository.

@@ -1,5 +1,5 @@
 title: Hotels and Accommodation
-date: 2010-07-19 
+date: 2010-07-19  
 
 Rooms have been reserved at the following hotels. Buses to transport you to the conference location(s) will collect each morning from these hotels. These reservations will only be held until 31 October 2010:
 

@@ -1,7 +1,7 @@
 title: Call for Papers
 date: 2011-02-03 
-category: conference
-tags: conference
+tags: conference, home
+
 
 The first Call for Papers for 4M2011 is published and can be viewed or downloaded by clicking on the icon below.
 <!--break-->

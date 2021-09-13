@@ -1,7 +1,7 @@
 title: Venue, Travel and Accommodation 
-date: 2015-11-28 
-title:   Preferred Accommodation
-
+date: 2015-11-28
+ 
+### Preferred Accommodation
 
 REMISENS are offering reduced prices at their range of hotels in Portorož for participants in WCMNM 2018:
 

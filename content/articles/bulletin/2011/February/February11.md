@@ -1,7 +1,9 @@
 title: February'11
 date: 2011-02-04 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
@@ -18,7 +20,7 @@ This will be the fifth in a series of [Special Issues](http://www.4m-net.org/Pub
  
 ###  Research Associate in laser processing
 
-The Manufacturing Engineering Centre (MEC) at the School of Engineering, Cardiff University is looking to recruit a [Research Associate (RA)](/4m-association/node/504) in the area of laser processing.   
+The Manufacturing Engineering Centre (MEC) at the School of Engineering, Cardiff University is looking to recruit a [Research Associate (RA)](/4m-association/node/504/504.html) in the area of laser processing.   
   
 ###  MultiLayer - Public Workshop on "Tape Assembly"
 

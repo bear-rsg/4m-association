@@ -1,28 +1,19 @@
 # SVBTLE
 
 Svbtle theme is a close copy of [Svbtle.com](http://www.svbtle.com) with
-a few minor changes for use with [Pelican](http://pelican.notmyidea.org).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+a few minor changes for use with [Pelican](http://pelican.notmyidea.org).
 
 You can see the [theme in
 action](http://williamting.com/drafts/this-is-a-theme-testing-post.html), or
 the site code [here](https://github.com/wting/williamting.com).
 
-![theme screenshot](https://raw.github.com/wting/pelican-svbtle/master/screenshot.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![theme screenshot](https://raw.github.com/wting/pelican-svbtle/master/screenshot.png)
 
 - syntax highlighting for code blocks
 - Google Analytics
 - Disqus commenting
 - custom list of links
-- support for this LaTeX [plugin][latex]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- support for this LaTeX [plugin][latex]
 
 - no IE testing
 - no custom menu
@@ -31,10 +22,7 @@ date: 2021-03-30
 - Svbtle uses Freight-Sans-Pro for article titles and Proxima Nova for body.
   While they are great fonts, neither are free. I've linked to them in case
   the client has them installed, but most users will browse the site with Open
-  Sans.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+  Sans.
 
 ### FROM SOURCE
 
@@ -45,10 +33,7 @@ to point to the downloaded theme location.
 ### FROM OFFICIAL REPO
 
 Please refer to Pelican theme [install
-instructions](http://pelican.notmyidea.org/en/latest/pelican-themes.html).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+instructions](http://pelican.notmyidea.org/en/latest/pelican-themes.html).
 
 These are the Pelican global variables currently supported by the theme:
 
@@ -65,23 +50,14 @@ When developing locally, set the following variable:
 `SITEURL = http://localhost:8000`
 
 If you want to enable LaTeX support, additional settings must be
-[configured][latex].title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[configured][latex].
 
 - Accent color can be changed by editing `@accent` in `./static/css/style.less`.
 
 - A different Pygmentize theme can be used by editing `./Makefile` and
-  running `make pygments`.title: (.*)
-date: 2021-03-31
+  running `make pygments`.
 
-date: 2021-03-30
-
-William Tingtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+William Ting
 
 Released under MIT License, full details in `LICENSE` file.
 

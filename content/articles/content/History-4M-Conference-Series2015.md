@@ -1,7 +1,7 @@
 title: History of the 4M Conference Series
-date: 2011-12-09 
+date: 2011-12-09  
 
-This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/4m-association/node/1). 4M/ICOMM2015 will be the eleventh in the series.
+This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/4m-association/node/1/1.html). 4M/ICOMM2015 will be the eleventh in the series.
 <!--break-->
 title: Past 4M conferences
 

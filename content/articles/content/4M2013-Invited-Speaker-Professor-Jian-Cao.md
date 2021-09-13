@@ -1,7 +1,8 @@
 title: 4M 2013 Invited Speaker: Professor Jian Cao
 date: 2013-07-15
-tags: event, 4m-conference, conference
-category: conference
+tags: 4m-conference-series, conference, home
+
+
 Department of Mechanical Engineering | Department of Civil and Environmental Engineering | Northwestern University| U.S.A
 <!--break-->
 **Biography**

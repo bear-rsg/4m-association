@@ -2,15 +2,9 @@
 
 Alchemy ✨ is a functional, clean, responsive theme for the [Pelican](http://getpelican.com) static site generator. It is heavily inspired by [crowsfoot](http://github.com/porterjamesj/crowsfoot), [clean-blog](https://github.com/BlackrockDigital/startbootstrap-clean-blog), and powered by [Bootstrap](https://github.com/twbs/bootstrap). Pull requests are welcome!
 
-[Demo](https://nairobilug.github.io/pelican-alchemy/)!title: (.*)
-date: 2021-03-31
+[Demo](https://nairobilug.github.io/pelican-alchemy/)!
 
-date: 2021-03-30
-
-![Screenshot](screenshot.jpg "Screenshot")title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Screenshot](screenshot.jpg "Screenshot")
 
 - Bootstap 4 (currently v4.0.0-alpha.5)
 - Core Pygments [styles](http://pygments.org/demo/)
@@ -21,10 +15,7 @@ date: 2021-03-30
 - No JavaScript (excl. Analytics & Comments)
 - Pelican `sitemap.xml` support
 - realfavicongenerator [package](http://realfavicongenerator.net/blog/new-favicon-package-less-is-more/) support
-- Simple Jinja2 templatestitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Simple Jinja2 templates
 
 First, clone the repo:
 
@@ -43,10 +34,7 @@ In your Pelican site:
 
 And Pelican config:
 
-    THEME = 'themes/pelican-alchemy/alchemy'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    THEME = 'themes/pelican-alchemy/alchemy'
 
 Visit the [settings page](https://nairobilug.github.io/pelican-alchemy/pages/settings.html) for examples:
 
@@ -67,10 +55,7 @@ Others:
 - **PIWIK_URL**
 - **PIWIK_SITE_ID**
 
-Example Pelican [config](https://github.com/nairobilug/pelican-alchemy/blob/demo/pelicanconf.py) (demo site).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Example Pelican [config](https://github.com/nairobilug/pelican-alchemy/blob/demo/pelicanconf.py) (demo site).
 
 ### Bootstrap Classes
 

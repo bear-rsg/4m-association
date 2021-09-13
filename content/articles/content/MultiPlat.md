@@ -1,5 +1,5 @@
 title: MultiPlat
-date: 2009-12-07 
+date: 2009-12-07  
 
 <!--break-->
 ![MultiPlat](/4m-association/images/multiplat_logoweb1.jpg)  

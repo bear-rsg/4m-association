@@ -1,7 +1,4 @@
-title: Applause Button
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: interaction, kudos, reaction
 Category: Connecting With Your Readers
 Date: 2019-12-05 08:36
@@ -12,10 +9,7 @@ Summary:
 Keywords:
 applause_button: on
 
-Elegant supports [Applause Button](https://applause-button.com/){:class="ampl"}.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Elegant supports [Applause Button](https://applause-button.com/){:class="ampl"}.
 
 You can enable and disable the button site wide or on specific articles.
 
@@ -41,9 +35,6 @@ Set `APPLAUSE_BUTTON` variable to `False` in your Pelican configuration. And on 
 
 ```yaml
 applause_button: on
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 By default Elegant passes the article URL as identifier to the Applause Button server. But you can also set `applause_button_id` in your article metadata which is given preference over the article URL.

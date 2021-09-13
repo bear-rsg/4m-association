@@ -1,7 +1,9 @@
 title: November 2018
 date: 2019-06-06 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  WCMNM2019, Call for papers
 

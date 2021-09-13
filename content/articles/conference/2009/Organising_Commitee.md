@@ -1,7 +1,7 @@
 title: Programme Committee
 date: 2009-06-29 
-category: conference
-tags: conference
+tags: conference, home
+
 
 <!--break-->
 Volker Saile, FZK, Germany (**Conference Chair**)  

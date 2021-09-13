@@ -1,7 +1,9 @@
 title: January 2015
 date: 2019-02-27 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  4M/ICOMM 2015 – REGISTRATION NOW OPEN
 

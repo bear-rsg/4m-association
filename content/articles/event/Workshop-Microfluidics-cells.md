@@ -1,7 +1,7 @@
 title: Workshop on Microfluidics for cells
 date: 2009-08-12 
-tags: event
-category: event
+tags: home, micro-fluidics, micro-fluidics-interest-group, discount-for-members
+
 
 <i>“Tools for tissue engineering”</i> at the Fraunhofer Institute for Reliability and Microintegration IZM, Munich branch.
 <!--break-->
@@ -18,3 +18,8 @@ The workshop fee is €290, this includes the seminar proceedings and catering.
 Full details are contained in the flyer which is available for download by clicking on the icon below, as is a list of hotels.
 
 Alternatively you can contact [Diliana Panayotova](mailto:Diliana.panayotova@izm-m.fraunhofer.de?subject=Workshop_on_microfluidics_for_cells) for further information.
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/Flyer_Workshop_MicrodosingSystems.pdf">Flyer_Workshop_MicrodosingSystems.pdf</a> | 2.58 MB |
+<a href="/4m-association/files/Hotels near the Fraunhofer IZM, Munich.pdf">Hotels near the Fraunhofer IZM, Munich.pdf</a> | 288.92 KB |

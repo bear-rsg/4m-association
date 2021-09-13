@@ -1,5 +1,6 @@
 title: Research Associate in Micro Manufacturing
-date: 2009-05-05 
+date: 2009-05-05  
+tags: vacancies
 
 A vacancy exists at Cardiff University's Manufacturing Engineering Centre[(MEC)](http://www.mec.cf.ac.uk/) for a Research Associate to conduct research projects and develop innovative process chains in the areas of micro and nano fabrication.  
 

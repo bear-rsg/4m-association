@@ -1,7 +1,7 @@
 title: Registration and fees
 date: 2009-04-24 
-category: conference
-tags: conference
+tags: conference, home
+
 
 ##  Important Dates
 

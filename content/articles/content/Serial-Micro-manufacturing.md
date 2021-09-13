@@ -1,5 +1,5 @@
 title: Serial micro-manufacturing
-date: 2009-11-13 
+date: 2009-11-13  
 
 <!--break--><table class="info fade">
   <tbody>

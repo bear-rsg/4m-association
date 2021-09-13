@@ -1,5 +1,5 @@
 title: Wire bonding
-date: 2009-05-12 
+date: 2009-05-12  
 
 <blockquote>
 Wire bonding is the primary method of making interconnections between a microchip, such as an

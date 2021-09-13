@@ -1,14 +1,8 @@
 # ops
-a pelican themetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+a pelican theme
 1.[Christine Doig's blog](http://chdoig.github.io/) based on this blog theme
 
-2.[Kosmgco](https://blog.ooops.me)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+2.[Kosmgco](https://blog.ooops.me)
 
 支持百度统计,多说评论，社会化分享,社交插件图片
 
@@ -31,10 +25,7 @@ JIATHIS = True
 ```
 comment: true
 jiathis: true
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 ![index.jpg](http://statics.ooops.me/55085927fef1f3450c56b8b3fde0570d.jpg)
 

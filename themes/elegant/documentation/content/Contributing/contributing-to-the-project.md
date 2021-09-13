@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: how-to-contribute
 Category: Contributing
@@ -18,10 +15,7 @@ Once you have decided to [contribute to the project]({filename}./invitation.md),
 go over some rules and guidelines before you can start. These rules and guidelines help us
 work together as a team and give us a common set of directions that keep us all on the same
 page. In the case of any disagreements on what needs to be done, we can always refer to the
-guidelines to help us find our way from disagreement to consensus.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+guidelines to help us find our way from disagreement to consensus.
 
 This document strives to provide a solid path through contributing a change to Elegant, from
 setting up your environment to submitting and responding to a Pull Request.
@@ -31,17 +25,11 @@ a complete picture of the topic being discussed will be presented in other artic
 to from this article.
 
 Please take the time to familiarize yourself with the information in the attached articles,
-as they will help you build a complete understanding of our entire contribution process.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+as they will help you build a complete understanding of our entire contribution process.
 
 As the project is an open source project, anything you contribute to the project is covered by
 the project's [Contributions License]({filename}./contributing-license.md). If you are not
-willing or unable to abide by those licenses, we cannot have you contribute to the project.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+willing or unable to abide by those licenses, we cannot have you contribute to the project.
 
 The primary goal of this project is to provide a theme for Pelican that provides the
 [Elegant Look and Feel]({filename}./why-look-and-feel.md) to our user's websites. To that end,
@@ -51,10 +39,7 @@ any features or changes must:
 - not cause distraction for the reader
 - any changes must work out of the box with sensible defaults for the user
 
-These are not negotiable.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+These are not negotiable.
 
 The Elegant project is [hosted in GitHub](https://github.com/Pelican-Elegant/elegant) and
 requires your machine to have a local [Git Client](https://git-scm.com/downloads) to
@@ -110,10 +95,7 @@ contributors, the team has elected to include a the
 [yaspeller tool]({filename}./ya-spell-check.md)
 as part of our build pipeline. While this does not integrate with your local repository
 like the Pre-commit tool, running this locally can help shorten the cycle for ensuring that
-your spelling is spot on!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+your spelling is spot on!
 
 With all of the required, recommended and optional setup behind us, and all of the submitting
 of the changes ahead of us, it is time to focus on how to develop features for Elegant. To
@@ -123,10 +105,7 @@ is dedicated to providing that information to contributors.
 
 !!! note
 
-    While this section rightfully belongs where it is in terms of workflow, it is recommended that you continue reading this article to it's end.  This will allow you to understand what comes after your changes, and may influence implementtion changes to avoid possible problems later on in the workflow.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    While this section rightfully belongs where it is in terms of workflow, it is recommended that you continue reading this article to it's end.  This will allow you to understand what comes after your changes, and may influence implementtion changes to avoid possible problems later on in the workflow.
 
 Submitting your changes is performed using the GitHub
 [Pull Request feature](https://help.github.com/en/articles/creating-a-pull-request). Before
@@ -162,10 +141,7 @@ changed and why. If there were any reported issues that you resolved, it doesn't
 mention them in this section.
 
 When you are done with adding that information, double check it and press the
-`Create pull request` button to submit the request.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+`Create pull request` button to submit the request.
 
 After pushing the `Create pull request` button, you are transferred to another page that is
 mostly the same as any other GitHub Pull Request page. The main difference is the merge

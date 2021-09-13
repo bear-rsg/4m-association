@@ -1,9 +1,6 @@
 # Pelican-bootstrap3-lovers
 
-Lovers is a Bootstrap 3 theme for Pelican.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Lovers is a Bootstrap 3 theme for Pelican.
 
 First:
 
@@ -15,10 +12,7 @@ In your `pelicanconf.py` file:
 
 Point the `THEME` variable to `/path/to/pelican-bootstrap3-lovers` and set a `BOOTSTRAP_THEME` variable to `lovers`. 
 
-Note: This theme is compatible with other Bootstrap themes. Just copy the CSS files of the theme you want to use to the `static/css/` folder named as `bootstrap.{theme-name}.min.css`and set the `BOOTSTRAP_THEME` to `theme-name`. You can find some nice themes at [Bootswatch](http://bootswatch.com/) and get the CSS files from there or at [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3). For adding customizations on a theme you can create a file named `style.{theme-name}.min.css` and add them there.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Note: This theme is compatible with other Bootstrap themes. Just copy the CSS files of the theme you want to use to the `static/css/` folder named as `bootstrap.{theme-name}.min.css`and set the `BOOTSTRAP_THEME` to `theme-name`. You can find some nice themes at [Bootswatch](http://bootswatch.com/) and get the CSS files from there or at [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3). For adding customizations on a theme you can create a file named `style.{theme-name}.min.css` and add them there.
 
 This theme already incorporates some standard Pelican Plugins and allows the following settings from your `pelicanconf.py` file:
 
@@ -38,10 +32,7 @@ This theme already incorporates some standard Pelican Plugins and allows the fol
 
 Note: This theme uses [Prism](http://prismjs.com/) instead of Pygments for syntax higlighting. (More details in the Prism.js section).
 
-Details for each of the mentioned settings are provided next.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Details for each of the mentioned settings are provided next.
 
 ### HEADER_IMAGE
 
@@ -92,10 +83,7 @@ DISPLAY_PAGES_ON_MENU = True
 The Goodreads widget displays a random quote from your Goodreads quote list at the top of your blog. To set it up:
 Get your `GOODREADS_ID` by going to your Goodreads profile. The url will be: 
 
-`https://www.goodreads.com/user/show/GOODREADS_ID`title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+`https://www.goodreads.com/user/show/GOODREADS_ID`
 
 ### ABOUT_ME
 
@@ -128,10 +116,7 @@ The set up:
 ~~~~{.python}
 TWITTER_USERNAME = XXXXX
 TWITTER_WIDGET_ID = XXXXX
-~~~~title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+~~~~
 
 The theme is set up to use [Prism](http://prismjs.com/) instead of Pygments for syntax highlighting.
 
@@ -161,33 +146,21 @@ And leave the MD_EXTENSIONS to:
 
 ~~~~{.language-python}
 MD_EXTENSIONS = ['codehilite(css_class=highlight)']
-~~~~ title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+~~~~ 
 
 This theme uses [Google Analytics](www.google.com/analytics) and [Disqus](http://disqus.com/) for comments. You'll need to get your Google analytics Tracking ID and your disqus_sitename. Visit their respectives websites to find out how to get these IDs and copy them into your `pelicanconf.py`:
 
 ~~~~{.python}
 GOOGLE_ANALYTICS = XXXXX
 DISQUS_SITENAME = XXXXX
-~~~~title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+~~~~
 
 ![](screenshot.png)
 
-![](screenshot-article.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![](screenshot-article.png)
 
 [This is my website](http://chdoig.github.io)
 
-For detailed information on how to customize your Pelican blog, check my [blogpost](http://chdoig.github.io/create-pelican-blog).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+For detailed information on how to customize your Pelican blog, check my [blogpost](http://chdoig.github.io/create-pelican-blog).
 
 I would like to thank [DandyDev](http://dandydev.net/) for [pelican-bootstrap3](https://github.com/DandyDev/pelican-bootstrap3). That was my starting point for creating this theme and it includes some of the settings he made available.

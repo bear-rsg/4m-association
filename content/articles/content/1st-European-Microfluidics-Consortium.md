@@ -1,5 +1,6 @@
 title: 1st European Microfluidics Consortium
-date: 2009-04-03 
+date: 2009-04-03
+tags: micro-fluidics, polymer-processing
 
 This European Microfluidics Consortium brings together stakeholders in Microfluidics from UK and the rest of Europe to air their questions and learn about state-of-the-art, recent applications, market dynamics as well as key issues which are constraining growth and scale-up.
 

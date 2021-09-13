@@ -1,7 +1,4 @@
-title: Pelican's Template
-date: 2021-03-31
 
-date: 2021-03-30
 Category: Misc
 Tags: pelican
 Date: 2016-02-14 00:00
@@ -11,10 +8,7 @@ Authors: Jérémie Ferry
 Status: published
 Summary:
 
-# Title 1title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# Title 1
 
 ### Title 3
 
@@ -32,10 +26,7 @@ date: 2021-03-30
 
 [link to pelican's doc with title](http://docs.getpelican.com "read pelican's doc")
 
-Keyboard shortcuts : <kbd>Alt</kbd><kbd>Q</kbd>title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Keyboard shortcuts : <kbd>Alt</kbd><kbd>Q</kbd>
 
 * 1
 * 2
@@ -45,16 +36,10 @@ date: 2021-03-30
         * 3.2.1
         * 3.2.2
     * 3.3
-* 4title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* 4
 
     #!bash
-    cat file | wctitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    cat file | wc
 
     #!python
     def fib(n):

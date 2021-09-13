@@ -1,5 +1,5 @@
 title: Photoresistive Glass (Foturan)
-date: 2009-05-14 
+date: 2009-05-14  
 
 __material properties:__	  
 optical transparency:	yes

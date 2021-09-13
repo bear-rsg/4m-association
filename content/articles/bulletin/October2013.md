@@ -1,7 +1,9 @@
 title: October '13
 date: 2014-04-07 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 4M 2013 Presentations available, 4M 2013 Feedback Survey, 4M 2013 Proceedings, Elena Ulieru Innovation Award, 4M 2020 Kick Off Meeting Presentations available, 4M/ICOMM 2015 Announced, ATV-SEMAPP Seminar, ASME 2014, Make-it-yourself, FRSM Training
 <!--break-->

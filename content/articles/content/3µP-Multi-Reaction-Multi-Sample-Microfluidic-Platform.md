@@ -1,7 +1,6 @@
 title: 3µP: Multi-Reaction, Multi-Sample Microfluidic Platform
 date: 2010-05-24
 tags: project, micro-fluidics
-category: Project
 
 
 Two former partners of 4M ([Fraunhofer IZM](http://www.izm.fraunhofer.de/), [FEMTO-ST](http://www.femto-st.fr/en/)) have joined forces to develop  a microfluidic platform for multiple samples with multiple analytes to run diagnostic analysis.
@@ -15,3 +14,5 @@ The scientific achievements will further the RNA based diagnostics, supporting f
 The target platform intends to integrate conventional microfluidics with electrowetting assisted droplet handling into a diagnostic system, separating a cheap, disposable part from the multiple use fluidic carrier delivering the required analytes. The choice of droplet based microfluidics on the disposable part, controlled by electric fields, enables extremely fast adaption by modifying the protocol software only to run multiple analysis routines without the need for individual channel geometries and analyte injection points. Final analysis is currently planned to use fluorescence detection but  future concepts may involve CNT based techniques, aptamers or pure electronic detection schemes. The developed platform will provide a basis for industrial entrepreneurs to build their innovative diagnostic systems on.
 
 Contacts: [Erik Jung](mailto:Erik.Jung@izm.fraunhofer.de) and/or [Chantal Khan Malek.](mailto:chantal.khan-malek@femto-st.fr)
+
+[&larr; Projects](/4m-association/projects.html)

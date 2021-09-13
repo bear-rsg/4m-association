@@ -1,7 +1,9 @@
 title: July'09 Bulletin
 date: 2009-07-09 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### 4M/ICOMM 2009

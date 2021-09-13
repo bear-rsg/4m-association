@@ -1,7 +1,9 @@
 title: March '13
 date: 2014-04-07 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 4M2013 Second Call for Papers, First Invited Speakers and Special Sessions Announced, 4M2020 CSA Proposal, Can Glass be Brittle OR Ductile?, New Journal Publish on Surface Topography - Now Open for Papers, COMS 2013, FSRM Training.
 <!--break-->

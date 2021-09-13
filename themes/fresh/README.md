@@ -7,10 +7,7 @@ You can watch a live demo for the Fresh theme [here](http://jsliang.com/pelican-
 
 **Note**
 
-Make sure not to set the ``RELATIVE_URLS`` global varibles to `True` (the default value is `False`) so that Facebook meta tags and canonical links are generated correctly.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Make sure not to set the ``RELATIVE_URLS`` global varibles to `True` (the default value is `False`) so that Facebook meta tags and canonical links are generated correctly.
 
 *   Google Analytics
 *   DISQUS comment system
@@ -20,10 +17,7 @@ date: 2021-03-30
 *   **Google Custom Search Engine** -- use this as your search bar!
 *   **Hide categories from menu**
 *   Syntax highlighting for code blocks
-*   ShareThistitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+*   ShareThis
 
 The Fresh theme supports most built-in global variables of Pelican. There are also theme-specific global variables that allow you to add a search bar or to hide categories from menu.
 
@@ -58,10 +52,7 @@ The theme also provides these global variables:
 
     The Fresh theme allows you to use [ShareThis](http://www.sharethis.com/) for social plugins.
 
-    Find the **Pub Key** of your ShareThis Account in ShareThis's [Account Dashboard](http://www.sharethis.com/account/). Assign this ID to the `SHARETHIS_PUB_KEY` variable in your configuration, and two rows of social plugin buttons will appear before and after your article respectively.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    Find the **Pub Key** of your ShareThis Account in ShareThis's [Account Dashboard](http://www.sharethis.com/account/). Assign this ID to the `SHARETHIS_PUB_KEY` variable in your configuration, and two rows of social plugin buttons will appear before and after your article respectively.
 
 Copyright (c) 2013-2014, Jui-Shan Liang &lt;jenny@jsliang.com&gt;
 

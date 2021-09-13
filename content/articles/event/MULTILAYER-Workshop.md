@@ -1,7 +1,7 @@
 title: MULTILAYER Workshop
 date: 2009-12-07 
-tags: event, multilayer, project, training
-category: event
+tags: multilayer, project, training, home
+
 
 A workshop on  <b>PRINTING TECHNOLOGIES</b>  
 Recent developments in printing processes such as inkjet printing and screen printing: application to microelectronic and ceramic.
@@ -38,3 +38,9 @@ The language of the workshop will be English.
 20.15 Dinner (to be supported by each partner)  
   
 Workshop flyer is attached below.
+
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/Agenda_SP3_Workshop_Printing.pdf">Agenda_SP3_Workshop_Printing.pdf</a> | 89.23 KB |
+
+[&larr; Projects](/4m-association/projects.html)

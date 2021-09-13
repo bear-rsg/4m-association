@@ -2,10 +2,7 @@
 
 A content focused responsive theme for [Pelican](https://github.com/getpelican/pelican).
 
-It is ported from ghost theme [attila](https://github.com/zutrinken/attila)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+It is ported from ghost theme [attila](https://github.com/zutrinken/attila)
 
 * [Blog](https://arulrajnet.github.io/attila-demo)
 * [Post](https://arulrajnet.github.io/attila-demo/2015/11/headlines-blockquotes-images.html)
@@ -14,10 +11,7 @@ date: 2021-03-30
 * [All archive](https://arulrajnet.github.io/attila-demo/archives.html)
 * [Page](https://arulrajnet.github.io/attila-demo/pages/about/)
 
-Demo blog [source code](https://github.com/arulrajnet/attila-demo)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Demo blog [source code](https://github.com/arulrajnet/attila-demo)
 
 * Responsive layout
 * Navigation support
@@ -27,10 +21,7 @@ date: 2021-03-30
 * Reading progress for posts
 * Automatic code syntax highlight
 * Disqus support
-* Sharing buttonstitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Sharing buttons
 
 Refer [more setting](https://github.com/arulrajnet/attila-demo/blob/master/pelicanconf.py)
 
@@ -148,18 +139,12 @@ Accept many analytics:
  in ``SOCIAL``!
 
 All image paths are relative from the site root directory. You can also use
-absolute URLs for ``og_image`` and ``twitter_image``.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+absolute URLs for ``og_image`` and ``twitter_image``.
 
 refer this [https://github.com/arulrajnet/attila-demo](https://github.com/arulrajnet/attila-demo)
 
 **Author Screen**
-![screenshot](screenshot.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![screenshot](screenshot.png)
 
 Copyright (c) 2015-2016 Peter Amende - Released under The MIT License.
 Copyright (c) 2016 Arulraj V - Released under The MIT License.

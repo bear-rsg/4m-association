@@ -1,17 +1,11 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: change-log, project-management
 layout: post
 date: 2019-07-03 23:54
 comments: false
 Slug: version-3-0-0-release-notes
 Category: Release Notes
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 
 ### Bug Fixes
 

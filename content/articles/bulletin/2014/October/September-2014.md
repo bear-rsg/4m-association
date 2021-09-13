@@ -1,7 +1,9 @@
 title: September 2014
 date: 2014-10-23 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  4M/ICOMM 2015 – Call for Papers
 

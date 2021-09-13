@@ -1,7 +1,4 @@
-title: How to use Heap Analytics
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: web-analytics
 Category: Analytics, SEO and SMO
 Date: 2019-03-31 16:45

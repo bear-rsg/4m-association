@@ -1,7 +1,7 @@
 title: Review Guidelines
-date: 2009-03-13 
-title:   Deadlines (provisional)
-
+date: 2009-03-13
+ 
+###  Deadlines (provisional)
 
 <table class="info" style="width:100%;">
 <tr><th>event</th><th>date</th></tr>

@@ -1,8 +1,5 @@
 ---
-Authors: Jack De Wintertitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Authors: Jack De Winter
 Tags: reading time, stats
 Date: 2019-07-15 20:08
 Slug: add-reading-time-estimate
@@ -20,10 +17,7 @@ with the estimate for the current article.
 
 Here is an example of what the Reading Time Estimate section may look like:
 
-![Reading Time Section]({static}/images/elegant-theme_reading-time.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Reading Time Section]({static}/images/elegant-theme_reading-time.png)
 
 To enable the reading time for your articles, you need to add `post_stats` to the `PLUGINS`
 configuration variable in your Pelican configuration.

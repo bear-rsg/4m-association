@@ -1,19 +1,13 @@
 # pelican-material
 
-Material is a [pelican](http://blog.getpelican.com/) theme based on [Materialize](http://materializecss.com/), a material design framework.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Material is a [pelican](http://blog.getpelican.com/) theme based on [Materialize](http://materializecss.com/), a material design framework.
 
 Dependencies are managed through [bower](http://bower.io/).
 Once you have bower, you are only one command away to use the theme.
 
 Run this command from the `static` directory:
 
-    bower installtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    bower install
 
 This template uses a cutom filter to sort tags by article count. You need to add this to your config:
 
@@ -26,9 +20,6 @@ JINJA_FILTERS = {
         reverse=True)} # reversed for descending order
 ```
 
-You will probably want to use [pelican-materialbox](https://github.com/greizgh/pelican-materialbox), a pelican plugin to use [materialboxed](http://materializecss.com/media.html#materialbox) from Materialize.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You will probably want to use [pelican-materialbox](https://github.com/greizgh/pelican-materialbox), a pelican plugin to use [materialboxed](http://materializecss.com/media.html#materialbox) from Materialize.
 
 MIT

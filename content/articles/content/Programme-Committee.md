@@ -1,6 +1,7 @@
 title: Programme Committee
-date: 2009-06-29 
-title:   Joint 4M/IWMF Programme Committee
+date: 2009-06-29
+ 
+### Joint 4M/IWMF Programme Committee
 
 Nadja Adamovich, TUWien, Austria 
 

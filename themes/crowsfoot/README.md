@@ -1,17 +1,11 @@
 # crowsfoot
 
 A theme for the [Pelican](http://getpelican.com) static site generator.
-Looks good, puts words on the internet, doesn't do anything fancy.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Looks good, puts words on the internet, doesn't do anything fancy.
 
 `git clone https://github.com/porterjamesj/crowsfoot.git`
 
-Then set the pelican config variable `THEME` to the cloned path.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Then set the pelican config variable `THEME` to the cloned path.
 
 All of your pages and menuitems are dispalyed in the nav.
 
@@ -44,9 +38,6 @@ to `False`
 
 ##Live Demo
 
-[my website](http://jamesporter.me/)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[my website](http://jamesporter.me/)
 
 MIT

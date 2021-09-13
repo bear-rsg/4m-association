@@ -6,10 +6,7 @@ Bootstrap. It is responsive as supported by Twitter Bootstrap, and
 hopefully doesn't give an eyesore on mobile devices.
 It is built atop of existing pelican theme tuxlite-tbs and actually 
 built-texts itself is an anagram for tuxlite-tbs. See it 
-in action at [my blog][1]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+in action at [my blog][1]
 
 Social icons are using the Font-Awesome more project, which at the
 moment supports a lot of social icons like flickr, blogger, lastfm,

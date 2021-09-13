@@ -1,5 +1,5 @@
 title: Gold (Au), Nickel (Ni)
-date: 2009-05-15 
+date: 2009-05-15  
 
 __dimensions:__  	
 layer thickness:	Ni: a few hundred µm; gold: µm

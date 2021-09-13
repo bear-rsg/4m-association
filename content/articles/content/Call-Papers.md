@@ -1,5 +1,5 @@
 title: Call For Papers
-date: 2011-02-03 
+date: 2011-02-03  
 
 Papers are invited that present original research and development in processes and process chains for multi-material nano/micro/meso scale manufacture, in particular but not limited to:
 • Components: fabrication technologies and process chains
@@ -42,3 +42,7 @@ Selected papers will be fast tracked in following journals: ASME Journal of Micr
  1st of Feb 2015  
 
 Download the call for papers by opening attachment below.
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/4M-ICOMM-2015_cfp_v3.pdf">4M-ICOMM-2015_cfp_v3.pdf</a> | 325.01 KB |

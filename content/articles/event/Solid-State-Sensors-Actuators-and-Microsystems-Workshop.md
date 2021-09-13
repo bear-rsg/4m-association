@@ -1,7 +1,7 @@
 title: Solid-State Sensors, Actuators and Microsystems Workshop
 date: 2009-11-17 
-tags: event
-category: event
+tags: home, sensors-actuators
+
 
 ![Transducer Research Foundation](/4m-association/images/trflogo.gif)  
 

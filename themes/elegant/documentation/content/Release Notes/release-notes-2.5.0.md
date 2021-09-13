@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: change-log, project-management
 layout: post
 date: 2019-06-30 12:48
@@ -13,10 +10,7 @@ Category: Release Notes
 
 We plan to add support for other comment providers besides Disqus. This release is first step towards it.
 
-In this release we also resolved an issue in our automated release process. From now onwards, all new releases will happen automatically with minimum human intervention.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+In this release we also resolved an issue in our automated release process. From now onwards, all new releases will happen automatically with minimum human intervention.
 
 ### Features
 

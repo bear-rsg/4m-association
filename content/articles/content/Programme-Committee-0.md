@@ -1,7 +1,7 @@
 title: Scientific Committee
-date: 2018-01-12 
-title:   Scientific Chairs
-
+date: 2018-01-12
+ 
+### Scientific Chairs
 
 Irene Fassi (ITIA-CNR, Italy)
 

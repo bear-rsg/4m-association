@@ -1,8 +1,5 @@
 ---
-author: Pablo Iranzo Gómeztitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+author: Pablo Iranzo Gómez
 tags: pelican, FOSS, travis, ci/cd, elegant, blog, python
 date: 2018-12-11 21:49:47 +0100
 comments: true

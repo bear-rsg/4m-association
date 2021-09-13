@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 authors: Pablo Iranzo Gómez, Talha Mansoor, Matija Šuklje
 Tags: change-log, project-management
 layout: post
@@ -114,10 +111,7 @@ For a full CHANGELOG, see below.
 
 # Full CHANGELOG
 
-Below is the full CHANGELOG:title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Below is the full CHANGELOG:
 
 - Link to your social profiles
 - Upgraded to Twitter Bootstrap 2.3.2

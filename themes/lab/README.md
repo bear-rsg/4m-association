@@ -27,17 +27,11 @@ To add css theme (on your pelicanconf.py) :
         }
     ]
 
-# Task Listtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# Task List
 
 - [x] supporting change CSS theme with a dropdown :
     - [x] 2 differents styles purpose : orange and blue
-    - [x] style keep with a cookie and apply with javascripttitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    - [x] style keep with a cookie and apply with javascript
 
 - [ ] doc
 - Plugin integration
@@ -46,9 +40,6 @@ date: 2021-03-30
     - [ ] 
 - [ ] I18n on all page and all supported plugin :
     - [ ] 404 page
-    - [ ] tipue_searchtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    - [ ] tipue_search
 
 - test on multi-browsers

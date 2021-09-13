@@ -2,10 +2,7 @@
 
 Yapeme (Yet Another PElican theME) is a responsive theme for Pelican.
 
-Contributions are welcome!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Contributions are welcome!
 
 Before installing the theme, make sure you have [Yarn](https://yarnpkg.com/en/) and [Pipenv](https://github.com/pypa/pipenv) installed:
 
@@ -17,10 +14,7 @@ Now you can install all project's dependencies via `install` task:
 
 The `build` task will make some public assets available for Pelican:
 
-    $ make buildtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    $ make build
 
 You need to edit your settings and add the following parameters:
 
@@ -44,10 +38,7 @@ SITESUBTITLE = "A brief subtitle for your site"
 SITEURL = "Base URL of your website"
 SOURCE_CODE_REPOSITORY = "GitHub"
 SOURCE_CODE_URL = "Where the source code of your blog is"
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 This theme uses the following Pelican plugins:
 
@@ -58,10 +49,7 @@ This theme uses the following Pelican plugins:
 
 And a Javascript widget for share buttons:
 
-- [globocom/Share Bar](https://github.com/globocom/share-bar)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [globocom/Share Bar](https://github.com/globocom/share-bar)
 
 You can find our translations inside `translations/` folder. If you want to contribute, please follow the instructions below:
 
@@ -85,9 +73,6 @@ To conclude the translation, we need to compile the language file:
 
     $ pybabel compile -d translations
 
-Don't forget to configure your [Pelican instance properly](http://docs.getpelican.com/en/stable/content.html#translations).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Don't forget to configure your [Pelican instance properly](http://docs.getpelican.com/en/stable/content.html#translations).
 
 ![screenshot](docs/screenshot.png)

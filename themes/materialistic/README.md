@@ -30,10 +30,7 @@ or
 
 while generating content add `-t /some/path/materialistic-pelican` to your command
 
-Refer [this](https://github.com/getpelican/pelican-themes) and [this](http://docs.getpelican.com/en/3.6.3/settings.html#themes) for more information on using themes. title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Refer [this](https://github.com/getpelican/pelican-themes) and [this](http://docs.getpelican.com/en/3.6.3/settings.html#themes) for more information on using themes. 
 
 ### CDN
 

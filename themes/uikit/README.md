@@ -14,18 +14,12 @@ blog](https://blog.inktrap.org). This theme
 
 ![Uikit for pelican Screenshot](./screenshot.png)
 
-# CUSTOMIZATIONtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# CUSTOMIZATION
 
 How to **use a custom favicon**:
  - go to <http://realfavicongenerator.net/> and use this custom path: ``/theme/ico/favicon/``.
  - then unzip the file to ``/themes/uikit/static/ico/favicon/`` (and ``themes`` is wherever you store your themes.)
- - done!title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+ - done!
 
  - change the following values (the default settings are my personal ones):
 
@@ -39,10 +33,7 @@ AUTHOR_REAL = u'Valentin'
 # put an image into uikit/static/img/ and change this
 # variable to the name of the image. The default is author.svg
 AUTHOR_IMAGE = u'author.svg'
-~~~title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+~~~
 
 To use a different uikit-style simply change the ``STYLE`` variable in ``pelicanconf.py``. See the section ``pelicanconf`` below for an example.
 
@@ -61,10 +52,7 @@ uikit.gradient.min.css
 uikit.min.css
 ~~~
 
-Hint: You can just generate the minified files yourself and if you don't want to change the ``STYLE``-setting you only have to download the one you need.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Hint: You can just generate the minified files yourself and if you don't want to change the ``STYLE``-setting you only have to download the one you need.
 
 More specific settings for this theme.
 

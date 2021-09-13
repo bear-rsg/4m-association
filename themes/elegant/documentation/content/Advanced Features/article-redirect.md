@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 author: Pablo Iranzo Gómez
 Tags: redirection
 Category: Advanced Features
@@ -24,10 +21,7 @@ In Elegant we've included a `redirect` slug in the `yaml preamble` that allows t
 The actual code to define a redirection in an article is to include `redirect` in the yaml preamble:
 
 ```yaml
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Slug: article-redirect
 redirect: https://pelican-elegant.github.io/
 ---

@@ -1,7 +1,7 @@
 title: Production Technologies & Equipment for Micro-Manufacturing
 date: 2012-10-09 
-tags: event
-category: event
+tags: home, project, summer-school
+
 
 This Summer School will explore the emerging technologies in this field with theoretical and practical sessions by taking direction from the European [Integ-Micro Project](http://www.integ-micro.eu/), an ambitious initiative that has been able to develop five innovative platforms that redesign the state of the art in the industry.
 <!--break-->
@@ -32,3 +32,9 @@ number of participants is limited.
 **Deadline for Registration** is 6th July 2012.   
   
 For full information download the flyer and programme below. Any questions - contact the organiser [Monica Lucassino.](mailto:m.lucassino@sssup.it)
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/summe_school brochure _01.pdf">summe_school brochure _01.pdf</a> | 2.71 MB |
+|<a href="/4m-association/files/1st European Integ-Micro Summer School - program 01.pdf">1st European Integ-Micro Summer School - program 01.pdf</a> | 204.97 KB |
+	

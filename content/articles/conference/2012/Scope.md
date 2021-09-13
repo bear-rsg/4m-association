@@ -1,7 +1,7 @@
 title: Scope of 4M Conference
 date: 2011-12-09
-category: conference 
-tags: conference
+tags: conference, home
+
 
 Microsystems-based products are a key value-adding element for many sectors of industry - and the predicted nanotechnology future will also be largely delivered by microtechnologies. While the late 20th century saw a silicon-based microelectronics revolution, the 21st century looks forward to the adoption of micro- and nano-manufacturing technologies as the demand for function and length scale integrations increases continuously on the way to bridging the gap between the nano- and the macro-worlds.
 

@@ -1,5 +1,5 @@
 title: Invited Speakers 2018
-date: 2017-03-16 
+date: 2017-03-16  
 
 <img src="http://nserc-hi-am.ca/wp-content/uploads/2017/09/11.jpg" width="100px">
 

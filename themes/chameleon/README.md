@@ -19,20 +19,14 @@ Please check out
 * [YueX.in](http://yuex.in), using [Bootswatch][] [Flatly][], in Chinese.
 * [Screen Shots][], chameleon with different bootswatch theme
 
-# Congfigurationtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# Congfiguration
 
 You can overwrite the default url of boostrap css and js by setting following
 variables. If these variables are not defined, the theme will use the 3.0.0
 version of bootstrap.
 
     BS3_URL = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css'
-    BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    BS3_JS  = 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js'
 
 You can change the default appearance of Bootstrap to any Bootstrap theme you
 like. `BS3_THEME` defines the url of the theme's css file; `BS3_THEME_NAME` and
@@ -43,10 +37,7 @@ See [Screen Shots][] for demos. For more theme to choose from, have a look at
 [Bootswatch][].
 
     # using Bootswatch Flatly
-    BS3_THEME = 'http://bootswatch.com/flatly/bootstrap.min.css'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    BS3_THEME = 'http://bootswatch.com/flatly/bootstrap.min.css'
 
 You can use your own css file for code highlight. If you do not provide this
 value, pelican-chameleon will the default css file, `solarized-light.css`.
@@ -62,10 +53,7 @@ following option in your `pelicanconf.py`
 
 If you want to overwrite the css style of pelican-chameleon iteself, use
 
-    CSS_OVERWRITE = 'url to your css'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    CSS_OVERWRITE = 'url to your css'
 
 Menu items in pelican-chameleon is nestable. `MENUITEMS` are rendered as a top
 navbar. Nested menu items are rendered together as a drop-down button on the
@@ -93,28 +81,19 @@ non-root domain like 'http://stoic.edu/~maurelinus/'.
 **NOTE**: Domains starting with `http://` and `https://`, are generated to
 `<a>` tag with a `target='_blank'` attribute. For links within your site, use
 absolute domain like '/foo/bar/baz', they will be converted to the http style.
-Wish this will help to trap more readers. ;)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Wish this will help to trap more readers. ;)
 
 Put following in your MENUITEMS to have a Google custom search box on top
 navbar. 'Search' is the key, mandatory.
 
     MENUITEMS = [
         ('Search', 'your Google custom search value'),
-        ]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+        ]
 
 To use your favicon, set following option in `pelicanconf.py`
 
     FAVICON = u'url to your favicon'
-    FAVICON_TYPE = u'png or jpeg or whatever'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+    FAVICON_TYPE = u'png or jpeg or whatever'
 You can direct the author link to whichever you want. It's not hard-coded in
 the theme.
 

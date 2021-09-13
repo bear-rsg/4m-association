@@ -1,5 +1,5 @@
 title: Registration & fees
-date: 2011-05-25 
+date: 2011-05-25  
 
 **The Online shop for registering for the 4M2013 Conference is now open!**
 

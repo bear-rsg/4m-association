@@ -1,7 +1,9 @@
 title: September 2018
 date: 2018-08-29 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="100%">
 

@@ -7,10 +7,7 @@ You can see a live demo [here](http://jvanz.github.io/)
 
 ![Screenshot](screenshot.png)
 
-Pull requests are welcometitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Pull requests are welcome
 
 List of Pelican's settings that are supported by this theme. Refer to the
 [Pelican's documentation](https://docs.getpelican.com/en/stable/settings.html)
@@ -41,15 +38,9 @@ By default, the theme uses **Fork Awesome**, which is fetched from
 `cdn.jsdelivr.net`. Fork Awesome is a drop-in replacement for Font Awesome v4,
 but is not compatible with Font Awesome v5 and later, so if you want to use
 Font Awesome v5+, setting `FONT_AWESOME_CSS` is not enough, you will also need
-to modify the templates.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+to modify the templates.
 
 - Original theme by [Mark Otto](https://github.com/mdo): <https://github.com/poole/hyde>
-- Ported to Pelican by [José Guilherme Vanz](https://github.com/jvanz)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- Ported to Pelican by [José Guilherme Vanz](https://github.com/jvanz)
 
 Released under the [MIT license](LICENSE)

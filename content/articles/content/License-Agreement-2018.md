@@ -1,5 +1,5 @@
 title: License Agreement 2018
-date: 2017-11-23 
+date: 2017-11-23  
 
 <!--break-->##License agreement
 
@@ -26,3 +26,7 @@ Mr. Afif Batal<br /> School of Engineering<br  /> University of Birmingham<br />
 
 
 <a href=mailto:bxa361@student.bham.ac.uk>Afif Batal</a>
+
+| Attachment | Size |
+|---|---|
+|<a href="/4m-association/files/WCMNM2018_Copyright License Agreement.docx">WCMNM2018_Copyright License Agreement.docx</a> | 18.76 KB |

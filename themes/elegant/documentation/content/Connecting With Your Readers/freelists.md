@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: marketing, network, subscriber
 Date: 2018-07-05 23:20
 comments: false
@@ -22,22 +19,13 @@ To customize user experience you can also define,
 1. `EMAIL_FIELD_PLACEHOLDER` and
 1. `SUBSCRIBE_BUTTON_TITLE`
 
-The "Notify me" button you see in the sidebar of this page is an example of FreeLists subscription form. It links to Oracle database discussion list to demonstrate the function.title: (.*)
-date: 2021-03-31
+The "Notify me" button you see in the sidebar of this page is an example of FreeLists subscription form. It links to Oracle database discussion list to demonstrate the function.
 
-date: 2021-03-30
-
-Just set `FREELISTS_NAME` variable.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Just set `FREELISTS_NAME` variable.
 
 Unset `FREELISTS_NAME` variable.
 
-This is the default setting.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+This is the default setting.
 
 1. Set `FREELISTS_NAME`
 1. Set `FREELISTS_FILTER` to `True`
@@ -48,10 +36,7 @@ Now to show FreeLists form on selected posts, in article metadata set
 
 ```yaml
 freelists_filter: off
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 1. Set `FREELISTS_NAME`
 1. Remove `FREELISTS_FILTER` or set it to `False` which is its default value

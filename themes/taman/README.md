@@ -2,17 +2,11 @@
 
 Taman is a responsive theme for [Pelican](http://getpelican.com), it is hackish port of Jekyll's [Logom](https://github.com/swanson/lagom) theme. 
 
-The name is synonym of word [Lagom](https://en.wikipedia.org/wiki/Lagom) in Slavic languages.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+The name is synonym of word [Lagom](https://en.wikipedia.org/wiki/Lagom) in Slavic languages.
 
 You can see the [theme in action](http://carambir.in/).
 
-![theme screenshot](https://raw.github.com/karambir/taman/master/screenshot.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![theme screenshot](https://raw.github.com/karambir/taman/master/screenshot.png)
 
 - responsive
 - syntax highlighting for pre blocks
@@ -20,15 +14,9 @@ date: 2021-03-30
 - custom list of links
 - social links with FontAwesome4
 - custom favicon and logo urls
-- no custom menutitle: (.*)
-date: 2021-03-31
+- no custom menu
 
-date: 2021-03-30
-
-Clone the [repository](https://github.com/karambir/taman), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Clone the [repository](https://github.com/karambir/taman), edit your `pelicanconf.py` and modify the `THEME` variable to make it point to the downloaded theme location.
 
 Supports a number of common global variables but patches are welcomed if you need better support.
 
@@ -49,14 +37,8 @@ Supports a number of common global variables but patches are welcomed if you nee
     USER_LOGO_URL = '/logo.png'
     USER_FAVICON_URL = '/favicon.png'
 
-When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`title: (.*)
-date: 2021-03-31
+When developing locally, you may want to set the following variable: `SITEURL = http://localhost:8000`
 
-date: 2021-03-30
-
-Lagom theme is originally authored by [Matt Swanson](https://mdswanson.com/). Theme color is copied from [Daniel Berkompas](http://blog.danielberkompas.com/). I started with [pelican-svbhack](https://github.com/gfidente/pelican-svbhack) as base.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Lagom theme is originally authored by [Matt Swanson](https://mdswanson.com/). Theme color is copied from [Daniel Berkompas](http://blog.danielberkompas.com/). I started with [pelican-svbhack](https://github.com/gfidente/pelican-svbhack) as base.
 
 Released under MIT License, full details in `LICENSE` file.

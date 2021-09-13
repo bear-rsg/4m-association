@@ -1,5 +1,5 @@
 title: Invited Speakers 4M2013
-date: 2013-01-25 
+date: 2013-01-25  
 
 The following speakers have already agreed to address the 4M2013 Conference:
 

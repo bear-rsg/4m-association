@@ -1,7 +1,7 @@
 title: Organising Committee
 date: 2009-02-09 
-category: conference
-tags: conference
+tags: conference, home
+
 
 Heinz Kück, HSG-IMAT, Germany **(Chairman)**  
   

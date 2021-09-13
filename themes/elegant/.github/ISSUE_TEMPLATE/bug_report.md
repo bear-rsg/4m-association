@@ -1,26 +1,14 @@
 ---
 name: Bug report
-about: Create a report to help us improvetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+about: Create a report to help us improve
 labels: bug
 assignees: ""
----title: (.*)
-date: 2021-03-31
+---
 
-date: 2021-03-30
-
-- [ ] I am using latest production release of Eleganttitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [ ] I am using latest production release of Elegant
 
 - [ ] I have attached link to my blog source code repository, so that developers can try to reproduce the issue at the end
-- [ ] I can't my source code but I have linked my pelican configuration files to help developers reproduce the issuetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [ ] I can't my source code but I have linked my pelican configuration files to help developers reproduce the issue
 
 **Describe the bug**
 A clear and concise description of what the bug is.

@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: gulp
 Date: 2019-07-19 23:17
 Slug: live-reload-elegant-documentation-using-gulpjs
@@ -9,10 +6,7 @@ Category: Contributing
 Authors: Talha Mansoor
 ---
 
-Elegant has setup [gulp.js](https://gulpjs.com/) and [BrowserSync](https://www.browsersync.io/) for LiveReload feature to its developers and documentation writers. This is a better alternative to the [Python LiveReload solution that Pelican offers by default]({filename}./live-reload-python.md).title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Elegant has setup [gulp.js](https://gulpjs.com/) and [BrowserSync](https://www.browsersync.io/) for LiveReload feature to its developers and documentation writers. This is a better alternative to the [Python LiveReload solution that Pelican offers by default]({filename}./live-reload-python.md).
 
 You need to run following steps only once, to setup the LiveReload using gulp.
 
@@ -38,10 +32,7 @@ In the root of the Elegant repository, run
 yarn install
 ```
 
-`yarn` will create `node_modules` folder in the root.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+`yarn` will create `node_modules` folder in the root.
 
 Run `gulp` command in the root of the elegant repository.
 
@@ -51,10 +42,7 @@ gulp
 
 It will launch the browser and open the home page. Now when you edit the templates, CSS rules, JavaScript files, Markdown, or reStructuredText files, all opened tabs will automatically reload and reflect the change.
 
-It is set to serve the documentation at <http://localhost:9001>.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+It is set to serve the documentation at <http://localhost:9001>.
 
 BrowserSync supports pretty URLs, which [Python-LiveReload doesn't]({filename}./live-reload-python.md#known-issue).
 
@@ -80,10 +68,7 @@ You can add simple and depth CSS outlines to elements, or overlay CSS grid using
 
 ### Network Throttle
 
-You can test website on a slower network connection. To access open <http://localhost:9002/network-throttle>title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You can test website on a slower network connection. To access open <http://localhost:9002/network-throttle>
 
 We have plans to use gulp.js to utilize tools like
 PostCSS <!-- yaspeller ignore -->
@@ -91,10 +76,7 @@ and
 Autoprefixer <!-- yaspeller ignore -->
 , in future. Currently we use gulp.js to watch for file changes.
 
-Pelican helper scripts does not watch for file changes. BrowserSync only watches the files that it servers, i.e. HTML, CSS and JS files. This means you need an external tool like gulp.js to watch Markdown and Jinja2 files.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Pelican helper scripts does not watch for file changes. BrowserSync only watches the files that it servers, i.e. HTML, CSS and JS files. This means you need an external tool like gulp.js to watch Markdown and Jinja2 files.
 
 No. You shouldn't. Because the alternate is not nice.
 

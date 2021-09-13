@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Subtitle:
 Slug: look-and-feel
 Category: Contributing
@@ -12,10 +9,7 @@ Keywords:
 Authors: Jack De Winter
 ---
 
-[TOC]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[TOC]
 
 Elegant is theme that is largely inspired by the following articles/tweets:
 

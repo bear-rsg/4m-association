@@ -1,5 +1,5 @@
 title: Nickel-Phosphorous (NiP)
-date: 2009-05-15 
+date: 2009-05-15  
 
 __material properties:__  	
 thermal stability up to	600°C  

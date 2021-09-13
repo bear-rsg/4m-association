@@ -1,7 +1,4 @@
-title: Flex 1.1.0
-date: 2021-03-31
 
-date: 2021-03-30
 Modified: 2015-10-07 08:00
 Category: News
 Tags: pelican, python, theme

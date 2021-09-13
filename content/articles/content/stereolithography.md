@@ -1,5 +1,5 @@
 title: stereolithography
-date: 2009-05-12 
+date: 2009-05-12  
 
 Stereolithography is a common rapid manufacturing and rapid prototyping technology for producing parts with high accuracy and good surface finish.
 Stereolithography is an additive fabrication process utilizing a vat of liquid UV-curable photopolymer "resin" and a UV laser to build parts a layer at a time. On each layer, the laser beam traces a part cross-section pattern on the surface of the liquid resin. Exposure to the UV laser light cures, or, solidifies the pattern traced on the resin and adheres it to the layer below.

@@ -1,7 +1,4 @@
-# pelican-soratitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+# pelican-sora
 pelican-sora is a [pelican][pelican] theme
 based on [pelican-elegant][pelican-elegant] theme and [PureCSS][purecss].
 
@@ -11,10 +8,7 @@ based on [pelican-elegant][pelican-elegant] theme and [PureCSS][purecss].
   * Support search (Using [Tipue Search][tipue])
   * Live filter for Tags
   * Custom 404 Page
-  * etc...title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+  * etc...
 * [LiveDemo](http://static-blog-sample.libsora.so/)
 * [OxAA.so](http://0xaa.so/)
 
@@ -24,10 +18,7 @@ date: 2021-03-30
 
 ![index-desktop](https://raw.github.com/if1live/pelican-sora/master/document/index-desktop.png)
 
-![index-mobile](https://raw.github.com/if1live/pelican-sora/master/document/index-mobile.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![index-mobile](https://raw.github.com/if1live/pelican-sora/master/document/index-mobile.png)
 
 [Look my configure.](https://github.com/static-blog-sample/blog/blob/master/pelicanconf.py)
 
@@ -65,10 +56,7 @@ SITE_DESCRIPTION = u'libsora.so'
 SITESUBTITLE = ''
 SITE_LICENSE = ''
 RECENT_ARTICLES_COUNT = 10
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 ### Dependency
 * [LESS](http://lesscss.org)
 * [BeautifulSoup4](https://pypi.python.org/pypi/beautifulsoup4)

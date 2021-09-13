@@ -1,5 +1,6 @@
 title: Job Opportunity - Development Engineer
-date: 2010-03-02 
+date: 2010-03-02  
+tags: vacancies
 
 <!--break-->
 **IMT Masken und Teilungen AG**, is a leading international company in the field of microstructures and micro-lithographic solutions on or in glass. Our highly qualified staff carry out all processes in-house. Our solutions stand out in terms of high-level precision and attractive price-performance ratios. Our products are used worldwide and are applied in optics, medical technology, measurement technology, research and space, as well as in automation and defence technology.  

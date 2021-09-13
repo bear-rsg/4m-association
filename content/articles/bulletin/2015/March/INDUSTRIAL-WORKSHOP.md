@@ -1,7 +1,9 @@
 title: INDUSTRIAL WORKSHOP  30. March 2015    (Milano, Italy)
 date: 2015-03-06 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 **INDUSTRIAL WORKSHOP Higher Value production technologies and KET enabled applications**
 

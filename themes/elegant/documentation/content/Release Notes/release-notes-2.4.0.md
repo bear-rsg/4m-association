@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: change-log, project-management
 layout: post
 date: 2019-06-30 10:54
@@ -13,10 +10,7 @@ Category: Release Notes
 
 We focused on making changes in the footer of the site. This release is our first step towards using modern CSS properties like flexbox and grid for layout. <!-- yaspeller ignore -->
 
-We have also automated the release process. This is the first of many release that is published by the release bot.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+We have also automated the release process. This is the first of many release that is published by the release bot.
 
 ### Features
 

@@ -1,5 +1,5 @@
 title: The Social Programme & Gala Dinner
-date: 2017-03-16 
+date: 2017-03-16  
 
 <h2>Cocktail Reception</h2>
 

@@ -1,8 +1,5 @@
 ---
-Authors: Talha Mansoor, Jack De Wintertitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Authors: Talha Mansoor, Jack De Winter
 Tags: unique
 Date: 2019-07-03 20:07
 Slug: custom-404-page
@@ -16,10 +13,7 @@ page that allows the user to search for the page that they were trying to reach.
 
 Here is an example of what the 404 page may look like:
 
-![Error 404 page]({static}/images/elegant-theme_error-404-page.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Error 404 page]({static}/images/elegant-theme_error-404-page.png)
 
 To enable the custom 404 page, you need to add `404` to `DIRECT_TEMPLATES` in your pelican
 configuration.

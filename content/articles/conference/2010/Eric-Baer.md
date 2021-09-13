@@ -1,7 +1,7 @@
 title: Eric Baer
 date: 2010-02-09
-category: conference
-tags: conference
+tags: conference, home
+
 
 ![Eric Baer](/4m-association/images/presentation1.jpg)Eric Baer is the Leonard Case Jr. Professor in the Dept. of Macromolecular Science and Engineering and Director of the Center for Layered Polymeric Systems (CliPS)  NSF Science and Technology Center at Case Western Reserve University.
 

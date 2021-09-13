@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-plugin, navigation, web-design
 Category: Supported Plugins
 Date: 2014-04-20 18:18
@@ -28,10 +25,7 @@ presented as links to their respective articles.
 
 Here is an example of what the Series section may look like:
 
-![series example in the sidebar]({static}/images/elegant-theme_multi-part-sidebar.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![series example in the sidebar]({static}/images/elegant-theme_multi-part-sidebar.png)
 
 To enable the reading time for your articles, you need to add `series` to the `PLUGINS`
 configuration variable in your Pelican configuration.
@@ -45,10 +39,7 @@ the Series section, regardless of the series.
 
 ```python
 SERIES_TITLE = "More In This Series"
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 Once the configuration for Series is enabled in the configuration file, using this feature for
 a given set of articles requires that the article contains the `series`

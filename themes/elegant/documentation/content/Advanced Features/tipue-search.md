@@ -1,8 +1,5 @@
 ---
-Authors: Talha Mansoor, Jack De Wintertitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Authors: Talha Mansoor, Jack De Winter
 Tags: unique
 Date: 2019-07-03 19:56
 Slug: add-tipue-search
@@ -21,10 +18,7 @@ Here is an example of what the search result may look like:
 We have located the search box on the top right of the main navigation menu to allow
 visitors to search from any page.
 
-![Search box]({static}/images/elegant-theme_search-box.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![Search box]({static}/images/elegant-theme_search-box.png)
 
 To enable search, you need to enable the `tipue_search` plugin and add `search` to
 `DIRECT_TEMPLATES` in your pelican configuration.

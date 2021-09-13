@@ -1,21 +1,23 @@
 title: March'09 Bulletin
 date: 2009-03-31 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 <!--break-->
 ### Ceramics/Sensors & Actuators Workshop
 
-A joint workshop between 4M Ceramic and Sensor & Actuators divisions will be held in Goteborg on <strong>11th March.</strong>   This event is three fairs in one and the topics are Polymers (Scanplast), Design (Konstruktion och Design) and Electronics (Electronix). For full information see [the event page.](/4m-association/node/55)
+A joint workshop between 4M Ceramic and Sensor & Actuators divisions will be held in Goteborg on <strong>11th March.</strong>   This event is three fairs in one and the topics are Polymers (Scanplast), Design (Konstruktion och Design) and Electronics (Electronix). For full information see [the event page.](/4m-association/node/55/55.html)
 
 ### 4M/ICOMM 2009
 
 Thank you to all those who have submitted papers for 4M/ICOMM 2009. We received almost 100 papers and the review process starts today. Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information. We are pleased to announce that our list of invited speakers is now complete:  
 
-[Prof. Ian Hutchings](/4m-association/node/76) - <i>Cambridge University, UK</i> -  Opportunities and limitations of inkjet printing in micro-manufacturing    
-[Dr Sylvain Ballandras](/4m-association/node/72) - <i>FEMTO-ST, CNRS, France</i> - Single-crystal based composite wafers for high quality passive RF microdevices  
-[Prof. Roland Zengerle](/4m-association/node/71) - <i>IMTEK, University of Freiburg, Germany</i> - Microfluidic Platforms for Miniaturization, Integration and Automation of Biochemical Assays  
-[Prof. Shiv G. Kapoor](/4m-association/node/73) - <i>University of Illinois, USA</i> - CNT- Composites for the Micro-World - Design for Functionality and Manufacturabilty  
+[Prof. Ian Hutchings](/4m-association/node/76/76.html) - <i>Cambridge University, UK</i> -  Opportunities and limitations of inkjet printing in micro-manufacturing    
+[Dr Sylvain Ballandras](/4m-association/node/72/72.html) - <i>FEMTO-ST, CNRS, France</i> - Single-crystal based composite wafers for high quality passive RF microdevices  
+[Prof. Roland Zengerle](/4m-association/node/71/71.html) - <i>IMTEK, University of Freiburg, Germany</i> - Microfluidic Platforms for Miniaturization, Integration and Automation of Biochemical Assays  
+[Prof. Shiv G. Kapoor](/4m-association/node/73/73.html) - <i>University of Illinois, USA</i> - CNT- Composites for the Micro-World - Design for Functionality and Manufacturabilty  
 [Prof. Mustafizur Rahman](/4m-association/conference/2009/Speakers/Mustafizur-Rahman) - <i>National University of Singapore</i> - Tool-based compound micro/nano machining  
 [Prof. Dave Blank](/4m-association/conference/2009/Speakers/DaveBlank) - <i>MESA+, Institute for nanotechnology</i> - Perspectives in Micro and Nanofabrication of new functional materials  
 

@@ -1,7 +1,7 @@
 title: MULTILAYER Workshop
 date: 2009-12-07 
-tags: event, multilayer
-category: event
+tags: multilayer, home
+
 
 <!--break-->
 **Workshop on Automation process integration, control and inspection issues for ceramic 3D structuring**  

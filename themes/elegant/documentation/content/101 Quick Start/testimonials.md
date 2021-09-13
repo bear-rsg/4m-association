@@ -1,11 +1,5 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
-Subtitle: See What People Say About Elegant
-date: 2021-03-31
-
-date: 2021-03-30
+---
+Sub
 Tags: pelican-theme, testimonials
 Category: 101 — Quick Start
 Date: 2014-06-01 23:45

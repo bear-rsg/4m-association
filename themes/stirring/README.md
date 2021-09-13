@@ -4,18 +4,12 @@ Stirring is a theme for Pelican, it's inspired by the Pelican's theme [Medius](h
 
 Check out live demo for the Stirring theme [here](https://hansliu.com/pelican-stirring/demo).
 
-[![screenshot](/screenshot.png)](https://hansliu.com/pelican-stirring/demo)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[![screenshot](/screenshot.png)](https://hansliu.com/pelican-stirring/demo)
 
 - [Features](#features)
 - [Settings](#settings)
 - [Contributing](#contributing)
-- [License](#license)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [License](#license)
 
 **General features:**
 
@@ -47,10 +41,7 @@ date: 2021-03-30
 - [Font Awesome 5](https://fontawesome.com/)
 - [jQuery 3.5.1](https://github.com/jquery/jquery)
 - [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup)
-- [Lazy Load](https://github.com/tuupola/lazyload)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [Lazy Load](https://github.com/tuupola/lazyload)
 
 ### Built-in Global Variables
 
@@ -112,24 +103,15 @@ DISPLAY_FEEDS_ON_MENU = True
 
 The post support the `cover` and `cover_caption` metadata, use for display article in various places. Example metadata used in the post:
 
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 category: Demo
 date: 2020-09-13
 cover: https://hansliu.com/theme/images/cover.png
 cover_caption: Image by Author
 ```
 
-*NOTE: you don't need put cover image into article again.*title: (.*)
-date: 2021-03-31
+*NOTE: you don't need put cover image into article again.*
 
-date: 2021-03-30
-
-All kinds of contributions (enhancements, features, documentation & code improvements, bugs reporting) are welcome.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+All kinds of contributions (enhancements, features, documentation & code improvements, bugs reporting) are welcome.
 
 pelican-temp is released under the terms of the [GNU General Public License v3.0](https://github.com/hansliu/pelican-stirring/blob/master/LICENSE)

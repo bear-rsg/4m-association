@@ -1,7 +1,7 @@
 title: ICOMM 2014 - 9th International Conference on Micromanufacturing
 date: 2014-07-30 
-tags: event
-category: event
+tags: home
+
 
 ### March 26 - 28, 2014, Singapore
 

@@ -1,9 +1,6 @@
 # Pelican-Blue
 
-Responsive theme for [Pelican](http://blog.getpelican.com/) Static Site Generator, Powered by [Python](https://www.python.org/) Programming language.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+Responsive theme for [Pelican](http://blog.getpelican.com/) Static Site Generator, Powered by [Python](https://www.python.org/) Programming language.
 
 You can see the theme in action at https://parbhatpuri.com
 
@@ -13,10 +10,7 @@ You can see the theme in action at https://parbhatpuri.com
 
 ![homepage-web](screenshot-web.png)
 
-![article](screenshot-article.png)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+![article](screenshot-article.png)
 
 * Responsive (Mobile Friendly Test on [Google](https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fparbhatpuri.com%2F))
 * Fast (Load time tested on [Pingdom](http://tools.pingdom.com/fpt/#!/bT0Pry/https://parbhatpuri.com/): 540ms)
@@ -24,10 +18,7 @@ date: 2021-03-30
 * [Disqus](https://disqus.com/) for Comments
 * Google Analytics
 * RSS/ATOM feeds
-* Easy to installtitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Easy to install
 
 You can install Pelican-Blue theme to your earlier Pelican project or create a new project from the Pelican [Quickstart](http://docs.getpelican.com/en/3.6.3/quickstart.html) guide.
 
@@ -64,10 +55,7 @@ SOCIAL = (('linkedin', 'https://www.linkedin.com/in/username'),
 make devserver
 ```
 
-**Note:** If you are new to Pelican Static Site Generator, you can read the Pelican [Docs](http://docs.getpelican.com/en/3.6.3/) to learn the working of Pelican. You can also customize the theme after reading the documentation.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+**Note:** If you are new to Pelican Static Site Generator, you can read the Pelican [Docs](http://docs.getpelican.com/en/3.6.3/) to learn the working of Pelican. You can also customize the theme after reading the documentation.
 
 ### pelicanconf.py
 
@@ -106,9 +94,6 @@ DISQUS_SITENAME = ""
 GOOGLE_ANALYTICS = ""
 ```
 
-For more information on publishing your site, read the publishing [docs](http://docs.getpelican.com/en/3.6.3/publish.html)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+For more information on publishing your site, read the publishing [docs](http://docs.getpelican.com/en/3.6.3/publish.html)
 
 Your contributions are welcome to improve the `pelican-blue` theme.

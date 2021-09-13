@@ -1,9 +1,9 @@
 title: History of the 4M Conference Series 
 date: 2011-12-09 
-category: conference
-tags: conference
+tags: conference, home
 
-This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/4m-association/node/1). 
+
+This series of conferences on multi-material micro-manufacture is organised by the [4M Association](/4m-association/node/1/1.html). 
 
 
 ![4M2006 attendees](/4m-association/images/060920_092cropped_edit.jpg)

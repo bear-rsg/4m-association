@@ -1,5 +1,5 @@
 title: Nanoimprinting could lower solar cell manufacturing costs 
-date: 2009-11-02 
+date: 2009-11-02  
 
 <!--break-->
 Many researchers are investigating the development of flexible solar cells in the hope of improving efficiency and lowering manufacturing costs.

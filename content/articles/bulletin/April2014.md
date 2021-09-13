@@ -1,14 +1,16 @@
 title: April '14
 date: 2014-04-24 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 Join 4M!, IAQSense, IT2014, Precision Engineering Conference, DTU Summer School, Nanomanufacturing Conference, Electronics Conference, Call for Papers - Microfactories, Microfluidic Conference, Call for Papers - Nanoscale, FSRM Training
 <!--break-->
 ### REMINDER: Renew your 4M Membership for 2014
 
 ![joinus](/4m-association/images/joinus.jpg)
-If you would like to renew your annual membership, or join the 4M Association as a new member, please contact the [Secretariat](mailto:natalie.withenshaw@ctechinnovation.com) for more information. Benefits of membership include reduced conference fees, networking opportunities, access to 4M research infrastructure and knowledge and much more. Membership is annual and runs from January to December. [Join us today!>>](/4m-association/join4m)
+If you would like to renew your annual membership, or join the 4M Association as a new member, please contact the [Secretariat](mailto:natalie.withenshaw@ctechinnovation.com) for more information. Benefits of membership include reduced conference fees, networking opportunities, access to 4M research infrastructure and knowledge and much more. Membership is annual and runs from January to December. [Join us today!>>](/4m-association/join4m.html)
 
 ### NEW European Project Launch - IAQSense
 

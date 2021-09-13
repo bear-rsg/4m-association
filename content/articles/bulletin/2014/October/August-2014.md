@@ -1,7 +1,9 @@
 title: August 2014
 date: 2014-10-10 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 ###  Update - 4M/ICOMM 2015
 

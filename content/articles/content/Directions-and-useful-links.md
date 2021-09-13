@@ -1,7 +1,5 @@
 title: Directions and useful links
-date: 2015-03-25 
-
- 
+date: 2015-03-25  
 
 To know more about **Milan Underground** lines, click [here>>](http://www.atm.it/en/viaggiaconnoi/pages/schemaretemetro.aspx) 
 

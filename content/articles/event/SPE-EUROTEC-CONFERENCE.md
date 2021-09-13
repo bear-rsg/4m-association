@@ -1,7 +1,7 @@
 title: SPE Eurotec Conference 
 date: 2010-03-04 
-tags: event
-category: event
+tags: home, polymer-processing, conferences
+
 
 The Society of Plastics Engineers (SPE) invites you to present a paper at its inaugural EUROTEC technical conference in Barcelona, Spain. This 3-day event is designed to attract several hundred industry professionals who are interested in learning about the latest global developments.
 <!--break-->

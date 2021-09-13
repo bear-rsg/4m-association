@@ -1,7 +1,4 @@
-title: Graymill - A minimal Pelican theme.  
-date: 2021-03-31
 
-date: 2021-03-30
   
 Graymill is a minimal, responsive theme for the [Pelican](http://blog.getpelican.com/) static site generator. It is based on the [Milligram CSS framework](http://milligram.io/).  
 
@@ -15,10 +12,7 @@ See the theme in action at [muchBits](https://muchbits.com)
 * Easy to install
 * Minimal/No Javascript (JS is only used in case Google Analytics is enabled).
 * Google Analytics Support
-* Responsive (Mobile Friendly Test on [Google](https://search.google.com/test/mobile-friendly?utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect&id=TT7gCU77TVUWMMbu4pmHsg))title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+* Responsive (Mobile Friendly Test on [Google](https://search.google.com/test/mobile-friendly?utm_source=mft&utm_medium=redirect&utm_campaign=mft-redirect&id=TT7gCU77TVUWMMbu4pmHsg))
 
 * Clone the repository:
 ```python
@@ -27,10 +21,7 @@ git clone https://github.com/rn4ir/graymill.git
 * Create a `THEME` variable in your `pelicanconf.py` file and set its value to the location of ***graymill*** theme, like so:
 ```python
 THEME = 'path/to/graymill'
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 (*Please refer to the sample pelicanconf.py contained in this repo for examples*)  
   

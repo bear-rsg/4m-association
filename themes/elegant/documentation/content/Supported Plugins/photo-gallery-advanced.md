@@ -1,7 +1,4 @@
----title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+---
 Tags: pelican-theme, pelican-plugin, photo gallery
 Category: Supported Plugins
 Date: 2019-06-09 10:49
@@ -12,10 +9,7 @@ Keywords: photos, gallery, photogallery
 Authors: Talha Mansoor, Jack De Winter
 ---
 
-[TOC]title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+[TOC]
 
 This article continues the documentation of the Photo Gallery configuration documented in the
 article [Creating a Photo Gallery Article]({filename}./photogallery.md).
@@ -25,10 +19,7 @@ variable and a metadata field per article), enabling some of the more advanced f
 requires a little more effort. This effort will allow for the inclusion of single gallery
 photos into articles and the fine tuning of the image transformations used to render the
 photos for the photo galleries and articles. Together these changes will give you the power
-to customize your photo gallery to your requirements.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+to customize your photo gallery to your requirements.
 
 Prior to including single gallery photos in articles, the `PHOTO_LIBRARY` configuration
 variable must first be set to the full path of the directory containing all of the galleries.
@@ -67,10 +58,7 @@ article, add the following text to the article:
 
 In addition, using the prefix `{lightbox}` instead of `{photo}` will cause the thumbnail of the
 photo to be displayed in the article. Clicking on the thumbnail will bring up the full sized
-image from the photo gallery, similar to how it was displayed in the photo gallery.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+image from the photo gallery, similar to how it was displayed in the photo gallery.
 
 There is a small amount of configuration that is available to modify how a single photo is
 displayed in the galleries. These modifications include specifying captions for one or more
@@ -109,10 +97,7 @@ display it as part of the gallery, the `blacklist.txt` file would look like this
 
 ```text
 this-file-will-be-skipped.jpg
-```title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+```
 
 To reduce the need to reprocess images to fit into the gallery, article, and thumbnail sizes,
 the `Photo` plugin only processes images if the output file is not already present in the
@@ -122,10 +107,7 @@ the `photos` directory from the Pelican output.
 
 As both of the following sections change configuration variables that affect how the images
 are processed, this note on caching applies to any changes of configuration variables
-specified in the following sections.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+specified in the following sections.
 
 The definitive list of the values and their defaults is located on the
 [Photos Plugins](https://github.com/getpelican/pelican-plugins/blob/master/photos/README.md)

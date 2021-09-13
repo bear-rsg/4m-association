@@ -1,7 +1,9 @@
 title: February '13
 date: 2014-04-07 
-category: bulletin
-tags: bulletin
+tags: bulletin, home
+
+
+![4m bulletin](/4m-association/images/4mbulletin168.png)
 
 4M2013 Call for papers, 4M2012 Proceedings, Elena Ulieru, Nanostructures, Nanoimprinting, DTU, Papertab, FSRM Training
 <!--break-->

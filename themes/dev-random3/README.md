@@ -9,10 +9,7 @@ It contains templates for :
 - author
 - category
 - tag
-- languagetitle: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- language
 
 It has also a simple 404 error page. In order to use it, you have to add '404' in your direct templates conf
 
@@ -22,10 +19,7 @@ Then in nginx :
 
 *error_page 404 /404.html*
 
-I don't know for others like Apache, but it should be easy to find. Please write to me and I will add the thing.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+I don't know for others like Apache, but it should be easy to find. Please write to me and I will add the thing.
 
 I refactored the sidebar. If you want to move up or down the widget pieces, you just have to move up and down each piece of three code line in the sidebar.html template.
 
@@ -33,19 +27,13 @@ I refactored the sidebar. If you want to move up or down the widget pieces, you 
 {% include "sidebar.d/categories.html" %}  
 {% endif %}  
 
-You can also move the tag cloud.title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+You can also move the tag cloud.
 
 I placed a links widget. In order to use it, you have to include it in your conf like :
 
 LINKS =  (('http://www.22decembre.eu','photos de 22decembre'),   
 	...  
-	('url','linkname'),)  title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+	('url','linkname'),)  
 
 If you have a cacert enabled website, and want to show it to visitors, let them come with https or not, you can just placed
 
@@ -55,10 +43,7 @@ in your pelicanconf.
 
 You need also (currently) BAREURL, which show your bare url, without the http. In my case, it gives
 
-BAREURL = 'www.22decembre.eu'title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+BAREURL = 'www.22decembre.eu'
 
 This theme was specially customized for use with the [lang-category](https://github.com/CNBorn/pelican-langcategory) plugin, which I ask just a bit for and worked a bit with the dev' on.
 
@@ -76,9 +61,6 @@ LANGUAGE_SAVE_AS = '{lang}/index.html'
 PAGE_URL = "{lang}/{slug}.html"  
 PAGE_SAVE_AS = "{lang}/{slug}.html"  
 PAGE_LANG_URL = "{lang}/{slug}.html"  
-PAGE_LANG_SAVE_AS = "{lang}/{slug}.html"  title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+PAGE_LANG_SAVE_AS = "{lang}/{slug}.html"  
 
 The best demo is the author's website : [www.22decembre.eu](http://www.22decembre.eu)

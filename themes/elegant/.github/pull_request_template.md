@@ -4,16 +4,10 @@
 
 <!--
     Thank you very much for contributing to Pelican-Elegant! ❤️
--->title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+-->
 
 - [ ] My Pull Request is filled against the `next` branch
-- [ ] All commits in my Pull Request conform to [Elegant Git commit Guidelines](https://elegant.oncrashreboot.com/git-commit-guidelines)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [ ] All commits in my Pull Request conform to [Elegant Git commit Guidelines](https://elegant.oncrashreboot.com/git-commit-guidelines)
 
 <!---
     These are not mandatory and will NOT negatively effect our patch review process.
@@ -22,9 +16,6 @@ date: 2021-03-30
 
 - [ ] My patch adds a new feature, therefore I have also added a help article about it
 - [ ] My patch changes Elegant behavior, therefore I have updated the help article to reflect this change
-- [ ] My commits are [signed](https://help.github.com/en/articles/signing-commits)title: (.*)
-date: 2021-03-31
-
-date: 2021-03-30
+- [ ] My commits are [signed](https://help.github.com/en/articles/signing-commits)
 
 <!--- Provide a general summary of the patch here -->

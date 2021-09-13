@@ -1,5 +1,5 @@
 title: Ceramics Processing in Microtechnology
-date: 2009-06-02 
+date: 2009-06-02  
 
 ### Dr. H.-J. Ritzhaupt-Kleissl and Assoc. Professor Per Johander
 

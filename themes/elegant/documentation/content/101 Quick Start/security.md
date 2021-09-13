@@ -1,7 +1,4 @@
-title: Elegant Is Safe
-date: 2021-03-31
 
-date: 2021-03-30
 Tags: security,
 Category: 101 — Quick Start
 Date: 2019-12-02 11:45
