@@ -17,10 +17,11 @@ CURRENT_YEAR = time.strftime("%Y")
 # Appearance
 THEME = './active-theme/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
+# BOOTSTRAP_FLUID = True
 
 CUSTOM_CSS = 'css/custom.css'
 
-PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy']
+PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy', 'jinja2content']
 
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
@@ -54,6 +55,7 @@ YEAR_ARCHIVE_SAVE_AS = ''
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 SLUGIFY_SOURCE = 'basename'
+PAGE_ORDER_BY = 'reversed-date'
 # INDEX_SAVE_AS = 'index.html'
 
 ARTICLE_SAVE_AS = '{path}/{slug}.html'
@@ -61,7 +63,7 @@ ARTICLE_URL = '{path}/{slug}.html'
 ARTICLE_ORDER_BY = 'reversed-date'
 ARTICLE_TRANSLATION_ID = None
 
-# The URL to refer to an article draft.
+# The URL to refer to an article draft
 DRAFT_URL = '{path}/drafts/{slug}/'
 DRAFT_SAVE_AS = '{path}/drafts/{slug}/index.html'
 
@@ -72,12 +74,15 @@ CACHE_CONTENT = False
 # Allow Markdown in the summary and title
 FORMATTED_FIELDS = ['summary', 'title']
 
-USE_PAGER = True # Prev / Next vs Page no block
+USE_PAGER = True  # Prev / Next vs Page no block
 ARTICLE_EXCLUDES = ['templates']
 TEMPLATE_PAGES = {
+    'templates/homepage.html': 'index.html',
     'templates/bulletin.html': 'bulletin/index.html',
+    'templates/conference-series.html': 'conference/index.html',
+
 }
-DIRECT_TEMPLATES = ['index', 'bulletin', 'archives']
+DIRECT_TEMPLATES = ['index', 'bulletin', 'conference-series', 'archives']
 
 # THEME_TEMPLATES_OVERRIDES = ['templates']
 
@@ -151,6 +156,7 @@ MARKDOWN = {
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
+
 MENUITEMS = (
     ('Home', '/4m-association/index.html'),
     ('About', '/4m-association/about.html'),
@@ -158,7 +164,7 @@ MENUITEMS = (
     ('Projects', '/4m-association/projects.html'),
     ('Join 4M', '/4m-association/join4m.html'),
     ('Bulletin', '/4m-association/bulletin/index.html'),
-    ('4M Conference Series', '/4m-association/conference/index/conference-index.html'),
+    ('4M Conference Series', '/4m-association/conference/index.html'),
     ('Expert Workshop FOCUS', '/4m-association/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
 )
 
