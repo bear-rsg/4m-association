@@ -24,10 +24,10 @@ CUSTOM_CSS = 'css/custom.css'
 PLUGINS = ['assets', 'sitemap', 'pelican-page-hierarchy', 'jinja2content']
 
 JINJA_ENVIRONMENT = {
-    'extensions': ['jinja2.ext.i18n'],
+#    'extensions': ['jinja2.ext.i18n'],
 }
 PLUGIN_PATHS = ['./pelican-plugins/']
-I18N_TEMPLATES_LANG = 'en'
+# I18N_TEMPLATES_LANG = 'en'
 
 USE_FOLDER_AS_CATEGORY = True
 
