@@ -20,13 +20,10 @@ jobs:
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
-      - name: Display site settings
-        run: |
-          pelican --print-settings
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py --debug
-      - name: Compile output
+      - name: Print contents of output dir
         run: |
-          pelican ghp-import output
+          echo "ls RUNNER_TEMP/output"
       - run: echo "🍏 This job's status is ${{ job.status }}."
