@@ -20,6 +20,9 @@ jobs:
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
+      - name: Display site settings
+        run: |
+          pelican --print-settings
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py --debug
