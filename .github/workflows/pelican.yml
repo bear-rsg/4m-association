@@ -16,10 +16,14 @@ jobs:
           python -m pip install "pelican[markdown]"
           python -m pip install webassets
           python -m pip install --upgrade jinja2
+          python -m pip install ghp-import==0.2.2
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py --debug
+      - name: Compile output
+          run: |
+            pelican ghp-import output
       - run: echo "🍏 This job's status is ${{ job.status }}."
