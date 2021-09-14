@@ -25,5 +25,5 @@ jobs:
           pelican content -o output -s pelicanconf.py --debug
       - name: Print contents of output dir
         run: |
-          ls $RUNNER_TEMP/output
+          ls output
       - run: echo "🍏 This job's status is ${{ job.status }}."
