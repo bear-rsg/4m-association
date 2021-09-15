@@ -22,7 +22,7 @@ jobs:
           git clone --recursive https://github.com/getpelican/pelican-plugins
       - name: Build site
         run: |
-          pelican content -o output -s pelicanconf.py --debug
+          pelican content -o output -s pelicanconf.py
       - name: Print contents of output dir
         run: |
           ls output
