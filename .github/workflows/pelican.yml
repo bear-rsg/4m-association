@@ -17,16 +17,15 @@ jobs:
           python -m pip install webassets
           python -m pip install --upgrade jinja2
           python -m pip install ghp-import==0.2.2
-          python -m pip install i18n_subsites
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py
-      - name: Print contents of output dir
+      - name: Print contents of pelican-plugins dir
         run: |
-          ls output
+          ls pelican-plugins
       - name: Copy output dir contents to gh-pages  # will be in a separate repo in final version
         uses: s0/git-publish-subdir-action@develop
         env:
