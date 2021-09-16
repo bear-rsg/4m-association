@@ -20,6 +20,7 @@ jobs:
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
+          cd pelican-plugins && mv i18n_subsites ../ && mv sitemap ../ && mv assets ../ && mv pelican-page-hierarchy ../ && mv jinja2content ../ && rm -rf . && mv ../i18n_subsites . && mv ../sitemap . && mv ../assets . && mv ../pelican-page-hierarchy . && mv ../jinja2content .
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py
