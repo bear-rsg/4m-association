@@ -1,5 +1,6 @@
 #Custom
 output
+pelican-plugins
 pelicanconf_local.py
 
 #Python
