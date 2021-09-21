@@ -1,6 +1,5 @@
 title: WCMNM 2019
-date: 2019-02-26 
-
+date: 2019-02-26
 tags: conference
 slug: conference-WCMNM2019
 

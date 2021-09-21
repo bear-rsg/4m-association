@@ -1,7 +1,6 @@
 title: 4M 2012 Conference
-date: 2012-03-01 
+date: 2012-03-01
 tags: 4m-conference-series, conference, home
-
 slug: conference-2012-index
 
 ![Vienna, Austria](/4m-association/images/wien_stephansdom_karlskirche.jpg)

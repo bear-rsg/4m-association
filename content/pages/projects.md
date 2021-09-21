@@ -1,7 +1,6 @@
 title: COTECH
 date: 2010-01-12
 tags: projects
-
 slug: projects
 
 ![cotech logo](/4m-association/images/cotech-logo.png)

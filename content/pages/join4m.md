@@ -1,5 +1,5 @@
 title: Join the 4M Association
-date: 2018-11-22 
+date: 2018-11-22
 slug: join4m
 
 ### MEMBERSHIP LEVELS
