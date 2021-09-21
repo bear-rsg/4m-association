@@ -1,7 +1,6 @@
 title: Interest Groups
 date: 2021-03-31
 tags: interest-group
-
 slug: interest-groups
 
 ### [Polymer Processing](/4m-association/node/15/15.html)

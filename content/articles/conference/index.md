@@ -1,6 +1,5 @@
 title:  4M Conference Series
 date: 2020-01-31
-
 tags: conference
 slug: conference-index
 

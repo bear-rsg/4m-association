@@ -1,6 +1,5 @@
 title: WCMNM2020
-date: 2019-10-24 
-
+date: 2019-10-24
 tags: conference, home
 slug: conference-WCMNM2020
 

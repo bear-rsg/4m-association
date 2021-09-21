@@ -77,12 +77,11 @@ FORMATTED_FIELDS = ['summary', 'title']
 USE_PAGER = True  # Prev / Next vs Page no block
 ARTICLE_EXCLUDES = ['templates']
 TEMPLATE_PAGES = {
-    'templates/homepage.html': 'index.html',
     'templates/bulletin.html': 'bulletin/index.html',
     'templates/conference-series.html': 'conference/index.html',
 
 }
-DIRECT_TEMPLATES = ['index', 'bulletin', 'conference-series', 'archives']
+DIRECT_TEMPLATES = ['index']
 
 # THEME_TEMPLATES_OVERRIDES = ['templates']
 
@@ -118,9 +117,9 @@ STATIC_PATHS = [
 ]
 
 EXTRA_PATH_METADATA = {
-     # 'extra/css/custom.css': {'path': 'custom.css'},
-     'extra/favicon.ico': {'path': 'favicon.ico'},
-     # 'extra/robots.txt': {'path': 'robots.txt'},
+    # 'extra/css/custom.css': {'path': 'custom.css'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    # 'extra/robots.txt': {'path': 'robots.txt'},
 }
 IGNORE_FILES = ['.#*', 'README.md']
 
@@ -129,8 +128,9 @@ DEFAULT_PAGINATION = 10
 # Leave no orphans
 DEFAULT_ORPHANS = 0
 
-PAGINATED_TEMPLATES = {'index': None, 'archives': None}
+PAGINATED_TEMPLATES = {'index': 10 }
 
+USE_PAGER = True
 
 # URL settings
 SLUGIFY_SOURCE = 'basename'
