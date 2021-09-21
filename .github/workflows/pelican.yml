@@ -23,7 +23,7 @@ jobs:
       - name: Build site
         run: |
           pelican content -o output -s pelicanconf.py
-      - name: Print contents of pelican-plugins dir
+      - name: Print contents of the pelican-plugins dir
         run: |
           ls pelican-plugins
       - name: Copy output dir contents to gh-pages
