@@ -1,5 +1,5 @@
 title: Welcome to the 4M Association
-date: 2009-03-04 
+date: 2009-03-04
 slug: welcome
 
 Welcome to the homepage of the 4M Association, the meeting place of the micro manufacturing knowledge community. 
