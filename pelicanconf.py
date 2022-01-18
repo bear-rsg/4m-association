@@ -58,14 +58,14 @@ SLUGIFY_SOURCE = 'basename'
 PAGE_ORDER_BY = 'reversed-date'
 # INDEX_SAVE_AS = 'index.html'
 
-ARTICLE_SAVE_AS = '{slug}.html'
-ARTICLE_URL = '{slug}.html'
+ARTICLE_SAVE_AS = '{path}/{slug}.html'
+ARTICLE_URL = '{path}/{slug}.html'
 ARTICLE_ORDER_BY = 'reversed-date'
 ARTICLE_TRANSLATION_ID = None
 
 # The URL to refer to an article draft
-DRAFT_URL = 'drafts/{slug}/'
-DRAFT_SAVE_AS = 'drafts/{slug}/index.html'
+DRAFT_URL = '{path}/drafts/{slug}/'
+DRAFT_SAVE_AS = '{path}/drafts/{slug}/index.html'
 
 # Build only modified content instead of all content
 LOAD_CONTENT_CACHE = False
